@@ -1,0 +1,200 @@
+{
+  "snapshotId": "daab0ccd-b5fd-4ab6-b97b-345b6656d126",
+  "twitterId": "1438386799",
+  "scannedAt": "2026-03-12T12:20:42.080Z",
+  "fields": {
+    "username": "HS_Soleimani",
+    "displayName": "H.Soleimani",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1214969981886181379/Ppkzfty6_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": "Journalist - خبرنگار",
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": null,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQzODM4Njc5OQ==",
+          "result": {
+            "id": "VXNlcjoxNDM4Mzg2Nzk5",
+            "core": {
+              "name": "H.Soleimani",
+              "created_at": "Sat May 18 13:15:08 +0000 2013",
+              "screen_name": "HS_Soleimani"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1214969981886181379/Ppkzfty6_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1438386799",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "North America App Store",
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "account_based_in": "West Asia",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1502794930831"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": true,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQzODM4Njc5OQ==",
+              "reason": {
+                "verified_since_msec": "1763639118761"
+              },
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNDM4Mzg2Nzk5",
+            "core": {
+              "name": "H.Soleimani",
+              "created_at": "Sat May 18 13:15:08 +0000 2013",
+              "screen_name": "HS_Soleimani"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1214969981886181379/Ppkzfty6_normal.jpg"
+            },
+            "legacy": {
+              "url": "https://t.co/2SKTAteH3m",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/2SKTAteH3m",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "MashreghNews.ir",
+                      "expanded_url": "http://MashreghNews.ir"
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "description": "Journalist - خبرنگار",
+              "media_count": 3937,
+              "listed_count": 200,
+              "friends_count": 1883,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 14565,
+              "default_profile": false,
+              "followers_count": 15320,
+              "translator_type": "regular",
+              "favourites_count": 21927,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1438386799/1442916424",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "pinned_tweet_ids_str": [
+                "1942925087587364873"
+              ],
+              "default_profile_image": false,
+              "withheld_in_countries": [],
+              "normal_followers_count": 15320,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1438386799",
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "Journalist - خبرنگار"
+            },
+            "professional": {
+              "rest_id": "1473633094448078848",
+              "category": [
+                {
+                  "id": 955,
+                  "name": "Journalist",
+                  "icon_name": "IconBriefcaseStroke"
+                }
+              ],
+              "professional_type": "Creator"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "2",
+              "can_highlight_tweets": true
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": true,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "reason": {
+                "description": {
+                  "text": "This account is verified. Learn more",
+                  "entities": [
+                    {
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36,
+                      "from_index": 26
+                    }
+                  ]
+                },
+                "verified_since_msec": "1763639118761"
+              },
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "has_hidden_subscriptions_on_profile": true
+          }
+        }
+      }
+    }
+  }
+}
