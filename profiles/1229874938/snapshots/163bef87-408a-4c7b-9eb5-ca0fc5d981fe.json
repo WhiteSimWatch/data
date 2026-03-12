@@ -1,0 +1,200 @@
+{
+  "snapshotId": "163bef87-408a-4c7b-9eb5-ca0fc5d981fe",
+  "twitterId": "1229874938",
+  "scannedAt": "2026-03-12T13:12:18.612Z",
+  "fields": {
+    "username": "mhsn_hooshmand",
+    "displayName": "محسن هوشمند",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1983187145931001856/8zs38N6B_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": "رئیس مرکز ارتباطات و رسانه آستان قدس رضوی",
+    "selfLocation": "مشهد",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": null,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIyOTg3NDkzOA==",
+          "result": {
+            "id": "VXNlcjoxMjI5ODc0OTM4",
+            "core": {
+              "name": "محسن هوشمند",
+              "created_at": "Fri Mar 01 13:45:28 +0000 2013",
+              "screen_name": "mhsn_hooshmand"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1983187145931001856/8zs38N6B_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1229874938",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "North America App Store",
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "account_based_in": "West Asia",
+              "username_changes": {
+                "count": "0"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": true,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIyOTg3NDkzOA==",
+              "reason": {
+                "verified_since_msec": "1762100787950"
+              },
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxMjI5ODc0OTM4",
+            "core": {
+              "name": "محسن هوشمند",
+              "created_at": "Fri Mar 01 13:45:28 +0000 2013",
+              "screen_name": "mhsn_hooshmand"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1983187145931001856/8zs38N6B_normal.jpg"
+            },
+            "legacy": {
+              "url": "https://t.co/PRq0VQLNIi",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/PRq0VQLNIi",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "m-hooshmand.ir",
+                      "expanded_url": "http://m-hooshmand.ir"
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "description": "رئیس مرکز ارتباطات و رسانه آستان قدس رضوی",
+              "media_count": 228,
+              "listed_count": 7,
+              "friends_count": 1565,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 2928,
+              "default_profile": true,
+              "followers_count": 2806,
+              "translator_type": "none",
+              "favourites_count": 14049,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229874938/1533014665",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "pinned_tweet_ids_str": [
+                "2029491400174088650"
+              ],
+              "default_profile_image": false,
+              "withheld_in_countries": [],
+              "normal_followers_count": 2806,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1229874938",
+            "location": {
+              "location": "مشهد"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "رئیس مرکز ارتباطات و رسانه آستان قدس رضوی"
+            },
+            "professional": {
+              "rest_id": "1648746838248374273",
+              "category": [
+                {
+                  "id": 933,
+                  "name": "Media Personality",
+                  "icon_name": "IconBriefcaseStroke"
+                }
+              ],
+              "professional_type": "Creator"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "22",
+              "can_highlight_tweets": true
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": true,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "reason": {
+                "description": {
+                  "text": "This account is verified. Learn more",
+                  "entities": [
+                    {
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36,
+                      "from_index": 26
+                    }
+                  ]
+                },
+                "verified_since_msec": "1762100787950"
+              },
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false
+          }
+        }
+      }
+    }
+  }
+}
