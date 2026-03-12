@@ -1,0 +1,162 @@
+{
+  "snapshotId": "cb0f661f-32d0-4d5f-b6ae-e61b1e02a78d",
+  "twitterId": "2629521287",
+  "scannedAt": "2026-03-12T15:51:59.338Z",
+  "fields": {
+    "username": "pegtum_",
+    "displayName": "پگتم",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2031288184366321664/viczTd9l_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": "just a smidge.",
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": null,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjYyOTUyMTI4Nw==",
+          "result": {
+            "id": "VXNlcjoyNjI5NTIxMjg3",
+            "core": {
+              "name": "پگتم",
+              "created_at": "Sat Jun 21 21:16:38 +0000 2014",
+              "screen_name": "pegtum_"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2031288184366321664/viczTd9l_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "2629521287",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "North America App Store",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "West Asia",
+              "username_changes": {
+                "count": "8",
+                "last_changed_at_msec": "1595351477913"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjYyOTUyMTI4Nw==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoyNjI5NTIxMjg3",
+            "core": {
+              "name": "پگتم",
+              "created_at": "Sat Jun 21 21:16:38 +0000 2014",
+              "screen_name": "pegtum_"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2031288184366321664/viczTd9l_normal.jpg"
+            },
+            "legacy": {
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "description": "just a smidge.",
+              "media_count": 103,
+              "listed_count": 0,
+              "friends_count": 197,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 3399,
+              "default_profile": true,
+              "followers_count": 573,
+              "translator_type": "none",
+              "favourites_count": 21725,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2629521287/1590012065",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "pinned_tweet_ids_str": [
+                "1463150154597416960"
+              ],
+              "default_profile_image": false,
+              "withheld_in_countries": [],
+              "normal_followers_count": 573,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "2629521287",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "just a smidge."
+            },
+            "professional": {
+              "rest_id": "1606435275634360323",
+              "category": [],
+              "professional_type": "Creator"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "en",
+            "has_hidden_subscriptions_on_profile": false
+          }
+        }
+      }
+    }
+  }
+}
