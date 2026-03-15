@@ -1,0 +1,187 @@
+{
+  "snapshotId": "de8fb6f5-661e-443d-b984-5e5339921bfb",
+  "twitterId": "1122135446857949184",
+  "scannedAt": "2026-03-15T00:46:54.216Z",
+  "fields": {
+    "username": "mhranjbaran",
+    "displayName": "Mhranjbaran",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1743198400676323329/_oGptENO_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": "محمد حسین رنجبران",
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": null,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTEyMjEzNTQ0Njg1Nzk0OTE4NA==",
+          "result": {
+            "id": "VXNlcjoxMTIyMTM1NDQ2ODU3OTQ5MTg0",
+            "core": {
+              "name": "Mhranjbaran",
+              "created_at": "Sat Apr 27 13:48:33 +0000 2019",
+              "screen_name": "mhranjbaran"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1743198400676323329/_oGptENO_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1122135446857949184",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "United States App Store",
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "0"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": true,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTEyMjEzNTQ0Njg1Nzk0OTE4NA==",
+              "reason": {
+                "verified_since_msec": "1763562994932"
+              },
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxMTIyMTM1NDQ2ODU3OTQ5MTg0",
+            "core": {
+              "name": "Mhranjbaran",
+              "created_at": "Sat Apr 27 13:48:33 +0000 2019",
+              "screen_name": "mhranjbaran"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1743198400676323329/_oGptENO_normal.jpg"
+            },
+            "legacy": {
+              "url": "https://t.co/L1ITsUKMCz",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/L1ITsUKMCz",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "t.me/mhranjbarann",
+                      "expanded_url": "https://t.me/mhranjbarann"
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "description": "محمد حسین رنجبران",
+              "media_count": 69,
+              "listed_count": 65,
+              "friends_count": 88,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 444,
+              "default_profile": true,
+              "followers_count": 14857,
+              "translator_type": "none",
+              "favourites_count": 291,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1122135446857949184/1748974891",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "pinned_tweet_ids_str": [],
+              "default_profile_image": false,
+              "withheld_in_countries": [],
+              "normal_followers_count": 14857,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1122135446857949184",
+            "location": {
+              "location": "Tehran"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "محمد حسین رنجبران"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": true
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": true,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "reason": {
+                "description": {
+                  "text": "This account is verified. Learn more",
+                  "entities": [
+                    {
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36,
+                      "from_index": 26
+                    }
+                  ]
+                },
+                "verified_since_msec": "1763562994932"
+              },
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false
+          }
+        }
+      }
+    }
+  }
+}
