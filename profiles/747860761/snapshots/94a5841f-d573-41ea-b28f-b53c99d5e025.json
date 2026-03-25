@@ -1,0 +1,186 @@
+{
+  "snapshotId": "94a5841f-d573-41ea-b28f-b53c99d5e025",
+  "twitterId": "747860761",
+  "scannedAt": "2026-03-25T22:45:39.737Z",
+  "fields": {
+    "username": "ehsanmzni",
+    "displayName": "A b",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2027935035496837120/79MUiS3j_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": ".",
+    "selfLocation": "Turkey",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia App Store",
+    "locatedCountryAccurate": null,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzQ3ODYwNzYx",
+          "result": {
+            "id": "VXNlcjo3NDc4NjA3NjE=",
+            "core": {
+              "name": "A b",
+              "created_at": "Thu Aug 09 20:12:19 +0000 2012",
+              "screen_name": "ehsanmzni"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2027935035496837120/79MUiS3j_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "747860761",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "West Asia App Store",
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "account_based_in": "West Asia",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1571087695554"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": true,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzQ3ODYwNzYx",
+              "reason": {
+                "verified_since_msec": "1749106601610"
+              },
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjo3NDc4NjA3NjE=",
+            "core": {
+              "name": "A b",
+              "created_at": "Thu Aug 09 20:12:19 +0000 2012",
+              "screen_name": "ehsanmzni"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2027935035496837120/79MUiS3j_normal.jpg"
+            },
+            "legacy": {
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "description": ".",
+              "media_count": 1127,
+              "listed_count": 53,
+              "friends_count": 606,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 36063,
+              "default_profile": true,
+              "followers_count": 8869,
+              "translator_type": "none",
+              "favourites_count": 121832,
+              "possibly_sensitive": false,
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "pinned_tweet_ids_str": [
+                "1246498308693954567"
+              ],
+              "default_profile_image": false,
+              "withheld_in_countries": [],
+              "normal_followers_count": 8869,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "747860761",
+            "location": {
+              "location": "Turkey"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "."
+            },
+            "professional": {
+              "rest_id": "1507786323343650818",
+              "category": [
+                {
+                  "id": 139,
+                  "name": "Cargo & Freight Company",
+                  "icon_name": "IconBriefcaseStroke"
+                }
+              ],
+              "professional_type": "Creator"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": true
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": true,
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "reason": {
+                "description": {
+                  "text": "This account is verified. Learn more",
+                  "entities": [
+                    {
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36,
+                      "from_index": 26
+                    }
+                  ]
+                },
+                "verified_since_msec": "1749106601610"
+              },
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "qst",
+            "has_hidden_subscriptions_on_profile": false
+          }
+        }
+      }
+    }
+  }
+}
