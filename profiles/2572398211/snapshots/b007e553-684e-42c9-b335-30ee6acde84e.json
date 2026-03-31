@@ -1,0 +1,157 @@
+{
+  "snapshotId": "b007e553-684e-42c9-b335-30ee6acde84e",
+  "twitterId": "2572398211",
+  "scannedAt": "2026-03-31T23:03:41.614Z",
+  "fields": {
+    "username": "Sowkut_d",
+    "displayName": "سکوت",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/749330406206533632/_hHLS4sG_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": "سکوت خطرناکتر از حرفهای نیشدار است!",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": null,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjU3MjM5ODIxMQ==",
+          "result": {
+            "id": "VXNlcjoyNTcyMzk4MjEx",
+            "core": {
+              "name": "سکوت",
+              "created_at": "Tue Jun 17 06:43:53 +0000 2014",
+              "screen_name": "Sowkut_d"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/749330406206533632/_hHLS4sG_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "2572398211",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "United States App Store",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1467488954778"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjU3MjM5ODIxMQ==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoyNTcyMzk4MjEx",
+            "core": {
+              "name": "سکوت",
+              "created_at": "Tue Jun 17 06:43:53 +0000 2014",
+              "screen_name": "Sowkut_d"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/749330406206533632/_hHLS4sG_normal.jpg"
+            },
+            "legacy": {
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "description": "سکوت خطرناکتر از حرفهای نیشدار است!",
+              "media_count": 30,
+              "listed_count": 0,
+              "friends_count": 383,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 1640,
+              "default_profile": true,
+              "followers_count": 229,
+              "translator_type": "none",
+              "favourites_count": 76318,
+              "possibly_sensitive": false,
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "pinned_tweet_ids_str": [],
+              "default_profile_image": false,
+              "withheld_in_countries": [],
+              "normal_followers_count": 229,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "2572398211",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "سکوت خطرناکتر از حرفهای نیشدار است!"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
