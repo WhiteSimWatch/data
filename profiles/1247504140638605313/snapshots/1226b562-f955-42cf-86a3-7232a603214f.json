@@ -1,0 +1,156 @@
+{
+  "snapshotId": "1226b562-f955-42cf-86a3-7232a603214f",
+  "twitterId": "1247504140638605313",
+  "scannedAt": "2026-04-03T01:08:20.139Z",
+  "fields": {
+    "username": "AmirabbasMazidi",
+    "displayName": "Amirabbas_mazidi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1636394500452143106/Tw_mmTbl_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": "دانشجو 👨🏻‍🏫",
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": null,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI0NzUwNDE0MDYzODYwNTMxMw==",
+          "result": {
+            "id": "VXNlcjoxMjQ3NTA0MTQwNjM4NjA1MzEz",
+            "core": {
+              "name": "Amirabbas_mazidi",
+              "created_at": "Tue Apr 07 12:39:28 +0000 2020",
+              "screen_name": "AmirabbasMazidi"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1636394500452143106/Tw_mmTbl_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1247504140638605313",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "West Asia Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "West Asia",
+              "username_changes": {
+                "count": "0"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI0NzUwNDE0MDYzODYwNTMxMw==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxMjQ3NTA0MTQwNjM4NjA1MzEz",
+            "core": {
+              "name": "Amirabbas_mazidi",
+              "created_at": "Tue Apr 07 12:39:28 +0000 2020",
+              "screen_name": "AmirabbasMazidi"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1636394500452143106/Tw_mmTbl_normal.jpg"
+            },
+            "legacy": {
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "description": "دانشجو 👨🏻‍🏫",
+              "media_count": 213,
+              "listed_count": 1,
+              "friends_count": 665,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 2705,
+              "default_profile": true,
+              "followers_count": 462,
+              "translator_type": "none",
+              "favourites_count": 8912,
+              "possibly_sensitive": true,
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "pinned_tweet_ids_str": [],
+              "default_profile_image": false,
+              "withheld_in_countries": [],
+              "normal_followers_count": 462,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1247504140638605313",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "دانشجو 👨🏻‍🏫"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
