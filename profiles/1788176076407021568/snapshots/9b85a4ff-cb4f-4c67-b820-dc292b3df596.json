@@ -1,0 +1,155 @@
+{
+  "snapshotId": "9b85a4ff-cb4f-4c67-b820-dc292b3df596",
+  "twitterId": "1788176076407021568",
+  "scannedAt": "2026-04-05T19:09:23.211Z",
+  "fields": {
+    "username": "AlirezaKar13646",
+    "displayName": "alireza karegar",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1872316133845450752/IEi68IDC_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": "",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": null,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc4ODE3NjA3NjQwNzAyMTU2OA==",
+          "result": {
+            "id": "VXNlcjoxNzg4MTc2MDc2NDA3MDIxNTY4",
+            "core": {
+              "name": "alireza karegar",
+              "created_at": "Wed May 08 11:56:33 +0000 2024",
+              "screen_name": "AlirezaKar13646"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1872316133845450752/IEi68IDC_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1788176076407021568",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "0"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc4ODE3NjA3NjQwNzAyMTU2OA==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNzg4MTc2MDc2NDA3MDIxNTY4",
+            "core": {
+              "name": "alireza karegar",
+              "created_at": "Wed May 08 11:56:33 +0000 2024",
+              "screen_name": "AlirezaKar13646"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1872316133845450752/IEi68IDC_normal.jpg"
+            },
+            "legacy": {
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "description": "",
+              "media_count": 365,
+              "listed_count": 0,
+              "friends_count": 539,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 2269,
+              "default_profile": true,
+              "followers_count": 365,
+              "translator_type": "none",
+              "favourites_count": 14203,
+              "possibly_sensitive": false,
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "pinned_tweet_ids_str": [],
+              "default_profile_image": false,
+              "withheld_in_countries": [],
+              "normal_followers_count": 365,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1788176076407021568",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": ""
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
