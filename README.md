@@ -6,6 +6,8 @@
 
 ---
 
+<div dir="ltr">
+
 ## English
 
 ### What is this repository?
@@ -54,7 +56,11 @@ One field is removed from the raw payload before it is committed here: `relation
 
 Snapshot files are committed in real time, within seconds of each scan. The weekly CSV exports are committed every weekend.
 
+</div>
+
 ---
+
+<div dir="rtl">
 
 ## فارسی
 
@@ -103,3 +109,5 @@ Snapshot files are committed in real time, within seconds of each scan. The week
 ### این مخزن چه زمانی به‌روزرسانی می‌شود؟
 
 فایل‌های اسنپ‌شات در زمان واقعی، چند ثانیه پس از هر اسکن، ثبت می‌شوند. صادرات CSV هفتگی هر آخر هفته ثبت می‌شود.
+
+</div>
