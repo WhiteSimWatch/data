@@ -18,7 +18,7 @@ Every time a profile is scanned a record is committed to this repository within 
 
 A White SIM or سیمکارت سفید is a special mobile line issued through Iran's state telecommunications infrastructure. It is completely exempt from the national internet filtering system. Ordinary SIM cards in Iran route traffic through filtering gateways that block platforms like X, Instagram and YouTube. White SIM cards bypass those gateways entirely and give the holder direct unrestricted access to the global internet from inside Iran with no VPN required.
 
-These lines are not available to the public. An estimated 16,000 individuals out of Iran's 90 million population have them. They include senior government officials, IRGC commanders and members, state media journalists, editors at newspapers affiliated with the government, judiciary figures and intelligence personnel. Critics call them "blood SIM cards" or سیمکارت خونی because many holders have been involved in the violent suppression of protests.
+These lines are not available to the public. An estimated 16,000 individuals out of Iran's 90 million population have them. They include senior government officials, IRGC commanders and members, state media journalists, editors at newspapers affiliated with the government, judiciary figures and intelligence personnel.
 
 Since X is blocked in Iran an ordinary Iranian connecting through a VPN appears to be located wherever their VPN server is. That could be Germany or the Netherlands for example. Someone using a White SIM connects directly from Iran so the "About this account" section on X shows "Iran" or "West Asia" as the connection country. That is the evidence this project collects and archives.
 
@@ -68,7 +68,7 @@ Snapshot files are committed in real time within seconds of each scan. The weekl
 
 خط سفید یا سیمکارت سفید یک خط موبایل ویژه است که از طریق زیرساخت مخابراتی دولتی ایران صادر می‌شود و به طور کامل از سیستم فیلترینگ ملی معاف است. سیمکارت‌های عادی در ایران ترافیک اینترنت را از درگاه‌های فیلترینگ رد می‌کنند که پلتفرم‌هایی مثل ایکس و اینستاگرام و یوتیوب را مسدود می‌کنند. اما سیمکارت‌های سفید این درگاه‌ها را کاملا دور می‌زنند و به صاحبشان دسترسی مستقیم و بدون محدودیت به اینترنت جهانی را از داخل ایران می‌دهند بدون نیاز به هیچ فیلترشکنی.
 
-این خطوط در دسترس مردم عادی نیست. از جمعیت ۹۰ میلیونی ایران تخمین زده می‌شود فقط حدود ۱۶ هزار نفر این خطوط را در اختیار دارند. مقامات ارشد دولتی و فرماندهان و اعضای سپاه پاسداران و خبرنگاران صداوسیما و سردبیران روزنامه‌های وابسته به حکومت و مقامات قضایی و نیروهای اطلاعاتی. منتقدان به این خطوط سیمکارت خونی می‌گویند چون بسیاری از صاحبانشان در سرکوب خشونت‌آمیز اعتراضات مردمی نقش داشته‌اند.
+این خطوط در دسترس مردم عادی نیست. از جمعیت ۹۰ میلیونی ایران تخمین زده می‌شود فقط حدود ۱۶ هزار نفر این خطوط را در اختیار دارند. مقامات ارشد دولتی و فرماندهان و اعضای سپاه پاسداران و خبرنگاران صداوسیما و سردبیران روزنامه‌های وابسته به حکومت و مقامات قضایی و نیروهای اطلاعاتی.
 
 از آنجا که ایکس در ایران فیلتر است یک ایرانی عادی که با فیلترشکن وصل می‌شود از دید ایکس در کشور سرور فیلترشکنش قرار دارد مثلا آلمان یا هلند. اما کسی که سیمکارت سفید دارد مستقیما از ایران وصل می‌شود و به همین دلیل بخش «درباره این حساب» در ایکس کشور اتصال را «ایران» یا «آسیای غربی» نشان می‌دهد. این همان مدرکی است که این پروژه جمع‌آوری و آرشیو می‌کند.
 
