@@ -1,0 +1,163 @@
+{
+  "snapshotId": "e59aa15f-00c6-4e4f-ba0f-25bb4d7e2cd9",
+  "twitterId": "977259462137401344",
+  "scannedAt": "2026-04-29T22:10:56.321Z",
+  "fields": {
+    "username": "amir84228422",
+    "displayName": "mir qf",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2025494437883760640/Omo5BKeF_normal.jpg",
+    "profileBannerUrl": "",
+    "bio": "",
+    "selfLocation": "Trabzon, Türkiye",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTc3MjU5NDYyMTM3NDAxMzQ0",
+          "result": {
+            "id": "VXNlcjo5NzcyNTk0NjIxMzc0MDEzNDQ=",
+            "core": {
+              "name": "mir qf",
+              "created_at": "Fri Mar 23 19:03:07 +0000 2018",
+              "screen_name": "amir84228422"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2025494437883760640/Omo5BKeF_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "977259462137401344",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "West Asia Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "West Asia",
+              "username_changes": {
+                "count": "4",
+                "last_changed_at_msec": "1538425653217"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTc3MjU5NDYyMTM3NDAxMzQ0",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjo5NzcyNTk0NjIxMzc0MDEzNDQ=",
+            "core": {
+              "name": "mir qf",
+              "created_at": "Fri Mar 23 19:03:07 +0000 2018",
+              "screen_name": "amir84228422"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2025494437883760640/Omo5BKeF_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "",
+              "media_count": 1,
+              "listed_count": 0,
+              "friends_count": 6331,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 1,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 440,
+              "translator_type": "none",
+              "favourites_count": 13,
+              "possibly_sensitive": true,
+              "profile_banner_url": "",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "pinned_tweet_ids_str": [
+                "2005973768594948390"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 440,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "977259462137401344",
+            "location": {
+              "location": "Trabzon, Türkiye"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": ""
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "und",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
