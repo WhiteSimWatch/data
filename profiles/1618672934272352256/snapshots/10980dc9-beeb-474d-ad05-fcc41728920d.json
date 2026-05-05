@@ -1,0 +1,196 @@
+{
+  "snapshotId": "10980dc9-beeb-474d-ad05-fcc41728920d",
+  "twitterId": "1618672934272352256",
+  "scannedAt": "2026-05-05T07:07:45.869Z",
+  "fields": {
+    "username": "Mr_Engineer000",
+    "displayName": "آقای مهندس",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2007707422194880512/De2XKPqm_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1618672934272352256/1756567986",
+    "bio": "صرفا جهت اینکه عریضه خالی نباشه/\n\nhttps://t.co/ZY2G692iuU",
+    "selfLocation": "طهرون",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTYxODY3MjkzNDI3MjM1MjI1Ng==",
+          "result": {
+            "id": "VXNlcjoxNjE4NjcyOTM0MjcyMzUyMjU2",
+            "core": {
+              "name": "آقای مهندس",
+              "created_at": "Thu Jan 26 18:11:29 +0000 2023",
+              "screen_name": "Mr_Engineer000"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2007707422194880512/De2XKPqm_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1618672934272352256",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "6",
+                "last_changed_at_msec": "1743371643658"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYxODY3MjkzNDI3MjM1MjI1Ng==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNjE4NjcyOTM0MjcyMzUyMjU2",
+            "core": {
+              "name": "آقای مهندس",
+              "created_at": "Thu Jan 26 18:11:29 +0000 2023",
+              "screen_name": "Mr_Engineer000"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2007707422194880512/De2XKPqm_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/ZY2G692iuU",
+                      "indices": [
+                        34,
+                        57
+                      ],
+                      "display_url": "telegram.me/BChatsBot?star…",
+                      "expanded_url": "https://telegram.me/BChatsBot?start=sc-bX5qAaWzst"
+                    }
+                  ]
+                }
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "صرفا جهت اینکه عریضه خالی نباشه/\n\nhttps://t.co/ZY2G692iuU",
+              "media_count": 786,
+              "listed_count": 2,
+              "friends_count": 2715,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 21484,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 1953,
+              "translator_type": "none",
+              "favourites_count": 43307,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1618672934272352256/1756567986",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "pinned_tweet_ids_str": [
+                "2024821080754389182"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 1953,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1618672934272352256",
+            "location": {
+              "location": "طهرون"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "صرفا جهت اینکه عریضه خالی نباشه/\n\nhttps://t.co/ZY2G692iuU"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "entities": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/ZY2G692iuU",
+                      "indices": [
+                        35,
+                        58
+                      ],
+                      "display_url": "telegram.me/BChatsBot?star…",
+                      "expanded_url": "https://telegram.me/BChatsBot?start=sc-bX5qAaWzst"
+                    }
+                  ],
+                  "symbols": [],
+                  "hashtags": [],
+                  "user_mentions": []
+                },
+                "translation": "Just so the petition isn't empty/\n\nhttps://t.co/ZY2G692iuU",
+                "source_language": "fa",
+                "destination_language": "en"
+              },
+              "is_available": true
+            }
+          }
+        }
+      }
+    }
+  }
+}
