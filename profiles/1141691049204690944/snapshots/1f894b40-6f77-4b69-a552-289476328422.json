@@ -1,0 +1,173 @@
+{
+  "snapshotId": "1f894b40-6f77-4b69-a552-289476328422",
+  "twitterId": "1141691049204690944",
+  "scannedAt": "2026-05-07T05:28:04.020Z",
+  "fields": {
+    "username": "Majidshakeri8",
+    "displayName": "Majid Shakeri",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1961133622578102273/IL0CSTnt_normal.jpg",
+    "profileBannerUrl": "",
+    "bio": "اى رهبر شهيدم/ راهت ادامه دارد.",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE0MTY5MTA0OTIwNDY5MDk0NA==",
+          "result": {
+            "id": "VXNlcjoxMTQxNjkxMDQ5MjA0NjkwOTQ0",
+            "core": {
+              "name": "Majid Shakeri",
+              "created_at": "Thu Jun 20 12:55:32 +0000 2019",
+              "screen_name": "Majidshakeri8"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1961133622578102273/IL0CSTnt_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1141691049204690944",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "United States App Store",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "0"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE0MTY5MTA0OTIwNDY5MDk0NA==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxMTQxNjkxMDQ5MjA0NjkwOTQ0",
+            "core": {
+              "name": "Majid Shakeri",
+              "created_at": "Thu Jun 20 12:55:32 +0000 2019",
+              "screen_name": "Majidshakeri8"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1961133622578102273/IL0CSTnt_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "اى رهبر شهيدم/ راهت ادامه دارد.",
+              "media_count": 109,
+              "listed_count": 216,
+              "friends_count": 151,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 14947,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 30884,
+              "translator_type": "none",
+              "favourites_count": 4207,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "pinned_tweet_ids_str": [
+                "2051562667773468905"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 30884,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1141691049204690944",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "اى رهبر شهيدم/ راهت ادامه دارد."
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "ar",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "entities": {
+                  "urls": [],
+                  "symbols": [],
+                  "hashtags": [],
+                  "user_mentions": []
+                },
+                "translation": "Oh martyr leader / your path continues.",
+                "source_language": "ar",
+                "destination_language": "en"
+              },
+              "is_available": true
+            }
+          }
+        }
+      }
+    }
+  }
+}
