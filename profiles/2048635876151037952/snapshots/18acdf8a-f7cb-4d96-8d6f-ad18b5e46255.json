@@ -1,0 +1,159 @@
+{
+  "snapshotId": "18acdf8a-f7cb-4d96-8d6f-ad18b5e46255",
+  "twitterId": "2048635876151037952",
+  "scannedAt": "2026-05-11T10:01:09.854Z",
+  "fields": {
+    "username": "Seyyed_06",
+    "displayName": "Seyyed",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2048638123979005952/YVMCzx8D_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2048635876151037952/1777269323",
+    "bio": "",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA0ODYzNTg3NjE1MTAzNzk1Mg==",
+          "result": {
+            "id": "VXNlcjoyMDQ4NjM1ODc2MTUxMDM3OTUy",
+            "core": {
+              "name": "Seyyed",
+              "created_at": "Mon Apr 27 05:31:03 +0000 2026",
+              "screen_name": "Seyyed_06"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2048638123979005952/YVMCzx8D_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "2048635876151037952",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1777478495310"
+              },
+              "location_accurate": false,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0ODYzNTg3NjE1MTAzNzk1Mg==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoyMDQ4NjM1ODc2MTUxMDM3OTUy",
+            "core": {
+              "name": "Seyyed",
+              "created_at": "Mon Apr 27 05:31:03 +0000 2026",
+              "screen_name": "Seyyed_06"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2048638123979005952/YVMCzx8D_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "",
+              "media_count": 8,
+              "listed_count": 0,
+              "friends_count": 106,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 12,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 40,
+              "translator_type": "none",
+              "favourites_count": 89,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048635876151037952/1777269323",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 40,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "2048635876151037952",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": ""
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": false,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
