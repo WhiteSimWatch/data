@@ -1,0 +1,163 @@
+{
+  "snapshotId": "fa3ef524-ef69-40ef-8f3e-b9c6e355e857",
+  "twitterId": "1628491807",
+  "scannedAt": "2026-05-12T21:20:26.516Z",
+  "fields": {
+    "username": "7aer_1",
+    "displayName": "َ",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2054191466780770305/L03wf4o3_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1628491807/1778592385",
+    "bio": "#FCB",
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTYyODQ5MTgwNw==",
+          "result": {
+            "id": "VXNlcjoxNjI4NDkxODA3",
+            "core": {
+              "name": "َ",
+              "created_at": "Sun Jul 28 18:27:12 +0000 2013",
+              "screen_name": "7aer_1"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2054191466780770305/L03wf4o3_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1628491807",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "West Asia Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "West Asia",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1777233647242"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYyODQ5MTgwNw==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNjI4NDkxODA3",
+            "core": {
+              "name": "َ",
+              "created_at": "Sun Jul 28 18:27:12 +0000 2013",
+              "screen_name": "7aer_1"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2054191466780770305/L03wf4o3_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "#FCB",
+              "media_count": 21,
+              "listed_count": 0,
+              "friends_count": 2185,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 1421,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 1968,
+              "translator_type": "none",
+              "favourites_count": 2481,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628491807/1778592385",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "pinned_tweet_ids_str": [
+                "2053965754832461888"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 1968,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1628491807",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "#FCB"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "qht",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
