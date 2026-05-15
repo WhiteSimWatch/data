@@ -1,0 +1,173 @@
+{
+  "snapshotId": "49521967-3c4b-4dde-bfb1-081a7142dcd6",
+  "twitterId": "1563606115581329409",
+  "scannedAt": "2026-05-15T13:04:46.738Z",
+  "fields": {
+    "username": "ftm_ro",
+    "displayName": "فا؛",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2047323959243186176/GS35J-U9_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1563606115581329409/1777231259",
+    "bio": "طرف درست تاریخ.",
+    "selfLocation": "ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU2MzYwNjExNTU4MTMyOTQwOQ==",
+          "result": {
+            "id": "VXNlcjoxNTYzNjA2MTE1NTgxMzI5NDA5",
+            "core": {
+              "name": "فا؛",
+              "created_at": "Sat Aug 27 19:15:32 +0000 2022",
+              "screen_name": "ftm_ro"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2047323959243186176/GS35J-U9_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1563606115581329409",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "United States App Store",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1672569383416"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU2MzYwNjExNTU4MTMyOTQwOQ==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNTYzNjA2MTE1NTgxMzI5NDA5",
+            "core": {
+              "name": "فا؛",
+              "created_at": "Sat Aug 27 19:15:32 +0000 2022",
+              "screen_name": "ftm_ro"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2047323959243186176/GS35J-U9_normal.jpg"
+            },
+            "legacy": {
+              "url": "https://t.co/E6n3HVVKrG",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/E6n3HVVKrG",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "t.me/hobbiaat",
+                      "expanded_url": "https://t.me/hobbiaat"
+                    }
+                  ]
+                },
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "طرف درست تاریخ.",
+              "media_count": 142,
+              "listed_count": 3,
+              "friends_count": 639,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 3329,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 1756,
+              "translator_type": "none",
+              "favourites_count": 25526,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563606115581329409/1777231259",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 1756,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1563606115581329409",
+            "location": {
+              "location": "ایران"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "طرف درست تاریخ."
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
