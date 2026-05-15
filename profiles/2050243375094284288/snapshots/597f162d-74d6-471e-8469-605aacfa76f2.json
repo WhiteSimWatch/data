@@ -1,0 +1,160 @@
+{
+  "snapshotId": "597f162d-74d6-471e-8469-605aacfa76f2",
+  "twitterId": "2050243375094284288",
+  "scannedAt": "2026-05-15T11:58:49.206Z",
+  "fields": {
+    "username": "myyysooo",
+    "displayName": "my.son",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2050245561383825408/YJCQMb-5_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2050243375094284288/1777652607",
+    "bio": "اکانت قبلی من جانباز شد\nاز دوستان شما هستم معرفی کنم \nبسته میشم",
+    "selfLocation": "Tehra, India",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA1MDI0MzM3NTA5NDI4NDI4OA==",
+          "result": {
+            "id": "VXNlcjoyMDUwMjQzMzc1MDk0Mjg0Mjg4",
+            "core": {
+              "name": "my.son",
+              "created_at": "Fri May 01 16:00:02 +0000 2026",
+              "screen_name": "myyysooo"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2050245561383825408/YJCQMb-5_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "2050243375094284288",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "United States App Store",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1777651799332"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA1MDI0MzM3NTA5NDI4NDI4OA==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoyMDUwMjQzMzc1MDk0Mjg0Mjg4",
+            "core": {
+              "name": "my.son",
+              "created_at": "Fri May 01 16:00:02 +0000 2026",
+              "screen_name": "myyysooo"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2050245561383825408/YJCQMb-5_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "اکانت قبلی من جانباز شد\nاز دوستان شما هستم معرفی کنم \nبسته میشم",
+              "media_count": 10,
+              "listed_count": 0,
+              "friends_count": 218,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 282,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 34,
+              "translator_type": "none",
+              "favourites_count": 441,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050243375094284288/1777652607",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 34,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "2050243375094284288",
+            "location": {
+              "location": "Tehra, India"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "اکانت قبلی من جانباز شد\nاز دوستان شما هستم معرفی کنم \nبسته میشم"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
