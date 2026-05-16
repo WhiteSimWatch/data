@@ -1,0 +1,241 @@
+{
+  "snapshotId": "6a837f64-b7e3-4fb2-a830-4e93ef0f0b49",
+  "twitterId": "1892538198938599424",
+  "scannedAt": "2026-05-16T12:29:45.419Z",
+  "fields": {
+    "username": "Laleh953Laleh",
+    "displayName": "@entezar3133",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2046344807149391872/ajElQTBJ_normal.jpg",
+    "profileBannerUrl": "",
+    "bio": "انتظار",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg5MjUzODE5ODkzODU5OTQyNA==",
+          "result": {
+            "id": "VXNlcjoxODkyNTM4MTk4OTM4NTk5NDI0",
+            "core": {
+              "name": "@entezar3133",
+              "created_at": "Thu Feb 20 11:34:45 +0000 2025",
+              "screen_name": "Laleh953Laleh"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2046344807149391872/ajElQTBJ_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1892538198938599424",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1740051340414"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg5MjUzODE5ODkzODU5OTQyNA==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {
+              "label": {
+                "badge": {
+                  "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "userLabelType": "AutomatedLabel"
+              }
+            },
+            "identity_profile_labels_highlighted_label": {
+              "label": {
+                "badge": {
+                  "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "userLabelType": "AutomatedLabel",
+                "long_description": {
+                  "text": "Automated by @elahedelaram3",
+                  "entities": [
+                    {
+                      "ref": {
+                        "__typename": "TimelineRichTextMention",
+                        "screen_name": "elahedelaram3",
+                        "user_results": {
+                          "id": "VXNlclJlc3VsdHM6MTcxMzM5OTA1MzE2ODMyMDUxMg==",
+                          "result": {
+                            "id": "VXNlcjoxNzEzMzk5MDUzMTY4MzIwNTEy",
+                            "rest_id": "1713399053168320512",
+                            "__typename": "User"
+                          }
+                        },
+                        "__isTimelineReferenceObject": "TimelineRichTextMention"
+                      },
+                      "to_index": 27,
+                      "from_index": 13
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxODkyNTM4MTk4OTM4NTk5NDI0",
+            "core": {
+              "name": "@entezar3133",
+              "created_at": "Thu Feb 20 11:34:45 +0000 2025",
+              "screen_name": "Laleh953Laleh"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2046344807149391872/ajElQTBJ_normal.jpg"
+            },
+            "legacy": {
+              "url": "https://t.co/mLnhyFyvXm",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/mLnhyFyvXm",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "tWitter.com/entezar313e",
+                      "expanded_url": "https://tWitter.com/entezar313e"
+                    }
+                  ]
+                },
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "انتظار",
+              "media_count": 221,
+              "listed_count": 0,
+              "friends_count": 864,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 31180,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 454,
+              "translator_type": "none",
+              "favourites_count": 30274,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 454,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1892538198938599424",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "انتظار"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {
+              "label": {
+                "badge": {
+                  "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+                },
+                "description": "Automated",
+                "userLabelType": "AutomatedLabel",
+                "longDescription": {
+                  "text": "Automated by @elahedelaram3",
+                  "entities": [
+                    {
+                      "ref": {
+                        "type": "TimelineRichTextMention",
+                        "screen_name": "elahedelaram3",
+                        "mention_results": {
+                          "result": {
+                            "core": {
+                              "screen_name": "elahedelaram3"
+                            },
+                            "rest_id": "1713399053168320512",
+                            "__typename": "User"
+                          }
+                        }
+                      },
+                      "toIndex": 27,
+                      "fromIndex": 13
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "ar",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
