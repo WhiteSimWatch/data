@@ -1,0 +1,187 @@
+{
+  "snapshotId": "44a1b4f5-773d-4a84-86bf-f3ff57de9d91",
+  "twitterId": "859710018551246850",
+  "scannedAt": "2026-05-18T20:36:40.720Z",
+  "fields": {
+    "username": "mx300e",
+    "displayName": "محمد",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1782146059264770048/q6Ih4vU5_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/859710018551246850/1713732031",
+    "bio": "یک سامورایی که شمشیر شکست و قلم به دست گرفت .",
+    "selfLocation": "جمهوریِ عشق :)",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODU5NzEwMDE4NTUxMjQ2ODUw",
+          "result": {
+            "id": "VXNlcjo4NTk3MTAwMTg1NTEyNDY4NTA=",
+            "core": {
+              "name": "محمد",
+              "created_at": "Wed May 03 10:03:35 +0000 2017",
+              "screen_name": "mx300e"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1782146059264770048/q6Ih4vU5_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "859710018551246850",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "11",
+                "last_changed_at_msec": "1729160680787"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODU5NzEwMDE4NTUxMjQ2ODUw",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjo4NTk3MTAwMTg1NTEyNDY4NTA=",
+            "core": {
+              "name": "محمد",
+              "created_at": "Wed May 03 10:03:35 +0000 2017",
+              "screen_name": "mx300e"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1782146059264770048/q6Ih4vU5_normal.jpg"
+            },
+            "legacy": {
+              "url": "https://t.co/szkXvMve7z",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/szkXvMve7z",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "x.com/search?q=from%…",
+                      "expanded_url": "https://x.com/search?q=from%3A%40mx300e"
+                    }
+                  ]
+                },
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "یک سامورایی که شمشیر شکست و قلم به دست گرفت .",
+              "media_count": 3022,
+              "listed_count": 2,
+              "friends_count": 14285,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 81278,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 21597,
+              "translator_type": "none",
+              "favourites_count": 285417,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/859710018551246850/1713732031",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "pinned_tweet_ids_str": [
+                "1291811632088338439"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 21597,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "859710018551246850",
+            "location": {
+              "location": "جمهوریِ عشق :)"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "یک سامورایی که شمشیر شکست و قلم به دست گرفت ."
+            },
+            "professional": {
+              "rest_id": "1463827473603334148",
+              "category": [
+                {
+                  "id": 97,
+                  "name": "Marine",
+                  "icon_name": "IconBriefcaseStroke"
+                }
+              ],
+              "professional_type": "Creator"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
