@@ -1,0 +1,162 @@
+{
+  "snapshotId": "b4056bf5-521f-4d7f-99ae-44903f05d124",
+  "twitterId": "2054600911599628288",
+  "scannedAt": "2026-05-21T09:05:16.436Z",
+  "fields": {
+    "username": "Alirezak257",
+    "displayName": "Alireza",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2054613085340475392/7z6Eig-y_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2054600911599628288/1778714702",
+    "bio": "",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA1NDYwMDkxMTU5OTYyODI4OA==",
+          "result": {
+            "id": "VXNlcjoyMDU0NjAwOTExNTk5NjI4Mjg4",
+            "core": {
+              "name": "Alireza",
+              "created_at": "Wed May 13 16:33:47 +0000 2026",
+              "screen_name": "Alirezak257"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2054613085340475392/7z6Eig-y_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "2054600911599628288",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1778690041540"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA1NDYwMDkxMTU5OTYyODI4OA==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoyMDU0NjAwOTExNTk5NjI4Mjg4",
+            "core": {
+              "name": "Alireza",
+              "created_at": "Wed May 13 16:33:47 +0000 2026",
+              "screen_name": "Alirezak257"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2054613085340475392/7z6Eig-y_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "",
+              "media_count": 4,
+              "listed_count": 0,
+              "friends_count": 65,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 180,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 34,
+              "translator_type": "none",
+              "favourites_count": 374,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054600911599628288/1778714702",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "pinned_tweet_ids_str": [
+                "2056679497202581658"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 34,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "2054600911599628288",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": ""
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": false,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
