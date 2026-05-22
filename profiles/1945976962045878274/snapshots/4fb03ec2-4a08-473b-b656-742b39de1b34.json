@@ -1,0 +1,158 @@
+{
+  "snapshotId": "4fb03ec2-4a08-473b-b656-742b39de1b34",
+  "twitterId": "1945976962045878274",
+  "scannedAt": "2026-05-22T04:22:37.241Z",
+  "fields": {
+    "username": "Lalo1332300",
+    "displayName": "Lalo",
+    "profileImageUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profileBannerUrl": "",
+    "bio": "",
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk0NTk3Njk2MjA0NTg3ODI3NA==",
+          "result": {
+            "id": "VXNlcjoxOTQ1OTc2OTYyMDQ1ODc4Mjc0",
+            "core": {
+              "name": "Lalo",
+              "created_at": "Thu Jul 17 22:40:47 +0000 2025",
+              "screen_name": "Lalo1332300"
+            },
+            "avatar": {
+              "image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1945976962045878274",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "West Asia Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "West Asia",
+              "username_changes": {
+                "count": "0"
+              },
+              "location_accurate": false,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk0NTk3Njk2MjA0NTg3ODI3NA==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxOTQ1OTc2OTYyMDQ1ODc4Mjc0",
+            "core": {
+              "name": "Lalo",
+              "created_at": "Thu Jul 17 22:40:47 +0000 2025",
+              "screen_name": "Lalo1332300"
+            },
+            "avatar": {
+              "image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "",
+              "media_count": 12,
+              "listed_count": 0,
+              "friends_count": 250,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 3440,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 42,
+              "translator_type": "none",
+              "favourites_count": 759,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": true,
+              "normal_followers_count": 42,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1945976962045878274",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": ""
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
