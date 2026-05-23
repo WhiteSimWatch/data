@@ -1,0 +1,173 @@
+{
+  "snapshotId": "fd545b3c-ac01-470f-859a-6418d71fc99f",
+  "twitterId": "805802961528090624",
+  "scannedAt": "2026-05-23T04:48:28.336Z",
+  "fields": {
+    "username": "mhaddadi61",
+    "displayName": "Mohsen Haddadi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1176377403851120641/Frhe5547_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/805802961528090624/1482080770",
+    "bio": "نویسنده و روزنامه‌نگار",
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODA1ODAyOTYxNTI4MDkwNjI0",
+          "result": {
+            "id": "VXNlcjo4MDU4MDI5NjE1MjgwOTA2MjQ=",
+            "core": {
+              "name": "Mohsen Haddadi",
+              "created_at": "Mon Dec 05 15:56:11 +0000 2016",
+              "screen_name": "mhaddadi61"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1176377403851120641/Frhe5547_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "805802961528090624",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1480953487376"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODA1ODAyOTYxNTI4MDkwNjI0",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjo4MDU4MDI5NjE1MjgwOTA2MjQ=",
+            "core": {
+              "name": "Mohsen Haddadi",
+              "created_at": "Mon Dec 05 15:56:11 +0000 2016",
+              "screen_name": "mhaddadi61"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1176377403851120641/Frhe5547_normal.jpg"
+            },
+            "legacy": {
+              "url": "https://t.co/DFrLSi9cAN",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/DFrLSi9cAN",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "ketabnews.com",
+                      "expanded_url": "http://ketabnews.com"
+                    }
+                  ]
+                },
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "نویسنده و روزنامه‌نگار",
+              "media_count": 91,
+              "listed_count": 6,
+              "friends_count": 69,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 921,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 724,
+              "translator_type": "none",
+              "favourites_count": 2403,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/805802961528090624/1482080770",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 724,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "805802961528090624",
+            "location": {
+              "location": "Tehran"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "نویسنده و روزنامه‌نگار"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
