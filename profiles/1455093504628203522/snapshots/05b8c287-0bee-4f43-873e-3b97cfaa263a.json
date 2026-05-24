@@ -1,0 +1,159 @@
+{
+  "snapshotId": "05b8c287-0bee-4f43-873e-3b97cfaa263a",
+  "twitterId": "1455093504628203522",
+  "scannedAt": "2026-05-24T03:20:07.993Z",
+  "fields": {
+    "username": "avanik_far",
+    "displayName": "اوا",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1455093763580342276/UM3CiF11_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1455093504628203522/1740643397",
+    "bio": "🎵🎵🎶🎶",
+    "selfLocation": "",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Netherlands Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ1NTA5MzUwNDYyODIwMzUyMg==",
+          "result": {
+            "id": "VXNlcjoxNDU1MDkzNTA0NjI4MjAzNTIy",
+            "core": {
+              "name": "اوا",
+              "created_at": "Mon Nov 01 08:45:10 +0000 2021",
+              "screen_name": "avanik_far"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1455093763580342276/UM3CiF11_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1455093504628203522",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Netherlands Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Germany",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1635756499802"
+              },
+              "location_accurate": false,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ1NTA5MzUwNDYyODIwMzUyMg==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNDU1MDkzNTA0NjI4MjAzNTIy",
+            "core": {
+              "name": "اوا",
+              "created_at": "Mon Nov 01 08:45:10 +0000 2021",
+              "screen_name": "avanik_far"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1455093763580342276/UM3CiF11_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "🎵🎵🎶🎶",
+              "media_count": 0,
+              "listed_count": 2,
+              "friends_count": 1959,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 1674,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 1089,
+              "translator_type": "none",
+              "favourites_count": 4158,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455093504628203522/1740643397",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 1089,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1455093504628203522",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "🎵🎵🎶🎶"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
