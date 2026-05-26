@@ -1,0 +1,170 @@
+{
+  "snapshotId": "5dd96d7f-adc2-4620-b0f5-17fbad663cc8",
+  "twitterId": "1639971395521204225",
+  "scannedAt": "2026-05-26T06:05:49.826Z",
+  "fields": {
+    "username": "ryhanh256535112",
+    "displayName": "ریحانه",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1640067319907995650/psU5wrgf_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1639971395521204225/1679857497",
+    "bio": "سلام بر مهدی (عج) و یارانش",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTYzOTk3MTM5NTUyMTIwNDIyNQ==",
+          "result": {
+            "id": "VXNlcjoxNjM5OTcxMzk1NTIxMjA0MjI1",
+            "core": {
+              "name": "ریحانه",
+              "created_at": "Sun Mar 26 12:46:41 +0000 2023",
+              "screen_name": "ryhanh256535112"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1640067319907995650/psU5wrgf_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1639971395521204225",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "0"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYzOTk3MTM5NTUyMTIwNDIyNQ==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNjM5OTcxMzk1NTIxMjA0MjI1",
+            "core": {
+              "name": "ریحانه",
+              "created_at": "Sun Mar 26 12:46:41 +0000 2023",
+              "screen_name": "ryhanh256535112"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1640067319907995650/psU5wrgf_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "سلام بر مهدی (عج) و یارانش",
+              "media_count": 9174,
+              "listed_count": 1,
+              "friends_count": 524,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 29649,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 906,
+              "translator_type": "none",
+              "favourites_count": 63236,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639971395521204225/1679857497",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 906,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1639971395521204225",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "سلام بر مهدی (عج) و یارانش"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "entities": {
+                  "urls": [],
+                  "symbols": [],
+                  "hashtags": [],
+                  "user_mentions": []
+                },
+                "translation": "Greetings upon al-Mahdi (may God hasten his appearance) and his companions",
+                "source_language": "fa",
+                "destination_language": "en"
+              },
+              "is_available": true
+            }
+          }
+        }
+      }
+    }
+  }
+}
