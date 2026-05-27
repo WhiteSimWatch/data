@@ -1,0 +1,171 @@
+{
+  "snapshotId": "12b2e3be-47d6-44cb-817e-4ea87bfaee0a",
+  "twitterId": "3375287872",
+  "scannedAt": "2026-05-27T08:12:59.591Z",
+  "fields": {
+    "username": "samohaghegh61",
+    "displayName": "sara mohaghegh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940017836547608576/uYa5QA_n_normal.jpg",
+    "profileBannerUrl": "",
+    "bio": "خبرنگار سایت خبری ایران‌آنلاین (روزنامه ایران)  https://t.co/hOJRSvBMYo",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MzM3NTI4Nzg3Mg==",
+          "result": {
+            "id": "VXNlcjozMzc1Mjg3ODcy",
+            "core": {
+              "name": "sara mohaghegh",
+              "created_at": "Tue Jul 14 05:47:18 +0000 2015",
+              "screen_name": "samohaghegh61"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1940017836547608576/uYa5QA_n_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "3375287872",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Web",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "0"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzM3NTI4Nzg3Mg==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjozMzc1Mjg3ODcy",
+            "core": {
+              "name": "sara mohaghegh",
+              "created_at": "Tue Jul 14 05:47:18 +0000 2015",
+              "screen_name": "samohaghegh61"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1940017836547608576/uYa5QA_n_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/hOJRSvBMYo",
+                      "indices": [
+                        48,
+                        71
+                      ],
+                      "display_url": "inn.ir/news",
+                      "expanded_url": "https://inn.ir/news"
+                    }
+                  ]
+                }
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "خبرنگار سایت خبری ایران‌آنلاین (روزنامه ایران)  https://t.co/hOJRSvBMYo",
+              "media_count": 1,
+              "listed_count": 0,
+              "friends_count": 32,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 9,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 14,
+              "translator_type": "none",
+              "favourites_count": 4,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 14,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "3375287872",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "خبرنگار سایت خبری ایران‌آنلاین (روزنامه ایران)  https://t.co/hOJRSvBMYo"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
