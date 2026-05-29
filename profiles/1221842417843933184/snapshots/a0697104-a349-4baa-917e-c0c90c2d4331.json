@@ -1,0 +1,190 @@
+{
+  "snapshotId": "a0697104-a349-4baa-917e-c0c90c2d4331",
+  "twitterId": "1221842417843933184",
+  "scannedAt": "2026-05-29T05:02:51.666Z",
+  "fields": {
+    "username": "aghplt",
+    "displayName": "Ali Gholhaki",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1771983428344283136/yViB3mKR_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1221842417843933184/1580199301",
+    "bio": "journalist | ثبت است بر جریده عالم دوام ما",
+    "selfLocation": "هرجا که باید",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Turkey App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIyMTg0MjQxNzg0MzkzMzE4NA==",
+          "result": {
+            "id": "VXNlcjoxMjIxODQyNDE3ODQzOTMzMTg0",
+            "core": {
+              "name": "Ali Gholhaki",
+              "created_at": "Mon Jan 27 17:09:21 +0000 2020",
+              "screen_name": "aghplt"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1771983428344283136/yViB3mKR_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1221842417843933184",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Turkey App Store",
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "10",
+                "last_changed_at_msec": "1626357203360"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": true,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIyMTg0MjQxNzg0MzkzMzE4NA==",
+              "reason": {
+                "verified_since_msec": "1750689267511"
+              },
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxMjIxODQyNDE3ODQzOTMzMTg0",
+            "core": {
+              "name": "Ali Gholhaki",
+              "created_at": "Mon Jan 27 17:09:21 +0000 2020",
+              "screen_name": "aghplt"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1771983428344283136/yViB3mKR_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "journalist | ثبت است بر جریده عالم دوام ما",
+              "media_count": 929,
+              "listed_count": 498,
+              "friends_count": 3276,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 10495,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 97976,
+              "translator_type": "none",
+              "favourites_count": 58217,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221842417843933184/1580199301",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 97976,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1221842417843933184",
+            "location": {
+              "location": "هرجا که باید"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "journalist | ثبت است بر جریده عالم دوام ما"
+            },
+            "professional": {
+              "rest_id": "1905592948105855423",
+              "category": [
+                {
+                  "id": 955,
+                  "name": "Journalist",
+                  "icon_name": "IconBriefcaseStroke"
+                }
+              ],
+              "professional_type": "Creator"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": true
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": true,
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "reason": {
+                "description": {
+                  "text": "This account is verified. Learn more",
+                  "entities": [
+                    {
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36,
+                      "from_index": 26
+                    }
+                  ]
+                },
+                "verified_since_msec": "1750689267511"
+              },
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
