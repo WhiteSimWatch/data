@@ -1,0 +1,171 @@
+{
+  "snapshotId": "3c6c3893-bf29-47b9-8b19-f3a207ee09b7",
+  "twitterId": "1397234826495741952",
+  "scannedAt": "2026-05-29T03:45:45.989Z",
+  "fields": {
+    "username": "NassehMostafa",
+    "displayName": "مصطفی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1952085987993030658/qU9ldO4m_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1397234826495741952/1654549435",
+    "bio": "این صفر را به هر چه پسندی حساب کن...",
+    "selfLocation": "تهران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM5NzIzNDgyNjQ5NTc0MTk1Mg==",
+          "result": {
+            "id": "VXNlcjoxMzk3MjM0ODI2NDk1NzQxOTUy",
+            "core": {
+              "name": "مصطفی",
+              "created_at": "Tue May 25 16:55:43 +0000 2021",
+              "screen_name": "NassehMostafa"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1952085987993030658/qU9ldO4m_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1397234826495741952",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1623883020500"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM5NzIzNDgyNjQ5NTc0MTk1Mg==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxMzk3MjM0ODI2NDk1NzQxOTUy",
+            "core": {
+              "name": "مصطفی",
+              "created_at": "Tue May 25 16:55:43 +0000 2021",
+              "screen_name": "NassehMostafa"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1952085987993030658/qU9ldO4m_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "این صفر را به هر چه پسندی حساب کن...",
+              "media_count": 851,
+              "listed_count": 8,
+              "friends_count": 1217,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 89316,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 4106,
+              "translator_type": "none",
+              "favourites_count": 391629,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1397234826495741952/1654549435",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 4106,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1397234826495741952",
+            "location": {
+              "location": "تهران"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "این صفر را به هر چه پسندی حساب کن..."
+            },
+            "professional": {
+              "rest_id": "1477056509288886277",
+              "category": [],
+              "professional_type": "Creator"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "year": 1985,
+                "visibility": "Self",
+                "year_visibility": "Public"
+              }
+            },
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
