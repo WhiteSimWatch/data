@@ -1,0 +1,206 @@
+{
+  "snapshotId": "734a115e-fcfc-4aed-99e3-7914bfa272e7",
+  "twitterId": "1580536260",
+  "scannedAt": "2026-05-31T03:56:09.795Z",
+  "fields": {
+    "username": "haftsobh",
+    "displayName": "روزنامه هفت صبح",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1908513520875941889/l7dkbyM0_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1580536260/1737719637",
+    "bio": "7sobh newspaper",
+    "selfLocation": "tehran",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "Australasia App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU4MDUzNjI2MA==",
+          "result": {
+            "id": "VXNlcjoxNTgwNTM2MjYw",
+            "core": {
+              "name": "روزنامه هفت صبح",
+              "created_at": "Tue Jul 09 14:49:06 +0000 2013",
+              "screen_name": "haftsobh"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1908513520875941889/l7dkbyM0_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1580536260",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Australasia App Store",
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "account_based_in": "West Asia",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1737462599224"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": true,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU4MDUzNjI2MA==",
+              "reason": {
+                "verified_since_msec": "1737135554310"
+              },
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNTgwNTM2MjYw",
+            "core": {
+              "name": "روزنامه هفت صبح",
+              "created_at": "Tue Jul 09 14:49:06 +0000 2013",
+              "screen_name": "haftsobh"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1908513520875941889/l7dkbyM0_normal.jpg"
+            },
+            "legacy": {
+              "url": "https://t.co/YtkkKH4A3Q",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/YtkkKH4A3Q",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "7sobh.com",
+                      "expanded_url": "http://www.7sobh.com"
+                    }
+                  ]
+                },
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "7sobh newspaper",
+              "media_count": 18199,
+              "listed_count": 262,
+              "friends_count": 5,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 30360,
+              "withheld_scope": "",
+              "default_profile": false,
+              "followers_count": 46184,
+              "translator_type": "none",
+              "favourites_count": 1084,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580536260/1737719637",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "pinned_tweet_ids_str": [
+                "2060784409826001132"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 46184,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1580536260",
+            "location": {
+              "location": "tehran"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "7sobh newspaper"
+            },
+            "professional": {
+              "rest_id": "1678091227491696640",
+              "category": [
+                {
+                  "id": 580,
+                  "name": "Media & News Company",
+                  "icon_name": "IconBriefcaseStroke"
+                }
+              ],
+              "professional_type": "Business"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "411",
+              "can_highlight_tweets": true
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": true,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "reason": {
+                "description": {
+                  "text": "This account is verified. Learn more",
+                  "entities": [
+                    {
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36,
+                      "from_index": 26
+                    }
+                  ]
+                },
+                "verified_since_msec": "1737135554310"
+              },
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "en",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
