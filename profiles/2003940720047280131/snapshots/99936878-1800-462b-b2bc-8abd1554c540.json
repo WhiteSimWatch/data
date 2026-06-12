@@ -1,0 +1,181 @@
+{
+  "snapshotId": "99936878-1800-462b-b2bc-8abd1554c540",
+  "twitterId": "2003940720047280131",
+  "scannedAt": "2026-06-12T06:58:49.121Z",
+  "fields": {
+    "username": "suregeleen",
+    "displayName": "🀥",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2003950278123331584/b4_l1F_k_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2003940720047280131/1766613751",
+    "bio": "",
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAwMzk0MDcyMDA0NzI4MDEzMQ==",
+          "result": {
+            "id": "VXNlcjoyMDAzOTQwNzIwMDQ3MjgwMTMx",
+            "core": {
+              "name": "🀥",
+              "created_at": "Wed Dec 24 21:28:02 +0000 2025",
+              "screen_name": "suregeleen"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2003950278123331584/b4_l1F_k_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "2003940720047280131",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "West Asia App Store",
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "account_based_in": "West Asia",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1772546666172"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": true,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAwMzk0MDcyMDA0NzI4MDEzMQ==",
+              "reason": {
+                "verified_since_msec": "1769451740661"
+              },
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoyMDAzOTQwNzIwMDQ3MjgwMTMx",
+            "core": {
+              "name": "🀥",
+              "created_at": "Wed Dec 24 21:28:02 +0000 2025",
+              "screen_name": "suregeleen"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2003950278123331584/b4_l1F_k_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "",
+              "media_count": 2110,
+              "listed_count": 31,
+              "friends_count": 316,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 2622,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 6714,
+              "translator_type": "none",
+              "favourites_count": 2411,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2003940720047280131/1766613751",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "pinned_tweet_ids_str": [
+                "2040490149423845524"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 6714,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "2003940720047280131",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": ""
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "14",
+              "can_highlight_tweets": true
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": true,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "reason": {
+                "description": {
+                  "text": "This account is verified. Learn more",
+                  "entities": [
+                    {
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36,
+                      "from_index": 26
+                    }
+                  ]
+                },
+                "verified_since_msec": "1769451740661"
+              },
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
