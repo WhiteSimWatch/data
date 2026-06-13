@@ -1,0 +1,184 @@
+{
+  "snapshotId": "79fb3ce3-6f53-4cd9-afba-3f2c2d5ff7ce",
+  "twitterId": "1410153950142251015",
+  "scannedAt": "2026-06-13T03:08:10.000Z",
+  "fields": {
+    "username": "Khamenei_m",
+    "displayName": "Khamenei Media",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1815428528462327810/6jaAcM0s_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1410153950142251015/1664899048",
+    "bio": "The Official Account of Martyr Imam Sayyid Ali Khamenei's English Website | Exclusive MultiMedia Productions https://t.co/49PT4zV81N",
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "United States",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQxMDE1Mzk1MDE0MjI1MTAxNQ==",
+          "result": {
+            "id": "VXNlcjoxNDEwMTUzOTUwMTQyMjUxMDE1",
+            "core": {
+              "name": "Khamenei Media",
+              "created_at": "Wed Jun 30 08:34:34 +0000 2021",
+              "screen_name": "Khamenei_m"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1815428528462327810/6jaAcM0s_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1410153950142251015",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "United States",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1754154412201"
+              },
+              "location_accurate": false,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQxMDE1Mzk1MDE0MjI1MTAxNQ==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNDEwMTUzOTUwMTQyMjUxMDE1",
+            "core": {
+              "name": "Khamenei Media",
+              "created_at": "Wed Jun 30 08:34:34 +0000 2021",
+              "screen_name": "Khamenei_m"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1815428528462327810/6jaAcM0s_normal.jpg"
+            },
+            "legacy": {
+              "url": "https://t.co/3m8amrEcKs",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/3m8amrEcKs",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "t.me/Khamenei_en",
+                      "expanded_url": "https://t.me/Khamenei_en"
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/49PT4zV81N",
+                      "indices": [
+                        109,
+                        132
+                      ],
+                      "display_url": "en.khamenei.ir",
+                      "expanded_url": "http://en.khamenei.ir"
+                    }
+                  ]
+                }
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "The Official Account of Martyr Imam Sayyid Ali Khamenei's English Website | Exclusive MultiMedia Productions https://t.co/49PT4zV81N",
+              "media_count": 5877,
+              "listed_count": 291,
+              "friends_count": 30,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 6145,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 109029,
+              "translator_type": "none",
+              "favourites_count": 91,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410153950142251015/1664899048",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 109029,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1410153950142251015",
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "The Official Account of Martyr Imam Sayyid Ali Khamenei's English Website | Exclusive MultiMedia Productions https://t.co/49PT4zV81N"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
