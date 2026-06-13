@@ -1,0 +1,222 @@
+{
+  "snapshotId": "2d8fc1a0-27fc-48f6-8688-524f275114be",
+  "twitterId": "1920009320713871360",
+  "scannedAt": "2026-06-13T06:39:30.983Z",
+  "fields": {
+    "username": "NobonyadOnline",
+    "displayName": "روزنامه نوبنیاد",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2045985946898964480/-t9D6JYs_normal.jpg",
+    "profileBannerUrl": "",
+    "bio": "https://t.co/DgExXtJI1k\nhttps://t.co/Kgk8Iexw9P\nhttps://t.co/SlYrlcZvdk",
+    "selfLocation": "ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Turkey App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkyMDAwOTMyMDcxMzg3MTM2MA==",
+          "result": {
+            "id": "VXNlcjoxOTIwMDA5MzIwNzEzODcxMzYw",
+            "core": {
+              "name": "روزنامه نوبنیاد",
+              "created_at": "Wed May 07 06:54:42 +0000 2025",
+              "screen_name": "NobonyadOnline"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045985946898964480/-t9D6JYs_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1920009320713871360",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Turkey App Store",
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "4",
+                "last_changed_at_msec": "1770452315774"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": true,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkyMDAwOTMyMDcxMzg3MTM2MA==",
+              "reason": {
+                "verified_since_msec": "1781085724382"
+              },
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxOTIwMDA5MzIwNzEzODcxMzYw",
+            "core": {
+              "name": "روزنامه نوبنیاد",
+              "created_at": "Wed May 07 06:54:42 +0000 2025",
+              "screen_name": "NobonyadOnline"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045985946898964480/-t9D6JYs_normal.jpg"
+            },
+            "legacy": {
+              "url": "https://t.co/4Jju4Qk9on",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/4Jju4Qk9on",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "nobonyadonline.ir",
+                      "expanded_url": "https://nobonyadonline.ir"
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/DgExXtJI1k",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "t.me/nobonyadOnline",
+                      "expanded_url": "https://t.me/nobonyadOnline"
+                    },
+                    {
+                      "url": "https://t.co/Kgk8Iexw9P",
+                      "indices": [
+                        24,
+                        47
+                      ],
+                      "display_url": "ble.ir/NobonyadOnline",
+                      "expanded_url": "https://ble.ir/NobonyadOnline"
+                    },
+                    {
+                      "url": "https://t.co/SlYrlcZvdk",
+                      "indices": [
+                        48,
+                        71
+                      ],
+                      "display_url": "eitaa.com/NobonyadOnline",
+                      "expanded_url": "https://eitaa.com/NobonyadOnline"
+                    }
+                  ]
+                }
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "https://t.co/DgExXtJI1k\nhttps://t.co/Kgk8Iexw9P\nhttps://t.co/SlYrlcZvdk",
+              "media_count": 43,
+              "listed_count": 0,
+              "friends_count": 5,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 43,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 41,
+              "translator_type": "none",
+              "favourites_count": 5,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 41,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1920009320713871360",
+            "location": {
+              "location": "ایران"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "https://t.co/DgExXtJI1k\nhttps://t.co/Kgk8Iexw9P\nhttps://t.co/SlYrlcZvdk"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": true
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": true,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "reason": {
+                "description": {
+                  "text": "This account is verified. Learn more",
+                  "entities": [
+                    {
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36,
+                      "from_index": 26
+                    }
+                  ]
+                },
+                "verified_since_msec": "1781085724382"
+              },
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "zxx",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
