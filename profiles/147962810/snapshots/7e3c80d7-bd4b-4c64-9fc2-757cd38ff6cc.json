@@ -1,0 +1,190 @@
+{
+  "snapshotId": "7e3c80d7-bd4b-4c64-9fc2-757cd38ff6cc",
+  "twitterId": "147962810",
+  "scannedAt": "2026-06-14T21:45:17.838Z",
+  "fields": {
+    "username": "RamAbdu",
+    "displayName": "Ramy Abdu| رامي عبده",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1724324994908405760/h3HPK2uE_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/147962810/1565292144",
+    "bio": "Assist. Prof of Law & Finance. Chairman @EuroMedHR. Views expressed here are personal أستاذ مساعد في القانون والتمويل. مؤسس ورئيس المرصد الأورومتوسطي",
+    "selfLocation": "Gaza",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ3OTYyODEw",
+          "result": {
+            "id": "VXNlcjoxNDc5NjI4MTA=",
+            "core": {
+              "name": "Ramy Abdu| رامي عبده",
+              "created_at": "Tue May 25 13:52:48 +0000 2010",
+              "screen_name": "RamAbdu"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1724324994908405760/h3HPK2uE_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "147962810",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "West Asia App Store",
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "account_based_in": "West Asia",
+              "username_changes": {
+                "count": "0"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": true,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ3OTYyODEw",
+              "reason": {
+                "verified_since_msec": "1472118156396"
+              },
+              "is_identity_verified": true
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNDc5NjI4MTA=",
+            "core": {
+              "name": "Ramy Abdu| رامي عبده",
+              "created_at": "Tue May 25 13:52:48 +0000 2010",
+              "screen_name": "RamAbdu"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1724324994908405760/h3HPK2uE_normal.jpg"
+            },
+            "legacy": {
+              "url": "https://t.co/IkmLbAmlVx",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/IkmLbAmlVx",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "ramyabdu.com",
+                      "expanded_url": "http://ramyabdu.com"
+                    }
+                  ]
+                },
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "Assist. Prof of Law & Finance. Chairman @EuroMedHR. Views expressed here are personal أستاذ مساعد في القانون والتمويل. مؤسس ورئيس المرصد الأورومتوسطي",
+              "media_count": 20173,
+              "listed_count": 1399,
+              "friends_count": 28,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 98669,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 211073,
+              "translator_type": "none",
+              "favourites_count": 44384,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/147962810/1565292144",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 211073,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "147962810",
+            "location": {
+              "location": "Gaza"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "Assist. Prof of Law & Finance. Chairman @EuroMedHR. Views expressed here are personal أستاذ مساعد في القانون والتمويل. مؤسس ورئيس المرصد الأورومتوسطي"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "8",
+              "can_highlight_tweets": true
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": true,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "reason": {
+                "description": {
+                  "text": "This account is verified. Learn more",
+                  "entities": [
+                    {
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36,
+                      "from_index": 26
+                    }
+                  ]
+                },
+                "verified_since_msec": "1472118156396"
+              },
+              "is_identity_verified": true
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 1,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
