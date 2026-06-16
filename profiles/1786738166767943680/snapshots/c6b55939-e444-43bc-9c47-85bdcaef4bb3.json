@@ -1,0 +1,163 @@
+{
+  "snapshotId": "c6b55939-e444-43bc-9c47-85bdcaef4bb3",
+  "twitterId": "1786738166767943680",
+  "scannedAt": "2026-06-16T10:10:06.457Z",
+  "fields": {
+    "username": "2char__",
+    "displayName": "دچآر",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1786743210653499394/tNR4xtS5_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1786738166767943680/1714832246",
+    "bio": "دُچار او باید بود :)",
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc4NjczODE2Njc2Nzk0MzY4MA==",
+          "result": {
+            "id": "VXNlcjoxNzg2NzM4MTY2NzY3OTQzNjgw",
+            "core": {
+              "name": "دچآر",
+              "created_at": "Sat May 04 12:43:00 +0000 2024",
+              "screen_name": "2char__"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1786743210653499394/tNR4xtS5_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1786738166767943680",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "North America App Store",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "West Asia",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1714826651014"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc4NjczODE2Njc2Nzk0MzY4MA==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNzg2NzM4MTY2NzY3OTQzNjgw",
+            "core": {
+              "name": "دچآر",
+              "created_at": "Sat May 04 12:43:00 +0000 2024",
+              "screen_name": "2char__"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1786743210653499394/tNR4xtS5_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "دُچار او باید بود :)",
+              "media_count": 49,
+              "listed_count": 0,
+              "friends_count": 853,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 1530,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 642,
+              "translator_type": "none",
+              "favourites_count": 25748,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786738166767943680/1714832246",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "pinned_tweet_ids_str": [
+                "1805479016423457063"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 642,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1786738166767943680",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "دُچار او باید بود :)"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
