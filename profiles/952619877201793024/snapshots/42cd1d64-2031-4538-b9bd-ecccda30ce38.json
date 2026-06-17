@@ -1,0 +1,170 @@
+{
+  "snapshotId": "42cd1d64-2031-4538-b9bd-ecccda30ce38",
+  "twitterId": "952619877201793024",
+  "scannedAt": "2026-06-17T05:50:37.924Z",
+  "fields": {
+    "username": "saralynnjoness",
+    "displayName": "سارالین",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2062841931437158400/-s_0JcYP_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/952619877201793024/1675452739",
+    "bio": "pale and mysterious.",
+    "selfLocation": "",
+    "accountBasedIn": "Turkey",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTUyNjE5ODc3MjAxNzkzMDI0",
+          "result": {
+            "id": "VXNlcjo5NTI2MTk4NzcyMDE3OTMwMjQ=",
+            "core": {
+              "name": "سارالین",
+              "created_at": "Sun Jan 14 19:14:12 +0000 2018",
+              "screen_name": "saralynnjoness"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2062841931437158400/-s_0JcYP_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "952619877201793024",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "United States App Store",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Turkey",
+              "username_changes": {
+                "count": "35",
+                "last_changed_at_msec": "1711023483156"
+              },
+              "location_accurate": false,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTUyNjE5ODc3MjAxNzkzMDI0",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjo5NTI2MTk4NzcyMDE3OTMwMjQ=",
+            "core": {
+              "name": "سارالین",
+              "created_at": "Sun Jan 14 19:14:12 +0000 2018",
+              "screen_name": "saralynnjoness"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2062841931437158400/-s_0JcYP_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "pale and mysterious.",
+              "media_count": 2021,
+              "listed_count": 21,
+              "friends_count": 446,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 43366,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 15365,
+              "translator_type": "none",
+              "favourites_count": 159149,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/952619877201793024/1675452739",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "pinned_tweet_ids_str": [
+                "1728792121023328464"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 15365,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "952619877201793024",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "pale and mysterious."
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 25,
+                "month": 8,
+                "visibility": "Public",
+                "year_visibility": "Self"
+              }
+            },
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "en",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
