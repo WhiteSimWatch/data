@@ -1,0 +1,162 @@
+{
+  "snapshotId": "2bc3d86a-df89-4d1f-87eb-dd50e631839d",
+  "twitterId": "1645339173405044738",
+  "scannedAt": "2026-06-17T06:59:32.655Z",
+  "fields": {
+    "username": "mona_saremii",
+    "displayName": "mona",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1709970889213620225/YYn1ouB0_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1645339173405044738/1696773170",
+    "bio": "Ms Philosopher😇",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTY0NTMzOTE3MzQwNTA0NDczOA==",
+          "result": {
+            "id": "VXNlcjoxNjQ1MzM5MTczNDA1MDQ0NzM4",
+            "core": {
+              "name": "mona",
+              "created_at": "Mon Apr 10 08:13:47 +0000 2023",
+              "screen_name": "mona_saremii"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1709970889213620225/YYn1ouB0_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1645339173405044738",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1681114466622"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY0NTMzOTE3MzQwNTA0NDczOA==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNjQ1MzM5MTczNDA1MDQ0NzM4",
+            "core": {
+              "name": "mona",
+              "created_at": "Mon Apr 10 08:13:47 +0000 2023",
+              "screen_name": "mona_saremii"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1709970889213620225/YYn1ouB0_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "Ms Philosopher😇",
+              "media_count": 828,
+              "listed_count": 1,
+              "friends_count": 123,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 1898,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 219,
+              "translator_type": "none",
+              "favourites_count": 2976,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1645339173405044738/1696773170",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "pinned_tweet_ids_str": [
+                "2037642441872835009"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 219,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1645339173405044738",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "Ms Philosopher😇"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
