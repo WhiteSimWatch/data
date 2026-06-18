@@ -1,0 +1,172 @@
+{
+  "snapshotId": "2a75b584-42e0-482b-ba4a-0041de70d11b",
+  "twitterId": "1232390066577821696",
+  "scannedAt": "2026-06-18T09:30:34.232Z",
+  "fields": {
+    "username": "M_Golestaneh",
+    "displayName": "Golestaneh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1405152878063329289/LpX_EsUz_normal.jpg",
+    "profileBannerUrl": "",
+    "bio": "",
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Germany",
+    "connectedVia": "United Arab Emirates App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIzMjM5MDA2NjU3NzgyMTY5Ng==",
+          "result": {
+            "id": "VXNlcjoxMjMyMzkwMDY2NTc3ODIxNjk2",
+            "core": {
+              "name": "Golestaneh",
+              "created_at": "Tue Feb 25 19:41:19 +0000 2020",
+              "screen_name": "M_Golestaneh"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1405152878063329289/LpX_EsUz_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1232390066577821696",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "United Arab Emirates App Store",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Germany",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1582660976816"
+              },
+              "location_accurate": false,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIzMjM5MDA2NjU3NzgyMTY5Ng==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxMjMyMzkwMDY2NTc3ODIxNjk2",
+            "core": {
+              "name": "Golestaneh",
+              "created_at": "Tue Feb 25 19:41:19 +0000 2020",
+              "screen_name": "M_Golestaneh"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1405152878063329289/LpX_EsUz_normal.jpg"
+            },
+            "legacy": {
+              "url": "https://t.co/j46Hwern6G",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/j46Hwern6G",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "display_url": "golestaneh.ir",
+                      "expanded_url": "http://golestaneh.ir"
+                    }
+                  ]
+                },
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "",
+              "media_count": 0,
+              "listed_count": 1,
+              "friends_count": 349,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 52,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 188,
+              "translator_type": "none",
+              "favourites_count": 962,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 188,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1232390066577821696",
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": ""
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
