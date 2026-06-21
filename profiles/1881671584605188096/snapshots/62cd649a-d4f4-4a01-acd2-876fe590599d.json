@@ -1,0 +1,160 @@
+{
+  "snapshotId": "62cd649a-d4f4-4a01-acd2-876fe590599d",
+  "twitterId": "1881671584605188096",
+  "scannedAt": "2026-06-21T12:10:13.090Z",
+  "fields": {
+    "username": "SeyedeC",
+    "displayName": "soha",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1881814258494881792/1g0L8ewW_normal.jpg",
+    "profileBannerUrl": "",
+    "bio": "منتظر",
+    "selfLocation": "زیر سایه ی خدا",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg4MTY3MTU4NDYwNTE4ODA5Ng==",
+          "result": {
+            "id": "VXNlcjoxODgxNjcxNTg0NjA1MTg4MDk2",
+            "core": {
+              "name": "soha",
+              "created_at": "Tue Jan 21 11:54:55 +0000 2025",
+              "screen_name": "SeyedeC"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1881814258494881792/1g0L8ewW_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1881671584605188096",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1737460581389"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4MTY3MTU4NDYwNTE4ODA5Ng==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxODgxNjcxNTg0NjA1MTg4MDk2",
+            "core": {
+              "name": "soha",
+              "created_at": "Tue Jan 21 11:54:55 +0000 2025",
+              "screen_name": "SeyedeC"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1881814258494881792/1g0L8ewW_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "منتظر",
+              "media_count": 584,
+              "listed_count": 1,
+              "friends_count": 1661,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 4179,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 835,
+              "translator_type": "none",
+              "favourites_count": 24812,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 835,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1881671584605188096",
+            "location": {
+              "location": "زیر سایه ی خدا"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "منتظر"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "ar",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
