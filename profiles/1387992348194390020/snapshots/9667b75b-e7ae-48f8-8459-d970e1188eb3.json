@@ -1,0 +1,167 @@
+{
+  "snapshotId": "9667b75b-e7ae-48f8-8459-d970e1188eb3",
+  "twitterId": "1387992348194390020",
+  "scannedAt": "2026-06-22T03:09:09.137Z",
+  "fields": {
+    "username": "m_ahmadiy",
+    "displayName": "m.ahmadi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1887886981390028800/3mSbB_KE_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1387992348194390020/1759334522",
+    "bio": "فعال رسانه 🔸️\n اصفهانی",
+    "selfLocation": " esf",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM4Nzk5MjM0ODE5NDM5MDAyMA==",
+          "result": {
+            "id": "VXNlcjoxMzg3OTkyMzQ4MTk0MzkwMDIw",
+            "core": {
+              "name": "m.ahmadi",
+              "created_at": "Fri Apr 30 04:49:29 +0000 2021",
+              "screen_name": "m_ahmadiy"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1887886981390028800/3mSbB_KE_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1387992348194390020",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1645773941074"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM4Nzk5MjM0ODE5NDM5MDAyMA==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxMzg3OTkyMzQ4MTk0MzkwMDIw",
+            "core": {
+              "name": "m.ahmadi",
+              "created_at": "Fri Apr 30 04:49:29 +0000 2021",
+              "screen_name": "m_ahmadiy"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1887886981390028800/3mSbB_KE_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "فعال رسانه 🔸️\n اصفهانی",
+              "media_count": 146,
+              "listed_count": 2,
+              "friends_count": 1924,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 7116,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 2566,
+              "translator_type": "none",
+              "favourites_count": 50122,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387992348194390020/1759334522",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 2566,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1387992348194390020",
+            "location": {
+              "location": " esf"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "فعال رسانه 🔸️\n اصفهانی"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 4,
+                "month": 7,
+                "visibility": "Public",
+                "year_visibility": "Self"
+              }
+            },
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
