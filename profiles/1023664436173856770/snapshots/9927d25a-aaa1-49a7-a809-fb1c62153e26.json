@@ -1,0 +1,193 @@
+{
+  "snapshotId": "9927d25a-aaa1-49a7-a809-fb1c62153e26",
+  "twitterId": "1023664436173856770",
+  "scannedAt": "2026-06-24T09:01:10.968Z",
+  "fields": {
+    "username": "havas_paart",
+    "displayName": "مجید میرزایی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041095060658495488/ucggrgVE_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1023664436173856770/1682363472",
+    "bio": "پژوهشگر\n‌*\nتشنه‌ی دانستن \n‌*\nحواس پرت البته از نوع عاشقانه‌اش\n\n*\nعضو کوچکی از هلال احمر",
+    "selfLocation": "تهران",
+    "accountBasedIn": "North America",
+    "connectedVia": "Europe App Store",
+    "locatedCountryAccurate": false,
+    "verified": true
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTAyMzY2NDQzNjE3Mzg1Njc3MA==",
+          "result": {
+            "id": "VXNlcjoxMDIzNjY0NDM2MTczODU2Nzcw",
+            "core": {
+              "name": "مجید میرزایی",
+              "created_at": "Sun Jul 29 20:19:55 +0000 2018",
+              "screen_name": "havas_paart"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2041095060658495488/ucggrgVE_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1023664436173856770",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Europe App Store",
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "account_based_in": "North America",
+              "username_changes": {
+                "count": "9",
+                "last_changed_at_msec": "1592802276463"
+              },
+              "location_accurate": false,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": true,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTAyMzY2NDQzNjE3Mzg1Njc3MA==",
+              "reason": {
+                "verified_since_msec": "1765990659361"
+              },
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxMDIzNjY0NDM2MTczODU2Nzcw",
+            "core": {
+              "name": "مجید میرزایی",
+              "created_at": "Sun Jul 29 20:19:55 +0000 2018",
+              "screen_name": "havas_paart"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2041095060658495488/ucggrgVE_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "پژوهشگر\n‌*\nتشنه‌ی دانستن \n‌*\nحواس پرت البته از نوع عاشقانه‌اش\n\n*\nعضو کوچکی از هلال احمر",
+              "media_count": 3460,
+              "listed_count": 88,
+              "friends_count": 1227,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 119232,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 35101,
+              "translator_type": "none",
+              "favourites_count": 531912,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1023664436173856770/1682363472",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "pinned_tweet_ids_str": [
+                "1148169501512540162"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 35101,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1023664436173856770",
+            "location": {
+              "location": "تهران"
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "پژوهشگر\n‌*\nتشنه‌ی دانستن \n‌*\nحواس پرت البته از نوع عاشقانه‌اش\n\n*\nعضو کوچکی از هلال احمر"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "22",
+              "can_highlight_tweets": true
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": true,
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "reason": {
+                "description": {
+                  "text": "This account is verified. Learn more",
+                  "entities": [
+                    {
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36,
+                      "from_index": 26
+                    }
+                  ]
+                },
+                "verified_since_msec": "1765990659361"
+              },
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": true,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "entities": {
+                  "urls": [],
+                  "symbols": [],
+                  "hashtags": [],
+                  "user_mentions": []
+                },
+                "translation": "Researcher  \n*  \nThirsty for knowledge  \n*  \nDistracted, of course, of the romantic kind  \n\n*  \nA small member of the Red Crescent",
+                "source_language": "fa",
+                "destination_language": "en"
+              },
+              "is_available": true
+            }
+          }
+        }
+      }
+    }
+  }
+}
