@@ -1,0 +1,163 @@
+{
+  "snapshotId": "a10f451d-9ae9-468f-ba75-5bc191913888",
+  "twitterId": "1347668231306227713",
+  "scannedAt": "2026-06-25T06:29:39.214Z",
+  "fields": {
+    "username": "ifatemeai",
+    "displayName": "fatemeh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2053816987143262208/lzbS1quV_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1347668231306227713/1778079603",
+    "bio": "حلوا به کسی ده که محبت نچشیده..",
+    "selfLocation": "",
+    "accountBasedIn": "Turkey",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM0NzY2ODIzMTMwNjIyNzcxMw==",
+          "result": {
+            "id": "VXNlcjoxMzQ3NjY4MjMxMzA2MjI3NzEz",
+            "core": {
+              "name": "fatemeh",
+              "created_at": "Fri Jan 08 22:15:42 +0000 2021",
+              "screen_name": "ifatemeai"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2053816987143262208/lzbS1quV_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1347668231306227713",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "United States App Store",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Turkey",
+              "username_changes": {
+                "count": "6",
+                "last_changed_at_msec": "1750594631373"
+              },
+              "location_accurate": false,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM0NzY2ODIzMTMwNjIyNzcxMw==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxMzQ3NjY4MjMxMzA2MjI3NzEz",
+            "core": {
+              "name": "fatemeh",
+              "created_at": "Fri Jan 08 22:15:42 +0000 2021",
+              "screen_name": "ifatemeai"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2053816987143262208/lzbS1quV_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "حلوا به کسی ده که محبت نچشیده..",
+              "media_count": 17,
+              "listed_count": 4,
+              "friends_count": 235,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 12497,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 1913,
+              "translator_type": "none",
+              "favourites_count": 67602,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347668231306227713/1778079603",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": true,
+              "pinned_tweet_ids_str": [
+                "2057930813585723696"
+              ],
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 1913,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1347668231306227713",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "حلوا به کسی ده که محبت نچشیده.."
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
