@@ -1,0 +1,160 @@
+{
+  "snapshotId": "e583c5bf-3dd0-4daa-83d5-b0a8cce84955",
+  "twitterId": "1587120314416242693",
+  "scannedAt": "2026-06-25T09:12:46.682Z",
+  "fields": {
+    "username": "FakeNewsDetctor",
+    "displayName": "Matter of Fact",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1587155485161029635/GECb10xC_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1587120314416242693/1667243073",
+    "bio": "Because facts matter!",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "India App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU4NzEyMDMxNDQxNjI0MjY5Mw==",
+          "result": {
+            "id": "VXNlcjoxNTg3MTIwMzE0NDE2MjQyNjkz",
+            "core": {
+              "name": "Matter of Fact",
+              "created_at": "Mon Oct 31 16:33:05 +0000 2022",
+              "screen_name": "FakeNewsDetctor"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1587155485161029635/GECb10xC_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1587120314416242693",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "India App Store",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1667234111293"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU4NzEyMDMxNDQxNjI0MjY5Mw==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "id": "VXNlcjoxNTg3MTIwMzE0NDE2MjQyNjkz",
+            "core": {
+              "name": "Matter of Fact",
+              "created_at": "Mon Oct 31 16:33:05 +0000 2022",
+              "screen_name": "FakeNewsDetctor"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1587155485161029635/GECb10xC_normal.jpg"
+            },
+            "legacy": {
+              "url": "",
+              "entities": {
+                "description": {}
+              },
+              "time_zone": "",
+              "utc_offset": 0,
+              "description": "Because facts matter!",
+              "media_count": 102,
+              "listed_count": 9,
+              "friends_count": 3,
+              "is_translator": false,
+              "notifications": false,
+              "want_retweets": false,
+              "statuses_count": 130,
+              "withheld_scope": "",
+              "default_profile": true,
+              "followers_count": 4477,
+              "translator_type": "none",
+              "favourites_count": 17,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587120314416242693/1667243073",
+              "follow_request_sent": false,
+              "fast_followers_count": 0,
+              "has_custom_timelines": false,
+              "withheld_description": "",
+              "default_profile_image": false,
+              "normal_followers_count": 4477,
+              "needs_phone_verification": false,
+              "profile_interstitial_type": ""
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1587120314416242693",
+            "location": {
+              "location": ""
+            },
+            "__typename": "User",
+            "profile_bio": {
+              "description": "Because facts matter!"
+            },
+            "verification": {
+              "verified": false
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
+            "has_graduated_access": true,
+            "profile_sort_enabled": true,
+            "super_follow_eligible": false,
+            "user_seed_tweet_count": 0,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "premium_gifting_eligible": false,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
+            "affiliates_highlighted_label": {},
+            "profile_description_language": "en",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
