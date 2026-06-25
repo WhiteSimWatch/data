@@ -1,0 +1,162 @@
+{
+  "snapshotId": "1ec40239-bd64-46c2-b5e9-50bb84bf5477",
+  "twitterId": "1635937384750813185",
+  "scannedAt": "2026-06-25T16:12:02.546Z",
+  "fields": {
+    "username": "siandal566587",
+    "displayName": "شیخ",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1711056669416075264/L76LEhGI_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1635937384750813185/1696782678",
+    "bio": "اکانت ابواسحاق غیر فعال شد. پس مجبوریم دوباره آغاز کنیم",
+    "selfLocation": "جمهوری اسلامی ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1711056669416075264/L76LEhGI_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Mar 15 09:34:30 +0000 2023",
+              "name": "شیخ",
+              "screen_name": "siandal566587"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjM1OTM3Mzg0NzUwODEzMTg1",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "اکانت ابواسحاق غیر فعال شد. پس مجبوریم دوباره آغاز کنیم",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 4392,
+              "follow_request_sent": false,
+              "followers_count": 33,
+              "friends_count": 71,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 11,
+              "needs_phone_verification": false,
+              "normal_followers_count": 33,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1893655825467461750"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1635937384750813185/1696782678",
+              "profile_interstitial_type": "",
+              "statuses_count": 1126,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "اکانت ابواسحاق غیر فعال شد. پس مجبوریم دوباره آغاز کنیم"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1635937384750813185",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTYzNTkzNzM4NDc1MDgxMzE4NQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1711056669416075264/L76LEhGI_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Mar 15 09:34:30 +0000 2023",
+              "name": "شیخ",
+              "screen_name": "siandal566587"
+            },
+            "id": "VXNlcjoxNjM1OTM3Mzg0NzUwODEzMTg1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1635937384750813185",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYzNTkzNzM4NDc1MDgxMzE4NQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
