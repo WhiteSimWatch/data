@@ -1,0 +1,169 @@
+{
+  "snapshotId": "85aca01f-eb56-4ed8-9eca-3a2cdc912636",
+  "twitterId": "244667040",
+  "scannedAt": "2026-06-26T21:16:42.162Z",
+  "fields": {
+    "username": "parastooki",
+    "displayName": "parastook🚩",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2042565464950439936/GmIVALA9_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/244667040/1432312101",
+    "bio": "",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2042565464950439936/GmIVALA9_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jan 29 21:12:02 +0000 2011",
+              "name": "parastook🚩",
+              "screen_name": "parastooki"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyNDQ2NjcwNDA=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 293160,
+              "follow_request_sent": false,
+              "followers_count": 5012,
+              "friends_count": 7393,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 8,
+              "media_count": 556,
+              "needs_phone_verification": false,
+              "normal_followers_count": 5012,
+              "notifications": false,
+              "possibly_sensitive": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/244667040/1432312101",
+              "profile_interstitial_type": "",
+              "statuses_count": 23637,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 483,
+                  "name": "Lawyer & Law Firm"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1474813361393176582"
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "244667040",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjQ0NjY3MDQw",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2042565464950439936/GmIVALA9_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jan 29 21:12:02 +0000 2011",
+              "name": "parastook🚩",
+              "screen_name": "parastooki"
+            },
+            "id": "VXNlcjoyNDQ2NjcwNDA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "244667040",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjQ0NjY3MDQw",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
