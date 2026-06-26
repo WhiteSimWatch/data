@@ -1,0 +1,171 @@
+{
+  "snapshotId": "ef781f7a-1903-4640-b180-76b2b6dee00f",
+  "twitterId": "929217934907633664",
+  "scannedAt": "2026-06-26T07:46:18.105Z",
+  "fields": {
+    "username": "Naqvi13M",
+    "displayName": "Sayed Muhammad Yousaf",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2030164051322425344/wH1L5kzy_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/929217934907633664/1772863916",
+    "bio": "SaYeD",
+    "selfLocation": "Parachinar",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030164051322425344/wH1L5kzy_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Nov 11 05:23:14 +0000 2017",
+              "name": "Sayed Muhammad Yousaf",
+              "screen_name": "Naqvi13M"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5MjkyMTc5MzQ5MDc2MzM2NjQ=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "SaYeD",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 9617,
+              "follow_request_sent": false,
+              "followers_count": 110,
+              "friends_count": 1501,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 0,
+              "needs_phone_verification": false,
+              "normal_followers_count": 110,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/929217934907633664/1772863916",
+              "profile_interstitial_type": "",
+              "statuses_count": 10,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "visibility": "MutualFollow",
+                "year": 2002,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "Parachinar"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Business",
+              "rest_id": "2030164366373572902"
+            },
+            "profile_bio": {
+              "description": "SaYeD"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "929217934907633664",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTI5MjE3OTM0OTA3NjMzNjY0",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1772863094606"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030164051322425344/wH1L5kzy_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Nov 11 05:23:14 +0000 2017",
+              "name": "Sayed Muhammad Yousaf",
+              "screen_name": "Naqvi13M"
+            },
+            "id": "VXNlcjo5MjkyMTc5MzQ5MDc2MzM2NjQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "929217934907633664",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTI5MjE3OTM0OTA3NjMzNjY0",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
