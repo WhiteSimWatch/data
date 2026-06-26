@@ -1,0 +1,174 @@
+{
+  "snapshotId": "40a040b7-df4f-48f4-9d0a-eaee9d8ef6d1",
+  "twitterId": "1880049953999056898",
+  "scannedAt": "2026-06-26T05:07:43.080Z",
+  "fields": {
+    "username": "susan_sarabi",
+    "displayName": "susan",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2030931091763138560/2G9TPdCp_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1880049953999056898/1740258355",
+    "bio": "عشق، روح ازدواج و راز ماندگاری آن است",
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030931091763138560/2G9TPdCp_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jan 17 00:30:39 +0000 2025",
+              "name": "susan",
+              "screen_name": "susan_sarabi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Love is the soul of marriage and the secret to its endurance."
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODgwMDQ5OTUzOTk5MDU2ODk4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "عشق، روح ازدواج و راز ماندگاری آن است",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1351,
+              "follow_request_sent": false,
+              "followers_count": 1300,
+              "friends_count": 2400,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 134,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1300,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1959354516844753274"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880049953999056898/1740258355",
+              "profile_interstitial_type": "",
+              "statuses_count": 1502,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "عشق، روح ازدواج و راز ماندگاری آن است"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1880049953999056898",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg4MDA0OTk1Mzk5OTA1Njg5OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1740257890999"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030931091763138560/2G9TPdCp_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jan 17 00:30:39 +0000 2025",
+              "name": "susan",
+              "screen_name": "susan_sarabi"
+            },
+            "id": "VXNlcjoxODgwMDQ5OTUzOTk5MDU2ODk4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1880049953999056898",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4MDA0OTk1Mzk5OTA1Njg5OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
