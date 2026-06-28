@@ -1,0 +1,159 @@
+{
+  "snapshotId": "d1e44f85-86cd-42ea-9281-eecdc4a22585",
+  "twitterId": "3407153776",
+  "scannedAt": "2026-06-28T06:31:15.553Z",
+  "fields": {
+    "username": "mohsensamimi",
+    "displayName": "محسن صمیمی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1547884569197551620/o_kddvKM_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3407153776/1553785663",
+    "bio": "مشاور رسانه ای",
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1547884569197551620/o_kddvKM_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Aug 07 11:34:58 +0000 2015",
+              "name": "محسن صمیمی",
+              "screen_name": "mohsensamimi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjozNDA3MTUzNzc2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "مشاور رسانه ای",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 11531,
+              "follow_request_sent": false,
+              "followers_count": 4233,
+              "friends_count": 1825,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 13,
+              "media_count": 129,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4233,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/3407153776/1553785663",
+              "profile_interstitial_type": "",
+              "statuses_count": 4313,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مشاور رسانه ای"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "3407153776",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MzQwNzE1Mzc3Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1547884569197551620/o_kddvKM_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Aug 07 11:34:58 +0000 2015",
+              "name": "محسن صمیمی",
+              "screen_name": "mohsensamimi"
+            },
+            "id": "VXNlcjozNDA3MTUzNzc2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "3407153776",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzQwNzE1Mzc3Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
