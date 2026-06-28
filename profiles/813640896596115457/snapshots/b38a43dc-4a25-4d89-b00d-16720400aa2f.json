@@ -1,0 +1,159 @@
+{
+  "snapshotId": "b38a43dc-4a25-4d89-b00d-16720400aa2f",
+  "twitterId": "813640896596115457",
+  "scannedAt": "2026-06-28T06:01:43.868Z",
+  "fields": {
+    "username": "aramrashidi230",
+    "displayName": "aramrashidi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1847987115650347008/TC5zyW_g_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/813640896596115457/1729538024",
+    "bio": "",
+    "selfLocation": "Germany",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1847987115650347008/TC5zyW_g_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Dec 27 07:01:21 +0000 2016",
+              "name": "aramrashidi",
+              "screen_name": "aramrashidi230"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MTM2NDA4OTY1OTYxMTU0NTc=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 37,
+              "follow_request_sent": false,
+              "followers_count": 284,
+              "friends_count": 354,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 1,
+              "needs_phone_verification": false,
+              "normal_followers_count": 284,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/813640896596115457/1729538024",
+              "profile_interstitial_type": "",
+              "statuses_count": 3,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Germany"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "813640896596115457",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODEzNjQwODk2NTk2MTE1NDU3",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1482822155582"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1847987115650347008/TC5zyW_g_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Dec 27 07:01:21 +0000 2016",
+              "name": "aramrashidi",
+              "screen_name": "aramrashidi230"
+            },
+            "id": "VXNlcjo4MTM2NDA4OTY1OTYxMTU0NTc=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "813640896596115457",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODEzNjQwODk2NTk2MTE1NDU3",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
