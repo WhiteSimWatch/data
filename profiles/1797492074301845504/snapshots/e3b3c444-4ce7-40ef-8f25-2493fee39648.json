@@ -1,0 +1,159 @@
+{
+  "snapshotId": "e3b3c444-4ce7-40ef-8f25-2493fee39648",
+  "twitterId": "1797492074301845504",
+  "scannedAt": "2026-06-28T19:29:54.879Z",
+  "fields": {
+    "username": "SAMAN198903",
+    "displayName": "سامان",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1797492448471429120/fjIbWqfM_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1797492074301845504/1717439368",
+    "bio": "",
+    "selfLocation": "همین حوالی",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Germany Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1797492448471429120/fjIbWqfM_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jun 03 04:54:53 +0000 2024",
+              "name": "سامان",
+              "screen_name": "SAMAN198903"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzk3NDkyMDc0MzAxODQ1NTA0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2572,
+              "follow_request_sent": false,
+              "followers_count": 309,
+              "friends_count": 278,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 4,
+              "needs_phone_verification": false,
+              "normal_followers_count": 309,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797492074301845504/1717439368",
+              "profile_interstitial_type": "",
+              "statuses_count": 2667,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "همین حوالی"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1797492074301845504",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc5NzQ5MjA3NDMwMTg0NTUwNA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Germany Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1717500342287"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1797492448471429120/fjIbWqfM_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jun 03 04:54:53 +0000 2024",
+              "name": "سامان",
+              "screen_name": "SAMAN198903"
+            },
+            "id": "VXNlcjoxNzk3NDkyMDc0MzAxODQ1NTA0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1797492074301845504",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc5NzQ5MjA3NDMwMTg0NTUwNA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
