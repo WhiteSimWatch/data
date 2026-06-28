@@ -1,0 +1,160 @@
+{
+  "snapshotId": "2bf5ba6d-dc3a-4dc9-8fc1-b8f5c1c59557",
+  "twitterId": "1751689455147036672",
+  "scannedAt": "2026-06-28T08:14:49.457Z",
+  "fields": {
+    "username": "My1Ran",
+    "displayName": "ایران من 🇮🇷",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1852117635996979200/OPg1n8jL_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1751689455147036672/1730414283",
+    "bio": "چو ایران نباشد تن من مباد\nافتخار من عرب ایرانی خوزستانی",
+    "selfLocation": "Islamic Republic Of Iran ",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1852117635996979200/OPg1n8jL_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jan 28 19:31:40 +0000 2024",
+              "name": "ایران من 🇮🇷",
+              "screen_name": "My1Ran"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzUxNjg5NDU1MTQ3MDM2Njcy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "چو ایران نباشد تن من مباد\nافتخار من عرب ایرانی خوزستانی",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 70,
+              "follow_request_sent": false,
+              "followers_count": 36,
+              "friends_count": 65,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 3,
+              "needs_phone_verification": false,
+              "normal_followers_count": 36,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751689455147036672/1730414283",
+              "profile_interstitial_type": "",
+              "statuses_count": 34,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic Of Iran "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "چو ایران نباشد تن من مباد\nافتخار من عرب ایرانی خوزستانی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1751689455147036672",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc1MTY4OTQ1NTE0NzAzNjY3Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1730524774085"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1852117635996979200/OPg1n8jL_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jan 28 19:31:40 +0000 2024",
+              "name": "ایران من 🇮🇷",
+              "screen_name": "My1Ran"
+            },
+            "id": "VXNlcjoxNzUxNjg5NDU1MTQ3MDM2Njcy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1751689455147036672",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc1MTY4OTQ1NTE0NzAzNjY3Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
