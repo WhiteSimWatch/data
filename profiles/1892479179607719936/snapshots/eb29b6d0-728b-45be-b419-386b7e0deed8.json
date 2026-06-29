@@ -1,0 +1,159 @@
+{
+  "snapshotId": "eb29b6d0-728b-45be-b419-386b7e0deed8",
+  "twitterId": "1892479179607719936",
+  "scannedAt": "2026-06-29T03:18:06.025Z",
+  "fields": {
+    "username": "roh_1365",
+    "displayName": "سید روح الله مصطفوی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1892479841162657792/tGOnSfH__normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1892479179607719936/1777016398",
+    "bio": "",
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1892479841162657792/tGOnSfH__normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Feb 20 07:39:52 +0000 2025",
+              "name": "سید روح الله مصطفوی",
+              "screen_name": "roh_1365"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODkyNDc5MTc5NjA3NzE5OTM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 288,
+              "follow_request_sent": false,
+              "followers_count": 1391,
+              "friends_count": 53,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 9,
+              "media_count": 57,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1391,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1892479179607719936/1777016398",
+              "profile_interstitial_type": "",
+              "statuses_count": 287,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1892479179607719936",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg5MjQ3OTE3OTYwNzcxOTkzNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1745533791665"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1892479841162657792/tGOnSfH__normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Feb 20 07:39:52 +0000 2025",
+              "name": "سید روح الله مصطفوی",
+              "screen_name": "roh_1365"
+            },
+            "id": "VXNlcjoxODkyNDc5MTc5NjA3NzE5OTM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1892479179607719936",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg5MjQ3OTE3OTYwNzcxOTkzNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
