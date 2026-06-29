@@ -1,0 +1,159 @@
+{
+  "snapshotId": "41785d31-08ba-4a04-8c4a-1c66cfed6f83",
+  "twitterId": "1126038547474124800",
+  "scannedAt": "2026-06-29T05:42:02.227Z",
+  "fields": {
+    "username": "11Ghasemi",
+    "displayName": "Ghasemi_11",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1216382627034255360/e94sufDE_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1126038547474124800/1557323316",
+    "bio": "Never give up and say: I'll continue",
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1216382627034255360/e94sufDE_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed May 08 08:18:05 +0000 2019",
+              "name": "Ghasemi_11",
+              "screen_name": "11Ghasemi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTI2MDM4NTQ3NDc0MTI0ODAw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Never give up and say: I'll continue",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 67988,
+              "follow_request_sent": false,
+              "followers_count": 2940,
+              "friends_count": 2764,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 1902,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2940,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1126038547474124800/1557323316",
+              "profile_interstitial_type": "",
+              "statuses_count": 17110,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Never give up and say: I'll continue"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1126038547474124800",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTEyNjAzODU0NzQ3NDEyNDgwMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1216382627034255360/e94sufDE_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed May 08 08:18:05 +0000 2019",
+              "name": "Ghasemi_11",
+              "screen_name": "11Ghasemi"
+            },
+            "id": "VXNlcjoxMTI2MDM4NTQ3NDc0MTI0ODAw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1126038547474124800",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTEyNjAzODU0NzQ3NDEyNDgwMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
