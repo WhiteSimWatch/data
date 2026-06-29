@@ -1,0 +1,195 @@
+{
+  "snapshotId": "82c3382b-edff-4ecc-a2f7-7980b456f0de",
+  "twitterId": "1990513115851862016",
+  "scannedAt": "2026-06-29T07:35:12.727Z",
+  "fields": {
+    "username": "hadi_altorfi1",
+    "displayName": "هادی الطرفي",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2070847530582020096/YjZVVMRS_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1990513115851862016/1777224988",
+    "bio": "مَعَ مِحْوَرِ الْمُقَاوَمَةِ حَتّى النَّصْرِ أَوِ الشَّهَادَة",
+    "selfLocation": "إيران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2070847530582020096/YjZVVMRS_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Nov 17 20:11:56 +0000 2025",
+              "name": "هادی الطرفي",
+              "screen_name": "hadi_altorfi1"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "ar",
+                "translation": "With the axis of resistance until victory or martyrdom"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTkwNTEzMTE1ODUxODYyMDE2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مَعَ مِحْوَرِ الْمُقَاوَمَةِ حَتّى النَّصْرِ أَوِ الشَّهَادَة",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "x.com/hadi_altorfi3",
+                      "expanded_url": "https://x.com/hadi_altorfi3",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/EAQzyqKQaf"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 9000,
+              "follow_request_sent": false,
+              "followers_count": 3204,
+              "friends_count": 3736,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 714,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3204,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2023487537692721532"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990513115851862016/1777224988",
+              "profile_interstitial_type": "",
+              "statuses_count": 3871,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/EAQzyqKQaf",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 7,
+                "month": 11,
+                "visibility": "Public",
+                "year": 1979,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "إيران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مَعَ مِحْوَرِ الْمُقَاوَمَةِ حَتّى النَّصْرِ أَوِ الشَّهَادَة"
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1990513115851862016",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk5MDUxMzExNTg1MTg2MjAxNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1763410487153"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2070847530582020096/YjZVVMRS_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Nov 17 20:11:56 +0000 2025",
+              "name": "هادی الطرفي",
+              "screen_name": "hadi_altorfi1"
+            },
+            "id": "VXNlcjoxOTkwNTEzMTE1ODUxODYyMDE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1990513115851862016",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk5MDUxMzExNTg1MTg2MjAxNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
