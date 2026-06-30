@@ -1,7 +1,7 @@
 {
   "snapshotId": "e10bbfbd-1e0a-4bcf-b8c0-7bbd22935c33",
   "twitterId": "1229487081082277888",
-  "scannedAt": "2026-05-21T07:31:33.925Z",
+  "scannedAt": "2026-06-30T07:49:56.833Z",
   "fields": {
     "username": "mansorreza",
     "displayName": "پسر حاج غلوم🇮🇷",
@@ -15,158 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1681077080258166786/k96WHpvx_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 17 19:25:54 +0000 2020",
+              "name": "پسر حاج غلوم🇮🇷",
+              "screen_name": "mansorreza"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjI5NDg3MDgxMDgyMjc3ODg4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "منو ای یار\nای جانان من دریاب \nالهی کرمت را شکر / دست به قلمم در قامت یک رویداد نگار / می نگارم برای وطنم پاره تنم ایران✌🇮🇷",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "twitter.com/search?q=from%…",
+                      "expanded_url": "https://twitter.com/search?q=from%3A%40mansorreza%2Fexclude%3Areplies&f=live",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Y8lUnhfHsz"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 100858,
+              "follow_request_sent": false,
+              "followers_count": 22446,
+              "friends_count": 7077,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 19,
+              "media_count": 1313,
+              "needs_phone_verification": false,
+              "normal_followers_count": 22446,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1547981712549826560"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229487081082277888/1589890031",
+              "profile_interstitial_type": "",
+              "statuses_count": 112847,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/Y8lUnhfHsz",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تنگستانی ام"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "منو ای یار\nای جانان من دریاب \nالهی کرمت را شکر / دست به قلمم در قامت یک رویداد نگار / می نگارم برای وطنم پاره تنم ایران✌🇮🇷"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1229487081082277888",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTIyOTQ4NzA4MTA4MjI3Nzg4OA==",
           "result": {
-            "id": "VXNlcjoxMjI5NDg3MDgxMDgyMjc3ODg4",
-            "core": {
-              "name": "پسر حاج غلوم🇮🇷",
-              "created_at": "Mon Feb 17 19:25:54 +0000 2020",
-              "screen_name": "mansorreza"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1681077080258166786/k96WHpvx_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1229487081082277888",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1581967720690"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIyOTQ4NzA4MTA4MjI3Nzg4OA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjI5NDg3MDgxMDgyMjc3ODg4",
-            "core": {
-              "name": "پسر حاج غلوم🇮🇷",
-              "created_at": "Mon Feb 17 19:25:54 +0000 2020",
-              "screen_name": "mansorreza"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1681077080258166786/k96WHpvx_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/Y8lUnhfHsz",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/Y8lUnhfHsz",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "twitter.com/search?q=from%…",
-                      "expanded_url": "https://twitter.com/search?q=from%3A%40mansorreza%2Fexclude%3Areplies&f=live"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "منو ای یار\nای جانان من دریاب \nالهی کرمت را شکر / دست به قلمم در قامت یک رویداد نگار / می نگارم برای وطنم پاره تنم ایران✌🇮🇷",
-              "media_count": 1293,
-              "listed_count": 18,
-              "friends_count": 7088,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 112727,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 22202,
-              "translator_type": "none",
-              "favourites_count": 100770,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229487081082277888/1589890031",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1547981712549826560"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 22202,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Feb 17 19:25:54 +0000 2020",
+              "name": "پسر حاج غلوم🇮🇷",
+              "screen_name": "mansorreza"
             },
+            "id": "VXNlcjoxMjI5NDg3MDgxMDgyMjc3ODg4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1229487081082277888",
-            "location": {
-              "location": "تنگستانی ام"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "منو ای یار\nای جانان من دریاب \nالهی کرمت را شکر / دست به قلمم در قامت یک رویداد نگار / می نگارم برای وطنم پاره تنم ایران✌🇮🇷"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIyOTQ4NzA4MTA4MjI3Nzg4OA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
