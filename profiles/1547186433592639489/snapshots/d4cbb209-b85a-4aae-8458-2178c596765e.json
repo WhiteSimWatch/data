@@ -1,0 +1,171 @@
+{
+  "snapshotId": "d4cbb209-b85a-4aae-8458-2178c596765e",
+  "twitterId": "1547186433592639489",
+  "scannedAt": "2026-06-30T09:48:07.392Z",
+  "fields": {
+    "username": "sedmrtz",
+    "displayName": "سِد مُرتضی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1676557382866948101/8mIHg45k_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1547186433592639489/1672487389",
+    "bio": "هُوَ...",
+    "selfLocation": "1:20 ✈️ ",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1676557382866948101/8mIHg45k_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jul 13 11:50:03 +0000 2022",
+              "name": "سِد مُرتضی",
+              "screen_name": "sedmrtz"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTQ3MTg2NDMzNTkyNjM5NDg5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "هُوَ...",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 14412,
+              "follow_request_sent": false,
+              "followers_count": 24390,
+              "friends_count": 8976,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 206,
+              "needs_phone_verification": false,
+              "normal_followers_count": 24390,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1609166681124765696"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547186433592639489/1672487389",
+              "profile_interstitial_type": "",
+              "statuses_count": 3618,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 6,
+                "month": 6,
+                "visibility": "Public",
+                "year": 1997,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "1:20 ✈️ "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "هُوَ..."
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1547186433592639489",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU0NzE4NjQzMzU5MjYzOTQ4OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "5",
+                "last_changed_at_msec": "1672488498331"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1676557382866948101/8mIHg45k_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jul 13 11:50:03 +0000 2022",
+              "name": "سِد مُرتضی",
+              "screen_name": "sedmrtz"
+            },
+            "id": "VXNlcjoxNTQ3MTg2NDMzNTkyNjM5NDg5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1547186433592639489",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU0NzE4NjQzMzU5MjYzOTQ4OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
