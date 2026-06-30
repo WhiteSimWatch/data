@@ -1,7 +1,7 @@
 {
   "snapshotId": "e81020bd-bca0-4478-b21c-ee6e713082cd",
   "twitterId": "1291323320726626305",
-  "scannedAt": "2026-05-21T07:43:23.304Z",
+  "scannedAt": "2026-06-30T08:08:43.241Z",
   "fields": {
     "username": "alikarimi2130",
     "displayName": "پیرمرد دهه هفتادی",
@@ -15,154 +15,154 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2046069351217008640/muYYFbfk_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Aug 06 10:41:01 +0000 2020",
+              "name": "پیرمرد دهه هفتادی",
+              "screen_name": "alikarimi2130"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjkxMzIzMzIwNzI2NjI2MzA1",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "خدا نجار نیست اما خوب بلده در و تخته رو با هم جور کنه ❤️👩‍❤️‍👨\n\nمتاهل و متعهد ❤️🫂\n\nکمی متعهد به وجدان✌️😁",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "aparat.com/alikarimi0653",
+                      "expanded_url": "http://www.aparat.com/alikarimi0653",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/cDDYNOVNuP"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 13860,
+              "follow_request_sent": false,
+              "followers_count": 512,
+              "friends_count": 513,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 930,
+              "needs_phone_verification": false,
+              "normal_followers_count": 512,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291323320726626305/1668446199",
+              "profile_interstitial_type": "",
+              "statuses_count": 16145,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/cDDYNOVNuP",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": " شهرستان طبس شهر دیهوک"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خدا نجار نیست اما خوب بلده در و تخته رو با هم جور کنه ❤️👩‍❤️‍👨\n\nمتاهل و متعهد ❤️🫂\n\nکمی متعهد به وجدان✌️😁"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1291323320726626305",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTI5MTMyMzMyMDcyNjYyNjMwNQ==",
           "result": {
-            "id": "VXNlcjoxMjkxMzIzMzIwNzI2NjI2MzA1",
-            "core": {
-              "name": "پیرمرد دهه هفتادی",
-              "created_at": "Thu Aug 06 10:41:01 +0000 2020",
-              "screen_name": "alikarimi2130"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2046069351217008640/muYYFbfk_normal.jpg"
             },
+            "core": {
+              "created_at": "Thu Aug 06 10:41:01 +0000 2020",
+              "name": "پیرمرد دهه هفتادی",
+              "screen_name": "alikarimi2130"
+            },
+            "id": "VXNlcjoxMjkxMzIzMzIwNzI2NjI2MzA1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1291323320726626305",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI5MTMyMzMyMDcyNjYyNjMwNQ==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjkxMzIzMzIwNzI2NjI2MzA1",
-            "core": {
-              "name": "پیرمرد دهه هفتادی",
-              "created_at": "Thu Aug 06 10:41:01 +0000 2020",
-              "screen_name": "alikarimi2130"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2046069351217008640/muYYFbfk_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/cDDYNOVNuP",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/cDDYNOVNuP",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "aparat.com/alikarimi0653",
-                      "expanded_url": "http://www.aparat.com/alikarimi0653"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "خدا نجار نیست اما خوب بلده در و تخته رو با هم جور کنه ❤️👩‍❤️‍👨\n\nمتاهل و متعهد ❤️🫂\n\nکمی متعهد به وجدان✌️😁",
-              "media_count": 928,
-              "listed_count": 0,
-              "friends_count": 512,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 16143,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 510,
-              "translator_type": "none",
-              "favourites_count": 13860,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291323320726626305/1668446199",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 510,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1291323320726626305",
-            "location": {
-              "location": " شهرستان طبس شهر دیهوک"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "خدا نجار نیست اما خوب بلده در و تخته رو با هم جور کنه ❤️👩‍❤️‍👨\n\nمتاهل و متعهد ❤️🫂\n\nکمی متعهد به وجدان✌️😁"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
