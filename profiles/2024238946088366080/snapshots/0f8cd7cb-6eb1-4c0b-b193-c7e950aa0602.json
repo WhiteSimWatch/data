@@ -1,7 +1,7 @@
 {
   "snapshotId": "0f8cd7cb-6eb1-4c0b-b193-c7e950aa0602",
   "twitterId": "2024238946088366080",
-  "scannedAt": "2026-05-21T07:57:47.790Z",
+  "scannedAt": "2026-06-30T08:48:56.068Z",
   "fields": {
     "username": "Moon_shadow_21",
     "displayName": "☽ܢܚߊ‌یـܘ ܩߊ‌ܘ☾",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2024240262944301057/bUR7FaTG_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Feb 18 21:46:17 +0000 2026",
+              "name": "☽ܢܚߊ‌یـܘ ܩߊ‌ܘ☾",
+              "screen_name": "Moon_shadow_21"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDI0MjM4OTQ2MDg4MzY2MDgw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "❀﷽‌❀لَا حَوْلَ وَ لَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِیِّ الْعَظِیمِ❀\n\nدلتنگی یعنی ؛ ساعت: 09:40🥀",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1157,
+              "follow_request_sent": false,
+              "followers_count": 447,
+              "friends_count": 481,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 71,
+              "needs_phone_verification": false,
+              "normal_followers_count": 447,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 509,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "❀﷽‌❀لَا حَوْلَ وَ لَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِیِّ الْعَظِیمِ❀\n\nدلتنگی یعنی ؛ ساعت: 09:40🥀"
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2024238946088366080",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjAyNDIzODk0NjA4ODM2NjA4MA==",
           "result": {
-            "id": "VXNlcjoyMDI0MjM4OTQ2MDg4MzY2MDgw",
-            "core": {
-              "name": "☽ܢܚߊ‌یـܘ ܩߊ‌ܘ☾",
-              "created_at": "Wed Feb 18 21:46:17 +0000 2026",
-              "screen_name": "Moon_shadow_21"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2024240262944301057/bUR7FaTG_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2024238946088366080",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1771451665187"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAyNDIzODk0NjA4ODM2NjA4MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDI0MjM4OTQ2MDg4MzY2MDgw",
-            "core": {
-              "name": "☽ܢܚߊ‌یـܘ ܩߊ‌ܘ☾",
-              "created_at": "Wed Feb 18 21:46:17 +0000 2026",
-              "screen_name": "Moon_shadow_21"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2024240262944301057/bUR7FaTG_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "❀﷽‌❀لَا حَوْلَ وَ لَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِیِّ الْعَظِیمِ❀\n\nدلتنگی یعنی ؛ ساعت: 09:40🥀",
-              "media_count": 60,
-              "listed_count": 0,
-              "friends_count": 468,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 472,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 441,
-              "translator_type": "none",
-              "favourites_count": 1054,
-              "possibly_sensitive": false,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 441,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Feb 18 21:46:17 +0000 2026",
+              "name": "☽ܢܚߊ‌یـܘ ܩߊ‌ܘ☾",
+              "screen_name": "Moon_shadow_21"
             },
+            "id": "VXNlcjoyMDI0MjM4OTQ2MDg4MzY2MDgw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2024238946088366080",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "❀﷽‌❀لَا حَوْلَ وَ لَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِیِّ الْعَظِیمِ❀\n\nدلتنگی یعنی ؛ ساعت: 09:40🥀"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAyNDIzODk0NjA4ODM2NjA4MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "ar",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
