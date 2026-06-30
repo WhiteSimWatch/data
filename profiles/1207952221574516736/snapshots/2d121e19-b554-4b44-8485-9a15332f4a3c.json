@@ -1,7 +1,7 @@
 {
   "snapshotId": "2d121e19-b554-4b44-8485-9a15332f4a3c",
   "twitterId": "1207952221574516736",
-  "scannedAt": "2026-05-21T04:11:25.635Z",
+  "scannedAt": "2026-06-30T03:11:39.747Z",
   "fields": {
     "username": "amirmohamad313",
     "displayName": "Amir Mohamad.A",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1859687759062904832/BsuyEyfl_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Dec 20 09:14:00 +0000 2019",
+              "name": "Amir Mohamad.A",
+              "screen_name": "amirmohamad313"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjA3OTUyMjIxNTc0NTE2NzM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "‏و اُفوض امری الی الله...",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 5934,
+              "follow_request_sent": false,
+              "followers_count": 313,
+              "friends_count": 322,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 23,
+              "needs_phone_verification": false,
+              "normal_followers_count": 313,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1247779040045350912"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207952221574516736/1629915456",
+              "profile_interstitial_type": "",
+              "statuses_count": 425,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "‏و اُفوض امری الی الله..."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1207952221574516736",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTIwNzk1MjIyMTU3NDUxNjczNg==",
           "result": {
-            "id": "VXNlcjoxMjA3OTUyMjIxNTc0NTE2NzM2",
-            "core": {
-              "name": "Amir Mohamad.A",
-              "created_at": "Fri Dec 20 09:14:00 +0000 2019",
-              "screen_name": "amirmohamad313"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1859687759062904832/BsuyEyfl_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1207952221574516736",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1582462289961"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIwNzk1MjIyMTU3NDUxNjczNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjA3OTUyMjIxNTc0NTE2NzM2",
-            "core": {
-              "name": "Amir Mohamad.A",
-              "created_at": "Fri Dec 20 09:14:00 +0000 2019",
-              "screen_name": "amirmohamad313"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1859687759062904832/BsuyEyfl_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "‏و اُفوض امری الی الله...",
-              "media_count": 23,
-              "listed_count": 2,
-              "friends_count": 321,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 413,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 314,
-              "translator_type": "none",
-              "favourites_count": 5908,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207952221574516736/1629915456",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1247779040045350912"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 314,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Dec 20 09:14:00 +0000 2019",
+              "name": "Amir Mohamad.A",
+              "screen_name": "amirmohamad313"
             },
+            "id": "VXNlcjoxMjA3OTUyMjIxNTc0NTE2NzM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1207952221574516736",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "‏و اُفوض امری الی الله..."
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIwNzk1MjIyMTU3NDUxNjczNg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
