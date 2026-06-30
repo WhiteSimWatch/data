@@ -1,0 +1,162 @@
+{
+  "snapshotId": "51477d00-28a1-4e25-8464-f018f8f11863",
+  "twitterId": "1343283252396744706",
+  "scannedAt": "2026-06-30T16:43:25.435Z",
+  "fields": {
+    "username": "shahin_1373_",
+    "displayName": "شاهین",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2045597348294701056/Zna7G2Ir_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1343283252396744706/1663767131",
+    "bio": "😐",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045597348294701056/Zna7G2Ir_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Dec 27 19:51:39 +0000 2020",
+              "name": "شاهین",
+              "screen_name": "shahin_1373_"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzQzMjgzMjUyMzk2NzQ0NzA2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "😐",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 54961,
+              "follow_request_sent": false,
+              "followers_count": 349,
+              "friends_count": 173,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 780,
+              "needs_phone_verification": false,
+              "normal_followers_count": 349,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1577045802379354116"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343283252396744706/1663767131",
+              "profile_interstitial_type": "",
+              "statuses_count": 15748,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "😐"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1343283252396744706",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM0MzI4MzI1MjM5Njc0NDcwNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1619804515717"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045597348294701056/Zna7G2Ir_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Dec 27 19:51:39 +0000 2020",
+              "name": "شاهین",
+              "screen_name": "shahin_1373_"
+            },
+            "id": "VXNlcjoxMzQzMjgzMjUyMzk2NzQ0NzA2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1343283252396744706",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM0MzI4MzI1MjM5Njc0NDcwNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
