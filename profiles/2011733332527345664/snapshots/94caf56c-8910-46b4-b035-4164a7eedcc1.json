@@ -1,0 +1,190 @@
+{
+  "snapshotId": "94caf56c-8910-46b4-b035-4164a7eedcc1",
+  "twitterId": "2011733332527345664",
+  "scannedAt": "2026-06-30T04:55:36.814Z",
+  "fields": {
+    "username": "bagheritv65",
+    "displayName": "محمدرضا باقری",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2011733967414890497/T44NmNJQ_normal.jpg",
+    "profileBannerUrl": "",
+    "bio": "تنها اکانت رسمی ام همینجاس",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2011733967414890497/T44NmNJQ_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Jan 15 09:33:47 +0000 2026",
+              "name": "محمدرضا باقری",
+              "screen_name": "bagheritv65"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "This is my only official account."
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDExNzMzMzMyNTI3MzQ1NjY0",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "تنها اکانت رسمی ام همینجاس",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 265,
+              "follow_request_sent": false,
+              "followers_count": 267,
+              "friends_count": 253,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 25,
+              "needs_phone_verification": false,
+              "normal_followers_count": 267,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 246,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "تنها اکانت رسمی ام همینجاس"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2011733332527345664",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1781385105703"
+              }
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAxMTczMzMzMjUyNzM0NTY2NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1768469789014"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2011733967414890497/T44NmNJQ_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Jan 15 09:33:47 +0000 2026",
+              "name": "محمدرضا باقری",
+              "screen_name": "bagheritv65"
+            },
+            "id": "VXNlcjoyMDExNzMzMzMyNTI3MzQ1NjY0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2011733332527345664",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAxMTczMzMzMjUyNzM0NTY2NA==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1781385105703"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
