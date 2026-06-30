@@ -1,0 +1,160 @@
+{
+  "snapshotId": "637f35f7-9775-4eed-aea3-6c20b8011721",
+  "twitterId": "1898579025963999232",
+  "scannedAt": "2026-06-30T07:32:43.476Z",
+  "fields": {
+    "username": "AmirSabazi",
+    "displayName": "Amir Sabazi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1929981593365422080/cKI8dqDH_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1898579025963999232/1748977964",
+    "bio": "دهه هشتادی\n سربازانقلاب🇮🇷\n\nفالو =فالو",
+    "selfLocation": "Iranduba, Brasil",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1929981593365422080/cKI8dqDH_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Mar 09 03:38:33 +0000 2025",
+              "name": "Amir Sabazi",
+              "screen_name": "AmirSabazi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODk4NTc5MDI1OTYzOTk5MjMy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "دهه هشتادی\n سربازانقلاب🇮🇷\n\nفالو =فالو",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2476,
+              "follow_request_sent": false,
+              "followers_count": 515,
+              "friends_count": 823,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 626,
+              "needs_phone_verification": false,
+              "normal_followers_count": 515,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898579025963999232/1748977964",
+              "profile_interstitial_type": "",
+              "statuses_count": 3004,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iranduba, Brasil"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دهه هشتادی\n سربازانقلاب🇮🇷\n\nفالو =فالو"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1898579025963999232",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg5ODU3OTAyNTk2Mzk5OTIzMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1748862593258"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1929981593365422080/cKI8dqDH_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Mar 09 03:38:33 +0000 2025",
+              "name": "Amir Sabazi",
+              "screen_name": "AmirSabazi"
+            },
+            "id": "VXNlcjoxODk4NTc5MDI1OTYzOTk5MjMy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1898579025963999232",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg5ODU3OTAyNTk2Mzk5OTIzMg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
