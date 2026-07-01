@@ -1,7 +1,7 @@
 {
   "snapshotId": "5168f120-a057-4c66-a8ef-65794ea9d0b6",
   "twitterId": "1132563260383911936",
-  "scannedAt": "2026-05-22T03:25:16.012Z",
+  "scannedAt": "2026-07-01T07:41:33.661Z",
   "fields": {
     "username": "M277Moti",
     "displayName": "چاییسیونیسم ☕",
@@ -15,168 +15,168 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1971668750773428224/qgGXggBA_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun May 26 08:24:58 +0000 2019",
+              "name": "چاییسیونیسم ☕",
+              "screen_name": "M277Moti"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTMyNTYzMjYwMzgzOTExOTM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مَـا وَدَّعَکـــَ رَبُّکــَ\nچاپیات«\nدلباف،✉هایی‌که‌لیلا‌نخواند» \nبه روایتی خبرنگار(مهسا میگه بدبخت نشستهای خبری)\nهنر میخونم تا خوبتر ببینم 🦊\n🎼آهنگاحرف‌میزنن",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "Instagram.me/moti.m277",
+                      "expanded_url": "http://Instagram.me/moti.m277",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/42o6ZJWkZG"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 20841,
+              "follow_request_sent": false,
+              "followers_count": 582,
+              "friends_count": 372,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 302,
+              "needs_phone_verification": false,
+              "normal_followers_count": 582,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2017843564357571063"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132563260383911936/1636390487",
+              "profile_interstitial_type": "",
+              "statuses_count": 12632,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/42o6ZJWkZG",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "یه جای دور"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 37,
+                  "name": "Event Venue"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1527759542926327820"
+            },
+            "profile_bio": {
+              "description": "مَـا وَدَّعَکـــَ رَبُّکــَ\nچاپیات«\nدلباف،✉هایی‌که‌لیلا‌نخواند» \nبه روایتی خبرنگار(مهسا میگه بدبخت نشستهای خبری)\nهنر میخونم تا خوبتر ببینم 🦊\n🎼آهنگاحرف‌میزنن"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1132563260383911936",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTEzMjU2MzI2MDM4MzkxMTkzNg==",
           "result": {
-            "id": "VXNlcjoxMTMyNTYzMjYwMzgzOTExOTM2",
-            "core": {
-              "name": "چاییسیونیسم ☕",
-              "created_at": "Sun May 26 08:24:58 +0000 2019",
-              "screen_name": "M277Moti"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1971668750773428224/qgGXggBA_normal.jpg"
             },
+            "core": {
+              "created_at": "Sun May 26 08:24:58 +0000 2019",
+              "name": "چاییسیونیسم ☕",
+              "screen_name": "M277Moti"
+            },
+            "id": "VXNlcjoxMTMyNTYzMjYwMzgzOTExOTM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1132563260383911936",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTEzMjU2MzI2MDM4MzkxMTkzNg==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMTMyNTYzMjYwMzgzOTExOTM2",
-            "core": {
-              "name": "چاییسیونیسم ☕",
-              "created_at": "Sun May 26 08:24:58 +0000 2019",
-              "screen_name": "M277Moti"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1971668750773428224/qgGXggBA_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/42o6ZJWkZG",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/42o6ZJWkZG",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "Instagram.me/moti.m277",
-                      "expanded_url": "http://Instagram.me/moti.m277"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مَـا وَدَّعَکـــَ رَبُّکــَ\nچاپیات«\nدلباف،✉هایی‌که‌لیلا‌نخواند» \nبه روایتی خبرنگار(مهسا میگه بدبخت نشستهای خبری)\nهنر میخونم تا خوبتر ببینم 🦊\n🎼آهنگاحرف‌میزنن",
-              "media_count": 291,
-              "listed_count": 1,
-              "friends_count": 365,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 12429,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 568,
-              "translator_type": "none",
-              "favourites_count": 21029,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132563260383911936/1636390487",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "2017843564357571063"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 568,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1132563260383911936",
-            "location": {
-              "location": "یه جای دور"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مَـا وَدَّعَکـــَ رَبُّکــَ\nچاپیات«\nدلباف،✉هایی‌که‌لیلا‌نخواند» \nبه روایتی خبرنگار(مهسا میگه بدبخت نشستهای خبری)\nهنر میخونم تا خوبتر ببینم 🦊\n🎼آهنگاحرف‌میزنن"
-            },
-            "professional": {
-              "rest_id": "1527759542926327820",
-              "category": [
-                {
-                  "id": 37,
-                  "name": "Event Venue",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
