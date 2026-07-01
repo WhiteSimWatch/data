@@ -1,7 +1,7 @@
 {
   "snapshotId": "86ca5e3d-1133-40ed-b621-9782f1f74d54",
   "twitterId": "1282571563292741633",
-  "scannedAt": "2026-05-21T15:37:14.247Z",
+  "scannedAt": "2026-07-01T06:56:43.188Z",
   "fields": {
     "username": "ghafarii_313",
     "displayName": "فاطمه خانوم 🎒",
@@ -15,142 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1893989356202782720/jm0hmnM-_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jul 13 07:05:30 +0000 2020",
+              "name": "فاطمه خانوم 🎒",
+              "screen_name": "ghafarii_313"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjgyNTcxNTYzMjkyNzQxNjMz",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "دهه هفتادی/خانه دار/منتظر💚",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 66527,
+              "follow_request_sent": false,
+              "followers_count": 1932,
+              "friends_count": 1639,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 582,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1932,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2063188570958086621"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1282571563292741633/1677081037",
+              "profile_interstitial_type": "",
+              "statuses_count": 42714,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دهه هفتادی/خانه دار/منتظر💚"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1282571563292741633",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTI4MjU3MTU2MzI5Mjc0MTYzMw==",
           "result": {
-            "id": "VXNlcjoxMjgyNTcxNTYzMjkyNzQxNjMz",
-            "core": {
-              "name": "فاطمه خانوم 🎒",
-              "created_at": "Mon Jul 13 07:05:30 +0000 2020",
-              "screen_name": "ghafarii_313"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1893989356202782720/jm0hmnM-_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1282571563292741633",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1739442194748"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI4MjU3MTU2MzI5Mjc0MTYzMw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjgyNTcxNTYzMjkyNzQxNjMz",
-            "core": {
-              "name": "فاطمه خانوم 🎒",
-              "created_at": "Mon Jul 13 07:05:30 +0000 2020",
-              "screen_name": "ghafarii_313"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1893989356202782720/jm0hmnM-_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "دهه هفتادی/خانه دار/منتظر💚",
-              "media_count": 501,
-              "listed_count": 1,
-              "friends_count": 1553,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 41502,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1811,
-              "translator_type": "none",
-              "favourites_count": 61797,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1282571563292741633/1677081037",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1811,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Jul 13 07:05:30 +0000 2020",
+              "name": "فاطمه خانوم 🎒",
+              "screen_name": "ghafarii_313"
             },
+            "id": "VXNlcjoxMjgyNTcxNTYzMjkyNzQxNjMz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1282571563292741633",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "دهه هفتادی/خانه دار/منتظر💚"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI4MjU3MTU2MzI5Mjc0MTYzMw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
