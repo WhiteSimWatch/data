@@ -1,7 +1,7 @@
 {
   "snapshotId": "d73e09ae-b8c9-4c79-99e6-2d2bac51abf8",
   "twitterId": "1843908016506044416",
-  "scannedAt": "2026-05-22T03:13:10.602Z",
+  "scannedAt": "2026-07-01T07:26:04.073Z",
   "fields": {
     "username": "ava68665",
     "displayName": "Ava",
@@ -15,156 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1843912593485766656/iiRlVPjL_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Oct 09 06:55:37 +0000 2024",
+              "name": "Ava",
+              "screen_name": "ava68665"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODQzOTA4MDE2NTA2MDQ0NDE2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "خانمی محجبه .منتظر امام زمان علیه السلام .عاشق رهبر ووطنم ایراااااان",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 42522,
+              "follow_request_sent": false,
+              "followers_count": 3531,
+              "friends_count": 3449,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 1199,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3531,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1983603522643095903"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843908016506044416/1728458385",
+              "profile_interstitial_type": "",
+              "statuses_count": 24226,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خانمی محجبه .منتظر امام زمان علیه السلام .عاشق رهبر ووطنم ایراااااان"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1843908016506044416",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg0MzkwODAxNjUwNjA0NDQxNg==",
           "result": {
-            "id": "VXNlcjoxODQzOTA4MDE2NTA2MDQ0NDE2",
-            "core": {
-              "name": "Ava",
-              "created_at": "Wed Oct 09 06:55:37 +0000 2024",
-              "screen_name": "ava68665"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1843912593485766656/iiRlVPjL_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1843908016506044416",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1728456961981"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg0MzkwODAxNjUwNjA0NDQxNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODQzOTA4MDE2NTA2MDQ0NDE2",
-            "core": {
-              "name": "Ava",
-              "created_at": "Wed Oct 09 06:55:37 +0000 2024",
-              "screen_name": "ava68665"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1843912593485766656/iiRlVPjL_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "خانمی محجبه .منتظر امام زمان علیه السلام .عاشق رهبر ووطنم ایراااااان",
-              "media_count": 1023,
-              "listed_count": 2,
-              "friends_count": 3314,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 21131,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3397,
-              "translator_type": "none",
-              "favourites_count": 37032,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843908016506044416/1728458385",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1983603522643095903"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3397,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Oct 09 06:55:37 +0000 2024",
+              "name": "Ava",
+              "screen_name": "ava68665"
             },
+            "id": "VXNlcjoxODQzOTA4MDE2NTA2MDQ0NDE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1843908016506044416",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "خانمی محجبه .منتظر امام زمان علیه السلام .عاشق رهبر ووطنم ایراااااان"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg0MzkwODAxNjUwNjA0NDQxNg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "A veiled lady. Waiting for Imam al-Mahdi (peace be upon him). Lover of the Leader and my homeland Iraaaaaan",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
