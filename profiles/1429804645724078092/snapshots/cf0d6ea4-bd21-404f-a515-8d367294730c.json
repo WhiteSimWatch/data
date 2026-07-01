@@ -1,7 +1,7 @@
 {
   "snapshotId": "cf0d6ea4-bd21-404f-a515-8d367294730c",
   "twitterId": "1429804645724078092",
-  "scannedAt": "2026-05-22T03:34:47.361Z",
+  "scannedAt": "2026-07-01T07:53:07.853Z",
   "fields": {
     "username": "raziehbakhtiari",
     "displayName": "راضیه بختیاری 🎒🟩 ⬜️ ☫⬜️ 🟥🎒",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2055573307844640768/ofL4uR0U_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Aug 23 13:56:45 +0000 2021",
+              "name": "راضیه بختیاری 🎒🟩 ⬜️ ☫⬜️ 🟥🎒",
+              "screen_name": "raziehbakhtiari"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDI5ODA0NjQ1NzI0MDc4MDky",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "یه شهریوری دهه شصتی،دوست کتاب،حافظ کل قرآن،عاشق نهج البلاغه.سربازکوچک  آقاجانم سیدعلی خامنه ای حفظه الله\n#فالو_بک",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 28529,
+              "follow_request_sent": false,
+              "followers_count": 11795,
+              "friends_count": 11931,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 1950,
+              "needs_phone_verification": false,
+              "normal_followers_count": 11795,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2072196373009592796"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429804645724078092/1681523712",
+              "profile_interstitial_type": "",
+              "statuses_count": 23912,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "قزوین"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یه شهریوری دهه شصتی،دوست کتاب،حافظ کل قرآن،عاشق نهج البلاغه.سربازکوچک  آقاجانم سیدعلی خامنه ای حفظه الله\n#فالو_بک"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1429804645724078092",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTQyOTgwNDY0NTcyNDA3ODA5Mg==",
           "result": {
-            "id": "VXNlcjoxNDI5ODA0NjQ1NzI0MDc4MDky",
-            "core": {
-              "name": "راضیه بختیاری 🎒🟩 ⬜️ ☫⬜️ 🟥🎒",
-              "created_at": "Mon Aug 23 13:56:45 +0000 2021",
-              "screen_name": "raziehbakhtiari"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2055573307844640768/ofL4uR0U_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1429804645724078092",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "4",
                 "last_changed_at_msec": "1635494726816"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQyOTgwNDY0NTcyNDA3ODA5Mg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNDI5ODA0NjQ1NzI0MDc4MDky",
-            "core": {
-              "name": "راضیه بختیاری 🎒🟩 ⬜️ ☫⬜️ 🟥🎒",
-              "created_at": "Mon Aug 23 13:56:45 +0000 2021",
-              "screen_name": "raziehbakhtiari"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2055573307844640768/ofL4uR0U_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "یه شهریوری دهه شصتی،دوست کتاب،حافظ کل قرآن،عاشق نهج البلاغه.سربازکوچک  آقاجانم سیدعلی خامنه ای حفظه الله\n#فالو_بک",
-              "media_count": 1894,
-              "listed_count": 1,
-              "friends_count": 11693,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 23643,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 11546,
-              "translator_type": "none",
-              "favourites_count": 27861,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429804645724078092/1681523712",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "2056041505912173055"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 11546,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Aug 23 13:56:45 +0000 2021",
+              "name": "راضیه بختیاری 🎒🟩 ⬜️ ☫⬜️ 🟥🎒",
+              "screen_name": "raziehbakhtiari"
             },
+            "id": "VXNlcjoxNDI5ODA0NjQ1NzI0MDc4MDky",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1429804645724078092",
-            "location": {
-              "location": "قزوین"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "یه شهریوری دهه شصتی،دوست کتاب،حافظ کل قرآن،عاشق نهج البلاغه.سربازکوچک  آقاجانم سیدعلی خامنه ای حفظه الله\n#فالو_بک"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQyOTgwNDY0NTcyNDA3ODA5Mg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
