@@ -1,7 +1,7 @@
 {
   "snapshotId": "5b538f88-d39c-482b-8f19-cb9b9acb4db5",
   "twitterId": "1328081286",
-  "scannedAt": "2026-05-22T04:21:04.739Z",
+  "scannedAt": "2026-07-01T09:00:14.636Z",
   "fields": {
     "username": "hhaaddaaddii",
     "displayName": "سرباز انقلاب اسلامی",
@@ -15,144 +15,144 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2019029652451332096/Bes-mLjU_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Apr 05 00:44:38 +0000 2013",
+              "name": "سرباز انقلاب اسلامی",
+              "screen_name": "hhaaddaaddii"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzI4MDgxMjg2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "فی العدل سعه/ان شاالله\nعبد صالح خدا\nسرباز صاحب الزمان و فدایی انقلاب اسلامی. /\nعاشق ايران، عکاسی و خانواده ام هستم\nphotographer, father, boy, husbend,",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 81083,
+              "follow_request_sent": false,
+              "followers_count": 1424,
+              "friends_count": 2355,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 193,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1424,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2034681165949379033"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1328081286/1717400488",
+              "profile_interstitial_type": "",
+              "statuses_count": 20279,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فی العدل سعه/ان شاالله\nعبد صالح خدا\nسرباز صاحب الزمان و فدایی انقلاب اسلامی. /\nعاشق ايران، عکاسی و خانواده ام هستم\nphotographer, father, boy, husbend,"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1328081286",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTMyODA4MTI4Ng==",
           "result": {
-            "id": "VXNlcjoxMzI4MDgxMjg2",
-            "core": {
-              "name": "سرباز انقلاب اسلامی",
-              "created_at": "Fri Apr 05 00:44:38 +0000 2013",
-              "screen_name": "hhaaddaaddii"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2019029652451332096/Bes-mLjU_normal.jpg"
             },
+            "core": {
+              "created_at": "Fri Apr 05 00:44:38 +0000 2013",
+              "name": "سرباز انقلاب اسلامی",
+              "screen_name": "hhaaddaaddii"
+            },
+            "id": "VXNlcjoxMzI4MDgxMjg2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1328081286",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMyODA4MTI4Ng==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMzI4MDgxMjg2",
-            "core": {
-              "name": "سرباز انقلاب اسلامی",
-              "created_at": "Fri Apr 05 00:44:38 +0000 2013",
-              "screen_name": "hhaaddaaddii"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2019029652451332096/Bes-mLjU_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "فی العدل سعه/ان شاالله\nعبد صالح خدا\nسرباز صاحب الزمان و فدایی انقلاب اسلامی. /\nعاشق ايران، عکاسی و خانواده ام هستم\nphotographer, father, boy, husbend,",
-              "media_count": 190,
-              "listed_count": 3,
-              "friends_count": 2364,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 19985,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1425,
-              "translator_type": "none",
-              "favourites_count": 80581,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1328081286/1717400488",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2034681165949379033"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1425,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1328081286",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "فی العدل سعه/ان شاالله\nعبد صالح خدا\nسرباز صاحب الزمان و فدایی انقلاب اسلامی. /\nعاشق ايران، عکاسی و خانواده ام هستم\nphotographer, father, boy, husbend,"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
