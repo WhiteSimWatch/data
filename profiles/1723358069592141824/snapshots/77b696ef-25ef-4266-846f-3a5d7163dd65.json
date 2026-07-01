@@ -1,7 +1,7 @@
 {
   "snapshotId": "77b696ef-25ef-4266-846f-3a5d7163dd65",
   "twitterId": "1723358069592141824",
-  "scannedAt": "2026-05-21T08:25:45.972Z",
+  "scannedAt": "2026-07-01T03:12:49.755Z",
   "fields": {
     "username": "neelram627",
     "displayName": "نگهبان باران🦋",
@@ -15,169 +15,180 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030365415268872192/rstWdnqe_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Nov 11 15:12:59 +0000 2023",
+              "name": "نگهبان باران🦋",
+              "screen_name": "neelram627"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Muawiyah: Do you know anyone stronger than Ali?  \nAmr ibn al-As: Yes, the ignorance of people at the time of repeating history.!🍂  \nProud Sandis-eater of the Islamic Republic😁 Gen Z, mischievous, patient, curious, opinionated🕊"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzIzMzU4MDY5NTkyMTQxODI0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "معاویه :قوی تر از علی کسی را سراغ داری؟\nعمروعاص:آری جهل مردم به وقت تکرار تاریخ.!🍂\n باافتخار ساندیس خورجمهوری اسلامی😁 دهه هشتادی،شیطون،صبور،کنجکاو،صاحب نظر🕊",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/Myanonymouslin…",
+                      "expanded_url": "https://t.me/Myanonymouslinkbot",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/UrrLoObNYc"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 13876,
+              "follow_request_sent": false,
+              "followers_count": 2367,
+              "friends_count": 2212,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 886,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2367,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1846222448821211240"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723358069592141824/1750236914",
+              "profile_interstitial_type": "",
+              "statuses_count": 11894,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/UrrLoObNYc",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "سرزمین شگفتی🕊"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1833994877425602830"
+            },
+            "profile_bio": {
+              "description": "معاویه :قوی تر از علی کسی را سراغ داری؟\nعمروعاص:آری جهل مردم به وقت تکرار تاریخ.!🍂\n باافتخار ساندیس خورجمهوری اسلامی😁 دهه هشتادی،شیطون،صبور،کنجکاو،صاحب نظر🕊"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1723358069592141824",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTcyMzM1ODA2OTU5MjE0MTgyNA==",
           "result": {
-            "id": "VXNlcjoxNzIzMzU4MDY5NTkyMTQxODI0",
-            "core": {
-              "name": "نگهبان باران🦋",
-              "created_at": "Sat Nov 11 15:12:59 +0000 2023",
-              "screen_name": "neelram627"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2030365415268872192/rstWdnqe_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1723358069592141824",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "7",
                 "last_changed_at_msec": "1726093501239"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcyMzM1ODA2OTU5MjE0MTgyNA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNzIzMzU4MDY5NTkyMTQxODI0",
-            "core": {
-              "name": "نگهبان باران🦋",
-              "created_at": "Sat Nov 11 15:12:59 +0000 2023",
-              "screen_name": "neelram627"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2030365415268872192/rstWdnqe_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/UrrLoObNYc",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/UrrLoObNYc",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/Myanonymouslin…",
-                      "expanded_url": "https://t.me/Myanonymouslinkbot"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "معاویه :قوی تر از علی کسی را سراغ داری؟\nعمروعاص:آری جهل مردم به وقت تکرار تاریخ.!🍂\n باافتخار ساندیس خورجمهوری اسلامی😁 دهه هشتادی،شیطون،صبور،کنجکاو،صاحب نظر🕊",
-              "media_count": 869,
-              "listed_count": 1,
-              "friends_count": 2147,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 11735,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2348,
-              "translator_type": "none",
-              "favourites_count": 13690,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723358069592141824/1750236914",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1846222448821211240"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2348,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Nov 11 15:12:59 +0000 2023",
+              "name": "نگهبان باران🦋",
+              "screen_name": "neelram627"
             },
+            "id": "VXNlcjoxNzIzMzU4MDY5NTkyMTQxODI0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1723358069592141824",
-            "location": {
-              "location": "سرزمین شگفتی🕊"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "معاویه :قوی تر از علی کسی را سراغ داری؟\nعمروعاص:آری جهل مردم به وقت تکرار تاریخ.!🍂\n باافتخار ساندیس خورجمهوری اسلامی😁 دهه هشتادی،شیطون،صبور،کنجکاو،صاحب نظر🕊"
-            },
-            "professional": {
-              "rest_id": "1833994877425602830",
-              "category": [
-                {
-                  "id": 934,
-                  "name": "Social Media Influencer",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcyMzM1ODA2OTU5MjE0MTgyNA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
