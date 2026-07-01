@@ -1,0 +1,161 @@
+{
+  "snapshotId": "04e6b26b-8b33-408b-8946-8365f5322be6",
+  "twitterId": "524085004",
+  "scannedAt": "2026-07-01T03:03:03.784Z",
+  "fields": {
+    "username": "javadheydarian",
+    "displayName": "Javad Heydarian",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1632718258951340032/RlehJhlH_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/524085004/1729202980",
+    "bio": "Journalist & Environment Activist",
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1632718258951340032/RlehJhlH_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Mar 14 06:48:20 +0000 2012",
+              "name": "Javad Heydarian",
+              "screen_name": "javadheydarian"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo1MjQwODUwMDQ=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Journalist & Environment Activist",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 91682,
+              "follow_request_sent": false,
+              "followers_count": 11534,
+              "friends_count": 625,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 66,
+              "media_count": 1183,
+              "needs_phone_verification": false,
+              "normal_followers_count": 11534,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2029672366612087232"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/524085004/1729202980",
+              "profile_interstitial_type": "",
+              "statuses_count": 21660,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Journalist & Environment Activist"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "524085004",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NTI0MDg1MDA0",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1632718258951340032/RlehJhlH_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Mar 14 06:48:20 +0000 2012",
+              "name": "Javad Heydarian",
+              "screen_name": "javadheydarian"
+            },
+            "id": "VXNlcjo1MjQwODUwMDQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "524085004",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NTI0MDg1MDA0",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
