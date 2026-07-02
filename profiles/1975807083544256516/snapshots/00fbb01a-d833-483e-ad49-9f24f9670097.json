@@ -1,7 +1,7 @@
 {
   "snapshotId": "00fbb01a-d833-483e-ad49-9f24f9670097",
   "twitterId": "1975807083544256516",
-  "scannedAt": "2026-05-22T08:00:30.350Z",
+  "scannedAt": "2026-07-02T07:03:01.829Z",
   "fields": {
     "username": "mah_dokht69",
     "displayName": "مه‌دخت شاهانی",
@@ -15,136 +15,83 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTk3NTgwNzA4MzU0NDI1NjUxNg==",
-          "result": {
-            "id": "VXNlcjoxOTc1ODA3MDgzNTQ0MjU2NTE2",
-            "core": {
-              "name": "مه‌دخت شاهانی",
-              "created_at": "Wed Oct 08 06:16:13 +0000 2025",
-              "screen_name": "mah_dokht69"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1975919065806905344/RbLM4wpT_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1975807083544256516",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "West Asia",
-              "username_changes": {
-                "count": "1",
-                "last_changed_at_msec": "1759904236224"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk3NTgwNzA4MzU0NDI1NjUxNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxOTc1ODA3MDgzNTQ0MjU2NTE2",
-            "core": {
-              "name": "مه‌دخت شاهانی",
-              "created_at": "Wed Oct 08 06:16:13 +0000 2025",
-              "screen_name": "mah_dokht69"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1975919065806905344/RbLM4wpT_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "به‌ازین چه شادمانی!!!\n📿",
-              "media_count": 1118,
-              "listed_count": 6,
-              "friends_count": 3141,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 10610,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2693,
-              "translator_type": "none",
-              "favourites_count": 37668,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975807083544256516/1770794749",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2029457007854444769"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2693,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Oct 08 06:16:13 +0000 2025",
+              "name": "مه‌دخت شاهانی",
+              "screen_name": "mah_dokht69"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1975807083544256516",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "به‌ازین چه شادمانی!!!\n📿"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": false
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "What joy from this!!!\n📿"
+              },
+              "is_available": true
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTc1ODA3MDgzNTQ0MjU2NTE2",
+            "is_blue_verified": false,
             "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "به‌ازین چه شادمانی!!!\n📿",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 44194,
+              "follow_request_sent": false,
+              "followers_count": 2788,
+              "friends_count": 3248,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 6,
+              "media_count": 1221,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2788,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2029457007854444769"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975807083544256516/1770794749",
+              "profile_interstitial_type": "",
+              "statuses_count": 12776,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 23,
@@ -153,14 +100,78 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "به‌ازین چه شادمانی!!!\n📿"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1975807083544256516",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk3NTgwNzA4MzU0NDI1NjUxNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1759904236224"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1975919065806905344/RbLM4wpT_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Oct 08 06:16:13 +0000 2025",
+              "name": "مه‌دخت شاهانی",
+              "screen_name": "mah_dokht69"
+            },
+            "id": "VXNlcjoxOTc1ODA3MDgzNTQ0MjU2NTE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1975807083544256516",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk3NTgwNzA4MzU0NDI1NjUxNg==",
+              "is_identity_verified": false
             }
           }
         }
