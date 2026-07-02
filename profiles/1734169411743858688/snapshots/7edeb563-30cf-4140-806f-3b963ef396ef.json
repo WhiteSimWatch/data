@@ -1,7 +1,7 @@
 {
   "snapshotId": "7edeb563-30cf-4140-806f-3b963ef396ef",
   "twitterId": "1734169411743858688",
-  "scannedAt": "2026-05-22T07:02:00.378Z",
+  "scannedAt": "2026-07-02T05:42:36.352Z",
   "fields": {
     "username": "ImadZakout",
     "displayName": "Imad Zakout | عماد زقوت",
@@ -15,176 +15,176 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1734181178008072192/PVT3G9JS_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Dec 11 11:13:23 +0000 2023",
+              "name": "Imad Zakout | عماد زقوت",
+              "screen_name": "ImadZakout"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "1"
+            },
+            "id": "VXNlcjoxNzM0MTY5NDExNzQzODU4Njg4",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Journalist From Jabalia Refugee Camp, North of Gaza\n📞+970599609912",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/shamal_online1",
+                      "expanded_url": "https://t.me/shamal_online1",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/aPx6PpBY8B"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 666,
+              "follow_request_sent": false,
+              "followers_count": 30507,
+              "friends_count": 40,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 96,
+              "media_count": 351,
+              "needs_phone_verification": false,
+              "normal_followers_count": 30507,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1954657322405691756"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734169411743858688/1755505800",
+              "profile_interstitial_type": "",
+              "statuses_count": 1208,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/aPx6PpBY8B",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Palestine , Gaza"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Journalist From Jabalia Refugee Camp, North of Gaza\n📞+970599609912"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1734169411743858688",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1753485542524"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTczNDE2OTQxMTc0Mzg1ODY4OA==",
           "result": {
-            "id": "VXNlcjoxNzM0MTY5NDExNzQzODU4Njg4",
-            "core": {
-              "name": "Imad Zakout | عماد زقوت",
-              "created_at": "Mon Dec 11 11:13:23 +0000 2023",
-              "screen_name": "ImadZakout"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1734181178008072192/PVT3G9JS_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1734169411743858688",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1702328202545"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTczNDE2OTQxMTc0Mzg1ODY4OA==",
-              "reason": {
-                "verified_since_msec": "1753485542524"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNzM0MTY5NDExNzQzODU4Njg4",
-            "core": {
-              "name": "Imad Zakout | عماد زقوت",
-              "created_at": "Mon Dec 11 11:13:23 +0000 2023",
-              "screen_name": "ImadZakout"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1734181178008072192/PVT3G9JS_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/aPx6PpBY8B",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/aPx6PpBY8B",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/shamal_online1",
-                      "expanded_url": "https://t.me/shamal_online1"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Journalist From Jabalia Refugee Camp, North of Gaza\n📞+970599609912",
-              "media_count": 350,
-              "listed_count": 96,
-              "friends_count": 40,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1206,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 30721,
-              "translator_type": "none",
-              "favourites_count": 666,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734169411743858688/1755505800",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1954657322405691756"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 30721,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Dec 11 11:13:23 +0000 2023",
+              "name": "Imad Zakout | عماد زقوت",
+              "screen_name": "ImadZakout"
             },
+            "id": "VXNlcjoxNzM0MTY5NDExNzQzODU4Njg4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1734169411743858688",
-            "location": {
-              "location": "Palestine , Gaza"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Journalist From Jabalia Refugee Camp, North of Gaza\n📞+970599609912"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "1",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTczNDE2OTQxMTc0Mzg1ODY4OA==",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1753485542524"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
