@@ -1,0 +1,159 @@
+{
+  "snapshotId": "ecb7708e-af23-400b-827a-7a7a5704b6f3",
+  "twitterId": "1885570103237910528",
+  "scannedAt": "2026-07-02T14:12:42.679Z",
+  "fields": {
+    "username": "ASALY_GL",
+    "displayName": "Asaly🇮🇷",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2071273218241916928/5F5qTHYz_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1885570103237910528/1782665198",
+    "bio": "",
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2071273218241916928/5F5qTHYz_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Feb 01 06:05:57 +0000 2025",
+              "name": "Asaly🇮🇷",
+              "screen_name": "ASALY_GL"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODg1NTcwMTAzMjM3OTEwNTI4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2834,
+              "follow_request_sent": false,
+              "followers_count": 22,
+              "friends_count": 63,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 1,
+              "needs_phone_verification": false,
+              "normal_followers_count": 22,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885570103237910528/1782665198",
+              "profile_interstitial_type": "",
+              "statuses_count": 1403,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1885570103237910528",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg4NTU3MDEwMzIzNzkxMDUyOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1738492986554"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2071273218241916928/5F5qTHYz_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Feb 01 06:05:57 +0000 2025",
+              "name": "Asaly🇮🇷",
+              "screen_name": "ASALY_GL"
+            },
+            "id": "VXNlcjoxODg1NTcwMTAzMjM3OTEwNTI4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1885570103237910528",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4NTU3MDEwMzIzNzkxMDUyOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
