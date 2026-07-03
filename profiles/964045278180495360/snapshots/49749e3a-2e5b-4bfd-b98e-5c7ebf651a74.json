@@ -1,7 +1,7 @@
 {
   "snapshotId": "49749e3a-2e5b-4bfd-b98e-5c7ebf651a74",
   "twitterId": "964045278180495360",
-  "scannedAt": "2026-05-23T07:58:02.555Z",
+  "scannedAt": "2026-07-03T08:07:08.403Z",
   "fields": {
     "username": "minaghasemiii",
     "displayName": "مینا قاسمی‌زواره",
@@ -15,158 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1993669852905517056/rP2NgKJN_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Feb 15 07:54:40 +0000 2018",
+              "name": "مینا قاسمی‌زواره",
+              "screen_name": "minaghasemiii"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5NjQwNDUyNzgxODA0OTUzNjA=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مستندساز/فعال رسانه/خیریه‌(نبضِ مهرِ ایران)",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/Mina_ghacemi",
+                      "expanded_url": "https://t.me/Mina_ghacemi",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/6MeUacZb8v"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 12640,
+              "follow_request_sent": false,
+              "followers_count": 2014,
+              "friends_count": 649,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 18,
+              "media_count": 665,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2014,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1933465879746130238"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/964045278180495360/1646326454",
+              "profile_interstitial_type": "",
+              "statuses_count": 4646,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/6MeUacZb8v",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مستندساز/فعال رسانه/خیریه‌(نبضِ مهرِ ایران)"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "964045278180495360",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTY0MDQ1Mjc4MTgwNDk1MzYw",
           "result": {
-            "id": "VXNlcjo5NjQwNDUyNzgxODA0OTUzNjA=",
-            "core": {
-              "name": "مینا قاسمی‌زواره",
-              "created_at": "Thu Feb 15 07:54:40 +0000 2018",
-              "screen_name": "minaghasemiii"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1993669852905517056/rP2NgKJN_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "964045278180495360",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1616666482881"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTY0MDQ1Mjc4MTgwNDk1MzYw",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5NjQwNDUyNzgxODA0OTUzNjA=",
-            "core": {
-              "name": "مینا قاسمی‌زواره",
-              "created_at": "Thu Feb 15 07:54:40 +0000 2018",
-              "screen_name": "minaghasemiii"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1993669852905517056/rP2NgKJN_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/6MeUacZb8v",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/6MeUacZb8v",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/Mina_ghacemi",
-                      "expanded_url": "https://t.me/Mina_ghacemi"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مستندساز/فعال رسانه/خیریه‌(نبضِ مهرِ ایران)",
-              "media_count": 662,
-              "listed_count": 18,
-              "friends_count": 649,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 4627,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2021,
-              "translator_type": "none",
-              "favourites_count": 12649,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/964045278180495360/1646326454",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1933465879746130238"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2021,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Feb 15 07:54:40 +0000 2018",
+              "name": "مینا قاسمی‌زواره",
+              "screen_name": "minaghasemiii"
             },
+            "id": "VXNlcjo5NjQwNDUyNzgxODA0OTUzNjA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "964045278180495360",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مستندساز/فعال رسانه/خیریه‌(نبضِ مهرِ ایران)"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTY0MDQ1Mjc4MTgwNDk1MzYw",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
