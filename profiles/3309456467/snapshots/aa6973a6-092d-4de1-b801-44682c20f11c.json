@@ -1,0 +1,180 @@
+{
+  "snapshotId": "aa6973a6-092d-4de1-b801-44682c20f11c",
+  "twitterId": "3309456467",
+  "scannedAt": "2026-07-03T22:44:10.324Z",
+  "fields": {
+    "username": "Javidovsky",
+    "displayName": "Javid",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2068316310396895232/LNwkhsOW_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3309456467/1653600345",
+    "bio": "ز گهواره تا گور، بگو یا علی",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2068316310396895232/LNwkhsOW_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jun 05 16:37:13 +0000 2015",
+              "name": "Javid",
+              "screen_name": "Javidovsky"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "From the cradle to the grave, say \"Ya Ali\""
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjozMzA5NDU2NDY3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "ز گهواره تا گور، بگو یا علی",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 101460,
+              "follow_request_sent": false,
+              "followers_count": 4475,
+              "friends_count": 640,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 25,
+              "media_count": 4620,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4475,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1814396168295854384"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/3309456467/1653600345",
+              "profile_interstitial_type": "",
+              "statuses_count": 63887,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "visibility": "MutualFollow",
+                "year": 1991,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ز گهواره تا گور، بگو یا علی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "3309456467",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MzMwOTQ1NjQ2Nw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "7",
+                "last_changed_at_msec": "1529945054334"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2068316310396895232/LNwkhsOW_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jun 05 16:37:13 +0000 2015",
+              "name": "Javid",
+              "screen_name": "Javidovsky"
+            },
+            "id": "VXNlcjozMzA5NDU2NDY3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "3309456467",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzMwOTQ1NjQ2Nw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
