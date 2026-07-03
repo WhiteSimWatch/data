@@ -1,7 +1,7 @@
 {
   "snapshotId": "a3c5a2d5-9000-4c0f-8705-cfb4f0aba2b6",
   "twitterId": "1973043001036591105",
-  "scannedAt": "2026-05-24T03:22:38.960Z",
+  "scannedAt": "2026-07-03T09:28:32.864Z",
   "fields": {
     "username": "GlobalIJournal",
     "displayName": "Global Insight Journal",
@@ -15,163 +15,160 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2032535222944694274/8uj72ebY_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Sep 30 15:14:01 +0000 2025",
+              "name": "Global Insight Journal",
+              "screen_name": "GlobalIJournal"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "247"
+            },
+            "id": "VXNlcjoxOTczMDQzMDAxMDM2NTkxMTA1",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Global Insight Journal\n\nAn international intellectual platform that monitors global politics and economics\nStrategic in-depth",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1217,
+              "follow_request_sent": false,
+              "followers_count": 86830,
+              "friends_count": 15,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 352,
+              "media_count": 5747,
+              "needs_phone_verification": false,
+              "normal_followers_count": 86830,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1973043001036591105/1773429133",
+              "profile_interstitial_type": "",
+              "statuses_count": 6142,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Global Insight Journal\n\nAn international intellectual platform that monitors global politics and economics\nStrategic in-depth"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1973043001036591105",
+            "super_follow_eligible": true,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 3,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1781904117028"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTk3MzA0MzAwMTAzNjU5MTEwNQ==",
           "result": {
-            "id": "VXNlcjoxOTczMDQzMDAxMDM2NTkxMTA1",
-            "core": {
-              "name": "Global Insight Journal",
-              "created_at": "Tue Sep 30 15:14:01 +0000 2025",
-              "screen_name": "GlobalIJournal"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2032535222944694274/8uj72ebY_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1973043001036591105",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1759502617472"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk3MzA0MzAwMTAzNjU5MTEwNQ==",
-              "reason": {
-                "verified_since_msec": "1779140206972"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTczMDQzMDAxMDM2NTkxMTA1",
-            "core": {
-              "name": "Global Insight Journal",
-              "created_at": "Tue Sep 30 15:14:01 +0000 2025",
-              "screen_name": "GlobalIJournal"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2032535222944694274/8uj72ebY_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Global Insight Journal\n\nAn international intellectual platform that monitors global politics and economics\nStrategic in-depth",
-              "media_count": 5654,
-              "listed_count": 345,
-              "friends_count": 13,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 6061,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 86287,
-              "translator_type": "none",
-              "favourites_count": 891,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1973043001036591105/1773429133",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2035419918401692093"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 86287,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Sep 30 15:14:01 +0000 2025",
+              "name": "Global Insight Journal",
+              "screen_name": "GlobalIJournal"
             },
+            "id": "VXNlcjoxOTczMDQzMDAxMDM2NTkxMTA1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1973043001036591105",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Global Insight Journal\n\nAn international intellectual platform that monitors global politics and economics\nStrategic in-depth"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "238",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk3MzA0MzAwMTAzNjU5MTEwNQ==",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
-                "verified_since_msec": "1779140206972"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": true,
-            "user_seed_tweet_count": 3,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+                "verified_since_msec": "1781904117028"
+              }
             }
           }
         }
