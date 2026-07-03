@@ -1,7 +1,7 @@
 {
   "snapshotId": "135742ec-16f6-4558-895c-f27b1cd3cc1c",
   "twitterId": "754064538178248704",
-  "scannedAt": "2026-05-23T06:51:53.967Z",
+  "scannedAt": "2026-07-03T06:37:07.188Z",
   "fields": {
     "username": "ein_shin_ghaf",
     "displayName": "ع.ش.ق",
@@ -15,153 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2029836905161052160/XOW06otP_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jul 15 21:26:10 +0000 2016",
+              "name": "ع.ش.ق",
+              "screen_name": "ein_shin_ghaf"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3NTQwNjQ1MzgxNzgyNDg3MDQ=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "آگاهی چشم اسفندیارخودکامگان است",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 28717,
+              "follow_request_sent": false,
+              "followers_count": 608,
+              "friends_count": 427,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 767,
+              "needs_phone_verification": false,
+              "normal_followers_count": 608,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/754064538178248704/1744443665",
+              "profile_interstitial_type": "",
+              "statuses_count": 18104,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "آگاهی چشم اسفندیارخودکامگان است"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "754064538178248704",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6NzU0MDY0NTM4MTc4MjQ4NzA0",
           "result": {
-            "id": "VXNlcjo3NTQwNjQ1MzgxNzgyNDg3MDQ=",
-            "core": {
-              "name": "ع.ش.ق",
-              "created_at": "Fri Jul 15 21:26:10 +0000 2016",
-              "screen_name": "ein_shin_ghaf"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2029836905161052160/XOW06otP_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "754064538178248704",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1468618013671"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzU0MDY0NTM4MTc4MjQ4NzA0",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo3NTQwNjQ1MzgxNzgyNDg3MDQ=",
-            "core": {
-              "name": "ع.ش.ق",
-              "created_at": "Fri Jul 15 21:26:10 +0000 2016",
-              "screen_name": "ein_shin_ghaf"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2029836905161052160/XOW06otP_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "آگاهی چشم اسفندیارخودکامگان است",
-              "media_count": 749,
-              "listed_count": 2,
-              "friends_count": 420,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 17855,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 607,
-              "translator_type": "none",
-              "favourites_count": 28405,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/754064538178248704/1744443665",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 607,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Jul 15 21:26:10 +0000 2016",
+              "name": "ع.ش.ق",
+              "screen_name": "ein_shin_ghaf"
             },
+            "id": "VXNlcjo3NTQwNjQ1MzgxNzgyNDg3MDQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "754064538178248704",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "آگاهی چشم اسفندیارخودکامگان است"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzU0MDY0NTM4MTc4MjQ4NzA0",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "The awareness of the eye is the tyranny of the self-willed.",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
