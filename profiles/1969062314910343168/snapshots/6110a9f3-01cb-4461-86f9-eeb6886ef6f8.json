@@ -1,0 +1,193 @@
+{
+  "snapshotId": "6110a9f3-01cb-4461-86f9-eeb6886ef6f8",
+  "twitterId": "1969062314910343168",
+  "scannedAt": "2026-07-03T09:13:29.249Z",
+  "fields": {
+    "username": "ozmos_2",
+    "displayName": "إيران الأن",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2065876653813927936/-143TuCY_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1969062314910343168/1781378355",
+    "bio": "حساب إخباري مستقل\nمتابعة التصريحات والتطورات العسكرية في ايران 🇮🇷 ومحور المقاومه والخليج الفارسي \nغير تابع لأي جهة رسمية_",
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2065876653813927936/-143TuCY_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Sep 19 15:33:49 +0000 2025",
+              "name": "إيران الأن",
+              "screen_name": "ozmos_2"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "ar",
+                "translation": "Independent News Account  \nFollowing statements and military developments in Iran 🇮🇷, the Resistance Axis, and the Persian Gulf  \nNot affiliated with any official entity"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "7"
+            },
+            "id": "VXNlcjoxOTY5MDYyMzE0OTEwMzQzMTY4",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "حساب إخباري مستقل\nمتابعة التصريحات والتطورات العسكرية في ايران 🇮🇷 ومحور المقاومه والخليج الفارسي \nغير تابع لأي جهة رسمية_",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 181,
+              "follow_request_sent": false,
+              "followers_count": 18872,
+              "friends_count": 1,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 16,
+              "media_count": 342,
+              "needs_phone_verification": false,
+              "normal_followers_count": 18872,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2070300148287373344"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1969062314910343168/1781378355",
+              "profile_interstitial_type": "",
+              "statuses_count": 898,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "حساب إخباري مستقل\nمتابعة التصريحات والتطورات العسكرية في ايران 🇮🇷 ومحور المقاومه والخليج الفارسي \nغير تابع لأي جهة رسمية_"
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1969062314910343168",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1761333861098"
+              }
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk2OTA2MjMxNDkxMDM0MzE2OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1775484221913"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2065876653813927936/-143TuCY_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Sep 19 15:33:49 +0000 2025",
+              "name": "إيران الأن",
+              "screen_name": "ozmos_2"
+            },
+            "id": "VXNlcjoxOTY5MDYyMzE0OTEwMzQzMTY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1969062314910343168",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk2OTA2MjMxNDkxMDM0MzE2OA==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1761333861098"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
