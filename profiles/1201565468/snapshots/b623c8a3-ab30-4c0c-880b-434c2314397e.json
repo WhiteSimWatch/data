@@ -1,0 +1,188 @@
+{
+  "snapshotId": "b623c8a3-ab30-4c0c-880b-434c2314397e",
+  "twitterId": "1201565468",
+  "scannedAt": "2026-07-04T08:44:02.333Z",
+  "fields": {
+    "username": "MHozeh",
+    "displayName": "مصطفى",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2060477453919748100/J1qL9yYf_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1201565468/1708895522",
+    "bio": "ربــنا آمــنا بمـا انزلــت واتـبعنـــا الرســـول فاکـتـبـــنا مع الشـــاهدین",
+    "selfLocation": "Qom iran... قم إيران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2060477453919748100/J1qL9yYf_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Feb 20 16:42:32 +0000 2013",
+              "name": "مصطفى",
+              "screen_name": "MHozeh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjAxNTY1NDY4",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "ربــنا آمــنا بمـا انزلــت واتـبعنـــا الرســـول فاکـتـبـــنا مع الشـــاهدین",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 46160,
+              "follow_request_sent": false,
+              "followers_count": 21334,
+              "friends_count": 314,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 122,
+              "media_count": 4839,
+              "needs_phone_verification": false,
+              "normal_followers_count": 21334,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "620751966629679104"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201565468/1708895522",
+              "profile_interstitial_type": "",
+              "statuses_count": 99399,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 8,
+                "month": 8,
+                "visibility": "Public",
+                "year_visibility": "Self"
+              }
+            },
+            "location": {
+              "location": "Qom iran... قم إيران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ربــنا آمــنا بمـا انزلــت واتـبعنـــا الرســـول فاکـتـبـــنا مع الشـــاهدین"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1201565468",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1774994709738"
+              }
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIwMTU2NTQ2OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2060477453919748100/J1qL9yYf_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Feb 20 16:42:32 +0000 2013",
+              "name": "مصطفى",
+              "screen_name": "MHozeh"
+            },
+            "id": "VXNlcjoxMjAxNTY1NDY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1201565468",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIwMTU2NTQ2OA==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1774994709738"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
