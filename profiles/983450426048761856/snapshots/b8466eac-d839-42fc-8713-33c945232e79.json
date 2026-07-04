@@ -1,7 +1,7 @@
 {
   "snapshotId": "b8466eac-d839-42fc-8713-33c945232e79",
   "twitterId": "983450426048761856",
-  "scannedAt": "2026-05-24T05:23:47.227Z",
+  "scannedAt": "2026-07-04T05:12:25.093Z",
   "fields": {
     "username": "Amfarahani_ir",
     "displayName": "امیرمحمد فراهانی",
@@ -15,153 +15,153 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1758029131512532992/-RMtMLVl_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Apr 09 21:03:48 +0000 2018",
+              "name": "امیرمحمد فراهانی",
+              "screen_name": "Amfarahani_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5ODM0NTA0MjYwNDg3NjE4NTY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مشاور رسانه ای سازمان نظام پزشکی جمهوری اسلامی ایران\nعضو شورای عالی انجمن متخصصین تجهیزات پزشکی کشور",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1466,
+              "follow_request_sent": false,
+              "followers_count": 308,
+              "friends_count": 47,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 19,
+              "needs_phone_verification": false,
+              "normal_followers_count": 308,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1489593688183513093"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 156,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 1,
+                "month": 1,
+                "visibility": "Public",
+                "year": 1990,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مشاور رسانه ای سازمان نظام پزشکی جمهوری اسلامی ایران\nعضو شورای عالی انجمن متخصصین تجهیزات پزشکی کشور"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "983450426048761856",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTgzNDUwNDI2MDQ4NzYxODU2",
           "result": {
-            "id": "VXNlcjo5ODM0NTA0MjYwNDg3NjE4NTY=",
-            "core": {
-              "name": "امیرمحمد فراهانی",
-              "created_at": "Mon Apr 09 21:03:48 +0000 2018",
-              "screen_name": "Amfarahani_ir"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1758029131512532992/-RMtMLVl_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "983450426048761856",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1642922368368"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTgzNDUwNDI2MDQ4NzYxODU2",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5ODM0NTA0MjYwNDg3NjE4NTY=",
-            "core": {
-              "name": "امیرمحمد فراهانی",
-              "created_at": "Mon Apr 09 21:03:48 +0000 2018",
-              "screen_name": "Amfarahani_ir"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1758029131512532992/-RMtMLVl_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مشاور رسانه ای سازمان نظام پزشکی جمهوری اسلامی ایران\nعضو شورای عالی انجمن متخصصین تجهیزات پزشکی کشور",
-              "media_count": 19,
-              "listed_count": 1,
-              "friends_count": 47,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 156,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 310,
-              "translator_type": "none",
-              "favourites_count": 1466,
-              "possibly_sensitive": false,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1489593688183513093"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 310,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Apr 09 21:03:48 +0000 2018",
+              "name": "امیرمحمد فراهانی",
+              "screen_name": "Amfarahani_ir"
             },
+            "id": "VXNlcjo5ODM0NTA0MjYwNDg3NjE4NTY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "983450426048761856",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مشاور رسانه ای سازمان نظام پزشکی جمهوری اسلامی ایران\nعضو شورای عالی انجمن متخصصین تجهیزات پزشکی کشور"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTgzNDUwNDI2MDQ4NzYxODU2",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "day": 1,
-                "year": 1990,
-                "month": 1,
-                "visibility": "Public",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
