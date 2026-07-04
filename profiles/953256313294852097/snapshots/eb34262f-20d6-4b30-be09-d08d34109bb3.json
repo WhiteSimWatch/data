@@ -1,7 +1,7 @@
 {
   "snapshotId": "eb34262f-20d6-4b30-be09-d08d34109bb3",
   "twitterId": "953256313294852097",
-  "scannedAt": "2026-05-24T03:56:59.629Z",
+  "scannedAt": "2026-07-04T03:15:31.895Z",
   "fields": {
     "username": "AsemaniHonar",
     "displayName": "🎒 راحیل‏",
@@ -15,145 +15,156 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2028355292635987968/i6Wlo50u_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jan 16 13:23:10 +0000 2018",
+              "name": "🎒 راحیل‏",
+              "screen_name": "AsemaniHonar"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "An artist whose current mission is raising her two sons.  \nShe adores her husband.  \nHossein (peace be upon him) is her refuge, and she loves Iran..."
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5NTMyNTYzMTMyOTQ4NTIwOTc=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "هنرمندی که فعلاً رسالتش تربیت دوتا پسرشه. \nعاشق همسرشه.\nحسین(علیه السلام) پناهشه و عاشق ایرانشه...",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 201545,
+              "follow_request_sent": false,
+              "followers_count": 15537,
+              "friends_count": 7901,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 6169,
+              "needs_phone_verification": false,
+              "normal_followers_count": 15537,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1939426013420888361"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/953256313294852097/1725561371",
+              "profile_interstitial_type": "",
+              "statuses_count": 89256,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "هنرمندی که فعلاً رسالتش تربیت دوتا پسرشه. \nعاشق همسرشه.\nحسین(علیه السلام) پناهشه و عاشق ایرانشه..."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "953256313294852097",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTUzMjU2MzEzMjk0ODUyMDk3",
           "result": {
-            "id": "VXNlcjo5NTMyNTYzMTMyOTQ4NTIwOTc=",
-            "core": {
-              "name": "🎒 راحیل‏",
-              "created_at": "Tue Jan 16 13:23:10 +0000 2018",
-              "screen_name": "AsemaniHonar"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2028355292635987968/i6Wlo50u_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "953256313294852097",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "21",
                 "last_changed_at_msec": "1752667581791"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTUzMjU2MzEzMjk0ODUyMDk3",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5NTMyNTYzMTMyOTQ4NTIwOTc=",
-            "core": {
-              "name": "🎒 راحیل‏",
-              "created_at": "Tue Jan 16 13:23:10 +0000 2018",
-              "screen_name": "AsemaniHonar"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2028355292635987968/i6Wlo50u_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "هنرمندی که فعلاً رسالتش تربیت دوتا پسرشه. \nعاشق همسرشه.\nحسین(علیه السلام) پناهشه و عاشق ایرانشه...",
-              "media_count": 6025,
-              "listed_count": 3,
-              "friends_count": 7847,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 88007,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 15297,
-              "translator_type": "none",
-              "favourites_count": 198419,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/953256313294852097/1725561371",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1939426013420888361"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 15297,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Jan 16 13:23:10 +0000 2018",
+              "name": "🎒 راحیل‏",
+              "screen_name": "AsemaniHonar"
             },
+            "id": "VXNlcjo5NTMyNTYzMTMyOTQ4NTIwOTc=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "953256313294852097",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "هنرمندی که فعلاً رسالتش تربیت دوتا پسرشه. \nعاشق همسرشه.\nحسین(علیه السلام) پناهشه و عاشق ایرانشه..."
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTUzMjU2MzEzMjk0ODUyMDk3",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
