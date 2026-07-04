@@ -1,7 +1,7 @@
 {
   "snapshotId": "3ca2223c-e15a-4ef6-b1d7-d457c8cbdde1",
   "twitterId": "1866038660086267904",
-  "scannedAt": "2026-05-24T06:57:33.238Z",
+  "scannedAt": "2026-07-04T07:27:48.784Z",
   "fields": {
     "username": "Sepaskhabar",
     "displayName": "سپاس خبر",
@@ -15,166 +15,166 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1866039815138918400/1zyRxSiZ_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Dec 09 08:34:34 +0000 2024",
+              "name": "سپاس خبر",
+              "screen_name": "Sepaskhabar"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODY2MDM4NjYwMDg2MjY3OTA0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مهم‌ترین اخبار استان بوشهر و کشور در پایگاه خبری سپاس خبر دنبال کنید",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "sepaskhabar.ir",
+                      "expanded_url": "https://sepaskhabar.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/LlJU6Pn3jJ"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1478,
+              "follow_request_sent": false,
+              "followers_count": 346,
+              "friends_count": 124,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 226,
+              "needs_phone_verification": false,
+              "normal_followers_count": 346,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866038660086267904/1733734442",
+              "profile_interstitial_type": "",
+              "statuses_count": 521,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/LlJU6Pn3jJ",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 580,
+                  "name": "Media & News Company"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1984498780499296304"
+            },
+            "profile_bio": {
+              "description": "مهم‌ترین اخبار استان بوشهر و کشور در پایگاه خبری سپاس خبر دنبال کنید"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1866038660086267904",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg2NjAzODY2MDA4NjI2NzkwNA==",
           "result": {
-            "id": "VXNlcjoxODY2MDM4NjYwMDg2MjY3OTA0",
-            "core": {
-              "name": "سپاس خبر",
-              "created_at": "Mon Dec 09 08:34:34 +0000 2024",
-              "screen_name": "Sepaskhabar"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1866039815138918400/1zyRxSiZ_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1866038660086267904",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1733733306759"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg2NjAzODY2MDA4NjI2NzkwNA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODY2MDM4NjYwMDg2MjY3OTA0",
-            "core": {
-              "name": "سپاس خبر",
-              "created_at": "Mon Dec 09 08:34:34 +0000 2024",
-              "screen_name": "Sepaskhabar"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1866039815138918400/1zyRxSiZ_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/LlJU6Pn3jJ",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/LlJU6Pn3jJ",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "sepaskhabar.ir",
-                      "expanded_url": "https://sepaskhabar.ir"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مهم‌ترین اخبار استان بوشهر و کشور در پایگاه خبری سپاس خبر دنبال کنید",
-              "media_count": 197,
-              "listed_count": 1,
-              "friends_count": 118,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 461,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 340,
-              "translator_type": "none",
-              "favourites_count": 801,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866038660086267904/1733734442",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 340,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Dec 09 08:34:34 +0000 2024",
+              "name": "سپاس خبر",
+              "screen_name": "Sepaskhabar"
             },
+            "id": "VXNlcjoxODY2MDM4NjYwMDg2MjY3OTA0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1866038660086267904",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مهم‌ترین اخبار استان بوشهر و کشور در پایگاه خبری سپاس خبر دنبال کنید"
-            },
-            "professional": {
-              "rest_id": "1984498780499296304",
-              "category": [
-                {
-                  "id": 580,
-                  "name": "Media & News Company",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg2NjAzODY2MDA4NjI2NzkwNA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
