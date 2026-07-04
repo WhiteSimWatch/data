@@ -1,7 +1,7 @@
 {
   "snapshotId": "39716bca-693f-4ba6-94f1-b69e6ff6328b",
   "twitterId": "752759024483987456",
-  "scannedAt": "2026-05-24T06:32:19.764Z",
+  "scannedAt": "2026-07-04T06:42:06.140Z",
   "fields": {
     "username": "abasinfo",
     "displayName": "Abas Aslani | عباس اصلانی",
@@ -15,164 +15,164 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1840471394338897920/thjhE7dD_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jul 12 06:58:31 +0000 2016",
+              "name": "Abas Aslani | عباس اصلانی",
+              "screen_name": "abasinfo"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": [
+                    {
+                      "id": "179449138",
+                      "id_str": "179449138",
+                      "indices": [
+                        133,
+                        144
+                      ],
+                      "name": "Abas Aslani",
+                      "screen_name": "AbasAslani"
+                    }
+                  ]
+                },
+                "source_language": "fa",
+                "translation": "Abbas Aslani | Persian Page | Reporter and Researcher in Foreign Policy and International Affairs\n\n| English Page (English account): @AbasAslani"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3NTI3NTkwMjQ0ODM5ODc0NTY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "عباس اصلانی | صفحه فارسی |خبرنگار و پژوهشگر در حوزه سیاست خارجی و بین‌الملل \n\n| صفحه انگلیسی (English account): @AbasAslani",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 151,
+              "follow_request_sent": false,
+              "followers_count": 6973,
+              "friends_count": 606,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 121,
+              "media_count": 2711,
+              "needs_phone_verification": false,
+              "normal_followers_count": 6973,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/752759024483987456/1727640151",
+              "profile_interstitial_type": "",
+              "statuses_count": 3192,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "عباس اصلانی | صفحه فارسی |خبرنگار و پژوهشگر در حوزه سیاست خارجی و بین‌الملل \n\n| صفحه انگلیسی (English account): @AbasAslani"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "752759024483987456",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6NzUyNzU5MDI0NDgzOTg3NDU2",
           "result": {
-            "id": "VXNlcjo3NTI3NTkwMjQ0ODM5ODc0NTY=",
-            "core": {
-              "name": "Abas Aslani | عباس اصلانی",
-              "created_at": "Tue Jul 12 06:58:31 +0000 2016",
-              "screen_name": "abasinfo"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1840471394338897920/thjhE7dD_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "752759024483987456",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United Kingdom App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United Kingdom App Store",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1468335820006"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzUyNzU5MDI0NDgzOTg3NDU2",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo3NTI3NTkwMjQ0ODM5ODc0NTY=",
-            "core": {
-              "name": "Abas Aslani | عباس اصلانی",
-              "created_at": "Tue Jul 12 06:58:31 +0000 2016",
-              "screen_name": "abasinfo"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1840471394338897920/thjhE7dD_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "عباس اصلانی | صفحه فارسی |خبرنگار و پژوهشگر در حوزه سیاست خارجی و بین‌الملل \n\n| صفحه انگلیسی (English account): @AbasAslani",
-              "media_count": 2568,
-              "listed_count": 121,
-              "friends_count": 602,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2988,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 6800,
-              "translator_type": "none",
-              "favourites_count": 151,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/752759024483987456/1727640151",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 6800,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Jul 12 06:58:31 +0000 2016",
+              "name": "Abas Aslani | عباس اصلانی",
+              "screen_name": "abasinfo"
             },
+            "id": "VXNlcjo3NTI3NTkwMjQ0ODM5ODc0NTY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "752759024483987456",
-            "location": {
-              "location": "تهران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "عباس اصلانی | صفحه فارسی |خبرنگار و پژوهشگر در حوزه سیاست خارجی و بین‌الملل \n\n| صفحه انگلیسی (English account): @AbasAslani"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzUyNzU5MDI0NDgzOTg3NDU2",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": [
-                    {
-                      "id": "179449138",
-                      "name": "Abas Aslani",
-                      "id_str": "179449138",
-                      "indices": [
-                        135,
-                        146
-                      ],
-                      "screen_name": "AbasAslani"
-                    }
-                  ]
-                },
-                "translation": "Abbas Aslani | Persian Page | Journalist and Researcher in Foreign Policy and International Affairs\n\n| English Page (English account): @AbasAslani",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
