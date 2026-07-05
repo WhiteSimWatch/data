@@ -1,7 +1,7 @@
 {
   "snapshotId": "c6f37d0d-4c63-4895-a9c0-75e7076fe9aa",
   "twitterId": "1851935347107643392",
-  "scannedAt": "2026-05-25T03:49:17.426Z",
+  "scannedAt": "2026-07-05T05:29:42.024Z",
   "fields": {
     "username": "narsis133_",
     "displayName": "narsis",
@@ -15,155 +15,155 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1958962605692735488/8a7T1xqs_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Oct 31 10:33:08 +0000 2024",
+              "name": "narsis",
+              "screen_name": "narsis133_"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODUxOTM1MzQ3MTA3NjQzMzky",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "🌙🪔🪬",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/narsis_133",
+                      "expanded_url": "https://t.me/narsis_133",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/FQTXW2k7vS"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1781,
+              "follow_request_sent": false,
+              "followers_count": 1153,
+              "friends_count": 78,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 10,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1153,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851935347107643392/1778236257",
+              "profile_interstitial_type": "",
+              "statuses_count": 1213,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/FQTXW2k7vS",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "🌙🪔🪬"
+            },
+            "profile_description_language": "art",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1851935347107643392",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg1MTkzNTM0NzEwNzY0MzM5Mg==",
           "result": {
-            "id": "VXNlcjoxODUxOTM1MzQ3MTA3NjQzMzky",
-            "core": {
-              "name": "narsis",
-              "created_at": "Thu Oct 31 10:33:08 +0000 2024",
-              "screen_name": "narsis133_"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1958962605692735488/8a7T1xqs_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1851935347107643392",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1730370853739"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1MTkzNTM0NzEwNzY0MzM5Mg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODUxOTM1MzQ3MTA3NjQzMzky",
-            "core": {
-              "name": "narsis",
-              "created_at": "Thu Oct 31 10:33:08 +0000 2024",
-              "screen_name": "narsis133_"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1958962605692735488/8a7T1xqs_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/FQTXW2k7vS",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/FQTXW2k7vS",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/narsis_133",
-                      "expanded_url": "https://t.me/narsis_133"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "🌙🪔🪬",
-              "media_count": 9,
-              "listed_count": 3,
-              "friends_count": 82,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1193,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1173,
-              "translator_type": "none",
-              "favourites_count": 1766,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851935347107643392/1778236257",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1173,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Oct 31 10:33:08 +0000 2024",
+              "name": "narsis",
+              "screen_name": "narsis133_"
             },
+            "id": "VXNlcjoxODUxOTM1MzQ3MTA3NjQzMzky",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1851935347107643392",
-            "location": {
-              "location": "tehran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "🌙🪔🪬"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1MTkzNTM0NzEwNzY0MzM5Mg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "art",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
