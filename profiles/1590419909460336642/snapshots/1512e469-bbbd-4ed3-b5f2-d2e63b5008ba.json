@@ -1,7 +1,7 @@
 {
   "snapshotId": "1512e469-bbbd-4ed3-b5f2-d2e63b5008ba",
   "twitterId": "1590419909460336642",
-  "scannedAt": "2026-05-25T05:16:12.249Z",
+  "scannedAt": "2026-07-05T07:24:24.716Z",
   "fields": {
     "username": "Haj_vladimir",
     "displayName": "Sobhan🎒",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2043286294587969536/SDYlpCb6_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Nov 09 19:04:18 +0000 2022",
+              "name": "Sobhan🎒",
+              "screen_name": "Haj_vladimir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTkwNDE5OTA5NDYwMzM2NjQy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "خبرنگار✒️",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6000,
+              "follow_request_sent": false,
+              "followers_count": 1515,
+              "friends_count": 120,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 4,
+              "media_count": 178,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1515,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1606022647158116352"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590419909460336642/1675726012",
+              "profile_interstitial_type": "",
+              "statuses_count": 1978,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "شمال ایران-مسکو"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خبرنگار✒️"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1590419909460336642",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU5MDQxOTkwOTQ2MDMzNjY0Mg==",
           "result": {
-            "id": "VXNlcjoxNTkwNDE5OTA5NDYwMzM2NjQy",
-            "core": {
-              "name": "Sobhan🎒",
-              "created_at": "Wed Nov 09 19:04:18 +0000 2022",
-              "screen_name": "Haj_vladimir"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2043286294587969536/SDYlpCb6_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1590419909460336642",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1675725983233"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU5MDQxOTkwOTQ2MDMzNjY0Mg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTkwNDE5OTA5NDYwMzM2NjQy",
-            "core": {
-              "name": "Sobhan🎒",
-              "created_at": "Wed Nov 09 19:04:18 +0000 2022",
-              "screen_name": "Haj_vladimir"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2043286294587969536/SDYlpCb6_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "خبرنگار✒️",
-              "media_count": 161,
-              "listed_count": 4,
-              "friends_count": 115,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1908,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1483,
-              "translator_type": "none",
-              "favourites_count": 5809,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590419909460336642/1675726012",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1606022647158116352"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1483,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Nov 09 19:04:18 +0000 2022",
+              "name": "Sobhan🎒",
+              "screen_name": "Haj_vladimir"
             },
+            "id": "VXNlcjoxNTkwNDE5OTA5NDYwMzM2NjQy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1590419909460336642",
-            "location": {
-              "location": "شمال ایران-مسکو"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "خبرنگار✒️"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU5MDQxOTkwOTQ2MDMzNjY0Mg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
