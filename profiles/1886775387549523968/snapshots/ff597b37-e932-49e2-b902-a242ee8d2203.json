@@ -1,7 +1,7 @@
 {
   "snapshotId": "ff597b37-e932-49e2-b902-a242ee8d2203",
   "twitterId": "1886775387549523968",
-  "scannedAt": "2026-05-25T04:52:15.383Z",
+  "scannedAt": "2026-07-05T06:52:04.077Z",
   "fields": {
     "username": "IranMilitaryAR",
     "displayName": "القوات المسلحة الإيرانية",
@@ -15,188 +15,167 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2017555601748901888/ovakuywe_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Feb 04 13:54:50 +0000 2025",
+              "name": "القوات المسلحة الإيرانية",
+              "screen_name": "IranMilitaryAR"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODg2Nzc1Mzg3NTQ5NTIzOTY4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "☫ | أحدث الأخبار والتحليلات العسكرية عن إيران وما حولها من مصادر متنوعة | الإعلام المستقل - منذ عام 2009\nhttps://t.co/9cBQk5FzPc",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "FB.com/IranMilitary.ar",
+                      "expanded_url": "http://FB.com/IranMilitary.ar",
+                      "indices": [
+                        105,
+                        128
+                      ],
+                      "url": "https://t.co/9cBQk5FzPc"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "IranMilitary.info",
+                      "expanded_url": "http://IranMilitary.info",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/4TqeVGavxP"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 19,
+              "follow_request_sent": false,
+              "followers_count": 10331,
+              "friends_count": 4,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 19,
+              "media_count": 1496,
+              "needs_phone_verification": false,
+              "normal_followers_count": 10331,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886775387549523968/1749478983",
+              "profile_interstitial_type": "",
+              "statuses_count": 1615,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/4TqeVGavxP",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "☫ | أحدث الأخبار والتحليلات العسكرية عن إيران وما حولها من مصادر متنوعة | الإعلام المستقل - منذ عام 2009\nhttps://t.co/9cBQk5FzPc"
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1886775387549523968",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg4Njc3NTM4NzU0OTUyMzk2OA==",
           "result": {
-            "id": "VXNlcjoxODg2Nzc1Mzg3NTQ5NTIzOTY4",
-            "core": {
-              "name": "القوات المسلحة الإيرانية",
-              "created_at": "Tue Feb 04 13:54:50 +0000 2025",
-              "screen_name": "IranMilitaryAR"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2017555601748901888/ovakuywe_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1886775387549523968",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Web",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1769858094837"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4Njc3NTM4NzU0OTUyMzk2OA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODg2Nzc1Mzg3NTQ5NTIzOTY4",
-            "core": {
-              "name": "القوات المسلحة الإيرانية",
-              "created_at": "Tue Feb 04 13:54:50 +0000 2025",
-              "screen_name": "IranMilitaryAR"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2017555601748901888/ovakuywe_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/4TqeVGavxP",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/4TqeVGavxP",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "IranMilitary.info",
-                      "expanded_url": "http://IranMilitary.info"
-                    }
-                  ]
-                },
-                "description": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/9cBQk5FzPc",
-                      "indices": [
-                        105,
-                        128
-                      ],
-                      "display_url": "FB.com/IranMilitary.ar",
-                      "expanded_url": "http://FB.com/IranMilitary.ar"
-                    }
-                  ]
-                }
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "☫ | أحدث الأخبار والتحليلات العسكرية عن إيران وما حولها من مصادر متنوعة | الإعلام المستقل - منذ عام 2009\nhttps://t.co/9cBQk5FzPc",
-              "media_count": 1242,
-              "listed_count": 18,
-              "friends_count": 4,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1357,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 10325,
-              "translator_type": "none",
-              "favourites_count": 19,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886775387549523968/1749478983",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 10325,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Feb 04 13:54:50 +0000 2025",
+              "name": "القوات المسلحة الإيرانية",
+              "screen_name": "IranMilitaryAR"
             },
+            "id": "VXNlcjoxODg2Nzc1Mzg3NTQ5NTIzOTY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1886775387549523968",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "☫ | أحدث الأخبار والتحليلات العسكرية عن إيران وما حولها من مصادر متنوعة | الإعلام المستقل - منذ عام 2009\nhttps://t.co/9cBQk5FzPc"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4Njc3NTM4NzU0OTUyMzk2OA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "ar",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/9cBQk5FzPc",
-                      "indices": [
-                        121,
-                        144
-                      ],
-                      "display_url": "FB.com/IranMilitary.ar",
-                      "expanded_url": "http://FB.com/IranMilitary.ar"
-                    }
-                  ],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "☫ | Latest News and Military Analyses on Iran and Its Surroundings from Diverse Sources | Independent Media - Since 2009\nhttps://t.co/9cBQk5FzPc",
-                "source_language": "ar",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
