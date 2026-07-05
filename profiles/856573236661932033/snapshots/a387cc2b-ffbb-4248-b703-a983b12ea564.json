@@ -1,7 +1,7 @@
 {
   "snapshotId": "a387cc2b-ffbb-4248-b703-a983b12ea564",
   "twitterId": "856573236661932033",
-  "scannedAt": "2026-05-25T05:32:36.275Z",
+  "scannedAt": "2026-07-05T07:47:19.063Z",
   "fields": {
     "username": "jamshid_ansari",
     "displayName": "جمشيد انصاري",
@@ -15,143 +15,143 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1202829848537776129/gAfjqA_w_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Apr 24 18:19:08 +0000 2017",
+              "name": "جمشيد انصاري",
+              "screen_name": "jamshid_ansari"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4NTY1NzMyMzY2NjE5MzIwMzM=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 556,
+              "follow_request_sent": false,
+              "followers_count": 8352,
+              "friends_count": 16,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 75,
+              "media_count": 23,
+              "needs_phone_verification": false,
+              "normal_followers_count": 8352,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "860207955395981312"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/856573236661932033/1502646439",
+              "profile_interstitial_type": "",
+              "statuses_count": 243,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "856573236661932033",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6ODU2NTczMjM2NjYxOTMyMDMz",
           "result": {
-            "id": "VXNlcjo4NTY1NzMyMzY2NjE5MzIwMzM=",
-            "core": {
-              "name": "جمشيد انصاري",
-              "created_at": "Mon Apr 24 18:19:08 +0000 2017",
-              "screen_name": "jamshid_ansari"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1202829848537776129/gAfjqA_w_normal.jpg"
             },
+            "core": {
+              "created_at": "Mon Apr 24 18:19:08 +0000 2017",
+              "name": "جمشيد انصاري",
+              "screen_name": "jamshid_ansari"
+            },
+            "id": "VXNlcjo4NTY1NzMyMzY2NjE5MzIwMzM=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "856573236661932033",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODU2NTczMjM2NjYxOTMyMDMz",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo4NTY1NzMyMzY2NjE5MzIwMzM=",
-            "core": {
-              "name": "جمشيد انصاري",
-              "created_at": "Mon Apr 24 18:19:08 +0000 2017",
-              "screen_name": "jamshid_ansari"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1202829848537776129/gAfjqA_w_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 23,
-              "listed_count": 76,
-              "friends_count": 16,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 243,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 8350,
-              "translator_type": "none",
-              "favourites_count": 555,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/856573236661932033/1502646439",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "860207955395981312"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 8350,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "856573236661932033",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
