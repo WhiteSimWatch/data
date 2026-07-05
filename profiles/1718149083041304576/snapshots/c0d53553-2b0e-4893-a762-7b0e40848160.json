@@ -1,7 +1,7 @@
 {
   "snapshotId": "c0d53553-2b0e-4893-a762-7b0e40848160",
   "twitterId": "1718149083041304576",
-  "scannedAt": "2026-05-25T03:04:57.088Z",
+  "scannedAt": "2026-07-05T04:32:37.497Z",
   "fields": {
     "username": "ShfaTy93870",
     "displayName": "فواد شفاعتی",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1920358344864227328/mb7N0fc-_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Oct 28 06:14:40 +0000 2023",
+              "name": "فواد شفاعتی",
+              "screen_name": "ShfaTy93870"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzE4MTQ5MDgzMDQxMzA0NTc2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "ایاک نعبد و ایاک نستعین ، اشهدو ان امام حسین امام برحق مسلمین",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 43218,
+              "follow_request_sent": false,
+              "followers_count": 3816,
+              "friends_count": 7486,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 9305,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3816,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718149083041304576/1726846862",
+              "profile_interstitial_type": "",
+              "statuses_count": 50175,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ایاک نعبد و ایاک نستعین ، اشهدو ان امام حسین امام برحق مسلمین"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1718149083041304576",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTcxODE0OTA4MzA0MTMwNDU3Ng==",
           "result": {
-            "id": "VXNlcjoxNzE4MTQ5MDgzMDQxMzA0NTc2",
-            "core": {
-              "name": "فواد شفاعتی",
-              "created_at": "Sat Oct 28 06:14:40 +0000 2023",
-              "screen_name": "ShfaTy93870"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1920358344864227328/mb7N0fc-_normal.jpg"
             },
+            "core": {
+              "created_at": "Sat Oct 28 06:14:40 +0000 2023",
+              "name": "فواد شفاعتی",
+              "screen_name": "ShfaTy93870"
+            },
+            "id": "VXNlcjoxNzE4MTQ5MDgzMDQxMzA0NTc2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1718149083041304576",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcxODE0OTA4MzA0MTMwNDU3Ng==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNzE4MTQ5MDgzMDQxMzA0NTc2",
-            "core": {
-              "name": "فواد شفاعتی",
-              "created_at": "Sat Oct 28 06:14:40 +0000 2023",
-              "screen_name": "ShfaTy93870"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1920358344864227328/mb7N0fc-_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "ایاک نعبد و ایاک نستعین ، اشهدو ان امام حسین امام برحق مسلمین",
-              "media_count": 7798,
-              "listed_count": 1,
-              "friends_count": 7462,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 42623,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3469,
-              "translator_type": "none",
-              "favourites_count": 37994,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718149083041304576/1726846862",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3469,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1718149083041304576",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "ایاک نعبد و ایاک نستعین ، اشهدو ان امام حسین امام برحق مسلمین"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
