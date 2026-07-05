@@ -1,7 +1,7 @@
 {
   "snapshotId": "1b95b67e-872b-456c-9b91-966230c1cc38",
   "twitterId": "1035466423",
-  "scannedAt": "2026-05-25T03:53:33.770Z",
+  "scannedAt": "2026-07-05T05:35:36.197Z",
   "fields": {
     "username": "aboozar_nasr",
     "displayName": "ابوذر",
@@ -15,168 +15,168 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2019208466141716480/Oc0AKHhk_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Dec 25 19:32:03 +0000 2012",
+              "name": "ابوذر",
+              "screen_name": "aboozar_nasr"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "I’m waiting for you with eyes full of longing//  \nWeary of politics, devoted to culture //  \nOnce a media man, now a café owner"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDM1NDY2NDIz",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "تو را من چشم در راهم//\nدلزده از سیاست، دلبسته فرهنگ //\nقبلا رسانه چی، الان کافه دار",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/HidenChat_Bot?…",
+                      "expanded_url": "http://t.me/HidenChat_Bot?start=5546648127",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/iWmE4CWfbk"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 23203,
+              "follow_request_sent": false,
+              "followers_count": 1447,
+              "friends_count": 985,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 9,
+              "media_count": 1032,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1447,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1979597760178667928"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035466423/1770252134",
+              "profile_interstitial_type": "",
+              "statuses_count": 19315,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/iWmE4CWfbk",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "تو را من چشم در راهم//\nدلزده از سیاست، دلبسته فرهنگ //\nقبلا رسانه چی، الان کافه دار"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1035466423",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTAzNTQ2NjQyMw==",
           "result": {
-            "id": "VXNlcjoxMDM1NDY2NDIz",
-            "core": {
-              "name": "ابوذر",
-              "created_at": "Tue Dec 25 19:32:03 +0000 2012",
-              "screen_name": "aboozar_nasr"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2019208466141716480/Oc0AKHhk_normal.jpg"
             },
+            "core": {
+              "created_at": "Tue Dec 25 19:32:03 +0000 2012",
+              "name": "ابوذر",
+              "screen_name": "aboozar_nasr"
+            },
+            "id": "VXNlcjoxMDM1NDY2NDIz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1035466423",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTAzNTQ2NjQyMw==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMDM1NDY2NDIz",
-            "core": {
-              "name": "ابوذر",
-              "created_at": "Tue Dec 25 19:32:03 +0000 2012",
-              "screen_name": "aboozar_nasr"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2019208466141716480/Oc0AKHhk_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/iWmE4CWfbk",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/iWmE4CWfbk",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/HidenChat_Bot?…",
-                      "expanded_url": "http://t.me/HidenChat_Bot?start=5546648127"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "تو را من چشم در راهم//\nدلزده از سیاست، دلبسته فرهنگ //\nقبلا رسانه چی، الان کافه دار",
-              "media_count": 999,
-              "listed_count": 9,
-              "friends_count": 975,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 18792,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1399,
-              "translator_type": "none",
-              "favourites_count": 22328,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035466423/1770252134",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1979597760178667928"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1399,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1035466423",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "تو را من چشم در راهم//\nدلزده از سیاست، دلبسته فرهنگ //\nقبلا رسانه چی، الان کافه دار"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "I am waiting for you with eyes full of longing//  \nWeary of politics, devoted to culture //  \nOnce a media man, now a café owner",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
