@@ -1,7 +1,7 @@
 {
   "snapshotId": "9c6cca7b-bea7-4733-8ebe-9f6234ef8a7f",
   "twitterId": "1265711074885668865",
-  "scannedAt": "2026-05-25T04:35:52.219Z",
+  "scannedAt": "2026-07-05T06:31:13.863Z",
   "fields": {
     "username": "nazary43",
     "displayName": "علی نظری",
@@ -15,165 +15,154 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1994797707563524096/Ck3GaDyW_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed May 27 18:27:07 +0000 2020",
+              "name": "علی نظری",
+              "screen_name": "nazary43"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjY1NzExMDc0ODg1NjY4ODY1",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "‏‏‏‏پدر،همسر،روزنامه‌نگار،\nتحلیلگر‌ حوزه رسانه،\nسردبیر روزنامه مستقل و سایت مستقل آنلاین\nدر برابر کامنت های دیگران هیچ مسئولیتی ندارم",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "mostaghelonline.com",
+                      "expanded_url": "http://mostaghelonline.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/gwF4vIeMgG"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 163,
+              "follow_request_sent": false,
+              "followers_count": 10713,
+              "friends_count": 3305,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 26,
+              "media_count": 286,
+              "needs_phone_verification": false,
+              "normal_followers_count": 10713,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 1298,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/gwF4vIeMgG",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "‏‏‏‏پدر،همسر،روزنامه‌نگار،\nتحلیلگر‌ حوزه رسانه،\nسردبیر روزنامه مستقل و سایت مستقل آنلاین\nدر برابر کامنت های دیگران هیچ مسئولیتی ندارم"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1265711074885668865",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTI2NTcxMTA3NDg4NTY2ODg2NQ==",
           "result": {
-            "id": "VXNlcjoxMjY1NzExMDc0ODg1NjY4ODY1",
-            "core": {
-              "name": "علی نظری",
-              "created_at": "Wed May 27 18:27:07 +0000 2020",
-              "screen_name": "nazary43"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1994797707563524096/Ck3GaDyW_normal.jpg"
             },
+            "core": {
+              "created_at": "Wed May 27 18:27:07 +0000 2020",
+              "name": "علی نظری",
+              "screen_name": "nazary43"
+            },
+            "id": "VXNlcjoxMjY1NzExMDc0ODg1NjY4ODY1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1265711074885668865",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI2NTcxMTA3NDg4NTY2ODg2NQ==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjY1NzExMDc0ODg1NjY4ODY1",
-            "core": {
-              "name": "علی نظری",
-              "created_at": "Wed May 27 18:27:07 +0000 2020",
-              "screen_name": "nazary43"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1994797707563524096/Ck3GaDyW_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/gwF4vIeMgG",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/gwF4vIeMgG",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "mostaghelonline.com",
-                      "expanded_url": "http://mostaghelonline.com"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "‏‏‏‏پدر،همسر،روزنامه‌نگار،\nتحلیلگر‌ حوزه رسانه،\nسردبیر روزنامه مستقل و سایت مستقل آنلاین\nدر برابر کامنت های دیگران هیچ مسئولیتی ندارم",
-              "media_count": 284,
-              "listed_count": 26,
-              "friends_count": 3312,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1294,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 10703,
-              "translator_type": "none",
-              "favourites_count": 165,
-              "possibly_sensitive": false,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 10703,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1265711074885668865",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "‏‏‏‏پدر،همسر،روزنامه‌نگار،\nتحلیلگر‌ حوزه رسانه،\nسردبیر روزنامه مستقل و سایت مستقل آنلاین\nدر برابر کامنت های دیگران هیچ مسئولیتی ندارم"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Father, husband, journalist,  \nmedia analyst,  \neditor-in-chief of an independent newspaper and independent online site  \nI bear no responsibility for others' comments",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
