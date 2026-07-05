@@ -1,0 +1,159 @@
+{
+  "snapshotId": "4d63b1d2-44fb-4512-8ee6-87d1815d7f78",
+  "twitterId": "2034356756198170624",
+  "scannedAt": "2026-07-05T11:53:18.633Z",
+  "fields": {
+    "username": "313_tabas",
+    "displayName": "Mo M",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2045132355493662720/NpZafefj_normal.jpg",
+    "profileBannerUrl": "",
+    "bio": "",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045132355493662720/NpZafefj_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Mar 18 19:50:31 +0000 2026",
+              "name": "Mo M",
+              "screen_name": "313_tabas"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": false,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDM0MzU2NzU2MTk4MTcwNjI0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 149,
+              "follow_request_sent": false,
+              "followers_count": 41,
+              "friends_count": 1,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 20,
+              "needs_phone_verification": false,
+              "normal_followers_count": 41,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 304,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2034356756198170624",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAzNDM1Njc1NjE5ODE3MDYyNA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1773863455928"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045132355493662720/NpZafefj_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Mar 18 19:50:31 +0000 2026",
+              "name": "Mo M",
+              "screen_name": "313_tabas"
+            },
+            "id": "VXNlcjoyMDM0MzU2NzU2MTk4MTcwNjI0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2034356756198170624",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAzNDM1Njc1NjE5ODE3MDYyNA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
