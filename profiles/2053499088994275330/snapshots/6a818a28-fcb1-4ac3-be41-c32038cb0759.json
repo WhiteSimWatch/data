@@ -1,0 +1,159 @@
+{
+  "snapshotId": "6a818a28-fcb1-4ac3-be41-c32038cb0759",
+  "twitterId": "2053499088994275330",
+  "scannedAt": "2026-07-05T15:51:42.487Z",
+  "fields": {
+    "username": "OmidAsdai",
+    "displayName": "امیدم",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2066064466039521280/6Os5MsYK_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2053499088994275330/1781423182",
+    "bio": "",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2066064466039521280/6Os5MsYK_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun May 10 15:35:31 +0000 2026",
+              "name": "امیدم",
+              "screen_name": "OmidAsdai"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDUzNDk5MDg4OTk0Mjc1MzMw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 12,
+              "follow_request_sent": false,
+              "followers_count": 110,
+              "friends_count": 1,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 7,
+              "needs_phone_verification": false,
+              "normal_followers_count": 110,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053499088994275330/1781423182",
+              "profile_interstitial_type": "",
+              "statuses_count": 23,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2053499088994275330",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA1MzQ5OTA4ODk5NDI3NTMzMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1778427366666"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2066064466039521280/6Os5MsYK_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun May 10 15:35:31 +0000 2026",
+              "name": "امیدم",
+              "screen_name": "OmidAsdai"
+            },
+            "id": "VXNlcjoyMDUzNDk5MDg4OTk0Mjc1MzMw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2053499088994275330",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA1MzQ5OTA4ODk5NDI3NTMzMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
