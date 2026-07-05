@@ -1,7 +1,7 @@
 {
   "snapshotId": "2d059243-22e7-4c18-a574-c5d90ee7275a",
   "twitterId": "2008541444320227329",
-  "scannedAt": "2026-05-25T03:23:02.006Z",
+  "scannedAt": "2026-07-05T04:56:59.094Z",
   "fields": {
     "username": "khrmi21413",
     "displayName": "Reza Khrmi",
@@ -15,152 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2049374657317322752/dkP24BQg_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jan 06 14:09:45 +0000 2026",
+              "name": "Reza Khrmi",
+              "screen_name": "khrmi21413"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDA4NTQxNDQ0MzIwMjI3MzI5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "الگوی من شهدا هستند کسانی که جان دادن تا خاک ندهند\n......\nجمهوری اسلامی ایران حرم ماست \n.......\nبسم رب شهدا........",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 72,
+              "follow_request_sent": false,
+              "followers_count": 389,
+              "friends_count": 936,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 147,
+              "needs_phone_verification": false,
+              "normal_followers_count": 389,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008541444320227329/1777443937",
+              "profile_interstitial_type": "",
+              "statuses_count": 150,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "الگوی من شهدا هستند کسانی که جان دادن تا خاک ندهند\n......\nجمهوری اسلامی ایران حرم ماست \n.......\nبسم رب شهدا........"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2008541444320227329",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjAwODU0MTQ0NDMyMDIyNzMyOQ==",
           "result": {
-            "id": "VXNlcjoyMDA4NTQxNDQ0MzIwMjI3MzI5",
-            "core": {
-              "name": "Reza Khrmi",
-              "created_at": "Tue Jan 06 14:09:45 +0000 2026",
-              "screen_name": "khrmi21413"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2049374657317322752/dkP24BQg_normal.jpg"
             },
+            "core": {
+              "created_at": "Tue Jan 06 14:09:45 +0000 2026",
+              "name": "Reza Khrmi",
+              "screen_name": "khrmi21413"
+            },
+            "id": "VXNlcjoyMDA4NTQxNDQ0MzIwMjI3MzI5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2008541444320227329",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAwODU0MTQ0NDMyMDIyNzMyOQ==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDA4NTQxNDQ0MzIwMjI3MzI5",
-            "core": {
-              "name": "Reza Khrmi",
-              "created_at": "Tue Jan 06 14:09:45 +0000 2026",
-              "screen_name": "khrmi21413"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2049374657317322752/dkP24BQg_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "الگوی من شهدا هستند کسانی که جان دادن تا خاک ندهند\n......\nجمهوری اسلامی ایران حرم ماست \n.......\nبسم رب شهدا........",
-              "media_count": 111,
-              "listed_count": 0,
-              "friends_count": 862,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 113,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 328,
-              "translator_type": "none",
-              "favourites_count": 72,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008541444320227329/1777443937",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 328,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2008541444320227329",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "الگوی من شهدا هستند کسانی که جان دادن تا خاک ندهند\n......\nجمهوری اسلامی ایران حرم ماست \n.......\nبسم رب شهدا........"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "My role models are the martyrs, those who gave their lives so as not to give up their soil  \n......  \nThe Islamic Republic of Iran is our sanctuary  \n.......  \nIn the name of the Lord of the martyrs........",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
