@@ -1,7 +1,7 @@
 {
   "snapshotId": "820340ef-3f46-4d53-81a5-69e637cb0309",
   "twitterId": "168819332",
-  "scannedAt": "2026-05-25T04:14:32.932Z",
+  "scannedAt": "2026-07-05T06:02:12.292Z",
   "fields": {
     "username": "Sara_0s05",
     "displayName": "Sara (اکانت جدید)🎒",
@@ -15,178 +15,157 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2036926692908748801/5DmBfGHg_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jul 20 21:46:06 +0000 2010",
+              "name": "Sara (اکانت جدید)🎒",
+              "screen_name": "Sara_0s05"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjg4MTkzMzI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "معلمم ،معلم فرشته های  زمینی (کودکان خاص )\nhttps://t.co/diLUNGHAxn",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "twitter.com/search?q=from%…",
+                      "expanded_url": "https://twitter.com/search?q=from%3A%40sara_0s05%2Fexclude%3Areplies&t=MWeDQLs4l4pgmk7HMJiYw",
+                      "indices": [
+                        43,
+                        66
+                      ],
+                      "url": "https://t.co/diLUNGHAxn"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 15578,
+              "follow_request_sent": false,
+              "followers_count": 1921,
+              "friends_count": 865,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 202,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1921,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2047375398057423267"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/168819332/1775292410",
+              "profile_interstitial_type": "",
+              "statuses_count": 3127,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "معلمم ،معلم فرشته های  زمینی (کودکان خاص )\nhttps://t.co/diLUNGHAxn"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "168819332",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTY4ODE5MzMy",
           "result": {
-            "id": "VXNlcjoxNjg4MTkzMzI=",
-            "core": {
-              "name": "Sara (اکانت جدید)🎒",
-              "created_at": "Tue Jul 20 21:46:06 +0000 2010",
-              "screen_name": "Sara_0s05"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2036926692908748801/5DmBfGHg_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "168819332",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "7",
                 "last_changed_at_msec": "1779216383344"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY4ODE5MzMy",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjg4MTkzMzI=",
-            "core": {
-              "name": "Sara (اکانت جدید)🎒",
-              "created_at": "Tue Jul 20 21:46:06 +0000 2010",
-              "screen_name": "Sara_0s05"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2036926692908748801/5DmBfGHg_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/diLUNGHAxn",
-                      "indices": [
-                        43,
-                        66
-                      ],
-                      "display_url": "twitter.com/search?q=from%…",
-                      "expanded_url": "https://twitter.com/search?q=from%3A%40sara_0s05%2Fexclude%3Areplies&t=MWeDQLs4l4pgmk7HMJiYw"
-                    }
-                  ]
-                }
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "معلمم ،معلم فرشته های  زمینی (کودکان خاص )\nhttps://t.co/diLUNGHAxn",
-              "media_count": 189,
-              "listed_count": 5,
-              "friends_count": 849,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2731,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1873,
-              "translator_type": "none",
-              "favourites_count": 14476,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/168819332/1775292410",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2047375398057423267"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1873,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Jul 20 21:46:06 +0000 2010",
+              "name": "Sara (اکانت جدید)🎒",
+              "screen_name": "Sara_0s05"
             },
+            "id": "VXNlcjoxNjg4MTkzMzI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "168819332",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "معلمم ،معلم فرشته های  زمینی (کودکان خاص )\nhttps://t.co/diLUNGHAxn"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY4ODE5MzMy",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/diLUNGHAxn",
-                      "indices": [
-                        61,
-                        84
-                      ],
-                      "display_url": "twitter.com/search?q=from%…",
-                      "expanded_url": "https://twitter.com/search?q=from%3A%40sara_0s05%2Fexclude%3Areplies&t=MWeDQLs4l4pgmk7HMJiYw"
-                    }
-                  ],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "My teacher, teacher of the earthly angels (special children)\nhttps://t.co/diLUNGHAxn",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
