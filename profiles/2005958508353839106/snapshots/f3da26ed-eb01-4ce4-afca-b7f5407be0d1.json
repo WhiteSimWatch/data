@@ -1,7 +1,7 @@
 {
   "snapshotId": "f3da26ed-eb01-4ce4-afca-b7f5407be0d1",
   "twitterId": "2005958508353839106",
-  "scannedAt": "2026-05-25T05:40:06.296Z",
+  "scannedAt": "2026-07-05T07:57:16.981Z",
   "fields": {
     "username": "aghayejiim",
     "displayName": "آقای جیم",
@@ -15,156 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2005959939097772032/8WjwESCn_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Dec 30 11:06:10 +0000 2025",
+              "name": "آقای جیم",
+              "screen_name": "aghayejiim"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDA1OTU4NTA4MzUzODM5MTA2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "بعد از دوازده سال فعالیت و بسته شدن سه باره صفحه‌ام، فعلا با این هویت اینجا مشغولم تا به وقتش...!",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2743,
+              "follow_request_sent": false,
+              "followers_count": 812,
+              "friends_count": 990,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 43,
+              "needs_phone_verification": false,
+              "normal_followers_count": 812,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2008110499305848933"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2005958508353839106/1767093306",
+              "profile_interstitial_type": "",
+              "statuses_count": 699,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "بعد از دوازده سال فعالیت و بسته شدن سه باره صفحه‌ام، فعلا با این هویت اینجا مشغولم تا به وقتش...!"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2005958508353839106",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjAwNTk1ODUwODM1MzgzOTEwNg==",
           "result": {
-            "id": "VXNlcjoyMDA1OTU4NTA4MzUzODM5MTA2",
-            "core": {
-              "name": "آقای جیم",
-              "created_at": "Tue Dec 30 11:06:10 +0000 2025",
-              "screen_name": "aghayejiim"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2005959939097772032/8WjwESCn_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2005958508353839106",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1767093116209"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAwNTk1ODUwODM1MzgzOTEwNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDA1OTU4NTA4MzUzODM5MTA2",
-            "core": {
-              "name": "آقای جیم",
-              "created_at": "Tue Dec 30 11:06:10 +0000 2025",
-              "screen_name": "aghayejiim"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2005959939097772032/8WjwESCn_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "بعد از دوازده سال فعالیت و بسته شدن سه باره صفحه‌ام، فعلا با این هویت اینجا مشغولم تا به وقتش...!",
-              "media_count": 35,
-              "listed_count": 0,
-              "friends_count": 997,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 578,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 765,
-              "translator_type": "none",
-              "favourites_count": 2277,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2005958508353839106/1767093306",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2008110499305848933"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 765,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Dec 30 11:06:10 +0000 2025",
+              "name": "آقای جیم",
+              "screen_name": "aghayejiim"
             },
+            "id": "VXNlcjoyMDA1OTU4NTA4MzUzODM5MTA2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2005958508353839106",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "بعد از دوازده سال فعالیت و بسته شدن سه باره صفحه‌ام، فعلا با این هویت اینجا مشغولم تا به وقتش...!"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAwNTk1ODUwODM1MzgzOTEwNg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "After twelve years of activity and having my page shut down three times, I'm currently here under this identity for the time being...!",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
