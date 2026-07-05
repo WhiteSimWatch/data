@@ -1,7 +1,7 @@
 {
   "snapshotId": "ab9b6ff7-9935-43b0-b958-fd979338a7f2",
   "twitterId": "1231308928333557760",
-  "scannedAt": "2026-05-25T04:17:46.447Z",
+  "scannedAt": "2026-07-05T06:06:30.339Z",
   "fields": {
     "username": "mhd_saleh_",
     "displayName": "محمدصالح",
@@ -15,157 +15,157 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045242543995019266/T-0wqVno_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Feb 22 20:05:15 +0000 2020",
+              "name": "محمدصالح",
+              "screen_name": "mhd_saleh_"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjMxMzA4OTI4MzMzNTU3NzYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/gharare_abi",
+                      "expanded_url": "https://t.me/gharare_abi",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/A71iejvAEN"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 55087,
+              "follow_request_sent": false,
+              "followers_count": 1803,
+              "friends_count": 471,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 6,
+              "media_count": 1046,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1803,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1663328705148534784"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231308928333557760/1771098318",
+              "profile_interstitial_type": "",
+              "statuses_count": 22828,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/A71iejvAEN",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1231308928333557760",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTIzMTMwODkyODMzMzU1Nzc2MA==",
           "result": {
-            "id": "VXNlcjoxMjMxMzA4OTI4MzMzNTU3NzYw",
-            "core": {
-              "name": "محمدصالح",
-              "created_at": "Sat Feb 22 20:05:15 +0000 2020",
-              "screen_name": "mhd_saleh_"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2045242543995019266/T-0wqVno_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1231308928333557760",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "North America App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "North America App Store",
               "username_changes": {
                 "count": "7",
                 "last_changed_at_msec": "1777754059592"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIzMTMwODkyODMzMzU1Nzc2MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjMxMzA4OTI4MzMzNTU3NzYw",
-            "core": {
-              "name": "محمدصالح",
-              "created_at": "Sat Feb 22 20:05:15 +0000 2020",
-              "screen_name": "mhd_saleh_"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2045242543995019266/T-0wqVno_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/A71iejvAEN",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/A71iejvAEN",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/gharare_abi",
-                      "expanded_url": "https://t.me/gharare_abi"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 1040,
-              "listed_count": 6,
-              "friends_count": 601,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 22775,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1819,
-              "translator_type": "none",
-              "favourites_count": 54910,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231308928333557760/1771098318",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1663328705148534784"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1819,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Feb 22 20:05:15 +0000 2020",
+              "name": "محمدصالح",
+              "screen_name": "mhd_saleh_"
             },
+            "id": "VXNlcjoxMjMxMzA4OTI4MzMzNTU3NzYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1231308928333557760",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIzMTMwODkyODMzMzU1Nzc2MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
