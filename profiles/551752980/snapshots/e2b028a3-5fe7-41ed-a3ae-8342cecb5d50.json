@@ -1,0 +1,179 @@
+{
+  "snapshotId": "e2b028a3-5fe7-41ed-a3ae-8342cecb5d50",
+  "twitterId": "551752980",
+  "scannedAt": "2026-07-06T04:40:03.350Z",
+  "fields": {
+    "username": "nizaryaat",
+    "displayName": "نزار قباني",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1612023195409809412/bge2_Cwz_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/551752980/1602909759",
+    "bio": "دبلوماسي، شاعر وناشر سوري يعد أحد أبرز وأشهر الشعراء العرب واكثرهم جدلاً في العصر الحديث.",
+    "selfLocation": "على شارع الحب والغضب والذكريات",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1612023195409809412/bge2_Cwz_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Apr 12 08:14:21 +0000 2012",
+              "name": "نزار قباني",
+              "screen_name": "nizaryaat"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "6"
+            },
+            "id": "VXNlcjo1NTE3NTI5ODA=",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "دبلوماسي، شاعر وناشر سوري يعد أحد أبرز وأشهر الشعراء العرب واكثرهم جدلاً في العصر الحديث.",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 192,
+              "follow_request_sent": false,
+              "followers_count": 539388,
+              "friends_count": 0,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 255,
+              "media_count": 85,
+              "needs_phone_verification": false,
+              "normal_followers_count": 539388,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/551752980/1602909759",
+              "profile_interstitial_type": "",
+              "statuses_count": 10930,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "على شارع الحب والغضب والذكريات"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دبلوماسي، شاعر وناشر سوري يعد أحد أبرز وأشهر الشعراء العرب واكثرهم جدلاً في العصر الحديث."
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "551752980",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1770289823765"
+              }
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NTUxNzUyOTgw",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1510644827456"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1612023195409809412/bge2_Cwz_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Apr 12 08:14:21 +0000 2012",
+              "name": "نزار قباني",
+              "screen_name": "nizaryaat"
+            },
+            "id": "VXNlcjo1NTE3NTI5ODA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "551752980",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NTUxNzUyOTgw",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1770289823765"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
