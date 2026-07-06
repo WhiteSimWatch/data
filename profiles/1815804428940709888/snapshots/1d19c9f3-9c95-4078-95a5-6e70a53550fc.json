@@ -1,7 +1,7 @@
 {
   "snapshotId": "1d19c9f3-9c95-4078-95a5-6e70a53550fc",
   "twitterId": "1815804428940709888",
-  "scannedAt": "2026-05-25T10:55:00.469Z",
+  "scannedAt": "2026-07-06T07:32:27.007Z",
   "fields": {
     "username": "Zeiiinb_zh",
     "displayName": "Zeinab",
@@ -15,133 +15,69 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTgxNTgwNDQyODk0MDcwOTg4OA==",
-          "result": {
-            "id": "VXNlcjoxODE1ODA0NDI4OTQwNzA5ODg4",
-            "core": {
-              "name": "Zeinab",
-              "created_at": "Tue Jul 23 17:47:15 +0000 2024",
-              "screen_name": "Zeiiinb_zh"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1901379668420284416/eS6fUv6r_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1815804428940709888",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "United Kingdom App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "1",
-                "last_changed_at_msec": "1722216775089"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgxNTgwNDQyODk0MDcwOTg4OA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxODE1ODA0NDI4OTQwNzA5ODg4",
-            "core": {
-              "name": "Zeinab",
-              "created_at": "Tue Jul 23 17:47:15 +0000 2024",
-              "screen_name": "Zeiiinb_zh"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1901379668420284416/eS6fUv6r_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 55,
-              "listed_count": 1,
-              "friends_count": 264,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 4087,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 878,
-              "translator_type": "none",
-              "favourites_count": 15397,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1815804428940709888/1726615308",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 878,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jul 23 17:47:15 +0000 2024",
+              "name": "Zeinab",
+              "screen_name": "Zeiiinb_zh"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1815804428940709888",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": false
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODE1ODA0NDI4OTQwNzA5ODg4",
+            "is_blue_verified": false,
             "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 15561,
+              "follow_request_sent": false,
+              "followers_count": 873,
+              "friends_count": 263,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 56,
+              "needs_phone_verification": false,
+              "normal_followers_count": 873,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1815804428940709888/1726615308",
+              "profile_interstitial_type": "",
+              "statuses_count": 4252,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 22,
@@ -150,13 +86,77 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
             "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1815804428940709888",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgxNTgwNDQyODk0MDcwOTg4OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United Kingdom App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1722216775089"
+              }
+            },
             "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1901379668420284416/eS6fUv6r_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Jul 23 17:47:15 +0000 2024",
+              "name": "Zeinab",
+              "screen_name": "Zeiiinb_zh"
+            },
+            "id": "VXNlcjoxODE1ODA0NDI4OTQwNzA5ODg4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1815804428940709888",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgxNTgwNDQyODk0MDcwOTg4OA==",
+              "is_identity_verified": false
             }
           }
         }
