@@ -1,7 +1,7 @@
 {
   "snapshotId": "1d04c9f3-5ecf-4113-b6b0-ff64099d7943",
   "twitterId": "1922565081684180992",
-  "scannedAt": "2026-05-25T10:36:36.808Z",
+  "scannedAt": "2026-07-06T06:40:11.592Z",
   "fields": {
     "username": "ZShayry79718",
     "displayName": "م‌ِشکات",
@@ -15,135 +15,72 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTkyMjU2NTA4MTY4NDE4MDk5Mg==",
-          "result": {
-            "id": "VXNlcjoxOTIyNTY1MDgxNjg0MTgwOTky",
-            "core": {
-              "name": "م‌ِشکات",
-              "created_at": "Wed May 14 08:10:23 +0000 2025",
-              "screen_name": "ZShayry79718"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2045713973165936641/rUillE64_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1922565081684180992",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "West Asia",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkyMjU2NTA4MTY4NDE4MDk5Mg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxOTIyNTY1MDgxNjg0MTgwOTky",
-            "core": {
-              "name": "م‌ِشکات",
-              "created_at": "Wed May 14 08:10:23 +0000 2025",
-              "screen_name": "ZShayry79718"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2045713973165936641/rUillE64_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "دل‌بسته‌ی ولایت، دلداده‌ی قرآن و عاشق دعای سحر؛🌱🤍",
-              "media_count": 467,
-              "listed_count": 0,
-              "friends_count": 1492,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 619,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1105,
-              "translator_type": "none",
-              "favourites_count": 1036,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922565081684180992/1747521394",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2051711033056674171"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1105,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Wed May 14 08:10:23 +0000 2025",
+              "name": "م‌ِشکات",
+              "screen_name": "ZShayry79718"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1922565081684180992",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "دل‌بسته‌ی ولایت، دلداده‌ی قرآن و عاشق دعای سحر؛🌱🤍"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": false
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTIyNTY1MDgxNjg0MTgwOTky",
+            "is_blue_verified": false,
             "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "دل‌بسته‌ی ولایت، دلداده‌ی قرآن و عاشق دعای سحر؛🌱🤍",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1245,
+              "follow_request_sent": false,
+              "followers_count": 1308,
+              "friends_count": 1595,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 527,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1308,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2051711033056674171"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922565081684180992/1747521394",
+              "profile_interstitial_type": "",
+              "statuses_count": 788,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 13,
@@ -152,14 +89,77 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دل‌بسته‌ی ولایت، دلداده‌ی قرآن و عاشق دعای سحر؛🌱🤍"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1922565081684180992",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkyMjU2NTA4MTY4NDE4MDk5Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045713973165936641/rUillE64_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed May 14 08:10:23 +0000 2025",
+              "name": "م‌ِشکات",
+              "screen_name": "ZShayry79718"
+            },
+            "id": "VXNlcjoxOTIyNTY1MDgxNjg0MTgwOTky",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1922565081684180992",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkyMjU2NTA4MTY4NDE4MDk5Mg==",
+              "is_identity_verified": false
             }
           }
         }
