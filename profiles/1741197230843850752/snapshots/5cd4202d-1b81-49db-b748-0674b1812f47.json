@@ -1,0 +1,164 @@
+{
+  "snapshotId": "5cd4202d-1b81-49db-b748-0674b1812f47",
+  "twitterId": "1741197230843850752",
+  "scannedAt": "2026-07-07T03:11:35.303Z",
+  "fields": {
+    "username": "GOL_313",
+    "displayName": "Mohammad",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1860010927145340928/C0XbSgry_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1741197230843850752/1711617907",
+    "bio": "War correspondent",
+    "selfLocation": "Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1860010927145340928/C0XbSgry_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Dec 30 20:39:33 +0000 2023",
+              "name": "Mohammad",
+              "screen_name": "GOL_313"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzQxMTk3MjMwODQzODUwNzUy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "War correspondent",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 46082,
+              "follow_request_sent": false,
+              "followers_count": 2556,
+              "friends_count": 565,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 1277,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2556,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741197230843850752/1711617907",
+              "profile_interstitial_type": "",
+              "statuses_count": 21421,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1801176047980855492"
+            },
+            "profile_bio": {
+              "description": "War correspondent"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1741197230843850752",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc0MTE5NzIzMDg0Mzg1MDc1Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1703968795733"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1860010927145340928/C0XbSgry_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Dec 30 20:39:33 +0000 2023",
+              "name": "Mohammad",
+              "screen_name": "GOL_313"
+            },
+            "id": "VXNlcjoxNzQxMTk3MjMwODQzODUwNzUy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1741197230843850752",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc0MTE5NzIzMDg0Mzg1MDc1Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
