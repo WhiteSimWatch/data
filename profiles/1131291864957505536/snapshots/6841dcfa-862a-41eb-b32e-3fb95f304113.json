@@ -1,7 +1,7 @@
 {
   "snapshotId": "6841dcfa-862a-41eb-b32e-3fb95f304113",
   "twitterId": "1131291864957505536",
-  "scannedAt": "2026-05-26T03:03:39.871Z",
+  "scannedAt": "2026-07-07T03:30:09.530Z",
   "fields": {
     "username": "OurIslambeloved",
     "displayName": "Mohammad",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1131292164841861120/kGmziAe__normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed May 22 20:12:53 +0000 2019",
+              "name": "Mohammad",
+              "screen_name": "OurIslambeloved"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTMxMjkxODY0OTU3NTA1NTM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "الَّذين يُبَلِّغُونَ رِسالاتِ اللَّهِ و يَخْشَوْنَهُ و لا يَخْشَوْنَ أَحَداً إِلاَّ اللَّهَ و كَفى‏ بِاللَّهِ حَسيبا (احزاب39)\n\nلَا دِينَ لِمَن لَاتَقِيَّةَ له‏",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 37663,
+              "follow_request_sent": false,
+              "followers_count": 965,
+              "friends_count": 962,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 7,
+              "media_count": 968,
+              "needs_phone_verification": false,
+              "normal_followers_count": 965,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1131291864957505536/1558556561",
+              "profile_interstitial_type": "",
+              "statuses_count": 29224,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "IRAN- The Shelter of Believers"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "الَّذين يُبَلِّغُونَ رِسالاتِ اللَّهِ و يَخْشَوْنَهُ و لا يَخْشَوْنَ أَحَداً إِلاَّ اللَّهَ و كَفى‏ بِاللَّهِ حَسيبا (احزاب39)\n\nلَا دِينَ لِمَن لَاتَقِيَّةَ له‏"
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1131291864957505536",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTEzMTI5MTg2NDk1NzUwNTUzNg==",
           "result": {
-            "id": "VXNlcjoxMTMxMjkxODY0OTU3NTA1NTM2",
-            "core": {
-              "name": "Mohammad",
-              "created_at": "Wed May 22 20:12:53 +0000 2019",
-              "screen_name": "OurIslambeloved"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1131292164841861120/kGmziAe__normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1131291864957505536",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1582742219442"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTEzMTI5MTg2NDk1NzUwNTUzNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMTMxMjkxODY0OTU3NTA1NTM2",
-            "core": {
-              "name": "Mohammad",
-              "created_at": "Wed May 22 20:12:53 +0000 2019",
-              "screen_name": "OurIslambeloved"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1131292164841861120/kGmziAe__normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "الَّذين يُبَلِّغُونَ رِسالاتِ اللَّهِ و يَخْشَوْنَهُ و لا يَخْشَوْنَ أَحَداً إِلاَّ اللَّهَ و كَفى‏ بِاللَّهِ حَسيبا (احزاب39)\n\nلَا دِينَ لِمَن لَاتَقِيَّةَ له‏",
-              "media_count": 961,
-              "listed_count": 6,
-              "friends_count": 953,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 28935,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 961,
-              "translator_type": "none",
-              "favourites_count": 37486,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1131291864957505536/1558556561",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 961,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed May 22 20:12:53 +0000 2019",
+              "name": "Mohammad",
+              "screen_name": "OurIslambeloved"
             },
+            "id": "VXNlcjoxMTMxMjkxODY0OTU3NTA1NTM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1131291864957505536",
-            "location": {
-              "location": "IRAN- The Shelter of Believers"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "الَّذين يُبَلِّغُونَ رِسالاتِ اللَّهِ و يَخْشَوْنَهُ و لا يَخْشَوْنَ أَحَداً إِلاَّ اللَّهَ و كَفى‏ بِاللَّهِ حَسيبا (احزاب39)\n\nلَا دِينَ لِمَن لَاتَقِيَّةَ له‏"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTEzMTI5MTg2NDk1NzUwNTUzNg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "ar",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
