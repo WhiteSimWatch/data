@@ -1,0 +1,171 @@
+{
+  "snapshotId": "ff24c260-66a6-4cd1-b776-56d68aa9913c",
+  "twitterId": "1493463336578695169",
+  "scannedAt": "2026-07-07T09:40:44.363Z",
+  "fields": {
+    "username": "Erfan552059361",
+    "displayName": "اشرف مجبورات",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1998067658516795392/BIsN9fnG_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1493463336578695169/1772225152",
+    "bio": "ابر بدهکار بانکی",
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Bulgaria",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1998067658516795392/BIsN9fnG_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Feb 15 05:53:32 +0000 2022",
+              "name": "اشرف مجبورات",
+              "screen_name": "Erfan552059361"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Bank Debtor Cloud"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDkzNDYzMzM2NTc4Njk1MTY5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "ابر بدهکار بانکی",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 108315,
+              "follow_request_sent": false,
+              "followers_count": 660,
+              "friends_count": 321,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 958,
+              "needs_phone_verification": false,
+              "normal_followers_count": 660,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493463336578695169/1772225152",
+              "profile_interstitial_type": "",
+              "statuses_count": 16584,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ابر بدهکار بانکی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1493463336578695169",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ5MzQ2MzMzNjU3ODY5NTE2OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Bulgaria",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1644904562386"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1998067658516795392/BIsN9fnG_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Feb 15 05:53:32 +0000 2022",
+              "name": "اشرف مجبورات",
+              "screen_name": "Erfan552059361"
+            },
+            "id": "VXNlcjoxNDkzNDYzMzM2NTc4Njk1MTY5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1493463336578695169",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ5MzQ2MzMzNjU3ODY5NTE2OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
