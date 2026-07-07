@@ -1,7 +1,7 @@
 {
   "snapshotId": "2b5c2a3f-ed73-4ac3-9368-b3eb14ce6354",
   "twitterId": "974769110960820225",
-  "scannedAt": "2026-05-26T04:19:45.063Z",
+  "scannedAt": "2026-07-07T05:14:17.386Z",
   "fields": {
     "username": "zomorodian2",
     "displayName": "محمدرضا زمردیان",
@@ -15,152 +15,152 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1482433620988071942/PQgUKcSI_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Mar 16 22:07:21 +0000 2018",
+              "name": "محمدرضا زمردیان",
+              "screen_name": "zomorodian2"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5NzQ3NjkxMTA5NjA4MjAyMjU=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "روزنامه نگار،فعال فرهنگی و اجتماعى، دوستدار جامعه شناسى",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 70528,
+              "follow_request_sent": false,
+              "followers_count": 2232,
+              "friends_count": 753,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 10,
+              "media_count": 274,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2232,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/974769110960820225/1521376807",
+              "profile_interstitial_type": "",
+              "statuses_count": 2042,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 144,
+                  "name": "Education"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1493669802996637698"
+            },
+            "profile_bio": {
+              "description": "روزنامه نگار،فعال فرهنگی و اجتماعى، دوستدار جامعه شناسى"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "974769110960820225",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTc0NzY5MTEwOTYwODIwMjI1",
           "result": {
-            "id": "VXNlcjo5NzQ3NjkxMTA5NjA4MjAyMjU=",
-            "core": {
-              "name": "محمدرضا زمردیان",
-              "created_at": "Fri Mar 16 22:07:21 +0000 2018",
-              "screen_name": "zomorodian2"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1482433620988071942/PQgUKcSI_normal.jpg"
             },
+            "core": {
+              "created_at": "Fri Mar 16 22:07:21 +0000 2018",
+              "name": "محمدرضا زمردیان",
+              "screen_name": "zomorodian2"
+            },
+            "id": "VXNlcjo5NzQ3NjkxMTA5NjA4MjAyMjU=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "974769110960820225",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTc0NzY5MTEwOTYwODIwMjI1",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5NzQ3NjkxMTA5NjA4MjAyMjU=",
-            "core": {
-              "name": "محمدرضا زمردیان",
-              "created_at": "Fri Mar 16 22:07:21 +0000 2018",
-              "screen_name": "zomorodian2"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1482433620988071942/PQgUKcSI_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "روزنامه نگار،فعال فرهنگی و اجتماعى، دوستدار جامعه شناسى",
-              "media_count": 273,
-              "listed_count": 10,
-              "friends_count": 752,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2038,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2230,
-              "translator_type": "none",
-              "favourites_count": 70511,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/974769110960820225/1521376807",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2230,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "974769110960820225",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "روزنامه نگار،فعال فرهنگی و اجتماعى، دوستدار جامعه شناسى"
-            },
-            "professional": {
-              "rest_id": "1493669802996637698",
-              "category": [
-                {
-                  "id": 144,
-                  "name": "Education",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
