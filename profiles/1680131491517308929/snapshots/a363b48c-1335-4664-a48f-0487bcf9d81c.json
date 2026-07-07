@@ -1,7 +1,7 @@
 {
   "snapshotId": "a363b48c-1335-4664-a48f-0487bcf9d81c",
   "twitterId": "1680131491517308929",
-  "scannedAt": "2026-05-26T05:35:05.063Z",
+  "scannedAt": "2026-07-07T06:55:59.124Z",
   "fields": {
     "username": "Ahmadheidarnia",
     "displayName": "احمدرضا حیدرنیا",
@@ -15,153 +15,153 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1920786423294087168/NuBRbJO9_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jul 15 08:25:57 +0000 2023",
+              "name": "احمدرضا حیدرنیا",
+              "screen_name": "Ahmadheidarnia"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjgwMTMxNDkxNTE3MzA4OTI5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "عضو خانواده پتروشیمی و نفت",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 117,
+              "follow_request_sent": false,
+              "followers_count": 224,
+              "friends_count": 51,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 62,
+              "needs_phone_verification": false,
+              "normal_followers_count": 224,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680131491517308929/1729670915",
+              "profile_interstitial_type": "",
+              "statuses_count": 146,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 958,
+                  "name": "Entrepreneur"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1680616236995219456"
+            },
+            "profile_bio": {
+              "description": "عضو خانواده پتروشیمی و نفت"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1680131491517308929",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTY4MDEzMTQ5MTUxNzMwODkyOQ==",
           "result": {
-            "id": "VXNlcjoxNjgwMTMxNDkxNTE3MzA4OTI5",
-            "core": {
-              "name": "احمدرضا حیدرنیا",
-              "created_at": "Sat Jul 15 08:25:57 +0000 2023",
-              "screen_name": "Ahmadheidarnia"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1920786423294087168/NuBRbJO9_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1680131491517308929",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1689409656337"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY4MDEzMTQ5MTUxNzMwODkyOQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjgwMTMxNDkxNTE3MzA4OTI5",
-            "core": {
-              "name": "احمدرضا حیدرنیا",
-              "created_at": "Sat Jul 15 08:25:57 +0000 2023",
-              "screen_name": "Ahmadheidarnia"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1920786423294087168/NuBRbJO9_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "عضو خانواده پتروشیمی و نفت",
-              "media_count": 62,
-              "listed_count": 1,
-              "friends_count": 51,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 146,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 222,
-              "translator_type": "none",
-              "favourites_count": 117,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680131491517308929/1729670915",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 222,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Jul 15 08:25:57 +0000 2023",
+              "name": "احمدرضا حیدرنیا",
+              "screen_name": "Ahmadheidarnia"
             },
+            "id": "VXNlcjoxNjgwMTMxNDkxNTE3MzA4OTI5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1680131491517308929",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "عضو خانواده پتروشیمی و نفت"
-            },
-            "professional": {
-              "rest_id": "1680616236995219456",
-              "category": [
-                {
-                  "id": 958,
-                  "name": "Entrepreneur",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY4MDEzMTQ5MTUxNzMwODkyOQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
