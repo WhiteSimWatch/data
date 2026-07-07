@@ -1,0 +1,174 @@
+{
+  "snapshotId": "c64f881b-798d-4ffe-9372-98f8856878d7",
+  "twitterId": "1573404862330683398",
+  "scannedAt": "2026-07-07T08:55:43.152Z",
+  "fields": {
+    "username": "strawberryzh",
+    "displayName": "sheyda🐈‍⬛",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2060054702243340293/4eTR_1Le_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1573404862330683398/1739558316",
+    "bio": "🍓شِی",
+    "selfLocation": "Kish island",
+    "accountBasedIn": "Turkey",
+    "connectedVia": "Canada App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2060054702243340293/4eTR_1Le_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Sep 23 20:12:23 +0000 2022",
+              "name": "sheyda🐈‍⬛",
+              "screen_name": "strawberryzh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "🍓She"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTczNDA0ODYyMzMwNjgzMzk4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "🍓شِی",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 83257,
+              "follow_request_sent": false,
+              "followers_count": 6362,
+              "friends_count": 540,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 35,
+              "needs_phone_verification": false,
+              "normal_followers_count": 6362,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1847656094438469830"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573404862330683398/1739558316",
+              "profile_interstitial_type": "",
+              "statuses_count": 12251,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Kish island"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "🍓شِی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1573404862330683398",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU3MzQwNDg2MjMzMDY4MzM5OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Turkey",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Canada App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1729485522486"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2060054702243340293/4eTR_1Le_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Sep 23 20:12:23 +0000 2022",
+              "name": "sheyda🐈‍⬛",
+              "screen_name": "strawberryzh"
+            },
+            "id": "VXNlcjoxNTczNDA0ODYyMzMwNjgzMzk4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1573404862330683398",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU3MzQwNDg2MjMzMDY4MzM5OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
