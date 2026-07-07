@@ -1,0 +1,172 @@
+{
+  "snapshotId": "4cd9f18e-eb0d-48a9-8b47-a5dfbdd24423",
+  "twitterId": "2343937188",
+  "scannedAt": "2026-07-07T04:41:35.011Z",
+  "fields": {
+    "username": "MehdiRahmanian",
+    "displayName": "Mehdi Rahmanian",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/434394618172428288/tJcPh3Ec_normal.png",
+    "profileBannerUrl": "",
+    "bio": "The founder, owner, publisher of @SharghDaily - صاحب امتیاز و مدیر مسوول روزنامه شرق",
+    "selfLocation": "Tehran, Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "France App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/434394618172428288/tJcPh3Ec_normal.png"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Feb 14 18:14:56 +0000 2014",
+              "name": "Mehdi Rahmanian",
+              "screen_name": "MehdiRahmanian"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMzQzOTM3MTg4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "The founder, owner, publisher of @SharghDaily - صاحب امتیاز و مدیر مسوول روزنامه شرق",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "sharghdaily.ir",
+                      "expanded_url": "http://sharghdaily.ir",
+                      "indices": [
+                        0,
+                        22
+                      ],
+                      "url": "http://t.co/nnTpSUJUR3"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 4,
+              "follow_request_sent": false,
+              "followers_count": 4706,
+              "friends_count": 5,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 69,
+              "media_count": 6,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4706,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 30,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "http://t.co/nnTpSUJUR3",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran, Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "The founder, owner, publisher of @SharghDaily - صاحب امتیاز و مدیر مسوول روزنامه شرق"
+            },
+            "profile_description_language": "und",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "2343937188",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjM0MzkzNzE4OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "France App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/434394618172428288/tJcPh3Ec_normal.png"
+            },
+            "core": {
+              "created_at": "Fri Feb 14 18:14:56 +0000 2014",
+              "name": "Mehdi Rahmanian",
+              "screen_name": "MehdiRahmanian"
+            },
+            "id": "VXNlcjoyMzQzOTM3MTg4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2343937188",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjM0MzkzNzE4OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
