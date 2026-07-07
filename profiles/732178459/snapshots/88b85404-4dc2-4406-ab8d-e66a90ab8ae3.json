@@ -1,7 +1,7 @@
 {
   "snapshotId": "88b85404-4dc2-4406-ab8d-e66a90ab8ae3",
   "twitterId": "732178459",
-  "scannedAt": "2026-05-26T05:18:11.526Z",
+  "scannedAt": "2026-07-07T06:33:15.073Z",
   "fields": {
     "username": "karamoozian1390",
     "displayName": "مرتضی کارآموزیان",
@@ -15,150 +15,150 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1859068162114768896/ih2Axaou_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Aug 02 04:59:06 +0000 2012",
+              "name": "مرتضی کارآموزیان",
+              "screen_name": "karamoozian1390"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3MzIxNzg0NTk=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "🎙️دانش آموخته دکتری مدیریت رسانه\n_کارشناس رسانه و سواد رسانه ای",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6585,
+              "follow_request_sent": false,
+              "followers_count": 1773,
+              "friends_count": 1307,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 560,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1773,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1588135515802537984"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/732178459/1734016263",
+              "profile_interstitial_type": "",
+              "statuses_count": 881,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1867556217926951079"
+            },
+            "profile_bio": {
+              "description": "🎙️دانش آموخته دکتری مدیریت رسانه\n_کارشناس رسانه و سواد رسانه ای"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "732178459",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6NzMyMTc4NDU5",
           "result": {
-            "id": "VXNlcjo3MzIxNzg0NTk=",
-            "core": {
-              "name": "مرتضی کارآموزیان",
-              "created_at": "Thu Aug 02 04:59:06 +0000 2012",
-              "screen_name": "karamoozian1390"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1859068162114768896/ih2Axaou_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "732178459",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1535545335287"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzMyMTc4NDU5",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo3MzIxNzg0NTk=",
-            "core": {
-              "name": "مرتضی کارآموزیان",
-              "created_at": "Thu Aug 02 04:59:06 +0000 2012",
-              "screen_name": "karamoozian1390"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1859068162114768896/ih2Axaou_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "🎙️دانش آموخته دکتری مدیریت رسانه\n_کارشناس رسانه و سواد رسانه ای",
-              "media_count": 556,
-              "listed_count": 1,
-              "friends_count": 1301,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 874,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1760,
-              "translator_type": "none",
-              "favourites_count": 6557,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/732178459/1734016263",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1588135515802537984"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1760,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Aug 02 04:59:06 +0000 2012",
+              "name": "مرتضی کارآموزیان",
+              "screen_name": "karamoozian1390"
             },
+            "id": "VXNlcjo3MzIxNzg0NTk=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "732178459",
-            "location": {
-              "location": "iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "🎙️دانش آموخته دکتری مدیریت رسانه\n_کارشناس رسانه و سواد رسانه ای"
-            },
-            "professional": {
-              "rest_id": "1867556217926951079",
-              "category": [],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzMyMTc4NDU5",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
