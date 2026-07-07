@@ -1,0 +1,160 @@
+{
+  "snapshotId": "4e8efc00-c33b-423c-8ec4-39e230a6dbe5",
+  "twitterId": "1577885581824122880",
+  "scannedAt": "2026-07-07T22:14:52.386Z",
+  "fields": {
+    "username": "babone_517",
+    "displayName": "🌼بابونه🌼",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1578022683983298561/9DO5WKsn_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1577885581824122880/1665777177",
+    "bio": "فعلا موجود نیست! :)",
+    "selfLocation": "ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1578022683983298561/9DO5WKsn_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Oct 06 04:57:15 +0000 2022",
+              "name": "🌼بابونه🌼",
+              "screen_name": "babone_517"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTc3ODg1NTgxODI0MTIyODgw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "فعلا موجود نیست! :)",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 8305,
+              "follow_request_sent": false,
+              "followers_count": 265,
+              "friends_count": 111,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 251,
+              "needs_phone_verification": false,
+              "normal_followers_count": 265,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577885581824122880/1665777177",
+              "profile_interstitial_type": "",
+              "statuses_count": 1135,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فعلا موجود نیست! :)"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1577885581824122880",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU3Nzg4NTU4MTgyNDEyMjg4MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1665034076479"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1578022683983298561/9DO5WKsn_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Oct 06 04:57:15 +0000 2022",
+              "name": "🌼بابونه🌼",
+              "screen_name": "babone_517"
+            },
+            "id": "VXNlcjoxNTc3ODg1NTgxODI0MTIyODgw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1577885581824122880",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU3Nzg4NTU4MTgyNDEyMjg4MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
