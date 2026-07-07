@@ -1,7 +1,7 @@
 {
   "snapshotId": "0c6c0832-c546-4e31-b7af-0da046825861",
   "twitterId": "1837475014213349376",
-  "scannedAt": "2026-05-26T07:15:58.407Z",
+  "scannedAt": "2026-07-07T09:10:00.092Z",
   "fields": {
     "username": "MamadAkela",
     "displayName": "mamad.baloch",
@@ -15,144 +15,144 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1837475109717618688/knR1ykhh_normal.png"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Sep 21 12:52:59 +0000 2024",
+              "name": "mamad.baloch",
+              "screen_name": "MamadAkela"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODM3NDc1MDE0MjEzMzQ5Mzc2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 24225,
+              "follow_request_sent": false,
+              "followers_count": 2728,
+              "friends_count": 5489,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 5373,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2728,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1984199388584095861"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837475014213349376/1753003199",
+              "profile_interstitial_type": "",
+              "statuses_count": 10513,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1837475014213349376",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTgzNzQ3NTAxNDIxMzM0OTM3Ng==",
           "result": {
-            "id": "VXNlcjoxODM3NDc1MDE0MjEzMzQ5Mzc2",
-            "core": {
-              "name": "mamad.baloch",
-              "created_at": "Sat Sep 21 12:52:59 +0000 2024",
-              "screen_name": "MamadAkela"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1837475109717618688/knR1ykhh_normal.png"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1837475014213349376",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1726923216678"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgzNzQ3NTAxNDIxMzM0OTM3Ng==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODM3NDc1MDE0MjEzMzQ5Mzc2",
-            "core": {
-              "name": "mamad.baloch",
-              "created_at": "Sat Sep 21 12:52:59 +0000 2024",
-              "screen_name": "MamadAkela"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1837475109717618688/knR1ykhh_normal.png"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 5163,
-              "listed_count": 1,
-              "friends_count": 4873,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 10271,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2325,
-              "translator_type": "none",
-              "favourites_count": 23617,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837475014213349376/1753003199",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1984199388584095861"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2325,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Sep 21 12:52:59 +0000 2024",
+              "name": "mamad.baloch",
+              "screen_name": "MamadAkela"
             },
+            "id": "VXNlcjoxODM3NDc1MDE0MjEzMzQ5Mzc2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1837475014213349376",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgzNzQ3NTAxNDIxMzM0OTM3Ng==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
