@@ -1,7 +1,7 @@
 {
   "snapshotId": "4d78f3aa-81c5-4048-8096-14a5febdbe29",
   "twitterId": "518271888",
-  "scannedAt": "2026-05-26T03:15:44.751Z",
+  "scannedAt": "2026-07-07T03:47:17.297Z",
   "fields": {
     "username": "ghadamyari_ir",
     "displayName": "ابالفضل",
@@ -15,157 +15,93 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6NTE4MjcxODg4",
-          "result": {
-            "id": "VXNlcjo1MTgyNzE4ODg=",
-            "core": {
-              "name": "ابالفضل",
-              "created_at": "Thu Mar 08 07:06:51 +0000 2012",
-              "screen_name": "ghadamyari_ir"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1857941246834077696/Cm934XRU_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "518271888",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "West Asia",
-              "username_changes": {
-                "count": "7",
-                "last_changed_at_msec": "1641703581122"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NTE4MjcxODg4",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjo1MTgyNzE4ODg=",
-            "core": {
-              "name": "ابالفضل",
-              "created_at": "Thu Mar 08 07:06:51 +0000 2012",
-              "screen_name": "ghadamyari_ir"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1857941246834077696/Cm934XRU_normal.jpg"
             },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Mar 08 07:06:51 +0000 2012",
+              "name": "ابالفضل",
+              "screen_name": "ghadamyari_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "You can only debate with someone with whom you share common foundations.                A servant of God"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo1MTgyNzE4ODg=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
             "legacy": {
-              "url": "https://t.co/FWGtT0NRCb",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "فقط با کسی می توانید بحث کنید که مبانی مشترک دارید.                ‌       بنده خدا",
               "entities": {
+                "description": {},
                 "url": {
                   "urls": [
                     {
-                      "url": "https://t.co/FWGtT0NRCb",
+                      "display_url": "instagram.com/ghadamyari_ir",
+                      "expanded_url": "http://instagram.com/ghadamyari_ir",
                       "indices": [
                         0,
                         23
                       ],
-                      "display_url": "instagram.com/ghadamyari_ir",
-                      "expanded_url": "http://instagram.com/ghadamyari_ir"
+                      "url": "https://t.co/FWGtT0NRCb"
                     }
                   ]
-                },
-                "description": {}
+                }
               },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "فقط با کسی می توانید بحث کنید که مبانی مشترک دارید.                ‌       بنده خدا",
-              "media_count": 2061,
-              "listed_count": 5,
+              "fast_followers_count": 0,
+              "favourites_count": 49285,
+              "follow_request_sent": false,
+              "followers_count": 3133,
               "friends_count": 654,
+              "has_custom_timelines": true,
               "is_translator": false,
+              "listed_count": 5,
+              "media_count": 2070,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3133,
               "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 30112,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 3136,
-              "translator_type": "none",
-              "favourites_count": 49278,
               "possibly_sensitive": false,
               "profile_banner_url": "https://pbs.twimg.com/profile_banners/518271888/1703350266",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
+              "profile_interstitial_type": "",
+              "statuses_count": 30141,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/FWGtT0NRCb",
+              "utc_offset": 0,
+              "want_retweets": false,
               "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3136,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+              "withheld_scope": ""
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "518271888",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "فقط با کسی می توانید بحث کنید که مبانی مشترک دارید.                ‌       بنده خدا"
-            },
-            "professional": {
-              "rest_id": "1509619480191811592",
-              "category": [
-                {
-                  "id": 933,
-                  "name": "Media Personality",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 14,
@@ -174,14 +110,89 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 933,
+                  "name": "Media Personality"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1509619480191811592"
+            },
+            "profile_bio": {
+              "description": "فقط با کسی می توانید بحث کنید که مبانی مشترک دارید.                ‌       بنده خدا"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "518271888",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NTE4MjcxODg4",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "7",
+                "last_changed_at_msec": "1641703581122"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1857941246834077696/Cm934XRU_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Mar 08 07:06:51 +0000 2012",
+              "name": "ابالفضل",
+              "screen_name": "ghadamyari_ir"
+            },
+            "id": "VXNlcjo1MTgyNzE4ODg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "518271888",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NTE4MjcxODg4",
+              "is_identity_verified": false
             }
           }
         }
