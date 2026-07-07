@@ -1,7 +1,7 @@
 {
   "snapshotId": "413074cc-76b7-4760-bedd-b695f75a8e2e",
   "twitterId": "1932722241692639232",
-  "scannedAt": "2026-05-26T04:24:12.249Z",
+  "scannedAt": "2026-07-07T05:20:05.135Z",
   "fields": {
     "username": "Avash_media_en",
     "displayName": "Avash News",
@@ -15,166 +15,166 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1942958963735007232/YsL7I72q_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jun 11 08:51:26 +0000 2025",
+              "name": "Avash News",
+              "screen_name": "Avash_media_en"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTMyNzIyMjQxNjkyNjM5MjMy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Independent news outlet, reporting from Tehran on Iran’s foreign policy & domestic affairs, by those who live it.",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "avash.news",
+                      "expanded_url": "http://avash.news",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/glCutWyEdK"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 57,
+              "follow_request_sent": false,
+              "followers_count": 156,
+              "friends_count": 16,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 282,
+              "needs_phone_verification": false,
+              "normal_followers_count": 156,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932722241692639232/1752072459",
+              "profile_interstitial_type": "",
+              "statuses_count": 896,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/glCutWyEdK",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 579,
+                  "name": "Media & News"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1932839005948948810"
+            },
+            "profile_bio": {
+              "description": "Independent news outlet, reporting from Tehran on Iran’s foreign policy & domestic affairs, by those who live it."
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1932722241692639232",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTkzMjcyMjI0MTY5MjYzOTIzMg==",
           "result": {
-            "id": "VXNlcjoxOTMyNzIyMjQxNjkyNjM5MjMy",
-            "core": {
-              "name": "Avash News",
-              "created_at": "Wed Jun 11 08:51:26 +0000 2025",
-              "screen_name": "Avash_media_en"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1942958963735007232/YsL7I72q_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1932722241692639232",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1749631978562"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkzMjcyMjI0MTY5MjYzOTIzMg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTMyNzIyMjQxNjkyNjM5MjMy",
-            "core": {
-              "name": "Avash News",
-              "created_at": "Wed Jun 11 08:51:26 +0000 2025",
-              "screen_name": "Avash_media_en"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1942958963735007232/YsL7I72q_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/glCutWyEdK",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/glCutWyEdK",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "avash.news",
-                      "expanded_url": "http://avash.news"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Independent news outlet, reporting from Tehran on Iran’s foreign policy & domestic affairs, by those who live it.",
-              "media_count": 272,
-              "listed_count": 1,
-              "friends_count": 14,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 877,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 150,
-              "translator_type": "none",
-              "favourites_count": 57,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932722241692639232/1752072459",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 150,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Jun 11 08:51:26 +0000 2025",
+              "name": "Avash News",
+              "screen_name": "Avash_media_en"
             },
+            "id": "VXNlcjoxOTMyNzIyMjQxNjkyNjM5MjMy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1932722241692639232",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Independent news outlet, reporting from Tehran on Iran’s foreign policy & domestic affairs, by those who live it."
-            },
-            "professional": {
-              "rest_id": "1932839005948948810",
-              "category": [
-                {
-                  "id": 579,
-                  "name": "Media & News",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkzMjcyMjI0MTY5MjYzOTIzMg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
