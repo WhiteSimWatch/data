@@ -1,0 +1,193 @@
+{
+  "snapshotId": "7ef0db7b-4b88-420c-a253-e0fd481bed31",
+  "twitterId": "948849926582259712",
+  "scannedAt": "2026-07-08T03:44:43.050Z",
+  "fields": {
+    "username": "kasah313",
+    "displayName": "☕ alireza",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2003873422527406081/jLMU8Nd0_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/948849926582259712/1765897363",
+    "bio": "https://t.co/kOUYl5kq2w",
+    "selfLocation": "ط‌ِهران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United Kingdom App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2003873422527406081/jLMU8Nd0_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Jan 04 09:33:46 +0000 2018",
+              "name": "☕ alireza",
+              "screen_name": "kasah313"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5NDg4NDk5MjY1ODIyNTk3MTI=",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "https://t.co/kOUYl5kq2w",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/alireza_rizaai…",
+                      "expanded_url": "https://www.instagram.com/alireza_rizaai?igsh=b292OWYwYWN5NTk4",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/kOUYl5kq2w"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 27660,
+              "follow_request_sent": false,
+              "followers_count": 4494,
+              "friends_count": 3179,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 2294,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4494,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1860367145323937808"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/948849926582259712/1765897363",
+              "profile_interstitial_type": "",
+              "statuses_count": 31871,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "ط‌ِهران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "https://t.co/kOUYl5kq2w"
+            },
+            "profile_description_language": "zxx",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "948849926582259712",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1783256484820"
+              }
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTQ4ODQ5OTI2NTgyMjU5NzEy",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United Kingdom App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2003873422527406081/jLMU8Nd0_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Jan 04 09:33:46 +0000 2018",
+              "name": "☕ alireza",
+              "screen_name": "kasah313"
+            },
+            "id": "VXNlcjo5NDg4NDk5MjY1ODIyNTk3MTI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "948849926582259712",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTQ4ODQ5OTI2NTgyMjU5NzEy",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1783256484820"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
