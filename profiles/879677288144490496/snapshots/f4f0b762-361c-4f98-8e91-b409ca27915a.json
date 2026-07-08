@@ -1,0 +1,159 @@
+{
+  "snapshotId": "f4f0b762-361c-4f98-8e91-b409ca27915a",
+  "twitterId": "879677288144490496",
+  "scannedAt": "2026-07-08T09:04:29.120Z",
+  "fields": {
+    "username": "Roham_k1",
+    "displayName": "رهام",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1581766652978405379/u99ma5lK_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/879677288144490496/1498568190",
+    "bio": "",
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1581766652978405379/u99ma5lK_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jun 27 12:26:23 +0000 2017",
+              "name": "رهام",
+              "screen_name": "Roham_k1"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4Nzk2NzcyODgxNDQ0OTA0OTY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1639,
+              "follow_request_sent": false,
+              "followers_count": 37,
+              "friends_count": 66,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 7,
+              "needs_phone_verification": false,
+              "normal_followers_count": 37,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/879677288144490496/1498568190",
+              "profile_interstitial_type": "",
+              "statuses_count": 492,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "879677288144490496",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODc5Njc3Mjg4MTQ0NDkwNDk2",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1498566487672"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1581766652978405379/u99ma5lK_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Jun 27 12:26:23 +0000 2017",
+              "name": "رهام",
+              "screen_name": "Roham_k1"
+            },
+            "id": "VXNlcjo4Nzk2NzcyODgxNDQ0OTA0OTY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "879677288144490496",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODc5Njc3Mjg4MTQ0NDkwNDk2",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
