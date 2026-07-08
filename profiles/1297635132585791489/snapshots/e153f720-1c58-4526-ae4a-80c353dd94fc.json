@@ -1,7 +1,7 @@
 {
   "snapshotId": "e153f720-1c58-4526-ae4a-80c353dd94fc",
   "twitterId": "1297635132585791489",
-  "scannedAt": "2026-05-27T03:25:43.857Z",
+  "scannedAt": "2026-07-08T09:13:14.061Z",
   "fields": {
     "username": "Msaleh_ir",
     "displayName": "🎒میم‌صالح.",
@@ -15,146 +15,82 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTI5NzYzNTEzMjU4NTc5MTQ4OQ==",
-          "result": {
-            "id": "VXNlcjoxMjk3NjM1MTMyNTg1NzkxNDg5",
-            "core": {
-              "name": "🎒میم‌صالح.",
-              "created_at": "Sun Aug 23 20:41:52 +0000 2020",
-              "screen_name": "Msaleh_ir"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1989051313418547200/xBgWAzYQ_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1297635132585791489",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "2",
-                "last_changed_at_msec": "1627310548542"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI5NzYzNTEzMjU4NTc5MTQ4OQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxMjk3NjM1MTMyNTg1NzkxNDg5",
-            "core": {
-              "name": "🎒میم‌صالح.",
-              "created_at": "Sun Aug 23 20:41:52 +0000 2020",
-              "screen_name": "Msaleh_ir"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1989051313418547200/xBgWAzYQ_normal.jpg"
             },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Aug 23 20:41:52 +0000 2020",
+              "name": "🎒میم‌صالح.",
+              "screen_name": "Msaleh_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjk3NjM1MTMyNTg1NzkxNDg5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
             "legacy": {
-              "url": "https://t.co/7gq6Md703I",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "العبد | دانش‌جوی مهندسی؟ | خیلی وقته نیستم، خیلی وقت دیگر هم نخواهم بود.",
               "entities": {
+                "description": {},
                 "url": {
                   "urls": [
                     {
-                      "url": "https://t.co/7gq6Md703I",
+                      "display_url": "t.me/zakhm_kary",
+                      "expanded_url": "http://t.me/zakhm_kary",
                       "indices": [
                         0,
                         23
                       ],
-                      "display_url": "t.me/zakhm_kary",
-                      "expanded_url": "http://t.me/zakhm_kary"
+                      "url": "https://t.co/7gq6Md703I"
                     }
                   ]
-                },
-                "description": {}
+                }
               },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "العبد | دانش‌جوی مهندسی؟ | خیلی وقته نیستم، خیلی وقت دیگر هم نخواهم بود.",
-              "media_count": 1864,
-              "listed_count": 10,
-              "friends_count": 1641,
+              "fast_followers_count": 0,
+              "favourites_count": 18476,
+              "follow_request_sent": false,
+              "followers_count": 2560,
+              "friends_count": 1654,
+              "has_custom_timelines": true,
               "is_translator": false,
+              "listed_count": 9,
+              "media_count": 1870,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2560,
               "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 28349,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2527,
-              "translator_type": "none",
-              "favourites_count": 17800,
               "possibly_sensitive": false,
               "profile_banner_url": "https://pbs.twimg.com/profile_banners/1297635132585791489/1776090155",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
+              "profile_interstitial_type": "",
+              "statuses_count": 28543,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/7gq6Md703I",
+              "utc_offset": 0,
+              "want_retweets": false,
               "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2527,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+              "withheld_scope": ""
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1297635132585791489",
-            "location": {
-              "location": "Tehran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "العبد | دانش‌جوی مهندسی؟ | خیلی وقته نیستم، خیلی وقت دیگر هم نخواهم بود."
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 16,
@@ -163,25 +99,78 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "العبد | دانش‌جوی مهندسی؟ | خیلی وقته نیستم، خیلی وقت دیگر هم نخواهم بود."
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "The Slave | Engineering Student? | I haven't been here for a long time, nor will I be for a long time to come.",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1297635132585791489",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI5NzYzNTEzMjU4NTc5MTQ4OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1627310548542"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1989051313418547200/xBgWAzYQ_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Aug 23 20:41:52 +0000 2020",
+              "name": "🎒میم‌صالح.",
+              "screen_name": "Msaleh_ir"
+            },
+            "id": "VXNlcjoxMjk3NjM1MTMyNTg1NzkxNDg5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1297635132585791489",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI5NzYzNTEzMjU4NTc5MTQ4OQ==",
+              "is_identity_verified": false
             }
           }
         }
