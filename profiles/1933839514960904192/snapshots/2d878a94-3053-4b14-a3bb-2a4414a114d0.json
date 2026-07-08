@@ -1,7 +1,7 @@
 {
   "snapshotId": "2d878a94-3053-4b14-a3bb-2a4414a114d0",
   "twitterId": "1933839514960904192",
-  "scannedAt": "2026-05-27T03:56:06.499Z",
+  "scannedAt": "2026-07-08T09:52:21.514Z",
   "fields": {
     "username": "Rayehe__p",
     "displayName": "رایـــحه",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1947989708539084802/LrX1a-Bg_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jun 14 10:51:00 +0000 2025",
+              "name": "رایـــحه",
+              "screen_name": "Rayehe__p"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTMzODM5NTE0OTYwOTA0MTky",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "خالی",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 9312,
+              "follow_request_sent": false,
+              "followers_count": 346,
+              "friends_count": 218,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 14,
+              "needs_phone_verification": false,
+              "normal_followers_count": 346,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2007111856545296529"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933839514960904192/1750075538",
+              "profile_interstitial_type": "",
+              "statuses_count": 2213,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "خونه"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خالی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1933839514960904192",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTkzMzgzOTUxNDk2MDkwNDE5Mg==",
           "result": {
-            "id": "VXNlcjoxOTMzODM5NTE0OTYwOTA0MTky",
-            "core": {
-              "name": "رایـــحه",
-              "created_at": "Sat Jun 14 10:51:00 +0000 2025",
-              "screen_name": "Rayehe__p"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1947989708539084802/LrX1a-Bg_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1933839514960904192",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1750075694516"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkzMzgzOTUxNDk2MDkwNDE5Mg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTMzODM5NTE0OTYwOTA0MTky",
-            "core": {
-              "name": "رایـــحه",
-              "created_at": "Sat Jun 14 10:51:00 +0000 2025",
-              "screen_name": "Rayehe__p"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1947989708539084802/LrX1a-Bg_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "خالی",
-              "media_count": 14,
-              "listed_count": 0,
-              "friends_count": 215,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2019,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 349,
-              "translator_type": "none",
-              "favourites_count": 8414,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933839514960904192/1750075538",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2007111856545296529"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 349,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Jun 14 10:51:00 +0000 2025",
+              "name": "رایـــحه",
+              "screen_name": "Rayehe__p"
             },
+            "id": "VXNlcjoxOTMzODM5NTE0OTYwOTA0MTky",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1933839514960904192",
-            "location": {
-              "location": "خونه"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "خالی"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkzMzgzOTUxNDk2MDkwNDE5Mg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
