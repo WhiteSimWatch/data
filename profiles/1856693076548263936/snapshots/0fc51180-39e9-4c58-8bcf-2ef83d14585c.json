@@ -1,7 +1,7 @@
 {
   "snapshotId": "0fc51180-39e9-4c58-8bcf-2ef83d14585c",
   "twitterId": "1856693076548263936",
-  "scannedAt": "2026-05-26T13:20:30.853Z",
+  "scannedAt": "2026-07-08T05:13:00.567Z",
   "fields": {
     "username": "fanoos290",
     "displayName": "فانوس",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1856697007131279360/XLZD7uuR_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Nov 13 13:39:01 +0000 2024",
+              "name": "فانوس",
+              "screen_name": "fanoos290"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODU2NjkzMDc2NTQ4MjYzOTM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "زاده ایران؛عاشق ایران",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 7626,
+              "follow_request_sent": false,
+              "followers_count": 847,
+              "friends_count": 849,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 119,
+              "needs_phone_verification": false,
+              "normal_followers_count": 847,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856693076548263936/1748493827",
+              "profile_interstitial_type": "",
+              "statuses_count": 3050,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "زاده ایران؛عاشق ایران"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1856693076548263936",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg1NjY5MzA3NjU0ODI2MzkzNg==",
           "result": {
-            "id": "VXNlcjoxODU2NjkzMDc2NTQ4MjYzOTM2",
-            "core": {
-              "name": "فانوس",
-              "created_at": "Wed Nov 13 13:39:01 +0000 2024",
-              "screen_name": "fanoos290"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1856697007131279360/XLZD7uuR_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1856693076548263936",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1731505228383"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1NjY5MzA3NjU0ODI2MzkzNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODU2NjkzMDc2NTQ4MjYzOTM2",
-            "core": {
-              "name": "فانوس",
-              "created_at": "Wed Nov 13 13:39:01 +0000 2024",
-              "screen_name": "fanoos290"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1856697007131279360/XLZD7uuR_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "زاده ایران؛عاشق ایران",
-              "media_count": 101,
-              "listed_count": 1,
-              "friends_count": 777,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2814,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 774,
-              "translator_type": "none",
-              "favourites_count": 6881,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856693076548263936/1748493827",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 774,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Nov 13 13:39:01 +0000 2024",
+              "name": "فانوس",
+              "screen_name": "fanoos290"
             },
+            "id": "VXNlcjoxODU2NjkzMDc2NTQ4MjYzOTM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1856693076548263936",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "زاده ایران؛عاشق ایران"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1NjY5MzA3NjU0ODI2MzkzNg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
