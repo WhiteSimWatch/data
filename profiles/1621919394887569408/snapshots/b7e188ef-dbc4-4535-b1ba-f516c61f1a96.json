@@ -1,7 +1,7 @@
 {
   "snapshotId": "b7e188ef-dbc4-4535-b1ba-f516c61f1a96",
   "twitterId": "1621919394887569408",
-  "scannedAt": "2026-05-26T09:38:09.246Z",
+  "scannedAt": "2026-07-08T03:39:02.013Z",
   "fields": {
     "username": "lbafchy",
     "displayName": "یکتا",
@@ -15,144 +15,144 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1719708889061462016/Z9dDAt-3_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Feb 04 17:12:08 +0000 2023",
+              "name": "یکتا",
+              "screen_name": "lbafchy"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjIxOTE5Mzk0ODg3NTY5NDA4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "طبیعت رو خیلی دوست دارم\nاز نوع جنگل و دریا",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 13690,
+              "follow_request_sent": false,
+              "followers_count": 1680,
+              "friends_count": 1290,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 491,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1680,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2026967534574903795"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621919394887569408/1772922734",
+              "profile_interstitial_type": "",
+              "statuses_count": 2116,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "آسیا "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "طبیعت رو خیلی دوست دارم\nاز نوع جنگل و دریا"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1621919394887569408",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTYyMTkxOTM5NDg4NzU2OTQwOA==",
           "result": {
-            "id": "VXNlcjoxNjIxOTE5Mzk0ODg3NTY5NDA4",
-            "core": {
-              "name": "یکتا",
-              "created_at": "Sat Feb 04 17:12:08 +0000 2023",
-              "screen_name": "lbafchy"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1719708889061462016/Z9dDAt-3_normal.jpg"
             },
+            "core": {
+              "created_at": "Sat Feb 04 17:12:08 +0000 2023",
+              "name": "یکتا",
+              "screen_name": "lbafchy"
+            },
+            "id": "VXNlcjoxNjIxOTE5Mzk0ODg3NTY5NDA4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1621919394887569408",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "West Asia",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYyMTkxOTM5NDg4NzU2OTQwOA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjIxOTE5Mzk0ODg3NTY5NDA4",
-            "core": {
-              "name": "یکتا",
-              "created_at": "Sat Feb 04 17:12:08 +0000 2023",
-              "screen_name": "lbafchy"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1719708889061462016/Z9dDAt-3_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "طبیعت رو خیلی دوست دارم\nاز نوع جنگل و دریا",
-              "media_count": 452,
-              "listed_count": 2,
-              "friends_count": 1238,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1983,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1523,
-              "translator_type": "none",
-              "favourites_count": 11925,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621919394887569408/1772922734",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2026967534574903795"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1523,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1621919394887569408",
-            "location": {
-              "location": "آسیا "
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "طبیعت رو خیلی دوست دارم\nاز نوع جنگل و دریا"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
