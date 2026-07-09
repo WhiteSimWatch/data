@@ -1,0 +1,178 @@
+{
+  "snapshotId": "16c159e1-03d1-42da-b6e9-cc91cdf7e8d5",
+  "twitterId": "2063906683055685632",
+  "scannedAt": "2026-07-09T21:18:14.345Z",
+  "fields": {
+    "username": "WarNewsIr",
+    "displayName": "اخبار فوری جنگ",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2063907385760960512/gh6m0pSm_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2063906683055685632/1780908852",
+    "bio": "",
+    "selfLocation": "New York, USA",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2063907385760960512/gh6m0pSm_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jun 08 08:52:23 +0000 2026",
+              "name": "اخبار فوری جنگ",
+              "screen_name": "WarNewsIr"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "1"
+            },
+            "id": "VXNlcjoyMDYzOTA2NjgzMDU1Njg1NjMy",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 19,
+              "follow_request_sent": false,
+              "followers_count": 2176,
+              "friends_count": 4,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 27,
+              "media_count": 523,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2176,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063906683055685632/1780908852",
+              "profile_interstitial_type": "",
+              "statuses_count": 1027,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "New York, USA"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2063906683055685632",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1780911316826"
+              }
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA2MzkwNjY4MzA1NTY4NTYzMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1780909925183"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2063907385760960512/gh6m0pSm_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jun 08 08:52:23 +0000 2026",
+              "name": "اخبار فوری جنگ",
+              "screen_name": "WarNewsIr"
+            },
+            "id": "VXNlcjoyMDYzOTA2NjgzMDU1Njg1NjMy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2063906683055685632",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA2MzkwNjY4MzA1NTY4NTYzMg==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1780911316826"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
