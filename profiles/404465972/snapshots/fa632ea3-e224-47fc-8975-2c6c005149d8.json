@@ -1,7 +1,7 @@
 {
   "snapshotId": "fa632ea3-e224-47fc-8975-2c6c005149d8",
   "twitterId": "404465972",
-  "scannedAt": "2026-05-27T05:10:30.066Z",
+  "scannedAt": "2026-07-09T04:25:12.565Z",
   "fields": {
     "username": "Atiyeh_hemmati",
     "displayName": "عطیه همتی ❤🤍💚✌",
@@ -15,180 +15,180 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2026042071795077120/yDE5vRB3_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Nov 03 23:40:56 +0000 2011",
+              "name": "عطیه همتی ❤🤍💚✌",
+              "screen_name": "Atiyeh_hemmati"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Weary reporter / Affiliated protester / Longing, so longing / Wandering between fear and hope"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo0MDQ0NjU5NzI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "خبرنگار خسته/ معترض وابسته/ دلتنگ دلتنگ/ سرگردان بیم و امید",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/atiyeh.hemmati",
+                      "expanded_url": "https://www.instagram.com/atiyeh.hemmati",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/hu8wrVcFB1"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 51949,
+              "follow_request_sent": false,
+              "followers_count": 27325,
+              "friends_count": 930,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 97,
+              "media_count": 906,
+              "needs_phone_verification": false,
+              "normal_followers_count": 27325,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "938160443700449282"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/404465972/1542114851",
+              "profile_interstitial_type": "",
+              "statuses_count": 34807,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/hu8wrVcFB1",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1461646963217207302"
+            },
+            "profile_bio": {
+              "description": "خبرنگار خسته/ معترض وابسته/ دلتنگ دلتنگ/ سرگردان بیم و امید"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "404465972",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6NDA0NDY1OTcy",
           "result": {
-            "id": "VXNlcjo0MDQ0NjU5NzI=",
-            "core": {
-              "name": "عطیه همتی ❤🤍💚✌",
-              "created_at": "Thu Nov 03 23:40:56 +0000 2011",
-              "screen_name": "Atiyeh_hemmati"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2026042071795077120/yDE5vRB3_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "404465972",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1527112318406"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NDA0NDY1OTcy",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo0MDQ0NjU5NzI=",
-            "core": {
-              "name": "عطیه همتی ❤🤍💚✌",
-              "created_at": "Thu Nov 03 23:40:56 +0000 2011",
-              "screen_name": "Atiyeh_hemmati"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2026042071795077120/yDE5vRB3_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/hu8wrVcFB1",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/hu8wrVcFB1",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "instagram.com/atiyeh.hemmati",
-                      "expanded_url": "https://www.instagram.com/atiyeh.hemmati"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "خبرنگار خسته/ معترض وابسته/ دلتنگ دلتنگ/ سرگردان بیم و امید",
-              "media_count": 904,
-              "listed_count": 96,
-              "friends_count": 930,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 34691,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 27170,
-              "translator_type": "none",
-              "favourites_count": 51748,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/404465972/1542114851",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "938160443700449282"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 27170,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Nov 03 23:40:56 +0000 2011",
+              "name": "عطیه همتی ❤🤍💚✌",
+              "screen_name": "Atiyeh_hemmati"
             },
+            "id": "VXNlcjo0MDQ0NjU5NzI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "404465972",
-            "location": {
-              "location": "Tehran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "خبرنگار خسته/ معترض وابسته/ دلتنگ دلتنگ/ سرگردان بیم و امید"
-            },
-            "professional": {
-              "rest_id": "1461646963217207302",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NDA0NDY1OTcy",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Weary Correspondent / Affiliated Protester / Heartache-Laden Longing / Wayward Between Dread and Hope",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
