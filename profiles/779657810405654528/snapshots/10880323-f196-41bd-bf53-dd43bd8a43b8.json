@@ -1,7 +1,7 @@
 {
   "snapshotId": "10880323-f196-41bd-bf53-dd43bd8a43b8",
   "twitterId": "779657810405654528",
-  "scannedAt": "2026-05-27T07:16:14.618Z",
+  "scannedAt": "2026-07-09T07:09:57.643Z",
   "fields": {
     "username": "TehranTimes79",
     "displayName": "Tehran Times",
@@ -15,189 +15,189 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1794657140755386368/6gwo_pyC_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Sep 24 12:24:42 +0000 2016",
+              "name": "Tehran Times",
+              "screen_name": "TehranTimes79"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "517"
+            },
+            "id": "VXNlcjo3Nzk2NTc4MTA0MDU2NTQ1Mjg=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Iran's Leading International Daily Newspaper.\nTelegram channel: https://t.co/NPENjt0hxw",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/tehrantimesplus",
+                      "expanded_url": "http://t.me/tehrantimesplus",
+                      "indices": [
+                        64,
+                        87
+                      ],
+                      "url": "https://t.co/NPENjt0hxw"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "tehrantimes.com",
+                      "expanded_url": "http://www.tehrantimes.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/aknNrXEm0W"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 243,
+              "follow_request_sent": false,
+              "followers_count": 323147,
+              "friends_count": 8,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 1411,
+              "media_count": 48359,
+              "needs_phone_verification": false,
+              "normal_followers_count": 323147,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2074790783706620383"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/779657810405654528/1628427403",
+              "profile_interstitial_type": "",
+              "statuses_count": 89489,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/aknNrXEm0W",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 5,
+                "month": 5,
+                "visibility": "Public",
+                "year": 1979,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 580,
+                  "name": "Media & News Company"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1460959050691231750"
+            },
+            "profile_bio": {
+              "description": "Iran's Leading International Daily Newspaper.\nTelegram channel: https://t.co/NPENjt0hxw"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "779657810405654528",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6Nzc5NjU3ODEwNDA1NjU0NTI4",
           "result": {
-            "id": "VXNlcjo3Nzk2NTc4MTA0MDU2NTQ1Mjg=",
-            "core": {
-              "name": "Tehran Times",
-              "created_at": "Sat Sep 24 12:24:42 +0000 2016",
-              "screen_name": "TehranTimes79"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1794657140755386368/6gwo_pyC_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "779657810405654528",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1475592085697"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86Nzc5NjU3ODEwNDA1NjU0NTI4",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo3Nzk2NTc4MTA0MDU2NTQ1Mjg=",
-            "core": {
-              "name": "Tehran Times",
-              "created_at": "Sat Sep 24 12:24:42 +0000 2016",
-              "screen_name": "TehranTimes79"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1794657140755386368/6gwo_pyC_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/aknNrXEm0W",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/aknNrXEm0W",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "tehrantimes.com",
-                      "expanded_url": "http://www.tehrantimes.com"
-                    }
-                  ]
-                },
-                "description": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/NPENjt0hxw",
-                      "indices": [
-                        64,
-                        87
-                      ],
-                      "display_url": "t.me/tehrantimesplus",
-                      "expanded_url": "http://t.me/tehrantimesplus"
-                    }
-                  ]
-                }
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Iran's Leading International Daily Newspaper.\nTelegram channel: https://t.co/NPENjt0hxw",
-              "media_count": 47379,
-              "listed_count": 1386,
-              "friends_count": 7,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 88342,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 320271,
-              "translator_type": "none",
-              "favourites_count": 233,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/779657810405654528/1628427403",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "2058974184034717710"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 320271,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Sep 24 12:24:42 +0000 2016",
+              "name": "Tehran Times",
+              "screen_name": "TehranTimes79"
             },
+            "id": "VXNlcjo3Nzk2NTc4MTA0MDU2NTQ1Mjg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "779657810405654528",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Iran's Leading International Daily Newspaper.\nTelegram channel: https://t.co/NPENjt0hxw"
-            },
-            "professional": {
-              "rest_id": "1460959050691231750",
-              "category": [
-                {
-                  "id": 580,
-                  "name": "Media & News Company",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86Nzc5NjU3ODEwNDA1NjU0NTI4",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "day": 5,
-                "year": 1979,
-                "month": 5,
-                "visibility": "Public",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
