@@ -1,7 +1,7 @@
 {
   "snapshotId": "d994c092-0f27-4dbe-993e-24246437c8d7",
   "twitterId": "1421575478",
-  "scannedAt": "2026-05-27T07:41:11.461Z",
+  "scannedAt": "2026-07-09T07:42:36.862Z",
   "fields": {
     "username": "Ehsanrafati",
     "displayName": "Ehsan Rafati",
@@ -15,157 +15,157 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1975600326083235840/gFFlf2pH_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat May 11 20:58:10 +0000 2013",
+              "name": "Ehsan Rafati",
+              "screen_name": "Ehsanrafati"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDIxNTc1NDc4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "احسان رأفتی داریان",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "zil.ink/ehsanrafati",
+                      "expanded_url": "https://zil.ink/ehsanrafati",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/w91Zh4DYSy"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 32667,
+              "follow_request_sent": false,
+              "followers_count": 2010,
+              "friends_count": 716,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 7,
+              "media_count": 1013,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2010,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1959888451420991646"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1421575478/1582029105",
+              "profile_interstitial_type": "",
+              "statuses_count": 4941,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/w91Zh4DYSy",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "احسان رأفتی داریان"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1421575478",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTQyMTU3NTQ3OA==",
           "result": {
-            "id": "VXNlcjoxNDIxNTc1NDc4",
-            "core": {
-              "name": "Ehsan Rafati",
-              "created_at": "Sat May 11 20:58:10 +0000 2013",
-              "screen_name": "Ehsanrafati"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1975600326083235840/gFFlf2pH_normal.jpg"
             },
+            "core": {
+              "created_at": "Sat May 11 20:58:10 +0000 2013",
+              "name": "Ehsan Rafati",
+              "screen_name": "Ehsanrafati"
+            },
+            "id": "VXNlcjoxNDIxNTc1NDc4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1421575478",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQyMTU3NTQ3OA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNDIxNTc1NDc4",
-            "core": {
-              "name": "Ehsan Rafati",
-              "created_at": "Sat May 11 20:58:10 +0000 2013",
-              "screen_name": "Ehsanrafati"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1975600326083235840/gFFlf2pH_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/w91Zh4DYSy",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/w91Zh4DYSy",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "zil.ink/ehsanrafati",
-                      "expanded_url": "https://zil.ink/ehsanrafati"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "احسان رأفتی داریان",
-              "media_count": 1013,
-              "listed_count": 7,
-              "friends_count": 712,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 4942,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2014,
-              "translator_type": "none",
-              "favourites_count": 32702,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1421575478/1582029105",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1959888451420991646"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2014,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1421575478",
-            "location": {
-              "location": "Tehran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "احسان رأفتی داریان"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
