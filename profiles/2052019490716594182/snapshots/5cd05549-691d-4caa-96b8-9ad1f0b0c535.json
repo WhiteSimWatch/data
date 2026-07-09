@@ -1,7 +1,7 @@
 {
   "snapshotId": "5cd05549-691d-4caa-96b8-9ad1f0b0c535",
   "twitterId": "2052019490716594182",
-  "scannedAt": "2026-05-27T09:24:39.681Z",
+  "scannedAt": "2026-07-09T09:15:37.008Z",
   "fields": {
     "username": "zojaji_ir",
     "displayName": "AliReza",
@@ -15,166 +15,166 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2052020671077621765/YtG5Vs8S_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed May 06 13:36:49 +0000 2026",
+              "name": "AliReza",
+              "screen_name": "zojaji_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "MA in Marketing and Sports Communications  \nElite Sports Communications Expert  \nResearcher in Media Literacy  \nInvestigator in Sports Psychology  \nPublic Relations Officer for Fars Province Judo and Self-Defense Board"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDUyMDE5NDkwNzE2NTk0MTgy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "کارشناس ارشد بازاریابی و ارتباطات ورزشی نخبه ورزشی کارشناس و پژوهشگر حوزه سواد رسانه محقق در حوزه روانشناسی ورزش روابط عمومی هیأت جودو و دفاع شخصی فارس",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 542,
+              "follow_request_sent": false,
+              "followers_count": 631,
+              "friends_count": 1764,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 52,
+              "needs_phone_verification": false,
+              "normal_followers_count": 631,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2062768918083568045"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052019490716594182/1778074868",
+              "profile_interstitial_type": "",
+              "statuses_count": 131,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Shiraz"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 930,
+                  "name": "Professional Athlete"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "2055595158620504519"
+            },
+            "profile_bio": {
+              "description": "کارشناس ارشد بازاریابی و ارتباطات ورزشی نخبه ورزشی کارشناس و پژوهشگر حوزه سواد رسانه محقق در حوزه روانشناسی ورزش روابط عمومی هیأت جودو و دفاع شخصی فارس"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2052019490716594182",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjA1MjAxOTQ5MDcxNjU5NDE4Mg==",
           "result": {
-            "id": "VXNlcjoyMDUyMDE5NDkwNzE2NTk0MTgy",
-            "core": {
-              "name": "AliReza",
-              "created_at": "Wed May 06 13:36:49 +0000 2026",
-              "screen_name": "zojaji_ir"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2052020671077621765/YtG5Vs8S_normal.jpg"
             },
+            "core": {
+              "created_at": "Wed May 06 13:36:49 +0000 2026",
+              "name": "AliReza",
+              "screen_name": "zojaji_ir"
+            },
+            "id": "VXNlcjoyMDUyMDE5NDkwNzE2NTk0MTgy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2052019490716594182",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA1MjAxOTQ5MDcxNjU5NDE4Mg==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDUyMDE5NDkwNzE2NTk0MTgy",
-            "core": {
-              "name": "AliReza",
-              "created_at": "Wed May 06 13:36:49 +0000 2026",
-              "screen_name": "zojaji_ir"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2052020671077621765/YtG5Vs8S_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "کارشناس ارشد بازاریابی و ارتباطات ورزشی نخبه ورزشی کارشناس و پژوهشگر حوزه سواد رسانه محقق در حوزه روانشناسی ورزش روابط عمومی هیأت جودو و دفاع شخصی فارس",
-              "media_count": 30,
-              "listed_count": 0,
-              "friends_count": 1231,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 97,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 518,
-              "translator_type": "none",
-              "favourites_count": 393,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052019490716594182/1778074868",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2052021679157596606"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 518,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2052019490716594182",
-            "location": {
-              "location": "Shiraz"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "کارشناس ارشد بازاریابی و ارتباطات ورزشی نخبه ورزشی کارشناس و پژوهشگر حوزه سواد رسانه محقق در حوزه روانشناسی ورزش روابط عمومی هیأت جودو و دفاع شخصی فارس"
-            },
-            "professional": {
-              "rest_id": "2055595158620504519",
-              "category": [
-                {
-                  "id": 930,
-                  "name": "Professional Athlete",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Master's Degree in Marketing and Sports Communications  \nElite Sports Communications Expert  \nResearcher in Media Literacy  \nInvestigator in Sports Psychology  \nPublic Relations Officer for the Fars Province Judo and Self-Defense Board",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
