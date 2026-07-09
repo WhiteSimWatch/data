@@ -1,7 +1,7 @@
 {
   "snapshotId": "4ddafcf8-0651-4622-94c3-9dad590f5c26",
   "twitterId": "596652117",
-  "scannedAt": "2026-05-27T05:46:21.951Z",
+  "scannedAt": "2026-07-09T05:12:31.981Z",
   "fields": {
     "username": "amirakbariorg",
     "displayName": "امیراکبری",
@@ -15,136 +15,83 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6NTk2NjUyMTE3",
-          "result": {
-            "id": "VXNlcjo1OTY2NTIxMTc=",
-            "core": {
-              "name": "امیراکبری",
-              "created_at": "Fri Jun 01 15:47:51 +0000 2012",
-              "screen_name": "amirakbariorg"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1059744290040147968/48palI2m_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "596652117",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "6",
-                "last_changed_at_msec": "1543055302917"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NTk2NjUyMTE3",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjo1OTY2NTIxMTc=",
-            "core": {
-              "name": "امیراکبری",
-              "created_at": "Fri Jun 01 15:47:51 +0000 2012",
-              "screen_name": "amirakbariorg"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1059744290040147968/48palI2m_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "شرافتمندانه زیستن هزینه دارد،میپردازیم",
-              "media_count": 595,
-              "listed_count": 14,
-              "friends_count": 2326,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 62808,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 10258,
-              "translator_type": "none",
-              "favourites_count": 206417,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/596652117/1571748764",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "995422728269303808"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 10258,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jun 01 15:47:51 +0000 2012",
+              "name": "امیراکبری",
+              "screen_name": "amirakbariorg"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "596652117",
-            "location": {
-              "location": "تهران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "شرافتمندانه زیستن هزینه دارد،میپردازیم"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": true
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Living honorably comes at a cost; we pay it."
+              },
+              "is_available": true
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo1OTY2NTIxMTc=",
+            "is_blue_verified": false,
             "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "شرافتمندانه زیستن هزینه دارد،میپردازیم",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 216556,
+              "follow_request_sent": false,
+              "followers_count": 10342,
+              "friends_count": 2327,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 14,
+              "media_count": 598,
+              "needs_phone_verification": false,
+              "normal_followers_count": 10342,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "995422728269303808"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/596652117/1571748764",
+              "profile_interstitial_type": "",
+              "statuses_count": 65102,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 30,
@@ -153,25 +100,78 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "شرافتمندانه زیستن هزینه دارد،میپردازیم"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Living honorably comes at a cost; we pay it.",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "596652117",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NTk2NjUyMTE3",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "6",
+                "last_changed_at_msec": "1543055302917"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1059744290040147968/48palI2m_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jun 01 15:47:51 +0000 2012",
+              "name": "امیراکبری",
+              "screen_name": "amirakbariorg"
+            },
+            "id": "VXNlcjo1OTY2NTIxMTc=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "596652117",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NTk2NjUyMTE3",
+              "is_identity_verified": false
             }
           }
         }
