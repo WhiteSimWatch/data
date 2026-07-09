@@ -1,0 +1,162 @@
+{
+  "snapshotId": "28118410-3464-44ec-b502-a60e3ee1d5e2",
+  "twitterId": "2042705222326419456",
+  "scannedAt": "2026-07-09T04:08:56.597Z",
+  "fields": {
+    "username": "MahdiJafari21",
+    "displayName": "Mahdi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2070608728923983872/kQxIa61O_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2042705222326419456/1775893966",
+    "bio": "نميدانم، اطلاعى ندارم",
+    "selfLocation": "تهران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2070608728923983872/kQxIa61O_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Apr 10 20:45:52 +0000 2026",
+              "name": "Mahdi",
+              "screen_name": "MahdiJafari21"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQyNzA1MjIyMzI2NDE5NDU2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "نميدانم، اطلاعى ندارم",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 991,
+              "follow_request_sent": false,
+              "followers_count": 470,
+              "friends_count": 483,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 74,
+              "needs_phone_verification": false,
+              "normal_followers_count": 470,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2047250740779847769"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042705222326419456/1775893966",
+              "profile_interstitial_type": "",
+              "statuses_count": 1273,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "نميدانم، اطلاعى ندارم"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2042705222326419456",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA0MjcwNTIyMjMyNjQxOTQ1Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2070608728923983872/kQxIa61O_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Apr 10 20:45:52 +0000 2026",
+              "name": "Mahdi",
+              "screen_name": "MahdiJafari21"
+            },
+            "id": "VXNlcjoyMDQyNzA1MjIyMzI2NDE5NDU2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2042705222326419456",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0MjcwNTIyMjMyNjQxOTQ1Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
