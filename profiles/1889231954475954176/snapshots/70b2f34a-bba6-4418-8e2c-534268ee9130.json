@@ -1,7 +1,7 @@
 {
   "snapshotId": "70b2f34a-bba6-4418-8e2c-534268ee9130",
   "twitterId": "1889231954475954176",
-  "scannedAt": "2026-05-27T15:40:26.445Z",
+  "scannedAt": "2026-07-10T03:55:42.161Z",
   "fields": {
     "username": "salama651051",
     "displayName": "سلما",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2007027614297235456/yMtp2FCR_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Feb 11 08:36:45 +0000 2025",
+              "name": "سلما",
+              "screen_name": "salama651051"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODg5MjMxOTU0NDc1OTU0MTc2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "تجربه‌ثابت‌کرده‌،همیشه‌حق‌با‌دختریه که‌متولد‌..",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1142,
+              "follow_request_sent": false,
+              "followers_count": 135,
+              "friends_count": 208,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 63,
+              "needs_phone_verification": false,
+              "normal_followers_count": 135,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889231954475954176/1775028086",
+              "profile_interstitial_type": "",
+              "statuses_count": 335,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "تجربه‌ثابت‌کرده‌،همیشه‌حق‌با‌دختریه که‌متولد‌.."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1889231954475954176",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg4OTIzMTk1NDQ3NTk1NDE3Ng==",
           "result": {
-            "id": "VXNlcjoxODg5MjMxOTU0NDc1OTU0MTc2",
-            "core": {
-              "name": "سلما",
-              "created_at": "Tue Feb 11 08:36:45 +0000 2025",
-              "screen_name": "salama651051"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2007027614297235456/yMtp2FCR_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1889231954475954176",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "North America Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "North America Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1772423850592"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4OTIzMTk1NDQ3NTk1NDE3Ng==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODg5MjMxOTU0NDc1OTU0MTc2",
-            "core": {
-              "name": "سلما",
-              "created_at": "Tue Feb 11 08:36:45 +0000 2025",
-              "screen_name": "salama651051"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2007027614297235456/yMtp2FCR_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "تجربه‌ثابت‌کرده‌،همیشه‌حق‌با‌دختریه که‌متولد‌..",
-              "media_count": 53,
-              "listed_count": 0,
-              "friends_count": 202,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 318,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 124,
-              "translator_type": "none",
-              "favourites_count": 1006,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889231954475954176/1775028086",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 124,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Feb 11 08:36:45 +0000 2025",
+              "name": "سلما",
+              "screen_name": "salama651051"
             },
+            "id": "VXNlcjoxODg5MjMxOTU0NDc1OTU0MTc2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1889231954475954176",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "تجربه‌ثابت‌کرده‌،همیشه‌حق‌با‌دختریه که‌متولد‌.."
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4OTIzMTk1NDQ3NTk1NDE3Ng==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
