@@ -1,7 +1,7 @@
 {
   "snapshotId": "ac5a7539-32bb-4bac-8061-cb5ec0d6c777",
   "twitterId": "754209303456731136",
-  "scannedAt": "2026-05-28T04:25:42.998Z",
+  "scannedAt": "2026-07-10T05:48:47.014Z",
   "fields": {
     "username": "yalda_12031",
     "displayName": "yalda.s.p",
@@ -15,158 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2029117896111341570/wEE0cVkw_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jul 16 07:01:25 +0000 2016",
+              "name": "yalda.s.p",
+              "screen_name": "yalda_12031"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3NTQyMDkzMDM0NTY3MzExMzY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "نـیـاز که تو باشـــی...تمام ِ من، می شود “نـــیـــازمـنـــــدیـ‌هــــــــــــا “…!!",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/mahya.a_313",
+                      "expanded_url": "https://www.instagram.com/mahya.a_313",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/sl2b3JP5a8"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 71806,
+              "follow_request_sent": false,
+              "followers_count": 2086,
+              "friends_count": 2202,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 386,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2086,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1228032374237040640"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/754209303456731136/1672057030",
+              "profile_interstitial_type": "",
+              "statuses_count": 29931,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/sl2b3JP5a8",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "زیر آسمون خدا"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "نـیـاز که تو باشـــی...تمام ِ من، می شود “نـــیـــازمـنـــــدیـ‌هــــــــــــا “…!!"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "754209303456731136",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6NzU0MjA5MzAzNDU2NzMxMTM2",
           "result": {
-            "id": "VXNlcjo3NTQyMDkzMDM0NTY3MzExMzY=",
-            "core": {
-              "name": "yalda.s.p",
-              "created_at": "Sat Jul 16 07:01:25 +0000 2016",
-              "screen_name": "yalda_12031"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2029117896111341570/wEE0cVkw_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "754209303456731136",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1595669876438"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzU0MjA5MzAzNDU2NzMxMTM2",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo3NTQyMDkzMDM0NTY3MzExMzY=",
-            "core": {
-              "name": "yalda.s.p",
-              "created_at": "Sat Jul 16 07:01:25 +0000 2016",
-              "screen_name": "yalda_12031"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2029117896111341570/wEE0cVkw_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/sl2b3JP5a8",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/sl2b3JP5a8",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "instagram.com/mahya.a_313",
-                      "expanded_url": "https://www.instagram.com/mahya.a_313"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "نـیـاز که تو باشـــی...تمام ِ من، می شود “نـــیـــازمـنـــــدیـ‌هــــــــــــا “…!!",
-              "media_count": 385,
-              "listed_count": 2,
-              "friends_count": 2195,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 29874,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2091,
-              "translator_type": "none",
-              "favourites_count": 71697,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/754209303456731136/1672057030",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1228032374237040640"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2091,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Jul 16 07:01:25 +0000 2016",
+              "name": "yalda.s.p",
+              "screen_name": "yalda_12031"
             },
+            "id": "VXNlcjo3NTQyMDkzMDM0NTY3MzExMzY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "754209303456731136",
-            "location": {
-              "location": "زیر آسمون خدا"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "نـیـاز که تو باشـــی...تمام ِ من، می شود “نـــیـــازمـنـــــدیـ‌هــــــــــــا “…!!"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzU0MjA5MzAzNDU2NzMxMTM2",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
