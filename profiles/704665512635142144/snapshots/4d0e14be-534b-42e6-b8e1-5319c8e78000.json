@@ -1,0 +1,163 @@
+{
+  "snapshotId": "4d0e14be-534b-42e6-b8e1-5319c8e78000",
+  "twitterId": "704665512635142144",
+  "scannedAt": "2026-07-10T07:25:26.994Z",
+  "fields": {
+    "username": "Einhach",
+    "displayName": "عین.حاء",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1999910997226622977/Pbk1zYVo_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/704665512635142144/1687525735",
+    "bio": "صاحب کتاب غرر عین‌.حاء",
+    "selfLocation": "اونجا که دل خونه کرده",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1999910997226622977/Pbk1zYVo_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Mar 01 13:52:05 +0000 2016",
+              "name": "عین.حاء",
+              "screen_name": "Einhach"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3MDQ2NjU1MTI2MzUxNDIxNDQ=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "صاحب کتاب غرر عین‌.حاء",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 777571,
+              "follow_request_sent": false,
+              "followers_count": 6517,
+              "friends_count": 670,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 12,
+              "media_count": 2658,
+              "needs_phone_verification": false,
+              "normal_followers_count": 6517,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1268610330663555072"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/704665512635142144/1687525735",
+              "profile_interstitial_type": "",
+              "statuses_count": 111434,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "اونجا که دل خونه کرده"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "صاحب کتاب غرر عین‌.حاء"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "704665512635142144",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzA0NjY1NTEyNjM1MTQyMTQ0",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "17",
+                "last_changed_at_msec": "1598637583733"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1999910997226622977/Pbk1zYVo_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Mar 01 13:52:05 +0000 2016",
+              "name": "عین.حاء",
+              "screen_name": "Einhach"
+            },
+            "id": "VXNlcjo3MDQ2NjU1MTI2MzUxNDIxNDQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "704665512635142144",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzA0NjY1NTEyNjM1MTQyMTQ0",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
