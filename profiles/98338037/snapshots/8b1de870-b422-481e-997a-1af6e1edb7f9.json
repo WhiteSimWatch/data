@@ -1,0 +1,200 @@
+{
+  "snapshotId": "8b1de870-b422-481e-997a-1af6e1edb7f9",
+  "twitterId": "98338037",
+  "scannedAt": "2026-07-10T04:16:15.670Z",
+  "fields": {
+    "username": "biataberavim",
+    "displayName": "بنده خدا",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2031839568027119617/ZhcxecVY_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/98338037/1722156367",
+    "bio": "ای عشق دل افروز دل من به تو گرم است!",
+    "selfLocation": "تهران",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2031839568027119617/ZhcxecVY_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Dec 21 09:47:56 +0000 2009",
+              "name": "بنده خدا",
+              "screen_name": "biataberavim"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5ODMzODAzNw==",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "ای عشق دل افروز دل من به تو گرم است!",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 39596,
+              "follow_request_sent": false,
+              "followers_count": 26134,
+              "friends_count": 802,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 115,
+              "media_count": 1008,
+              "needs_phone_verification": false,
+              "normal_followers_count": 26134,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1072507549050658816"
+              ],
+              "possibly_sensitive": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/98338037/1722156367",
+              "profile_interstitial_type": "sensitive_media",
+              "statuses_count": 16986,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 15,
+                "month": 5,
+                "visibility": "Public",
+                "year": 1986,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 933,
+                  "name": "Media Personality"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1467472929139175424"
+            },
+            "profile_bio": {
+              "description": "ای عشق دل افروز دل من به تو گرم است!"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "98338037",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1780521560223"
+              }
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTgzMzgwMzc=",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2031839568027119617/ZhcxecVY_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Dec 21 09:47:56 +0000 2009",
+              "name": "بنده خدا",
+              "screen_name": "biataberavim"
+            },
+            "id": "VXNlcjo5ODMzODAzNw==",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "98338037",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTgzMzgwMzc=",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1780521560223"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
