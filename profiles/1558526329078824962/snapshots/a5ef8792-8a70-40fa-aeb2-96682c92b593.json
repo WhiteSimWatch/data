@@ -1,7 +1,7 @@
 {
   "snapshotId": "a5ef8792-8a70-40fa-aeb2-96682c92b593",
   "twitterId": "1558526329078824962",
-  "scannedAt": "2026-05-28T07:02:40.114Z",
+  "scannedAt": "2026-07-10T09:13:05.278Z",
   "fields": {
     "username": "aseman_vellyat",
     "displayName": "دختری از دیار سبز لُر 🌱",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2022374681077321728/wu9Y0iwl_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Aug 13 18:50:27 +0000 2022",
+              "name": "دختری از دیار سبز لُر 🌱",
+              "screen_name": "aseman_vellyat"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTU4NTI2MzI5MDc4ODI0OTYy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "دختر طبیعت و رؤیاها 🪷\nسبز مثل سرزمینم 🌱",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 10067,
+              "follow_request_sent": false,
+              "followers_count": 3757,
+              "friends_count": 4021,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 3753,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3757,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2039779336669319295"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558526329078824962/1755418708",
+              "profile_interstitial_type": "",
+              "statuses_count": 13563,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دختر طبیعت و رؤیاها 🪷\nسبز مثل سرزمینم 🌱"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1558526329078824962",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU1ODUyNjMyOTA3ODgyNDk2Mg==",
           "result": {
-            "id": "VXNlcjoxNTU4NTI2MzI5MDc4ODI0OTYy",
-            "core": {
-              "name": "دختری از دیار سبز لُر 🌱",
-              "created_at": "Sat Aug 13 18:50:27 +0000 2022",
-              "screen_name": "aseman_vellyat"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2022374681077321728/wu9Y0iwl_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1558526329078824962",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1660416789312"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU1ODUyNjMyOTA3ODgyNDk2Mg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTU4NTI2MzI5MDc4ODI0OTYy",
-            "core": {
-              "name": "دختری از دیار سبز لُر 🌱",
-              "created_at": "Sat Aug 13 18:50:27 +0000 2022",
-              "screen_name": "aseman_vellyat"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2022374681077321728/wu9Y0iwl_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "دختر طبیعت و رؤیاها 🪷\nسبز مثل سرزمینم 🌱",
-              "media_count": 3600,
-              "listed_count": 2,
-              "friends_count": 4000,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 13284,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3754,
-              "translator_type": "none",
-              "favourites_count": 9998,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558526329078824962/1755418708",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2039779336669319295"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3754,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Aug 13 18:50:27 +0000 2022",
+              "name": "دختری از دیار سبز لُر 🌱",
+              "screen_name": "aseman_vellyat"
             },
+            "id": "VXNlcjoxNTU4NTI2MzI5MDc4ODI0OTYy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1558526329078824962",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "دختر طبیعت و رؤیاها 🪷\nسبز مثل سرزمینم 🌱"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU1ODUyNjMyOTA3ODgyNDk2Mg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
