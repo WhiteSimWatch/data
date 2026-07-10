@@ -1,7 +1,7 @@
 {
   "snapshotId": "55d99519-3ef0-4c24-b78e-141f81c283ce",
   "twitterId": "1762229640746205184",
-  "scannedAt": "2026-05-28T05:17:03.409Z",
+  "scannedAt": "2026-07-10T06:57:01.753Z",
   "fields": {
     "username": "ErfanSirang",
     "displayName": "ErfanSirang",
@@ -15,136 +15,72 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTc2MjIyOTY0MDc0NjIwNTE4NA==",
-          "result": {
-            "id": "VXNlcjoxNzYyMjI5NjQwNzQ2MjA1MTg0",
-            "core": {
-              "name": "ErfanSirang",
-              "created_at": "Mon Feb 26 21:34:37 +0000 2024",
-              "screen_name": "ErfanSirang"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1810742203289071616/zpj0wRgl_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1762229640746205184",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "2",
-                "last_changed_at_msec": "1709807855315"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc2MjIyOTY0MDc0NjIwNTE4NA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxNzYyMjI5NjQwNzQ2MjA1MTg0",
-            "core": {
-              "name": "ErfanSirang",
-              "created_at": "Mon Feb 26 21:34:37 +0000 2024",
-              "screen_name": "ErfanSirang"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1810742203289071616/zpj0wRgl_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "کارشناس حقوق⚖️\nشهر باران🌧️\nکتاب=دوست خوب📚\n| زندگی، نوشیدن زهر دغدغه‌های مقدس تا سر حد مرگ است🇮🇷 |",
-              "media_count": 136,
-              "listed_count": 2,
-              "friends_count": 884,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1982,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 509,
-              "translator_type": "none",
-              "favourites_count": 13388,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762229640746205184/1709406781",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1764006810241892588"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 509,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 26 21:34:37 +0000 2024",
+              "name": "ErfanSirang",
+              "screen_name": "ErfanSirang"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1762229640746205184",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "کارشناس حقوق⚖️\nشهر باران🌧️\nکتاب=دوست خوب📚\n| زندگی، نوشیدن زهر دغدغه‌های مقدس تا سر حد مرگ است🇮🇷 |"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": false
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzYyMjI5NjQwNzQ2MjA1MTg0",
+            "is_blue_verified": false,
             "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "کارشناس حقوق⚖️\nشهر باران🌧️\nکتاب=دوست خوب📚\n| زندگی، نوشیدن زهر دغدغه‌های مقدس تا سر حد مرگ است🇮🇷 |",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 14876,
+              "follow_request_sent": false,
+              "followers_count": 513,
+              "friends_count": 888,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 145,
+              "needs_phone_verification": false,
+              "normal_followers_count": 513,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2069294662368506285"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762229640746205184/1709406781",
+              "profile_interstitial_type": "",
+              "statuses_count": 2102,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 20,
@@ -153,14 +89,78 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "کارشناس حقوق⚖️\nشهر باران🌧️\nکتاب=دوست خوب📚\n| زندگی، نوشیدن زهر دغدغه‌های مقدس تا سر حد مرگ است🇮🇷 |"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1762229640746205184",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc2MjIyOTY0MDc0NjIwNTE4NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1709807855315"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1810742203289071616/zpj0wRgl_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Feb 26 21:34:37 +0000 2024",
+              "name": "ErfanSirang",
+              "screen_name": "ErfanSirang"
+            },
+            "id": "VXNlcjoxNzYyMjI5NjQwNzQ2MjA1MTg0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1762229640746205184",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc2MjIyOTY0MDc0NjIwNTE4NA==",
+              "is_identity_verified": false
             }
           }
         }
