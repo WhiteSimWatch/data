@@ -1,7 +1,7 @@
 {
   "snapshotId": "a2042d10-a80a-4ba2-998c-261ce3df7083",
   "twitterId": "1286939639987818496",
-  "scannedAt": "2026-05-29T07:58:33.961Z",
+  "scannedAt": "2026-07-11T09:39:08.029Z",
   "fields": {
     "username": "Mr_khalili_77",
     "displayName": "Mr.khalili.77",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1921214378504056832/wi4xSiRw_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jul 25 08:21:54 +0000 2020",
+              "name": "Mr.khalili.77",
+              "screen_name": "Mr_khalili_77"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjg2OTM5NjM5OTg3ODE4NDk2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "فعال رسانه‌ای و فضای مجازی\nجان فدای وطن",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 9884,
+              "follow_request_sent": false,
+              "followers_count": 2259,
+              "friends_count": 957,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 200,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2259,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2016369506373754932"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286939639987818496/1761281637",
+              "profile_interstitial_type": "",
+              "statuses_count": 1880,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فعال رسانه‌ای و فضای مجازی\nجان فدای وطن"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1286939639987818496",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTI4NjkzOTYzOTk4NzgxODQ5Ng==",
           "result": {
-            "id": "VXNlcjoxMjg2OTM5NjM5OTg3ODE4NDk2",
-            "core": {
-              "name": "Mr.khalili.77",
-              "created_at": "Sat Jul 25 08:21:54 +0000 2020",
-              "screen_name": "Mr_khalili_77"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1921214378504056832/wi4xSiRw_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1286939639987818496",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Europe Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Europe Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1689953160529"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI4NjkzOTYzOTk4NzgxODQ5Ng==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjg2OTM5NjM5OTg3ODE4NDk2",
-            "core": {
-              "name": "Mr.khalili.77",
-              "created_at": "Sat Jul 25 08:21:54 +0000 2020",
-              "screen_name": "Mr_khalili_77"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1921214378504056832/wi4xSiRw_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "فعال رسانه‌ای و فضای مجازی\nجان فدای وطن",
-              "media_count": 188,
-              "listed_count": 0,
-              "friends_count": 933,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1850,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2263,
-              "translator_type": "none",
-              "favourites_count": 9594,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286939639987818496/1761281637",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2016369506373754932"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2263,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Jul 25 08:21:54 +0000 2020",
+              "name": "Mr.khalili.77",
+              "screen_name": "Mr_khalili_77"
             },
+            "id": "VXNlcjoxMjg2OTM5NjM5OTg3ODE4NDk2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1286939639987818496",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "فعال رسانه‌ای و فضای مجازی\nجان فدای وطن"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI4NjkzOTYzOTk4NzgxODQ5Ng==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
