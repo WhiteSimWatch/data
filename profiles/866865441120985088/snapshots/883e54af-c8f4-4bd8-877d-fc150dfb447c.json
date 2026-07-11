@@ -1,7 +1,7 @@
 {
   "snapshotId": "883e54af-c8f4-4bd8-877d-fc150dfb447c",
   "twitterId": "866865441120985088",
-  "scannedAt": "2026-05-29T05:48:16.013Z",
+  "scannedAt": "2026-07-11T07:03:29.176Z",
   "fields": {
     "username": "mm_sadr",
     "displayName": "mohamad mohsen sadr",
@@ -15,172 +15,172 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1921747277258838016/trf9AyYD_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue May 23 03:56:41 +0000 2017",
+              "name": "mohamad mohsen sadr",
+              "screen_name": "mm_sadr"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Mohammad Mohsen Sadra - Deputy Minister of Communications and Head of the Iran Information Technology Organization - Faculty Member of the University"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4NjY4NjU0NDExMjA5ODUwODg=",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "محمد محسن صدر - معاون وزیر ارتباطات و‌رییس سازمان فناوری اطلاعات ایران -عضو هیات علمی دانشگاه",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1308,
+              "follow_request_sent": false,
+              "followers_count": 1028,
+              "friends_count": 375,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 39,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1028,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 133,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "محمد محسن صدر - معاون وزیر ارتباطات و‌رییس سازمان فناوری اطلاعات ایران -عضو هیات علمی دانشگاه"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "866865441120985088",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1760975973527"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6ODY2ODY1NDQxMTIwOTg1MDg4",
           "result": {
-            "id": "VXNlcjo4NjY4NjU0NDExMjA5ODUwODg=",
-            "core": {
-              "name": "mohamad mohsen sadr",
-              "created_at": "Tue May 23 03:56:41 +0000 2017",
-              "screen_name": "mm_sadr"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1921747277258838016/trf9AyYD_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "866865441120985088",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1495511879187"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODY2ODY1NDQxMTIwOTg1MDg4",
-              "reason": {
-                "verified_since_msec": "1760975973527"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo4NjY4NjU0NDExMjA5ODUwODg=",
-            "core": {
-              "name": "mohamad mohsen sadr",
-              "created_at": "Tue May 23 03:56:41 +0000 2017",
-              "screen_name": "mm_sadr"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1921747277258838016/trf9AyYD_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "محمد محسن صدر - معاون وزیر ارتباطات و‌رییس سازمان فناوری اطلاعات ایران -عضو هیات علمی دانشگاه",
-              "media_count": 32,
-              "listed_count": 3,
-              "friends_count": 372,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 123,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 996,
-              "translator_type": "none",
-              "favourites_count": 1289,
-              "possibly_sensitive": false,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 996,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue May 23 03:56:41 +0000 2017",
+              "name": "mohamad mohsen sadr",
+              "screen_name": "mm_sadr"
             },
+            "id": "VXNlcjo4NjY4NjU0NDExMjA5ODUwODg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "866865441120985088",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "محمد محسن صدر - معاون وزیر ارتباطات و‌رییس سازمان فناوری اطلاعات ایران -عضو هیات علمی دانشگاه"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODY2ODY1NDQxMTIwOTg1MDg4",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1760975973527"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Mohammad Mohsen Sadr - Deputy Minister of Communications and Head of the Iran Information Technology Organization - Faculty Member of the University",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
+              }
             }
           }
         }
