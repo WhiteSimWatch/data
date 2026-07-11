@@ -1,7 +1,7 @@
 {
   "snapshotId": "371e1bf0-287b-4a03-a5c0-6f30e381c5c4",
   "twitterId": "1015147234906779650",
-  "scannedAt": "2026-05-29T06:29:13.876Z",
+  "scannedAt": "2026-07-11T07:53:09.341Z",
   "fields": {
     "username": "mr_roshanii",
     "displayName": "Mr.roshani",
@@ -15,156 +15,156 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1793152605469773824/0JO7EyKl_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jul 06 08:15:36 +0000 2018",
+              "name": "Mr.roshani",
+              "screen_name": "mr_roshanii"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDE1MTQ3MjM0OTA2Nzc5NjUw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "فضای مجازی گردم",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 21357,
+              "follow_request_sent": false,
+              "followers_count": 5230,
+              "friends_count": 2188,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 1018,
+              "needs_phone_verification": false,
+              "normal_followers_count": 5230,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1744087294913495206"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015147234906779650/1607454983",
+              "profile_interstitial_type": "",
+              "statuses_count": 6805,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1460994423773351937"
+            },
+            "profile_bio": {
+              "description": "فضای مجازی گردم"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1015147234906779650",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTAxNTE0NzIzNDkwNjc3OTY1MA==",
           "result": {
-            "id": "VXNlcjoxMDE1MTQ3MjM0OTA2Nzc5NjUw",
-            "core": {
-              "name": "Mr.roshani",
-              "created_at": "Fri Jul 06 08:15:36 +0000 2018",
-              "screen_name": "mr_roshanii"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1793152605469773824/0JO7EyKl_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1015147234906779650",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "5",
                 "last_changed_at_msec": "1673031872765"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTAxNTE0NzIzNDkwNjc3OTY1MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMDE1MTQ3MjM0OTA2Nzc5NjUw",
-            "core": {
-              "name": "Mr.roshani",
-              "created_at": "Fri Jul 06 08:15:36 +0000 2018",
-              "screen_name": "mr_roshanii"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1793152605469773824/0JO7EyKl_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "فضای مجازی گردم",
-              "media_count": 995,
-              "listed_count": 3,
-              "friends_count": 2188,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 6775,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 5208,
-              "translator_type": "none",
-              "favourites_count": 21182,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015147234906779650/1607454983",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1744087294913495206"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 5208,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Jul 06 08:15:36 +0000 2018",
+              "name": "Mr.roshani",
+              "screen_name": "mr_roshanii"
             },
+            "id": "VXNlcjoxMDE1MTQ3MjM0OTA2Nzc5NjUw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1015147234906779650",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "فضای مجازی گردم"
-            },
-            "professional": {
-              "rest_id": "1460994423773351937",
-              "category": [
-                {
-                  "id": 934,
-                  "name": "Social Media Influencer",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTAxNTE0NzIzNDkwNjc3OTY1MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
