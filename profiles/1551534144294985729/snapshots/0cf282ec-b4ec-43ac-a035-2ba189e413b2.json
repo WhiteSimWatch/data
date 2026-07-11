@@ -1,7 +1,7 @@
 {
   "snapshotId": "0cf282ec-b4ec-43ac-a035-2ba189e413b2",
   "twitterId": "1551534144294985729",
-  "scannedAt": "2026-05-29T06:12:10.761Z",
+  "scannedAt": "2026-07-11T07:32:27.004Z",
   "fields": {
     "username": "Miilllaad1996",
     "displayName": "میلاد ایمانی 🟥 ☫ 🟩",
@@ -15,164 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1551535760091877377/PdkK0J8W_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jul 25 11:46:07 +0000 2022",
+              "name": "میلاد ایمانی 🟥 ☫ 🟩",
+              "screen_name": "Miilllaad1996"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTUxNTM0MTQ0Mjk0OTg1NzI5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مهاجم نوک در تیم #مدافعان_وطن!  🟥 ☫ 🟩\n\nاهل فرهنگ، هنر، ورزش از نوع آبی💙 و کمی هم اقتصاد با نگاه سیاسی!",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 96651,
+              "follow_request_sent": false,
+              "followers_count": 10283,
+              "friends_count": 4978,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 10,
+              "media_count": 951,
+              "needs_phone_verification": false,
+              "normal_followers_count": 10283,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1680780737895702528"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551534144294985729/1667187359",
+              "profile_interstitial_type": "",
+              "statuses_count": 24936,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مهاجم نوک در تیم #مدافعان_وطن!  🟥 ☫ 🟩\n\nاهل فرهنگ، هنر، ورزش از نوع آبی💙 و کمی هم اقتصاد با نگاه سیاسی!"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1551534144294985729",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU1MTUzNDE0NDI5NDk4NTcyOQ==",
           "result": {
-            "id": "VXNlcjoxNTUxNTM0MTQ0Mjk0OTg1NzI5",
-            "core": {
-              "name": "میلاد ایمانی 🟥 ☫ 🟩",
-              "created_at": "Mon Jul 25 11:46:07 +0000 2022",
-              "screen_name": "Miilllaad1996"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1551535760091877377/PdkK0J8W_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1551534144294985729",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1674045350617"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU1MTUzNDE0NDI5NDk4NTcyOQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTUxNTM0MTQ0Mjk0OTg1NzI5",
-            "core": {
-              "name": "میلاد ایمانی 🟥 ☫ 🟩",
-              "created_at": "Mon Jul 25 11:46:07 +0000 2022",
-              "screen_name": "Miilllaad1996"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1551535760091877377/PdkK0J8W_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مهاجم نوک در تیم #مدافعان_وطن!  🟥 ☫ 🟩\n\nاهل فرهنگ، هنر، ورزش از نوع آبی💙 و کمی هم اقتصاد با نگاه سیاسی!",
-              "media_count": 886,
-              "listed_count": 10,
-              "friends_count": 4905,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 24339,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 10114,
-              "translator_type": "none",
-              "favourites_count": 93490,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551534144294985729/1667187359",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1680780737895702528"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 10114,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Jul 25 11:46:07 +0000 2022",
+              "name": "میلاد ایمانی 🟥 ☫ 🟩",
+              "screen_name": "Miilllaad1996"
             },
+            "id": "VXNlcjoxNTUxNTM0MTQ0Mjk0OTg1NzI5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1551534144294985729",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مهاجم نوک در تیم #مدافعان_وطن!  🟥 ☫ 🟩\n\nاهل فرهنگ، هنر، ورزش از نوع آبی💙 و کمی هم اقتصاد با نگاه سیاسی!"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU1MTUzNDE0NDI5NDk4NTcyOQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [
-                    {
-                      "text": "Defenders_of_the_Homeland",
-                      "indices": [
-                        26,
-                        52
-                      ]
-                    }
-                  ],
-                  "user_mentions": []
-                },
-                "translation": "Striker at the tip of the #Defenders_of_the_Homeland team! 🟥 ☫ 🟩\n\nA fan of culture, art, sports of the blue kind 💙 and a bit of economics with a political lens!",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
