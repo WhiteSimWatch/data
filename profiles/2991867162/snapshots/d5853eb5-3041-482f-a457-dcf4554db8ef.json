@@ -1,0 +1,182 @@
+{
+  "snapshotId": "d5853eb5-3041-482f-a457-dcf4554db8ef",
+  "twitterId": "2991867162",
+  "scannedAt": "2026-07-11T03:40:50.975Z",
+  "fields": {
+    "username": "nasiri_twt",
+    "displayName": "ابراهیم نصیری",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1772733164189831168/32lIjjAF_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2991867162/1703319883",
+    "bio": "فرزند| برادر | همسر | پدر |طلبه و خلاصه یکی مثل دیگران",
+    "selfLocation": "قم تهران...",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1772733164189831168/32lIjjAF_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jan 21 21:08:15 +0000 2015",
+              "name": "ابراهیم نصیری",
+              "screen_name": "nasiri_twt"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Child | Brother | Spouse | Father | Seminarian, and in short, one like others"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyOTkxODY3MTYy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "فرزند| برادر | همسر | پدر |طلبه و خلاصه یکی مثل دیگران",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 122399,
+              "follow_request_sent": false,
+              "followers_count": 9820,
+              "friends_count": 498,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 42,
+              "media_count": 2220,
+              "needs_phone_verification": false,
+              "normal_followers_count": 9820,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2991867162/1703319883",
+              "profile_interstitial_type": "",
+              "statuses_count": 48417,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "قم تهران..."
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1009,
+                  "name": "Community"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1469595557274570752"
+            },
+            "profile_bio": {
+              "description": "فرزند| برادر | همسر | پدر |طلبه و خلاصه یکی مثل دیگران"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "2991867162",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6Mjk5MTg2NzE2Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1602274493400"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1772733164189831168/32lIjjAF_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jan 21 21:08:15 +0000 2015",
+              "name": "ابراهیم نصیری",
+              "screen_name": "nasiri_twt"
+            },
+            "id": "VXNlcjoyOTkxODY3MTYy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2991867162",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86Mjk5MTg2NzE2Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
