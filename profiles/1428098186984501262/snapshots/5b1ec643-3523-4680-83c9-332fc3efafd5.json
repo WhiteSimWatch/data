@@ -1,7 +1,7 @@
 {
   "snapshotId": "5b1ec643-3523-4680-83c9-332fc3efafd5",
   "twitterId": "1428098186984501262",
-  "scannedAt": "2026-05-29T05:25:18.365Z",
+  "scannedAt": "2026-07-11T06:32:29.193Z",
   "fields": {
     "username": "Halifeh_313",
     "displayName": "حلیفه",
@@ -15,147 +15,72 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTQyODA5ODE4Njk4NDUwMTI2Mg==",
-          "result": {
-            "id": "VXNlcjoxNDI4MDk4MTg2OTg0NTAxMjYy",
-            "core": {
-              "name": "حلیفه",
-              "created_at": "Wed Aug 18 20:55:29 +0000 2021",
-              "screen_name": "Halifeh_313"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1833523824597348352/ytRCnb2d_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1428098186984501262",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "West Asia",
-              "username_changes": {
-                "count": "20",
-                "last_changed_at_msec": "1682639192864"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQyODA5ODE4Njk4NDUwMTI2Mg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxNDI4MDk4MTg2OTg0NTAxMjYy",
-            "core": {
-              "name": "حلیفه",
-              "created_at": "Wed Aug 18 20:55:29 +0000 2021",
-              "screen_name": "Halifeh_313"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1833523824597348352/ytRCnb2d_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "اگر ما بیدار باشیم و غفلت یا اشتباه‌ نکنیم دشمن نمی‌تواند کاری کند/امروز روز بیداری‌ ذهن‌هاست",
-              "media_count": 1751,
-              "listed_count": 3,
-              "friends_count": 6772,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 73880,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 10243,
-              "translator_type": "none",
-              "favourites_count": 238988,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1428098186984501262/1636120205",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1488805657851662337"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 10243,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Aug 18 20:55:29 +0000 2021",
+              "name": "حلیفه",
+              "screen_name": "Halifeh_313"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1428098186984501262",
-            "location": {
-              "location": "خوزستان"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "اگر ما بیدار باشیم و غفلت یا اشتباه‌ نکنیم دشمن نمی‌تواند کاری کند/امروز روز بیداری‌ ذهن‌هاست"
-            },
-            "professional": {
-              "rest_id": "1605662149858189321",
-              "category": [
-                {
-                  "id": 933,
-                  "name": "Media Personality",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": false
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDI4MDk4MTg2OTg0NTAxMjYy",
+            "is_blue_verified": false,
             "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "اگر ما بیدار باشیم و غفلت یا اشتباه‌ نکنیم دشمن نمی‌تواند کاری کند/امروز روز بیداری‌ ذهن‌هاست",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 239188,
+              "follow_request_sent": false,
+              "followers_count": 10379,
+              "friends_count": 6764,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 1777,
+              "needs_phone_verification": false,
+              "normal_followers_count": 10379,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1488805657851662337"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1428098186984501262/1636120205",
+              "profile_interstitial_type": "",
+              "statuses_count": 74059,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 29,
@@ -164,14 +89,89 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "خوزستان"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 933,
+                  "name": "Media Personality"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1605662149858189321"
+            },
+            "profile_bio": {
+              "description": "اگر ما بیدار باشیم و غفلت یا اشتباه‌ نکنیم دشمن نمی‌تواند کاری کند/امروز روز بیداری‌ ذهن‌هاست"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1428098186984501262",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQyODA5ODE4Njk4NDUwMTI2Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "20",
+                "last_changed_at_msec": "1682639192864"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1833523824597348352/ytRCnb2d_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Aug 18 20:55:29 +0000 2021",
+              "name": "حلیفه",
+              "screen_name": "Halifeh_313"
+            },
+            "id": "VXNlcjoxNDI4MDk4MTg2OTg0NTAxMjYy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1428098186984501262",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQyODA5ODE4Njk4NDUwMTI2Mg==",
+              "is_identity_verified": false
             }
           }
         }
