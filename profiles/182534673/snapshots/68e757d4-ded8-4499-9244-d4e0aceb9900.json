@@ -1,7 +1,7 @@
 {
   "snapshotId": "68e757d4-ded8-4499-9244-d4e0aceb9900",
   "twitterId": "182534673",
-  "scannedAt": "2026-05-29T07:55:16.282Z",
+  "scannedAt": "2026-07-11T09:35:09.848Z",
   "fields": {
     "username": "e2kaya",
     "displayName": "Ms Kaya",
@@ -15,164 +15,164 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1806331181153071104/TOa-XjsO_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Aug 24 20:40:30 +0000 2010",
+              "name": "Ms Kaya",
+              "screen_name": "e2kaya"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "4"
+            },
+            "id": "VXNlcjoxODI1MzQ2NzM=",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Down to earth, still above you.",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 222547,
+              "follow_request_sent": false,
+              "followers_count": 2695,
+              "friends_count": 950,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 4,
+              "media_count": 335,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2695,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2003526688333004939"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/182534673/1728923674",
+              "profile_interstitial_type": "",
+              "statuses_count": 3281,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "United States"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Down to earth, still above you."
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "182534673",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": true,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1713389857044"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTgyNTM0Njcz",
           "result": {
-            "id": "VXNlcjoxODI1MzQ2NzM=",
-            "core": {
-              "name": "Ms Kaya",
-              "created_at": "Tue Aug 24 20:40:30 +0000 2010",
-              "screen_name": "e2kaya"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1806331181153071104/TOa-XjsO_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "182534673",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia App Store",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1675165161882"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgyNTM0Njcz",
-              "reason": {
-                "verified_since_msec": "1713389857044"
-              },
-              "is_identity_verified": true
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODI1MzQ2NzM=",
-            "core": {
-              "name": "Ms Kaya",
-              "created_at": "Tue Aug 24 20:40:30 +0000 2010",
-              "screen_name": "e2kaya"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1806331181153071104/TOa-XjsO_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Down to earth, still above you.",
-              "media_count": 335,
-              "listed_count": 4,
-              "friends_count": 956,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 3275,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2712,
-              "translator_type": "none",
-              "favourites_count": 223151,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/182534673/1728923674",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2003526688333004939"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2712,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Aug 24 20:40:30 +0000 2010",
+              "name": "Ms Kaya",
+              "screen_name": "e2kaya"
             },
+            "id": "VXNlcjoxODI1MzQ2NzM=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "182534673",
-            "location": {
-              "location": "United States"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Down to earth, still above you."
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "4",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgyNTM0Njcz",
+              "is_identity_verified": true,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1713389857044"
-              },
-              "is_identity_verified": true
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
