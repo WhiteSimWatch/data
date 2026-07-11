@@ -1,7 +1,7 @@
 {
   "snapshotId": "ae712ed7-69fd-49b1-8daf-90779c696a2e",
   "twitterId": "1391105704048611331",
-  "scannedAt": "2026-05-29T04:57:57.500Z",
+  "scannedAt": "2026-07-11T05:57:32.039Z",
   "fields": {
     "username": "saeedderik",
     "displayName": "‌‌‌‌➳saeed⁀➷",
@@ -15,147 +15,72 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTM5MTEwNTcwNDA0ODYxMTMzMQ==",
-          "result": {
-            "id": "VXNlcjoxMzkxMTA1NzA0MDQ4NjExMzMx",
-            "core": {
-              "name": "‌‌‌‌➳saeed⁀➷",
-              "created_at": "Sat May 08 19:01:01 +0000 2021",
-              "screen_name": "saeedderik"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1749400840006164480/rVNyT0c2_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1391105704048611331",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "1",
-                "last_changed_at_msec": "1620607887012"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM5MTEwNTcwNDA0ODYxMTMzMQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxMzkxMTA1NzA0MDQ4NjExMzMx",
-            "core": {
-              "name": "‌‌‌‌➳saeed⁀➷",
-              "created_at": "Sat May 08 19:01:01 +0000 2021",
-              "screen_name": "saeedderik"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1749400840006164480/rVNyT0c2_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "اخلاق ، تنها چیزیه که آدما رو به هم پیوند میزنه",
-              "media_count": 3286,
-              "listed_count": 7,
-              "friends_count": 14816,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 96797,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 14667,
-              "translator_type": "none",
-              "favourites_count": 126673,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391105704048611331/1755327753",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1964030216537289168"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 14667,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Sat May 08 19:01:01 +0000 2021",
+              "name": "‌‌‌‌➳saeed⁀➷",
+              "screen_name": "saeedderik"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1391105704048611331",
-            "location": {
-              "location": "خوزستان"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "اخلاق ، تنها چیزیه که آدما رو به هم پیوند میزنه"
-            },
-            "professional": {
-              "rest_id": "1735689032695185863",
-              "category": [
-                {
-                  "id": 934,
-                  "name": "Social Media Influencer",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": true
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzkxMTA1NzA0MDQ4NjExMzMx",
+            "is_blue_verified": false,
             "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "اخلاق ، تنها چیزیه که آدما رو به هم پیوند میزنه",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 127595,
+              "follow_request_sent": false,
+              "followers_count": 14823,
+              "friends_count": 14965,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 8,
+              "media_count": 3329,
+              "needs_phone_verification": false,
+              "normal_followers_count": 14823,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1964030216537289168"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391105704048611331/1755327753",
+              "profile_interstitial_type": "",
+              "statuses_count": 97119,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 14,
@@ -164,14 +89,89 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "خوزستان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1735689032695185863"
+            },
+            "profile_bio": {
+              "description": "اخلاق ، تنها چیزیه که آدما رو به هم پیوند میزنه"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1391105704048611331",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM5MTEwNTcwNDA0ODYxMTMzMQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1620607887012"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1749400840006164480/rVNyT0c2_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat May 08 19:01:01 +0000 2021",
+              "name": "‌‌‌‌➳saeed⁀➷",
+              "screen_name": "saeedderik"
+            },
+            "id": "VXNlcjoxMzkxMTA1NzA0MDQ4NjExMzMx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1391105704048611331",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM5MTEwNTcwNDA0ODYxMTMzMQ==",
+              "is_identity_verified": false
             }
           }
         }
