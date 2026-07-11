@@ -1,7 +1,7 @@
 {
   "snapshotId": "1489812f-ef6c-418e-96f8-973180ec7c69",
   "twitterId": "1722299239135416320",
-  "scannedAt": "2026-05-29T04:22:36.936Z",
+  "scannedAt": "2026-07-11T05:16:32.892Z",
   "fields": {
     "username": "samasadatnabavi",
     "displayName": "ســــمـا ساداتـ🎒",
@@ -15,156 +15,156 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1912892716364550144/XRNy4qB7_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Nov 08 17:05:23 +0000 2023",
+              "name": "ســــمـا ساداتـ🎒",
+              "screen_name": "samasadatnabavi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzIyMjk5MjM5MTM1NDE2MzIw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "یا صاحب الزمان ❤",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 4410,
+              "follow_request_sent": false,
+              "followers_count": 320,
+              "friends_count": 327,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 135,
+              "needs_phone_verification": false,
+              "normal_followers_count": 320,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1986372035430191215"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722299239135416320/1711821957",
+              "profile_interstitial_type": "",
+              "statuses_count": 831,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1722989261366981014"
+            },
+            "profile_bio": {
+              "description": "یا صاحب الزمان ❤"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1722299239135416320",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTcyMjI5OTIzOTEzNTQxNjMyMA==",
           "result": {
-            "id": "VXNlcjoxNzIyMjk5MjM5MTM1NDE2MzIw",
-            "core": {
-              "name": "ســــمـا ساداتـ🎒",
-              "created_at": "Wed Nov 08 17:05:23 +0000 2023",
-              "screen_name": "samasadatnabavi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1912892716364550144/XRNy4qB7_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1722299239135416320",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1699463152741"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcyMjI5OTIzOTEzNTQxNjMyMA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNzIyMjk5MjM5MTM1NDE2MzIw",
-            "core": {
-              "name": "ســــمـا ساداتـ🎒",
-              "created_at": "Wed Nov 08 17:05:23 +0000 2023",
-              "screen_name": "samasadatnabavi"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1912892716364550144/XRNy4qB7_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "یا صاحب الزمان ❤",
-              "media_count": 114,
-              "listed_count": 0,
-              "friends_count": 326,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 761,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 313,
-              "translator_type": "none",
-              "favourites_count": 4280,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722299239135416320/1711821957",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1986372035430191215"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 313,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Nov 08 17:05:23 +0000 2023",
+              "name": "ســــمـا ساداتـ🎒",
+              "screen_name": "samasadatnabavi"
             },
+            "id": "VXNlcjoxNzIyMjk5MjM5MTM1NDE2MzIw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1722299239135416320",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "یا صاحب الزمان ❤"
-            },
-            "professional": {
-              "rest_id": "1722989261366981014",
-              "category": [
-                {
-                  "id": 934,
-                  "name": "Social Media Influencer",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcyMjI5OTIzOTEzNTQxNjMyMA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
