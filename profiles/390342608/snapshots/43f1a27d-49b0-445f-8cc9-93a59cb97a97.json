@@ -1,7 +1,7 @@
 {
   "snapshotId": "43f1a27d-49b0-445f-8cc9-93a59cb97a97",
   "twitterId": "390342608",
-  "scannedAt": "2026-05-29T06:23:58.989Z",
+  "scannedAt": "2026-07-11T07:47:18.668Z",
   "fields": {
     "username": "shahrokh1976",
     "displayName": "Shahrokh Saei",
@@ -15,168 +15,168 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2000834737376477192/BaotyJvN_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Oct 13 20:46:35 +0000 2011",
+              "name": "Shahrokh Saei",
+              "screen_name": "shahrokh1976"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjozOTAzNDI2MDg=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Journalist at Tehran Times | Covering politics, economics & Iran’s dynamic stories | Committed to truth & insightful analysis",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "facebook.com/share/1A8YfdTx…",
+                      "expanded_url": "https://www.facebook.com/share/1A8YfdTxj1/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ykWnqfPeHh"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 7318,
+              "follow_request_sent": false,
+              "followers_count": 689,
+              "friends_count": 2219,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 278,
+              "needs_phone_verification": false,
+              "normal_followers_count": 689,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1939606074715250750"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/390342608/1770837572",
+              "profile_interstitial_type": "",
+              "statuses_count": 4560,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/ykWnqfPeHh",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran, Iran "
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1609809902268039169"
+            },
+            "profile_bio": {
+              "description": "Journalist at Tehran Times | Covering politics, economics & Iran’s dynamic stories | Committed to truth & insightful analysis"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "390342608",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MzkwMzQyNjA4",
           "result": {
-            "id": "VXNlcjozOTAzNDI2MDg=",
-            "core": {
-              "name": "Shahrokh Saei",
-              "created_at": "Thu Oct 13 20:46:35 +0000 2011",
-              "screen_name": "shahrokh1976"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2000834737376477192/BaotyJvN_normal.jpg"
             },
+            "core": {
+              "created_at": "Thu Oct 13 20:46:35 +0000 2011",
+              "name": "Shahrokh Saei",
+              "screen_name": "shahrokh1976"
+            },
+            "id": "VXNlcjozOTAzNDI2MDg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "390342608",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzkwMzQyNjA4",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjozOTAzNDI2MDg=",
-            "core": {
-              "name": "Shahrokh Saei",
-              "created_at": "Thu Oct 13 20:46:35 +0000 2011",
-              "screen_name": "shahrokh1976"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2000834737376477192/BaotyJvN_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/ykWnqfPeHh",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/ykWnqfPeHh",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "facebook.com/share/1A8YfdTx…",
-                      "expanded_url": "https://www.facebook.com/share/1A8YfdTxj1/"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Journalist at Tehran Times | Covering politics, economics & Iran’s dynamic stories | Committed to truth & insightful analysis",
-              "media_count": 273,
-              "listed_count": 5,
-              "friends_count": 2205,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 4476,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 677,
-              "translator_type": "none",
-              "favourites_count": 7173,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/390342608/1770837572",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1939606074715250750"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 677,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "390342608",
-            "location": {
-              "location": "Tehran, Iran "
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Journalist at Tehran Times | Covering politics, economics & Iran’s dynamic stories | Committed to truth & insightful analysis"
-            },
-            "professional": {
-              "rest_id": "1609809902268039169",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
