@@ -1,7 +1,7 @@
 {
   "snapshotId": "ff0b3a6d-93ec-422f-bfd1-81c27cc4ecc3",
   "twitterId": "816581164374884352",
-  "scannedAt": "2026-05-29T03:12:26.965Z",
+  "scannedAt": "2026-07-11T03:59:00.270Z",
   "fields": {
     "username": "elia12420",
     "displayName": "علی سیستانی🇮🇷",
@@ -15,160 +15,85 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6ODE2NTgxMTY0Mzc0ODg0MzUy",
-          "result": {
-            "id": "VXNlcjo4MTY1ODExNjQzNzQ4ODQzNTI=",
-            "core": {
-              "name": "علی سیستانی🇮🇷",
-              "created_at": "Wed Jan 04 09:44:55 +0000 2017",
-              "screen_name": "elia12420"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1549897144152346624/zO_IgwNv_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "816581164374884352",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-              "account_based_in": "Germany",
-              "username_changes": {
-                "count": "7",
-                "last_changed_at_msec": "1551722700904"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODE2NTgxMTY0Mzc0ODg0MzUy",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjo4MTY1ODExNjQzNzQ4ODQzNTI=",
-            "core": {
-              "name": "علی سیستانی🇮🇷",
-              "created_at": "Wed Jan 04 09:44:55 +0000 2017",
-              "screen_name": "elia12420"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1549897144152346624/zO_IgwNv_normal.jpg"
             },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jan 04 09:44:55 +0000 2017",
+              "name": "علی سیستانی🇮🇷",
+              "screen_name": "elia12420"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MTY1ODExNjQzNzQ4ODQzNTI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
             "legacy": {
-              "url": "https://t.co/rN1mhQn8OJ",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "دانش آموخته فیزیک|معلم|شهروندی خبرنویس از زابل و منطقه سیستان|مسئولیت کامنتها و ریتوییت ها بر عهده بنده نمیباشد|مع حسین العصر حتی النصر",
               "entities": {
+                "description": {},
                 "url": {
                   "urls": [
                     {
-                      "url": "https://t.co/rN1mhQn8OJ",
+                      "display_url": "t.me/joinchat/AAAAA…",
+                      "expanded_url": "https://t.me/joinchat/AAAAAFWn1gfLVFlXS77q3A",
                       "indices": [
                         0,
                         23
                       ],
-                      "display_url": "t.me/joinchat/AAAAA…",
-                      "expanded_url": "https://t.me/joinchat/AAAAAFWn1gfLVFlXS77q3A"
+                      "url": "https://t.co/rN1mhQn8OJ"
                     }
                   ]
-                },
-                "description": {}
+                }
               },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "دانش آموخته فیزیک|معلم|شهروندی خبرنویس از زابل و منطقه سیستان|مسئولیت کامنتها و ریتوییت ها بر عهده بنده نمیباشد|مع حسین العصر حتی النصر",
-              "media_count": 6727,
-              "listed_count": 431,
-              "friends_count": 293,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 118878,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 98701,
-              "translator_type": "none",
-              "favourites_count": 331110,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/816581164374884352/1597944170",
-              "follow_request_sent": false,
               "fast_followers_count": 0,
+              "favourites_count": 330977,
+              "follow_request_sent": false,
+              "followers_count": 98620,
+              "friends_count": 291,
               "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 430,
+              "media_count": 6727,
+              "needs_phone_verification": false,
+              "normal_followers_count": 98620,
+              "notifications": false,
               "pinned_tweet_ids_str": [
                 "1164246739924279297"
               ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/816581164374884352/1597944170",
+              "profile_interstitial_type": "",
+              "statuses_count": 118861,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/rN1mhQn8OJ",
+              "utc_offset": 0,
+              "want_retweets": false,
               "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 98701,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+              "withheld_scope": ""
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "816581164374884352",
-            "location": {
-              "location": "Islamic Republic of Iran,zabol"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "دانش آموخته فیزیک|معلم|شهروندی خبرنویس از زابل و منطقه سیستان|مسئولیت کامنتها و ریتوییت ها بر عهده بنده نمیباشد|مع حسین العصر حتی النصر"
-            },
-            "professional": {
-              "rest_id": "1462855168492400640",
-              "category": [
-                {
-                  "id": 934,
-                  "name": "Social Media Influencer",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 22,
@@ -177,25 +102,89 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "Islamic Republic of Iran,zabol"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1462855168492400640"
+            },
+            "profile_bio": {
+              "description": "دانش آموخته فیزیک|معلم|شهروندی خبرنویس از زابل و منطقه سیستان|مسئولیت کامنتها و ریتوییت ها بر عهده بنده نمیباشد|مع حسین العصر حتی النصر"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Physics graduate | Teacher | Citizen journalist from Zabol and the Sistan region | I am not responsible for comments and retweets | With Hossein of the era until victory",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "816581164374884352",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODE2NTgxMTY0Mzc0ODg0MzUy",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "7",
+                "last_changed_at_msec": "1551722700904"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1549897144152346624/zO_IgwNv_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jan 04 09:44:55 +0000 2017",
+              "name": "علی سیستانی🇮🇷",
+              "screen_name": "elia12420"
+            },
+            "id": "VXNlcjo4MTY1ODExNjQzNzQ4ODQzNTI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "816581164374884352",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODE2NTgxMTY0Mzc0ODg0MzUy",
+              "is_identity_verified": false
             }
           }
         }
