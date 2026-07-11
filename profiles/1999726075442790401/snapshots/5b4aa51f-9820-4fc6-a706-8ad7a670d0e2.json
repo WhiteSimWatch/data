@@ -1,7 +1,7 @@
 {
   "snapshotId": "5b4aa51f-9820-4fc6-a706-8ad7a670d0e2",
   "twitterId": "1999726075442790401",
-  "scannedAt": "2026-05-29T07:25:25.967Z",
+  "scannedAt": "2026-07-11T08:59:17.198Z",
   "fields": {
     "username": "ensann313",
     "displayName": "ensan",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1999731296424038401/mX7eE467_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Dec 13 06:21:31 +0000 2025",
+              "name": "ensan",
+              "screen_name": "ensann313"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTk5NzI2MDc1NDQyNzkwNDAx",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "برای انسان بودن،کافیست به هم نوعان خود رحم کنیم.",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 318,
+              "follow_request_sent": false,
+              "followers_count": 76,
+              "friends_count": 215,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 17,
+              "needs_phone_verification": false,
+              "normal_followers_count": 76,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999726075442790401/1765609632",
+              "profile_interstitial_type": "",
+              "statuses_count": 428,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "برای انسان بودن،کافیست به هم نوعان خود رحم کنیم."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1999726075442790401",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTk5OTcyNjA3NTQ0Mjc5MDQwMQ==",
           "result": {
-            "id": "VXNlcjoxOTk5NzI2MDc1NDQyNzkwNDAx",
-            "core": {
-              "name": "ensan",
-              "created_at": "Sat Dec 13 06:21:31 +0000 2025",
-              "screen_name": "ensann313"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1999731296424038401/mX7eE467_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1999726075442790401",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1765608132408"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk5OTcyNjA3NTQ0Mjc5MDQwMQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTk5NzI2MDc1NDQyNzkwNDAx",
-            "core": {
-              "name": "ensan",
-              "created_at": "Sat Dec 13 06:21:31 +0000 2025",
-              "screen_name": "ensann313"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1999731296424038401/mX7eE467_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "برای انسان بودن،کافیست به هم نوعان خود رحم کنیم.",
-              "media_count": 14,
-              "listed_count": 0,
-              "friends_count": 161,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 338,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 33,
-              "translator_type": "none",
-              "favourites_count": 228,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999726075442790401/1765609632",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 33,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Dec 13 06:21:31 +0000 2025",
+              "name": "ensan",
+              "screen_name": "ensann313"
             },
+            "id": "VXNlcjoxOTk5NzI2MDc1NDQyNzkwNDAx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1999726075442790401",
-            "location": {
-              "location": "tehran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "برای انسان بودن،کافیست به هم نوعان خود رحم کنیم."
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk5OTcyNjA3NTQ0Mjc5MDQwMQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
