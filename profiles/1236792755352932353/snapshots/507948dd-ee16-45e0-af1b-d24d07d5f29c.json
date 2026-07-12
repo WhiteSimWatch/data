@@ -1,7 +1,7 @@
 {
   "snapshotId": "507948dd-ee16-45e0-af1b-d24d07d5f29c",
   "twitterId": "1236792755352932353",
-  "scannedAt": "2026-05-29T08:35:53.542Z",
+  "scannedAt": "2026-07-12T03:31:36.428Z",
   "fields": {
     "username": "siiiiamak",
     "displayName": "Siamak | 🟥 الله 🟩",
@@ -15,161 +15,172 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1996421376412942336/YQlDfnx9_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Mar 08 23:15:58 +0000 2020",
+              "name": "Siamak | 🟥 الله 🟩",
+              "screen_name": "siiiiamak"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Although perhaps the day of meeting you is not in my calendar..."
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjM2NzkyNzU1MzUyOTMyMzUz",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "گرچه شاید، روز دیدار تو در تقویم من نیست ...",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 107196,
+              "follow_request_sent": false,
+              "followers_count": 15060,
+              "friends_count": 5523,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 24,
+              "media_count": 3606,
+              "needs_phone_verification": false,
+              "normal_followers_count": 15060,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236792755352932353/1764818934",
+              "profile_interstitial_type": "",
+              "statuses_count": 29032,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 1,
+                "month": 2,
+                "visibility": "Public",
+                "year": 1960,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 580,
+                  "name": "Media & News Company"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "2013338707437207750"
+            },
+            "profile_bio": {
+              "description": "گرچه شاید، روز دیدار تو در تقویم من نیست ..."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1236792755352932353",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTIzNjc5Mjc1NTM1MjkzMjM1Mw==",
           "result": {
-            "id": "VXNlcjoxMjM2NzkyNzU1MzUyOTMyMzUz",
-            "core": {
-              "name": "Siamak | 🟥 الله 🟩",
-              "created_at": "Sun Mar 08 23:15:58 +0000 2020",
-              "screen_name": "siiiiamak"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1996421376412942336/YQlDfnx9_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1236792755352932353",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "North America App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "North America App Store",
               "username_changes": {
                 "count": "4",
                 "last_changed_at_msec": "1642651643122"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIzNjc5Mjc1NTM1MjkzMjM1Mw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjM2NzkyNzU1MzUyOTMyMzUz",
-            "core": {
-              "name": "Siamak | 🟥 الله 🟩",
-              "created_at": "Sun Mar 08 23:15:58 +0000 2020",
-              "screen_name": "siiiiamak"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1996421376412942336/YQlDfnx9_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "گرچه شاید، روز دیدار تو در تقویم من نیست ...",
-              "media_count": 3543,
-              "listed_count": 26,
-              "friends_count": 5529,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 28610,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 14942,
-              "translator_type": "none",
-              "favourites_count": 105556,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236792755352932353/1764818934",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 14942,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Mar 08 23:15:58 +0000 2020",
+              "name": "Siamak | 🟥 الله 🟩",
+              "screen_name": "siiiiamak"
             },
+            "id": "VXNlcjoxMjM2NzkyNzU1MzUyOTMyMzUz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1236792755352932353",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "گرچه شاید، روز دیدار تو در تقویم من نیست ..."
-            },
-            "professional": {
-              "rest_id": "2013338707437207750",
-              "category": [
-                {
-                  "id": 580,
-                  "name": "Media & News Company",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIzNjc5Mjc1NTM1MjkzMjM1Mw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "day": 1,
-                "year": 1960,
-                "month": 2,
-                "visibility": "Public",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
