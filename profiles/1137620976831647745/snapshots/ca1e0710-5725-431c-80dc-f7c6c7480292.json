@@ -1,7 +1,7 @@
 {
   "snapshotId": "ca1e0710-5725-431c-80dc-f7c6c7480292",
   "twitterId": "1137620976831647745",
-  "scannedAt": "2026-05-29T08:20:48.762Z",
+  "scannedAt": "2026-07-12T03:15:27.951Z",
   "fields": {
     "username": "alirezasamieee",
     "displayName": "علیرضا سمیعی",
@@ -15,151 +15,151 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1681006192741457920/ZAFvVkBf_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jun 09 07:22:31 +0000 2019",
+              "name": "علیرضا سمیعی",
+              "screen_name": "alirezasamieee"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTM3NjIwOTc2ODMxNjQ3NzQ1",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "کسب و کار من کتاب خواندن است. \nآثار: «سرزمین دیر» و «صدای بهتر زخم»: شعر؛ \n«فرم رمان به مثابه امر سیاسی» و «نمایشنامه و اعتراض» : پژوهش.\nاکانت قبلی ساسبند شده",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 7824,
+              "follow_request_sent": false,
+              "followers_count": 800,
+              "friends_count": 268,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 133,
+              "needs_phone_verification": false,
+              "normal_followers_count": 800,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1695168279612997809"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 5865,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "visibility": "Followers",
+                "year": 1978,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "ایران طهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "کسب و کار من کتاب خواندن است. \nآثار: «سرزمین دیر» و «صدای بهتر زخم»: شعر؛ \n«فرم رمان به مثابه امر سیاسی» و «نمایشنامه و اعتراض» : پژوهش.\nاکانت قبلی ساسبند شده"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1137620976831647745",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTEzNzYyMDk3NjgzMTY0Nzc0NQ==",
           "result": {
-            "id": "VXNlcjoxMTM3NjIwOTc2ODMxNjQ3NzQ1",
-            "core": {
-              "name": "علیرضا سمیعی",
-              "created_at": "Sun Jun 09 07:22:31 +0000 2019",
-              "screen_name": "alirezasamieee"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1681006192741457920/ZAFvVkBf_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1137620976831647745",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1689617765438"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTEzNzYyMDk3NjgzMTY0Nzc0NQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMTM3NjIwOTc2ODMxNjQ3NzQ1",
-            "core": {
-              "name": "علیرضا سمیعی",
-              "created_at": "Sun Jun 09 07:22:31 +0000 2019",
-              "screen_name": "alirezasamieee"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1681006192741457920/ZAFvVkBf_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "کسب و کار من کتاب خواندن است. \nآثار: «سرزمین دیر» و «صدای بهتر زخم»: شعر؛ \n«فرم رمان به مثابه امر سیاسی» و «نمایشنامه و اعتراض» : پژوهش.\nاکانت قبلی ساسبند شده",
-              "media_count": 132,
-              "listed_count": 5,
-              "friends_count": 266,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 5761,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 795,
-              "translator_type": "none",
-              "favourites_count": 7682,
-              "possibly_sensitive": false,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1695168279612997809"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 795,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Jun 09 07:22:31 +0000 2019",
+              "name": "علیرضا سمیعی",
+              "screen_name": "alirezasamieee"
             },
+            "id": "VXNlcjoxMTM3NjIwOTc2ODMxNjQ3NzQ1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1137620976831647745",
-            "location": {
-              "location": "ایران طهران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "کسب و کار من کتاب خواندن است. \nآثار: «سرزمین دیر» و «صدای بهتر زخم»: شعر؛ \n«فرم رمان به مثابه امر سیاسی» و «نمایشنامه و اعتراض» : پژوهش.\nاکانت قبلی ساسبند شده"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTEzNzYyMDk3NjgzMTY0Nzc0NQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "year": 1978,
-                "visibility": "Followers",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
