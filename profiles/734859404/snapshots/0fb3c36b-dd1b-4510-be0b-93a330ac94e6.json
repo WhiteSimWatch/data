@@ -1,7 +1,7 @@
 {
   "snapshotId": "0fb3c36b-dd1b-4510-be0b-93a330ac94e6",
   "twitterId": "734859404",
-  "scannedAt": "2026-05-30T03:55:13.833Z",
+  "scannedAt": "2026-07-12T05:41:38.919Z",
   "fields": {
     "username": "mahdiminaei",
     "displayName": "مهدی",
@@ -15,152 +15,152 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1776219293430001664/YfHYSbzu_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Aug 03 13:16:17 +0000 2012",
+              "name": "مهدی",
+              "screen_name": "mahdiminaei"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3MzQ4NTk0MDQ=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مدرس دانشگاه/برنامه ساز / دکتری ارتباطات",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 41784,
+              "follow_request_sent": false,
+              "followers_count": 1379,
+              "friends_count": 4136,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 29,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1379,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/734859404/1553344731",
+              "profile_interstitial_type": "",
+              "statuses_count": 5565,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Neverland"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1522679811143053313"
+            },
+            "profile_bio": {
+              "description": "مدرس دانشگاه/برنامه ساز / دکتری ارتباطات"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "734859404",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6NzM0ODU5NDA0",
           "result": {
-            "id": "VXNlcjo3MzQ4NTk0MDQ=",
-            "core": {
-              "name": "مهدی",
-              "created_at": "Fri Aug 03 13:16:17 +0000 2012",
-              "screen_name": "mahdiminaei"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1776219293430001664/YfHYSbzu_normal.jpg"
             },
+            "core": {
+              "created_at": "Fri Aug 03 13:16:17 +0000 2012",
+              "name": "مهدی",
+              "screen_name": "mahdiminaei"
+            },
+            "id": "VXNlcjo3MzQ4NTk0MDQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "734859404",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzM0ODU5NDA0",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo3MzQ4NTk0MDQ=",
-            "core": {
-              "name": "مهدی",
-              "created_at": "Fri Aug 03 13:16:17 +0000 2012",
-              "screen_name": "mahdiminaei"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1776219293430001664/YfHYSbzu_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مدرس دانشگاه/برنامه ساز / دکتری ارتباطات",
-              "media_count": 28,
-              "listed_count": 0,
-              "friends_count": 4141,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 5538,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1381,
-              "translator_type": "none",
-              "favourites_count": 41723,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/734859404/1553344731",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1381,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "734859404",
-            "location": {
-              "location": "Neverland"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مدرس دانشگاه/برنامه ساز / دکتری ارتباطات"
-            },
-            "professional": {
-              "rest_id": "1522679811143053313",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
