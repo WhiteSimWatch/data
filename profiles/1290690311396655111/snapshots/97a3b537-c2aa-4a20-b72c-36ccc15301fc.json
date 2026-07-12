@@ -1,7 +1,7 @@
 {
   "snapshotId": "97a3b537-c2aa-4a20-b72c-36ccc15301fc",
   "twitterId": "1290690311396655111",
-  "scannedAt": "2026-05-29T08:32:47.871Z",
+  "scannedAt": "2026-07-12T03:27:43.555Z",
   "fields": {
     "username": "a_naasr2",
     "displayName": "علی نصرالهیツ",
@@ -15,158 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1880390739990859776/jHK0ntYM_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Aug 04 16:45:40 +0000 2020",
+              "name": "علی نصرالهیツ",
+              "screen_name": "a_naasr2"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjkwNjkwMzExMzk2NjU1MTEx",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "طلبه دهه هشتادی | منتقدِ نیمه تُرک | شیفته قهوه | رسیدم به عقیده ای که دارم، الحمدالله...",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "twitter.com/search?q=from%…",
+                      "expanded_url": "https://twitter.com/search?q=from%3A%40a_naasr2%2Fexclude%3Areplies&s=16",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/pG5T4Bm9Z8"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 50297,
+              "follow_request_sent": false,
+              "followers_count": 4274,
+              "friends_count": 2220,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 8,
+              "media_count": 590,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4274,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1842821767859188119"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290690311396655111/1737154218",
+              "profile_interstitial_type": "",
+              "statuses_count": 27691,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/pG5T4Bm9Z8",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "همسایه شاهِ خراسونم‌ :)"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "طلبه دهه هشتادی | منتقدِ نیمه تُرک | شیفته قهوه | رسیدم به عقیده ای که دارم، الحمدالله..."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1290690311396655111",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTI5MDY5MDMxMTM5NjY1NTExMQ==",
           "result": {
-            "id": "VXNlcjoxMjkwNjkwMzExMzk2NjU1MTEx",
-            "core": {
-              "name": "علی نصرالهیツ",
-              "created_at": "Tue Aug 04 16:45:40 +0000 2020",
-              "screen_name": "a_naasr2"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1880390739990859776/jHK0ntYM_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1290690311396655111",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "6",
                 "last_changed_at_msec": "1728196507905"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI5MDY5MDMxMTM5NjY1NTExMQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjkwNjkwMzExMzk2NjU1MTEx",
-            "core": {
-              "name": "علی نصرالهیツ",
-              "created_at": "Tue Aug 04 16:45:40 +0000 2020",
-              "screen_name": "a_naasr2"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1880390739990859776/jHK0ntYM_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/pG5T4Bm9Z8",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/pG5T4Bm9Z8",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "twitter.com/search?q=from%…",
-                      "expanded_url": "https://twitter.com/search?q=from%3A%40a_naasr2%2Fexclude%3Areplies&s=16"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "طلبه دهه هشتادی | منتقدِ نیمه تُرک | شیفته قهوه | رسیدم به عقیده ای که دارم، الحمدالله...",
-              "media_count": 590,
-              "listed_count": 8,
-              "friends_count": 2220,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 27680,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 4283,
-              "translator_type": "none",
-              "favourites_count": 50308,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290690311396655111/1737154218",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1842821767859188119"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 4283,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Aug 04 16:45:40 +0000 2020",
+              "name": "علی نصرالهیツ",
+              "screen_name": "a_naasr2"
             },
+            "id": "VXNlcjoxMjkwNjkwMzExMzk2NjU1MTEx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1290690311396655111",
-            "location": {
-              "location": "همسایه شاهِ خراسونم‌ :)"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "طلبه دهه هشتادی | منتقدِ نیمه تُرک | شیفته قهوه | رسیدم به عقیده ای که دارم، الحمدالله..."
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI5MDY5MDMxMTM5NjY1NTExMQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
