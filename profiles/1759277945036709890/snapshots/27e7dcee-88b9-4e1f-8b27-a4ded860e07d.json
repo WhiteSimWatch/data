@@ -1,7 +1,7 @@
 {
   "snapshotId": "27e7dcee-88b9-4e1f-8b27-a4ded860e07d",
   "twitterId": "1759277945036709890",
-  "scannedAt": "2026-05-30T05:12:28.725Z",
+  "scannedAt": "2026-07-12T07:15:08.083Z",
   "fields": {
     "username": "MehdiSalimi313",
     "displayName": "حج مهدی",
@@ -15,150 +15,150 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1821886472204496896/uIYmbtpN_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Feb 18 18:06:06 +0000 2024",
+              "name": "حج مهدی",
+              "screen_name": "MehdiSalimi313"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzU5Mjc3OTQ1MDM2NzA5ODkw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "🤍اللهم♥️عجل🤍لولیک♥️فرج🤍\n                         312+1\nشاید آن یک نفر تو باشی!\n\n Maybe that someone is you!",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 9893,
+              "follow_request_sent": false,
+              "followers_count": 1060,
+              "friends_count": 1154,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 329,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1060,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1890211815973613800"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759277945036709890/1710339384",
+              "profile_interstitial_type": "",
+              "statuses_count": 4832,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": " "
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1883381209633378462"
+            },
+            "profile_bio": {
+              "description": "🤍اللهم♥️عجل🤍لولیک♥️فرج🤍\n                         312+1\nشاید آن یک نفر تو باشی!\n\n Maybe that someone is you!"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1759277945036709890",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTc1OTI3Nzk0NTAzNjcwOTg5MA==",
           "result": {
-            "id": "VXNlcjoxNzU5Mjc3OTQ1MDM2NzA5ODkw",
-            "core": {
-              "name": "حج مهدی",
-              "created_at": "Sun Feb 18 18:06:06 +0000 2024",
-              "screen_name": "MehdiSalimi313"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1821886472204496896/uIYmbtpN_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1759277945036709890",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1737087050265"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc1OTI3Nzk0NTAzNjcwOTg5MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNzU5Mjc3OTQ1MDM2NzA5ODkw",
-            "core": {
-              "name": "حج مهدی",
-              "created_at": "Sun Feb 18 18:06:06 +0000 2024",
-              "screen_name": "MehdiSalimi313"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1821886472204496896/uIYmbtpN_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "🤍اللهم♥️عجل🤍لولیک♥️فرج🤍\n                         312+1\nشاید آن یک نفر تو باشی!\n\n Maybe that someone is you!",
-              "media_count": 291,
-              "listed_count": 0,
-              "friends_count": 1040,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 4353,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 952,
-              "translator_type": "none",
-              "favourites_count": 8815,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759277945036709890/1710339384",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1890211815973613800"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 952,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Feb 18 18:06:06 +0000 2024",
+              "name": "حج مهدی",
+              "screen_name": "MehdiSalimi313"
             },
+            "id": "VXNlcjoxNzU5Mjc3OTQ1MDM2NzA5ODkw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1759277945036709890",
-            "location": {
-              "location": " "
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "🤍اللهم♥️عجل🤍لولیک♥️فرج🤍\n                         312+1\nشاید آن یک نفر تو باشی!\n\n Maybe that someone is you!"
-            },
-            "professional": {
-              "rest_id": "1883381209633378462",
-              "category": [],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc1OTI3Nzk0NTAzNjcwOTg5MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
