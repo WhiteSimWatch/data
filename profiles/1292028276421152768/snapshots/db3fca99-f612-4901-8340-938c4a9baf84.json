@@ -1,7 +1,7 @@
 {
   "snapshotId": "db3fca99-f612-4901-8340-938c4a9baf84",
   "twitterId": "1292028276421152768",
-  "scannedAt": "2026-05-30T05:38:13.557Z",
+  "scannedAt": "2026-07-12T07:48:04.717Z",
   "fields": {
     "username": "hamsare_seyed",
     "displayName": "همسرسید",
@@ -15,157 +15,157 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1762429513906991104/TXrqRGPo_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Aug 08 09:22:23 +0000 2020",
+              "name": "همسرسید",
+              "screen_name": "hamsare_seyed"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjkyMDI4Mjc2NDIxMTUyNzY4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مادر دهه نودی ها\nهمسر یک سید خوشبخت\nخطر!احتمال فشار برعن.داز\nلینک توییتهای من \nhttps://t.co/PUHQsMnCW7",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "twitter.com/search?q=from%…",
+                      "expanded_url": "https://twitter.com/search?q=from%3A%40@@hamsare_seyed%2Fexclude%3Areplies&f=live",
+                      "indices": [
+                        79,
+                        102
+                      ],
+                      "url": "https://t.co/PUHQsMnCW7"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 86874,
+              "follow_request_sent": false,
+              "followers_count": 5960,
+              "friends_count": 5922,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 655,
+              "needs_phone_verification": false,
+              "normal_followers_count": 5960,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2073832265138741461"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292028276421152768/1709030982",
+              "profile_interstitial_type": "",
+              "statuses_count": 43788,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "شهری از میان کویر "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مادر دهه نودی ها\nهمسر یک سید خوشبخت\nخطر!احتمال فشار برعن.داز\nلینک توییتهای من \nhttps://t.co/PUHQsMnCW7"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1292028276421152768",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTI5MjAyODI3NjQyMTE1Mjc2OA==",
           "result": {
-            "id": "VXNlcjoxMjkyMDI4Mjc2NDIxMTUyNzY4",
-            "core": {
-              "name": "همسرسید",
-              "created_at": "Sat Aug 08 09:22:23 +0000 2020",
-              "screen_name": "hamsare_seyed"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1762429513906991104/TXrqRGPo_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1292028276421152768",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Web",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1597188864327"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI5MjAyODI3NjQyMTE1Mjc2OA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjkyMDI4Mjc2NDIxMTUyNzY4",
-            "core": {
-              "name": "همسرسید",
-              "created_at": "Sat Aug 08 09:22:23 +0000 2020",
-              "screen_name": "hamsare_seyed"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1762429513906991104/TXrqRGPo_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/PUHQsMnCW7",
-                      "indices": [
-                        79,
-                        102
-                      ],
-                      "display_url": "twitter.com/search?q=from%…",
-                      "expanded_url": "https://twitter.com/search?q=from%3A%40@@hamsare_seyed%2Fexclude%3Areplies&f=live"
-                    }
-                  ]
-                }
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مادر دهه نودی ها\nهمسر یک سید خوشبخت\nخطر!احتمال فشار برعن.داز\nلینک توییتهای من \nhttps://t.co/PUHQsMnCW7",
-              "media_count": 649,
-              "listed_count": 5,
-              "friends_count": 5895,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 43316,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 5935,
-              "translator_type": "none",
-              "favourites_count": 85973,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292028276421152768/1709030982",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2036414632592597243"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 5935,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Aug 08 09:22:23 +0000 2020",
+              "name": "همسرسید",
+              "screen_name": "hamsare_seyed"
             },
+            "id": "VXNlcjoxMjkyMDI4Mjc2NDIxMTUyNzY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1292028276421152768",
-            "location": {
-              "location": "شهری از میان کویر "
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مادر دهه نودی ها\nهمسر یک سید خوشبخت\nخطر!احتمال فشار برعن.داز\nلینک توییتهای من \nhttps://t.co/PUHQsMnCW7"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI5MjAyODI3NjQyMTE1Mjc2OA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
