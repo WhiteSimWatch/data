@@ -1,7 +1,7 @@
 {
   "snapshotId": "2f1237d6-4cf4-4d6b-8c13-5fdf59fd6933",
   "twitterId": "2042381864619393024",
-  "scannedAt": "2026-05-30T06:44:42.495Z",
+  "scannedAt": "2026-07-12T09:00:47.595Z",
   "fields": {
     "username": "Satrap339080",
     "displayName": "Satrap",
@@ -15,152 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045343040697413632/72OEdYvy_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Apr 09 23:19:41 +0000 2026",
+              "name": "Satrap",
+              "screen_name": "Satrap339080"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQyMzgxODY0NjE5MzkzMDI0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "پهلوانان نمی میرند چون ابوالفضل(ع) پهلوان است.",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 4274,
+              "follow_request_sent": false,
+              "followers_count": 632,
+              "friends_count": 659,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 119,
+              "needs_phone_verification": false,
+              "normal_followers_count": 632,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042381864619393024/1775777404",
+              "profile_interstitial_type": "",
+              "statuses_count": 677,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "پهلوانان نمی میرند چون ابوالفضل(ع) پهلوان است."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2042381864619393024",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjA0MjM4MTg2NDYxOTM5MzAyNA==",
           "result": {
-            "id": "VXNlcjoyMDQyMzgxODY0NjE5MzkzMDI0",
-            "core": {
-              "name": "Satrap",
-              "created_at": "Thu Apr 09 23:19:41 +0000 2026",
-              "screen_name": "Satrap339080"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2045343040697413632/72OEdYvy_normal.jpg"
             },
+            "core": {
+              "created_at": "Thu Apr 09 23:19:41 +0000 2026",
+              "name": "Satrap",
+              "screen_name": "Satrap339080"
+            },
+            "id": "VXNlcjoyMDQyMzgxODY0NjE5MzkzMDI0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2042381864619393024",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0MjM4MTg2NDYxOTM5MzAyNA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDQyMzgxODY0NjE5MzkzMDI0",
-            "core": {
-              "name": "Satrap",
-              "created_at": "Thu Apr 09 23:19:41 +0000 2026",
-              "screen_name": "Satrap339080"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2045343040697413632/72OEdYvy_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "پهلوانان نمی میرند چون ابوالفضل(ع) پهلوان است.",
-              "media_count": 93,
-              "listed_count": 0,
-              "friends_count": 823,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 588,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 614,
-              "translator_type": "none",
-              "favourites_count": 3595,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042381864619393024/1775777404",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 614,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2042381864619393024",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "پهلوانان نمی میرند چون ابوالفضل(ع) پهلوان است."
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Heroes don't die because Abu al-Fadl (peace be upon him) is a hero.",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
