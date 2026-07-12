@@ -1,7 +1,7 @@
 {
   "snapshotId": "97ec3815-7e15-489b-ac80-d5fc8dc9a643",
   "twitterId": "1574161903282159622",
-  "scannedAt": "2026-05-30T06:20:37.997Z",
+  "scannedAt": "2026-07-12T08:33:31.240Z",
   "fields": {
     "username": "Mozho_M",
     "displayName": "🇮🇷👑Mozhooo👑🇮🇷",
@@ -15,164 +15,164 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2012804888447553536/-w53EeNT_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Sep 25 22:21:00 +0000 2022",
+              "name": "🇮🇷👑Mozhooo👑🇮🇷",
+              "screen_name": "Mozho_M"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "4"
+            },
+            "id": "VXNlcjoxNTc0MTYxOTAzMjgyMTU5NjIy",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "For the freedom of my Iran, for the freedom of my home, for the freedom of my people.🕊️🇮🇷",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 24210,
+              "follow_request_sent": false,
+              "followers_count": 4101,
+              "friends_count": 3674,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 12,
+              "media_count": 3074,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4101,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2071238033316474899"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1574161903282159622/1769019405",
+              "profile_interstitial_type": "",
+              "statuses_count": 18798,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "For the freedom of my Iran, for the freedom of my home, for the freedom of my people.🕊️🇮🇷"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1574161903282159622",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1773852954226"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU3NDE2MTkwMzI4MjE1OTYyMg==",
           "result": {
-            "id": "VXNlcjoxNTc0MTYxOTAzMjgyMTU5NjIy",
-            "core": {
-              "name": "🇮🇷👑Mozhooo👑🇮🇷",
-              "created_at": "Sun Sep 25 22:21:00 +0000 2022",
-              "screen_name": "Mozho_M"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2012804888447553536/-w53EeNT_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1574161903282159622",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia App Store",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1664439129725"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU3NDE2MTkwMzI4MjE1OTYyMg==",
-              "reason": {
-                "verified_since_msec": "1773852954226"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTc0MTYxOTAzMjgyMTU5NjIy",
-            "core": {
-              "name": "🇮🇷👑Mozhooo👑🇮🇷",
-              "created_at": "Sun Sep 25 22:21:00 +0000 2022",
-              "screen_name": "Mozho_M"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2012804888447553536/-w53EeNT_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "For the freedom of my Iran, for the freedom of my home, for the freedom of my people.🕊️🇮🇷",
-              "media_count": 2484,
-              "listed_count": 6,
-              "friends_count": 2908,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 13217,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3095,
-              "translator_type": "none",
-              "favourites_count": 16466,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1574161903282159622/1769019405",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2053801060494418238"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3095,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Sep 25 22:21:00 +0000 2022",
+              "name": "🇮🇷👑Mozhooo👑🇮🇷",
+              "screen_name": "Mozho_M"
             },
+            "id": "VXNlcjoxNTc0MTYxOTAzMjgyMTU5NjIy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1574161903282159622",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "For the freedom of my Iran, for the freedom of my home, for the freedom of my people.🕊️🇮🇷"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "2",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU3NDE2MTkwMzI4MjE1OTYyMg==",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1773852954226"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
