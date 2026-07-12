@@ -1,7 +1,7 @@
 {
   "snapshotId": "834f4ba7-d71f-40dd-af5a-ed043f655dfe",
   "twitterId": "1306895282609614849",
-  "scannedAt": "2026-05-30T06:29:42.003Z",
+  "scannedAt": "2026-07-12T08:43:05.402Z",
   "fields": {
     "username": "FatemeBSN",
     "displayName": "فاطـــــمه🌼",
@@ -15,136 +15,72 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTMwNjg5NTI4MjYwOTYxNDg0OQ==",
-          "result": {
-            "id": "VXNlcjoxMzA2ODk1MjgyNjA5NjE0ODQ5",
-            "core": {
-              "name": "فاطـــــمه🌼",
-              "created_at": "Fri Sep 18 09:58:25 +0000 2020",
-              "screen_name": "FatemeBSN"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1473671572774957060/06Ao_dVF_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1306895282609614849",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "4",
-                "last_changed_at_msec": "1640180633589"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMwNjg5NTI4MjYwOTYxNDg0OQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxMzA2ODk1MjgyNjA5NjE0ODQ5",
-            "core": {
-              "name": "فاطـــــمه🌼",
-              "created_at": "Fri Sep 18 09:58:25 +0000 2020",
-              "screen_name": "FatemeBSN"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1473671572774957060/06Ao_dVF_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "روزمره های یک خانوم خونه دار که گاهی درباره ی مسائل روز هم نظر خودشو مینویسه😍",
-              "media_count": 24,
-              "listed_count": 0,
-              "friends_count": 2636,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1522,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2233,
-              "translator_type": "none",
-              "favourites_count": 9197,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1306895282609614849/1602602572",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1475012278344953859"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2233,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Sep 18 09:58:25 +0000 2020",
+              "name": "فاطـــــمه🌼",
+              "screen_name": "FatemeBSN"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1306895282609614849",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "روزمره های یک خانوم خونه دار که گاهی درباره ی مسائل روز هم نظر خودشو مینویسه😍"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": false
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzA2ODk1MjgyNjA5NjE0ODQ5",
+            "is_blue_verified": false,
             "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "روزمره های یک خانوم خونه دار که گاهی درباره ی مسائل روز هم نظر خودشو مینویسه😍",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 9198,
+              "follow_request_sent": false,
+              "followers_count": 2235,
+              "friends_count": 2633,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 25,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2235,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1475012278344953859"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1306895282609614849/1602602572",
+              "profile_interstitial_type": "",
+              "statuses_count": 1523,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 18,
@@ -153,14 +89,78 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "روزمره های یک خانوم خونه دار که گاهی درباره ی مسائل روز هم نظر خودشو مینویسه😍"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1306895282609614849",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTMwNjg5NTI4MjYwOTYxNDg0OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "4",
+                "last_changed_at_msec": "1640180633589"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1473671572774957060/06Ao_dVF_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Sep 18 09:58:25 +0000 2020",
+              "name": "فاطـــــمه🌼",
+              "screen_name": "FatemeBSN"
+            },
+            "id": "VXNlcjoxMzA2ODk1MjgyNjA5NjE0ODQ5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1306895282609614849",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMwNjg5NTI4MjYwOTYxNDg0OQ==",
+              "is_identity_verified": false
             }
           }
         }
