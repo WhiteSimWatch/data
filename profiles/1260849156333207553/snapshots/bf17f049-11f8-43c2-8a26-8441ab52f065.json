@@ -1,7 +1,7 @@
 {
   "snapshotId": "bf17f049-11f8-43c2-8a26-8441ab52f065",
   "twitterId": "1260849156333207553",
-  "scannedAt": "2026-05-30T06:07:24.062Z",
+  "scannedAt": "2026-07-12T08:19:04.301Z",
   "fields": {
     "username": "VNorouzi",
     "displayName": "vahid norouzi",
@@ -15,162 +15,162 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1992616542656237568/RcCreXn8_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu May 14 08:27:43 +0000 2020",
+              "name": "vahid norouzi",
+              "screen_name": "VNorouzi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjYwODQ5MTU2MzMzMjA3NTUz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "“Environmentalist with a PhD | Proud dad of Barbod & Barad | Part-time entrepreneur”",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/vahidnorouzi5",
+                      "expanded_url": "https://t.me/vahidnorouzi5",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/XWWIfxdIdP"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 13457,
+              "follow_request_sent": false,
+              "followers_count": 1675,
+              "friends_count": 912,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 107,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1675,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260849156333207553/1750311055",
+              "profile_interstitial_type": "",
+              "statuses_count": 1384,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/XWWIfxdIdP",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 10,
+                "month": 8,
+                "visibility": "Public",
+                "year": 1974,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "Paris, Ile-de-France"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "“Environmentalist with a PhD | Proud dad of Barbod & Barad | Part-time entrepreneur”"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1260849156333207553",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTI2MDg0OTE1NjMzMzIwNzU1Mw==",
           "result": {
-            "id": "VXNlcjoxMjYwODQ5MTU2MzMzMjA3NTUz",
-            "core": {
-              "name": "vahid norouzi",
-              "created_at": "Thu May 14 08:27:43 +0000 2020",
-              "screen_name": "VNorouzi"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Europe App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1992616542656237568/RcCreXn8_normal.jpg"
             },
+            "core": {
+              "created_at": "Thu May 14 08:27:43 +0000 2020",
+              "name": "vahid norouzi",
+              "screen_name": "VNorouzi"
+            },
+            "id": "VXNlcjoxMjYwODQ5MTU2MzMzMjA3NTUz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1260849156333207553",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Europe App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "West Asia",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI2MDg0OTE1NjMzMzIwNzU1Mw==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjYwODQ5MTU2MzMzMjA3NTUz",
-            "core": {
-              "name": "vahid norouzi",
-              "created_at": "Thu May 14 08:27:43 +0000 2020",
-              "screen_name": "VNorouzi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1992616542656237568/RcCreXn8_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/XWWIfxdIdP",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/XWWIfxdIdP",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/vahidnorouzi5",
-                      "expanded_url": "https://t.me/vahidnorouzi5"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "“Environmentalist with a PhD | Proud dad of Barbod & Barad | Part-time entrepreneur”",
-              "media_count": 107,
-              "listed_count": 3,
-              "friends_count": 916,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1384,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1679,
-              "translator_type": "none",
-              "favourites_count": 13462,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260849156333207553/1750311055",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1679,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1260849156333207553",
-            "location": {
-              "location": "Paris, Ile-de-France"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "“Environmentalist with a PhD | Proud dad of Barbod & Barad | Part-time entrepreneur”"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "day": 10,
-                "year": 1974,
-                "month": 8,
-                "visibility": "Public",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
