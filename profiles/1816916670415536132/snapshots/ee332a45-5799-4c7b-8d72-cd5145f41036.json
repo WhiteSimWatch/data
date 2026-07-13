@@ -1,7 +1,7 @@
 {
   "snapshotId": "ee332a45-5799-4c7b-8d72-cd5145f41036",
   "twitterId": "1816916670415536132",
-  "scannedAt": "2026-05-30T17:35:00.520Z",
+  "scannedAt": "2026-07-13T08:11:43.836Z",
   "fields": {
     "username": "searaj_313",
     "displayName": "سراج|313",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1945391215764992000/IBLekAUv_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jul 26 19:21:15 +0000 2024",
+              "name": "سراج|313",
+              "screen_name": "searaj_313"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODE2OTE2NjcwNDE1NTM2MTMy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "إِلَّا أَنْ يَشَاءَ اللَّهُ•• ~اَللّهُمَّ عَجِّل لِوَلیِّکَ الفَرَج~",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 3283,
+              "follow_request_sent": false,
+              "followers_count": 3591,
+              "friends_count": 3556,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 94,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3591,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1903799479033028671"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816916670415536132/1754299302",
+              "profile_interstitial_type": "",
+              "statuses_count": 1369,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "إِلَّا أَنْ يَشَاءَ اللَّهُ•• ~اَللّهُمَّ عَجِّل لِوَلیِّکَ الفَرَج~"
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1816916670415536132",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTgxNjkxNjY3MDQxNTUzNjEzMg==",
           "result": {
-            "id": "VXNlcjoxODE2OTE2NjcwNDE1NTM2MTMy",
-            "core": {
-              "name": "سراج|313",
-              "created_at": "Fri Jul 26 19:21:15 +0000 2024",
-              "screen_name": "searaj_313"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "24",
+                "last_changed_at_msec": "1780670256634"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1945391215764992000/IBLekAUv_normal.jpg"
             },
+            "core": {
+              "created_at": "Fri Jul 26 19:21:15 +0000 2024",
+              "name": "سراج|313",
+              "screen_name": "searaj_313"
+            },
+            "id": "VXNlcjoxODE2OTE2NjcwNDE1NTM2MTMy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1816916670415536132",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "West Asia",
-              "username_changes": {
-                "count": "20",
-                "last_changed_at_msec": "1770042813648"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgxNjkxNjY3MDQxNTUzNjEzMg==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODE2OTE2NjcwNDE1NTM2MTMy",
-            "core": {
-              "name": "سراج|313",
-              "created_at": "Fri Jul 26 19:21:15 +0000 2024",
-              "screen_name": "searaj_313"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1945391215764992000/IBLekAUv_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "إِلَّا أَنْ يَشَاءَ اللَّهُ•• ~اَللّهُمَّ عَجِّل لِوَلیِّکَ الفَرَج~",
-              "media_count": 74,
-              "listed_count": 3,
-              "friends_count": 3539,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1308,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3601,
-              "translator_type": "none",
-              "favourites_count": 3228,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816916670415536132/1754299302",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1903799479033028671"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3601,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1816916670415536132",
-            "location": {
-              "location": "جمهوری اسلامی ایران "
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "إِلَّا أَنْ يَشَاءَ اللَّهُ•• ~اَللّهُمَّ عَجِّل لِوَلیِّکَ الفَرَج~"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "ar",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
