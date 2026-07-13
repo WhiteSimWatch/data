@@ -1,7 +1,7 @@
 {
   "snapshotId": "d696a2bc-7ed9-44a8-90f0-5c0531b63f56",
   "twitterId": "1807682943181094912",
-  "scannedAt": "2026-05-30T17:16:01.057Z",
+  "scannedAt": "2026-07-13T07:27:35.054Z",
   "fields": {
     "username": "yekta680632",
     "displayName": "یکتا",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1807686624391708672/y2he_FZL_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jul 01 07:50:04 +0000 2024",
+              "name": "یکتا",
+              "screen_name": "yekta680632"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODA3NjgyOTQzMTgxMDk0OTEy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "𝘀𝘁𝗮𝘆 𝗽𝗮𝘁𝗶𝗲𝗻𝘁 𝗮𝗻𝗱 𝘁𝗿𝘂𝘀𝘁 𝘆𝗼𝘂𝗿 𝗷𝗼𝘂𝗿𝗻𝗲𝘆",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2304,
+              "follow_request_sent": false,
+              "followers_count": 129,
+              "friends_count": 34,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 190,
+              "needs_phone_verification": false,
+              "normal_followers_count": 129,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807682943181094912/1719821054",
+              "profile_interstitial_type": "",
+              "statuses_count": 8025,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "𝘀𝘁𝗮𝘆 𝗽𝗮𝘁𝗶𝗲𝗻𝘁 𝗮𝗻𝗱 𝘁𝗿𝘂𝘀𝘁 𝘆𝗼𝘂𝗿 𝗷𝗼𝘂𝗿𝗻𝗲𝘆"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1807682943181094912",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTgwNzY4Mjk0MzE4MTA5NDkxMg==",
           "result": {
-            "id": "VXNlcjoxODA3NjgyOTQzMTgxMDk0OTEy",
-            "core": {
-              "name": "یکتا",
-              "created_at": "Mon Jul 01 07:50:04 +0000 2024",
-              "screen_name": "yekta680632"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1807686624391708672/y2he_FZL_normal.jpg"
             },
+            "core": {
+              "created_at": "Mon Jul 01 07:50:04 +0000 2024",
+              "name": "یکتا",
+              "screen_name": "yekta680632"
+            },
+            "id": "VXNlcjoxODA3NjgyOTQzMTgxMDk0OTEy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1807682943181094912",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgwNzY4Mjk0MzE4MTA5NDkxMg==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODA3NjgyOTQzMTgxMDk0OTEy",
-            "core": {
-              "name": "یکتا",
-              "created_at": "Mon Jul 01 07:50:04 +0000 2024",
-              "screen_name": "yekta680632"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1807686624391708672/y2he_FZL_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "𝘀𝘁𝗮𝘆 𝗽𝗮𝘁𝗶𝗲𝗻𝘁 𝗮𝗻𝗱 𝘁𝗿𝘂𝘀𝘁 𝘆𝗼𝘂𝗿 𝗷𝗼𝘂𝗿𝗻𝗲𝘆",
-              "media_count": 154,
-              "listed_count": 0,
-              "friends_count": 29,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 7297,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 128,
-              "translator_type": "none",
-              "favourites_count": 2114,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807682943181094912/1719821054",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 128,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1807682943181094912",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "𝘀𝘁𝗮𝘆 𝗽𝗮𝘁𝗶𝗲𝗻𝘁 𝗮𝗻𝗱 𝘁𝗿𝘂𝘀𝘁 𝘆𝗼𝘂𝗿 𝗷𝗼𝘂𝗿𝗻𝗲𝘆"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
