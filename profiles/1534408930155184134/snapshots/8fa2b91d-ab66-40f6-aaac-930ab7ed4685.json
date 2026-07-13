@@ -1,7 +1,7 @@
 {
   "snapshotId": "8fa2b91d-ab66-40f6-aaac-930ab7ed4685",
   "twitterId": "1534408930155184134",
-  "scannedAt": "2026-05-30T16:09:09.399Z",
+  "scannedAt": "2026-07-13T06:19:40.977Z",
   "fields": {
     "username": "mobinagli",
     "displayName": "مُـبـیـنٰٓ|🎒",
@@ -15,157 +15,157 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2017459938688225281/KbTZZGBQ_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jun 08 05:36:41 +0000 2022",
+              "name": "مُـبـیـنٰٓ|🎒",
+              "screen_name": "mobinagli"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTM0NDA4OTMwMTU1MTg0MTM0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "عجب حلاوتی دارد مرگ! اگر انسان در راه آرمانی معتبر بمیرد، مثلا وطن☫\nhttps://t.co/1oIC0sre0j",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/mobinedit1",
+                      "expanded_url": "https://www.instagram.com/mobinedit1",
+                      "indices": [
+                        68,
+                        91
+                      ],
+                      "url": "https://t.co/1oIC0sre0j"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 32769,
+              "follow_request_sent": false,
+              "followers_count": 5398,
+              "friends_count": 3647,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 401,
+              "needs_phone_verification": false,
+              "normal_followers_count": 5398,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2045465107405099172"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534408930155184134/1776288102",
+              "profile_interstitial_type": "",
+              "statuses_count": 8964,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "آسمونِ اِلا"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "عجب حلاوتی دارد مرگ! اگر انسان در راه آرمانی معتبر بمیرد، مثلا وطن☫\nhttps://t.co/1oIC0sre0j"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1534408930155184134",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTUzNDQwODkzMDE1NTE4NDEzNA==",
           "result": {
-            "id": "VXNlcjoxNTM0NDA4OTMwMTU1MTg0MTM0",
-            "core": {
-              "name": "مُـبـیـنٰٓ|🎒",
-              "created_at": "Wed Jun 08 05:36:41 +0000 2022",
-              "screen_name": "mobinagli"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2017459938688225281/KbTZZGBQ_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1534408930155184134",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1661372236912"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUzNDQwODkzMDE1NTE4NDEzNA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTM0NDA4OTMwMTU1MTg0MTM0",
-            "core": {
-              "name": "مُـبـیـنٰٓ|🎒",
-              "created_at": "Wed Jun 08 05:36:41 +0000 2022",
-              "screen_name": "mobinagli"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2017459938688225281/KbTZZGBQ_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/1oIC0sre0j",
-                      "indices": [
-                        68,
-                        91
-                      ],
-                      "display_url": "instagram.com/mobinedit1",
-                      "expanded_url": "https://www.instagram.com/mobinedit1"
-                    }
-                  ]
-                }
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "عجب حلاوتی دارد مرگ! اگر انسان در راه آرمانی معتبر بمیرد، مثلا وطن☫\nhttps://t.co/1oIC0sre0j",
-              "media_count": 383,
-              "listed_count": 2,
-              "friends_count": 3647,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 8915,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 5425,
-              "translator_type": "none",
-              "favourites_count": 32632,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534408930155184134/1776288102",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1897374588318965878"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 5425,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Jun 08 05:36:41 +0000 2022",
+              "name": "مُـبـیـنٰٓ|🎒",
+              "screen_name": "mobinagli"
             },
+            "id": "VXNlcjoxNTM0NDA4OTMwMTU1MTg0MTM0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1534408930155184134",
-            "location": {
-              "location": "آسمونِ اِلا"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "عجب حلاوتی دارد مرگ! اگر انسان در راه آرمانی معتبر بمیرد، مثلا وطن☫\nhttps://t.co/1oIC0sre0j"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUzNDQwODkzMDE1NTE4NDEzNA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
