@@ -1,7 +1,7 @@
 {
   "snapshotId": "68a51d20-f5cd-4e51-9f23-58f0499e04f4",
   "twitterId": "1879793213738762241",
-  "scannedAt": "2026-05-30T15:46:09.765Z",
+  "scannedAt": "2026-07-13T06:05:43.683Z",
   "fields": {
     "username": "FaribaHaid35089",
     "displayName": "فریبا حمیدی",
@@ -15,141 +15,152 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1965118158865412096/FTgBuZZ9_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Jan 16 07:30:31 +0000 2025",
+              "name": "فریبا حمیدی",
+              "screen_name": "FaribaHaid35089"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Senior in Genetics / Lover of studying / Autumn girl / Revolutionary / Occupation: Servant of Aba Abdillah / Nature advocate"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODc5NzkzMjEzNzM4NzYyMjQx",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "ارشد ژنتیک /عاشق  مطالعه/دختر پاییز /انقلابی / شغل نوکر اباعبدالله / حامی طبیعت",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 5526,
+              "follow_request_sent": false,
+              "followers_count": 1312,
+              "friends_count": 1463,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 542,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1312,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879793213738762241/1757355739",
+              "profile_interstitial_type": "",
+              "statuses_count": 3222,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ارشد ژنتیک /عاشق  مطالعه/دختر پاییز /انقلابی / شغل نوکر اباعبدالله / حامی طبیعت"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1879793213738762241",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg3OTc5MzIxMzczODc2MjI0MQ==",
           "result": {
-            "id": "VXNlcjoxODc5NzkzMjEzNzM4NzYyMjQx",
-            "core": {
-              "name": "فریبا حمیدی",
-              "created_at": "Thu Jan 16 07:30:31 +0000 2025",
-              "screen_name": "FaribaHaid35089"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1965118158865412096/FTgBuZZ9_normal.jpg"
             },
+            "core": {
+              "created_at": "Thu Jan 16 07:30:31 +0000 2025",
+              "name": "فریبا حمیدی",
+              "screen_name": "FaribaHaid35089"
+            },
+            "id": "VXNlcjoxODc5NzkzMjEzNzM4NzYyMjQx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1879793213738762241",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg3OTc5MzIxMzczODc2MjI0MQ==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODc5NzkzMjEzNzM4NzYyMjQx",
-            "core": {
-              "name": "فریبا حمیدی",
-              "created_at": "Thu Jan 16 07:30:31 +0000 2025",
-              "screen_name": "FaribaHaid35089"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1965118158865412096/FTgBuZZ9_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "ارشد ژنتیک /عاشق  مطالعه/دختر پاییز /انقلابی / شغل نوکر اباعبدالله / حامی طبیعت",
-              "media_count": 523,
-              "listed_count": 1,
-              "friends_count": 1393,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 3174,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1219,
-              "translator_type": "none",
-              "favourites_count": 5427,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879793213738762241/1757355739",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1219,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1879793213738762241",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "ارشد ژنتیک /عاشق  مطالعه/دختر پاییز /انقلابی / شغل نوکر اباعبدالله / حامی طبیعت"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
