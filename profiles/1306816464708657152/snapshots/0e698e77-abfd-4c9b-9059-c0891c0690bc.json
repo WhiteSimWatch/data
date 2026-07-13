@@ -1,7 +1,7 @@
 {
   "snapshotId": "0e698e77-abfd-4c9b-9059-c0891c0690bc",
   "twitterId": "1306816464708657152",
-  "scannedAt": "2026-05-30T08:21:11.491Z",
+  "scannedAt": "2026-07-13T04:15:31.799Z",
   "fields": {
     "username": "TheIntelLab",
     "displayName": "The Intel Lab",
@@ -15,187 +15,187 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1574799598442496002/KIp0d6zd_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Sep 18 04:45:06 +0000 2020",
+              "name": "The Intel Lab",
+              "screen_name": "TheIntelLab"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "3"
+            },
+            "id": "VXNlcjoxMzA2ODE2NDY0NzA4NjU3MTUy",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "#TheIntelLab | Intelligence as a Service (IaaS) | GEOINT | IMINT",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "intel-lab.net",
+                      "expanded_url": "https://www.intel-lab.net/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/8a9bNgAFkQ"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 7914,
+              "follow_request_sent": false,
+              "followers_count": 38299,
+              "friends_count": 432,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1014,
+              "media_count": 516,
+              "needs_phone_verification": false,
+              "normal_followers_count": 38299,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2043178888675606635"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1306816464708657152/1645082949",
+              "profile_interstitial_type": "",
+              "statuses_count": 2248,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/8a9bNgAFkQ",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 921,
+                  "name": "Defense Company"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1456477963097083905"
+            },
+            "profile_bio": {
+              "description": "#TheIntelLab | Intelligence as a Service (IaaS) | GEOINT | IMINT"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1306816464708657152",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1671869448773"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTMwNjgxNjQ2NDcwODY1NzE1Mg==",
           "result": {
-            "id": "VXNlcjoxMzA2ODE2NDY0NzA4NjU3MTUy",
-            "core": {
-              "name": "The Intel Lab",
-              "created_at": "Fri Sep 18 04:45:06 +0000 2020",
-              "screen_name": "TheIntelLab"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1574799598442496002/KIp0d6zd_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1306816464708657152",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1614522409854"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMwNjgxNjQ2NDcwODY1NzE1Mg==",
-              "reason": {
-                "verified_since_msec": "1671869448773"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMzA2ODE2NDY0NzA4NjU3MTUy",
-            "core": {
-              "name": "The Intel Lab",
-              "created_at": "Fri Sep 18 04:45:06 +0000 2020",
-              "screen_name": "TheIntelLab"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1574799598442496002/KIp0d6zd_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/8a9bNgAFkQ",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/8a9bNgAFkQ",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "intel-lab.net",
-                      "expanded_url": "https://www.intel-lab.net/"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "#TheIntelLab | Intelligence as a Service (IaaS) | GEOINT | IMINT",
-              "media_count": 515,
-              "listed_count": 1012,
-              "friends_count": 428,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2244,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 38373,
-              "translator_type": "none",
-              "favourites_count": 7893,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1306816464708657152/1645082949",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2043178888675606635"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 38373,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Sep 18 04:45:06 +0000 2020",
+              "name": "The Intel Lab",
+              "screen_name": "TheIntelLab"
             },
+            "id": "VXNlcjoxMzA2ODE2NDY0NzA4NjU3MTUy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1306816464708657152",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "#TheIntelLab | Intelligence as a Service (IaaS) | GEOINT | IMINT"
-            },
-            "professional": {
-              "rest_id": "1456477963097083905",
-              "category": [
-                {
-                  "id": 921,
-                  "name": "Defense Company",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "3",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMwNjgxNjQ2NDcwODY1NzE1Mg==",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1671869448773"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
