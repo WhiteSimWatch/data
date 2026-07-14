@@ -1,7 +1,7 @@
 {
   "snapshotId": "709b168f-efdf-46ec-9fa8-e6e208be9a96",
   "twitterId": "1563481274719023104",
-  "scannedAt": "2026-05-31T03:30:30.254Z",
+  "scannedAt": "2026-07-14T04:37:06.540Z",
   "fields": {
     "username": "fahimeh_qsmi",
     "displayName": "فهیمه",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1919144539689754624/0p1B6YbS_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Aug 27 11:00:37 +0000 2022",
+              "name": "فهیمه",
+              "screen_name": "fahimeh_qsmi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTYzNDgxMjc0NzE5MDIzMTA0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "عکاسه عکسهای خودمم📸 | یه متاهلِ متدینِ مُتعهد",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 47663,
+              "follow_request_sent": false,
+              "followers_count": 2636,
+              "friends_count": 1940,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 1240,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2636,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1709958300345762302"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563481274719023104/1737101054",
+              "profile_interstitial_type": "",
+              "statuses_count": 14111,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "ایران_آذربایجان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "عکاسه عکسهای خودمم📸 | یه متاهلِ متدینِ مُتعهد"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1563481274719023104",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU2MzQ4MTI3NDcxOTAyMzEwNA==",
           "result": {
-            "id": "VXNlcjoxNTYzNDgxMjc0NzE5MDIzMTA0",
-            "core": {
-              "name": "فهیمه",
-              "created_at": "Sat Aug 27 11:00:37 +0000 2022",
-              "screen_name": "fahimeh_qsmi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1919144539689754624/0p1B6YbS_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1563481274719023104",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1661604484535"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU2MzQ4MTI3NDcxOTAyMzEwNA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTYzNDgxMjc0NzE5MDIzMTA0",
-            "core": {
-              "name": "فهیمه",
-              "created_at": "Sat Aug 27 11:00:37 +0000 2022",
-              "screen_name": "fahimeh_qsmi"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1919144539689754624/0p1B6YbS_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "عکاسه عکسهای خودمم📸 | یه متاهلِ متدینِ مُتعهد",
-              "media_count": 1240,
-              "listed_count": 3,
-              "friends_count": 1942,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 14111,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2637,
-              "translator_type": "none",
-              "favourites_count": 48813,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563481274719023104/1737101054",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1709958300345762302"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2637,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Aug 27 11:00:37 +0000 2022",
+              "name": "فهیمه",
+              "screen_name": "fahimeh_qsmi"
             },
+            "id": "VXNlcjoxNTYzNDgxMjc0NzE5MDIzMTA0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1563481274719023104",
-            "location": {
-              "location": "ایران_آذربایجان"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "عکاسه عکسهای خودمم📸 | یه متاهلِ متدینِ مُتعهد"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU2MzQ4MTI3NDcxOTAyMzEwNA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
