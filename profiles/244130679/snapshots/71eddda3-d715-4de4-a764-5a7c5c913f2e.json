@@ -1,7 +1,7 @@
 {
   "snapshotId": "71eddda3-d715-4de4-a764-5a7c5c913f2e",
   "twitterId": "244130679",
-  "scannedAt": "2026-05-31T06:06:19.140Z",
+  "scannedAt": "2026-07-14T07:42:18.321Z",
   "fields": {
     "username": "kian_abdollahi",
     "displayName": "Kian Abdollahi",
@@ -15,165 +15,165 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2028076686215135232/zxMzCxtA_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jan 28 15:49:29 +0000 2011",
+              "name": "Kian Abdollahi",
+              "screen_name": "kian_abdollahi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyNDQxMzA2Nzk=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Editor in Chief at Tasnim News Agency/ سردبیر خبرگزاری تسنیم",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "tasnimnews.com",
+                      "expanded_url": "http://www.tasnimnews.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/atw4l02zA0"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 5018,
+              "follow_request_sent": false,
+              "followers_count": 12460,
+              "friends_count": 1976,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 116,
+              "media_count": 587,
+              "needs_phone_verification": false,
+              "normal_followers_count": 12460,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/244130679/1764150976",
+              "profile_interstitial_type": "",
+              "statuses_count": 2508,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/atw4l02zA0",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1557819841398046720"
+            },
+            "profile_bio": {
+              "description": "Editor in Chief at Tasnim News Agency/ سردبیر خبرگزاری تسنیم"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "244130679",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjQ0MTMwNjc5",
           "result": {
-            "id": "VXNlcjoyNDQxMzA2Nzk=",
-            "core": {
-              "name": "Kian Abdollahi",
-              "created_at": "Fri Jan 28 15:49:29 +0000 2011",
-              "screen_name": "kian_abdollahi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2028076686215135232/zxMzCxtA_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "244130679",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "North America App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "North America App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1682020346193"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjQ0MTMwNjc5",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyNDQxMzA2Nzk=",
-            "core": {
-              "name": "Kian Abdollahi",
-              "created_at": "Fri Jan 28 15:49:29 +0000 2011",
-              "screen_name": "kian_abdollahi"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2028076686215135232/zxMzCxtA_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/atw4l02zA0",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/atw4l02zA0",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "tasnimnews.com",
-                      "expanded_url": "http://www.tasnimnews.com"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Editor in Chief at Tasnim News Agency/ سردبیر خبرگزاری تسنیم",
-              "media_count": 587,
-              "listed_count": 114,
-              "friends_count": 1975,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2499,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 12395,
-              "translator_type": "none",
-              "favourites_count": 5002,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/244130679/1764150976",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 12395,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Jan 28 15:49:29 +0000 2011",
+              "name": "Kian Abdollahi",
+              "screen_name": "kian_abdollahi"
             },
+            "id": "VXNlcjoyNDQxMzA2Nzk=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "244130679",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Editor in Chief at Tasnim News Agency/ سردبیر خبرگزاری تسنیم"
-            },
-            "professional": {
-              "rest_id": "1557819841398046720",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjQ0MTMwNjc5",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
