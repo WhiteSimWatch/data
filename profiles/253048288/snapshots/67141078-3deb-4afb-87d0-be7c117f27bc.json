@@ -1,0 +1,163 @@
+{
+  "snapshotId": "67141078-3deb-4afb-87d0-be7c117f27bc",
+  "twitterId": "253048288",
+  "scannedAt": "2026-07-14T04:17:19.863Z",
+  "fields": {
+    "username": "Meerz44",
+    "displayName": "Meerz4",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/687269792886079488/QrgkMvab_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/253048288/1600959574",
+    "bio": "Tired of waiting for never coming train",
+    "selfLocation": "",
+    "accountBasedIn": "Europe",
+    "connectedVia": "West Asia App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/687269792886079488/QrgkMvab_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Feb 16 13:05:51 +0000 2011",
+              "name": "Meerz4",
+              "screen_name": "Meerz44"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyNTMwNDgyODg=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Tired of waiting for never coming train",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 117370,
+              "follow_request_sent": false,
+              "followers_count": 1442,
+              "friends_count": 150,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 2147,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1442,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1020197794710245378"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/253048288/1600959574",
+              "profile_interstitial_type": "",
+              "statuses_count": 21798,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Tired of waiting for never coming train"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "253048288",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjUzMDQ4Mjg4",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1452692132557"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/687269792886079488/QrgkMvab_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Feb 16 13:05:51 +0000 2011",
+              "name": "Meerz4",
+              "screen_name": "Meerz44"
+            },
+            "id": "VXNlcjoyNTMwNDgyODg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "253048288",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjUzMDQ4Mjg4",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
