@@ -1,7 +1,7 @@
 {
   "snapshotId": "313594eb-5bd6-4015-93d3-b589212ae71b",
   "twitterId": "1601219285136949248",
-  "scannedAt": "2026-05-31T05:18:35.998Z",
+  "scannedAt": "2026-07-14T06:44:57.565Z",
   "fields": {
     "username": "Gheisari_zeinab",
     "displayName": "زینب قیصری",
@@ -15,158 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1607681074942955521/bOh8AGlG_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Dec 09 14:17:09 +0000 2022",
+              "name": "زینب قیصری",
+              "screen_name": "Gheisari_zeinab"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjAxMjE5Mjg1MTM2OTQ5MjQ4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مادر و همسر/نماینده مردم شریف تهران، ری، اسلامشهر، شمیرانات و پردیس/\nرئیس فراکسیون نظارت بر صنعت نفت، گاز و پتروشیمی/\nعضو کمیسیون های صنایع و حمایت از تولید",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/gheisari_zeinab",
+                      "expanded_url": "https://instagram.com/gheisari_zeinab",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/oOnHntas6R"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 3632,
+              "follow_request_sent": false,
+              "followers_count": 2628,
+              "friends_count": 526,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 19,
+              "media_count": 96,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2628,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2003868851856142706"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601219285136949248/1672139482",
+              "profile_interstitial_type": "",
+              "statuses_count": 263,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/oOnHntas6R",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مادر و همسر/نماینده مردم شریف تهران، ری، اسلامشهر، شمیرانات و پردیس/\nرئیس فراکسیون نظارت بر صنعت نفت، گاز و پتروشیمی/\nعضو کمیسیون های صنایع و حمایت از تولید"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1601219285136949248",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTYwMTIxOTI4NTEzNjk0OTI0OA==",
           "result": {
-            "id": "VXNlcjoxNjAxMjE5Mjg1MTM2OTQ5MjQ4",
-            "core": {
-              "name": "زینب قیصری",
-              "created_at": "Fri Dec 09 14:17:09 +0000 2022",
-              "screen_name": "Gheisari_zeinab"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1607681074942955521/bOh8AGlG_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1601219285136949248",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1670595477452"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYwMTIxOTI4NTEzNjk0OTI0OA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjAxMjE5Mjg1MTM2OTQ5MjQ4",
-            "core": {
-              "name": "زینب قیصری",
-              "created_at": "Fri Dec 09 14:17:09 +0000 2022",
-              "screen_name": "Gheisari_zeinab"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1607681074942955521/bOh8AGlG_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/oOnHntas6R",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/oOnHntas6R",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "instagram.com/gheisari_zeinab",
-                      "expanded_url": "https://instagram.com/gheisari_zeinab"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مادر و همسر/نماینده مردم شریف تهران، ری، اسلامشهر، شمیرانات و پردیس/\nرئیس فراکسیون نظارت بر صنعت نفت، گاز و پتروشیمی/\nعضو کمیسیون های صنایع و حمایت از تولید",
-              "media_count": 95,
-              "listed_count": 19,
-              "friends_count": 521,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 261,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2611,
-              "translator_type": "none",
-              "favourites_count": 3615,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601219285136949248/1672139482",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2003868851856142706"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2611,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Dec 09 14:17:09 +0000 2022",
+              "name": "زینب قیصری",
+              "screen_name": "Gheisari_zeinab"
             },
+            "id": "VXNlcjoxNjAxMjE5Mjg1MTM2OTQ5MjQ4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1601219285136949248",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مادر و همسر/نماینده مردم شریف تهران، ری، اسلامشهر، شمیرانات و پردیس/\nرئیس فراکسیون نظارت بر صنعت نفت، گاز و پتروشیمی/\nعضو کمیسیون های صنایع و حمایت از تولید"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYwMTIxOTI4NTEzNjk0OTI0OA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
