@@ -1,7 +1,7 @@
 {
   "snapshotId": "e5675734-7fc9-4802-a206-87b8ff4bbed9",
   "twitterId": "1746027921880338432",
-  "scannedAt": "2026-05-31T04:08:57.426Z",
+  "scannedAt": "2026-07-14T05:24:01.762Z",
   "fields": {
     "username": "IranView24_Fa",
     "displayName": "خبرگزاری ایران‌ویو۲۴",
@@ -15,197 +15,197 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1856399372054843392/nVAHQO5E_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jan 13 04:35:51 +0000 2024",
+              "name": "خبرگزاری ایران‌ویو۲۴",
+              "screen_name": "IranView24_Fa"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": [
+                    {
+                      "id": "1674547138787790848",
+                      "id_str": "1674547138787790848",
+                      "indices": [
+                        100,
+                        111
+                      ],
+                      "name": "IranView24 News Agency",
+                      "screen_name": "IranView24"
+                    },
+                    {
+                      "id": "1847378158770954240",
+                      "id_str": "1847378158770954240",
+                      "indices": [
+                        112,
+                        126
+                      ],
+                      "name": "IranView24 News Agency",
+                      "screen_name": "IranView24_En"
+                    },
+                    {
+                      "id": "1847370565063233543",
+                      "id_str": "1847370565063233543",
+                      "indices": [
+                        141,
+                        155
+                      ],
+                      "name": "إيران فيو۲۴",
+                      "screen_name": "IranView24_Ar"
+                    }
+                  ]
+                },
+                "source_language": "fa",
+                "translation": "News and Analyses with a Strategic Perspective on Iranian Issues and Related Areas\n\nEnglish Pages: \n@IranView24\n@IranView24_En\n\nArabic Page:\n@IranView24_Ar"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzQ2MDI3OTIxODgwMzM4NDMy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "اخبار و تحلیل‌ها با نگاه راهبردی به مسائل ایران و حوزه‌های مرتبط\nصفحات انگلیسی: \n@IranView24\n@IranView24_En\nصفحه عربی:\n@IranView24_Ar",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "IranView24.com",
+                      "expanded_url": "https://IranView24.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/wz0yhQGEzw"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 11443,
+              "follow_request_sent": false,
+              "followers_count": 2490,
+              "friends_count": 146,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 18,
+              "media_count": 5084,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2490,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746027921880338432/1778271143",
+              "profile_interstitial_type": "",
+              "statuses_count": 6285,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/wz0yhQGEzw",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "اخبار و تحلیل‌ها با نگاه راهبردی به مسائل ایران و حوزه‌های مرتبط\nصفحات انگلیسی: \n@IranView24\n@IranView24_En\nصفحه عربی:\n@IranView24_Ar"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1746027921880338432",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTc0NjAyNzkyMTg4MDMzODQzMg==",
           "result": {
-            "id": "VXNlcjoxNzQ2MDI3OTIxODgwMzM4NDMy",
-            "core": {
-              "name": "خبرگزاری ایران‌ویو۲۴",
-              "created_at": "Sat Jan 13 04:35:51 +0000 2024",
-              "screen_name": "IranView24_Fa"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1856399372054843392/nVAHQO5E_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1746027921880338432",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "7",
                 "last_changed_at_msec": "1729237735167"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc0NjAyNzkyMTg4MDMzODQzMg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNzQ2MDI3OTIxODgwMzM4NDMy",
-            "core": {
-              "name": "خبرگزاری ایران‌ویو۲۴",
-              "created_at": "Sat Jan 13 04:35:51 +0000 2024",
-              "screen_name": "IranView24_Fa"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1856399372054843392/nVAHQO5E_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/wz0yhQGEzw",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/wz0yhQGEzw",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "IranView24.com",
-                      "expanded_url": "https://IranView24.com"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "اخبار و تحلیل‌ها با نگاه راهبردی به مسائل ایران و حوزه‌های مرتبط\nصفحات انگلیسی: \n@IranView24\n@IranView24_En\nصفحه عربی:\n@IranView24_Ar",
-              "media_count": 4463,
-              "listed_count": 17,
-              "friends_count": 146,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 5465,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2420,
-              "translator_type": "none",
-              "favourites_count": 10655,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746027921880338432/1778271143",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2420,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Jan 13 04:35:51 +0000 2024",
+              "name": "خبرگزاری ایران‌ویو۲۴",
+              "screen_name": "IranView24_Fa"
             },
+            "id": "VXNlcjoxNzQ2MDI3OTIxODgwMzM4NDMy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1746027921880338432",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "اخبار و تحلیل‌ها با نگاه راهبردی به مسائل ایران و حوزه‌های مرتبط\nصفحات انگلیسی: \n@IranView24\n@IranView24_En\nصفحه عربی:\n@IranView24_Ar"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc0NjAyNzkyMTg4MDMzODQzMg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": [
-                    {
-                      "id": "1674547138787790848",
-                      "name": "IranView24 News Agency",
-                      "id_str": "1674547138787790848",
-                      "indices": [
-                        101,
-                        112
-                      ],
-                      "screen_name": "IranView24"
-                    },
-                    {
-                      "id": "1847378158770954240",
-                      "name": "IranView24 News Agency",
-                      "id_str": "1847378158770954240",
-                      "indices": [
-                        113,
-                        127
-                      ],
-                      "screen_name": "IranView24_En"
-                    },
-                    {
-                      "id": "1847370565063233543",
-                      "name": "إيران فيو۲۴",
-                      "id_str": "1847370565063233543",
-                      "indices": [
-                        142,
-                        156
-                      ],
-                      "screen_name": "IranView24_Ar"
-                    }
-                  ]
-                },
-                "translation": "News and Analyses with a Strategic Perspective on Iran's Issues and Related Domains\n\nEnglish Pages: \n@IranView24\n@IranView24_En\n\nArabic Page:\n@IranView24_Ar",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
