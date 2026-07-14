@@ -1,7 +1,7 @@
 {
   "snapshotId": "6cf797e9-9362-4556-bd30-3c97b21a3d6b",
   "twitterId": "1175049198057721859",
-  "scannedAt": "2026-05-31T04:43:40.534Z",
+  "scannedAt": "2026-07-14T06:02:57.258Z",
   "fields": {
     "username": "Doc_m_7",
     "displayName": "🟥 ☫ 🟩🇾🇪Dr.m",
@@ -15,156 +15,182 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2028179982363549696/CfabFz54_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Sep 20 14:09:19 +0000 2019",
+              "name": "🟥 ☫ 🟩🇾🇪Dr.m",
+              "screen_name": "Doc_m_7"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        0,
+                        9
+                      ],
+                      "text": "Esoteric"
+                    },
+                    {
+                      "indices": [
+                        24,
+                        31
+                      ],
+                      "text": "Shiraz"
+                    }
+                  ],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "ar",
+                "translation": "#Esoteric Cardiac Ward (#Shiraz University) Agent of the Oppressed in Confronting the Tyrants of the Earth and the Arrogant, Led by America and Israel"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTc1MDQ5MTk4MDU3NzIxODU5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "#باطنية_قلبية بورد (#جامعة_شيراز)وكيل المستضعفين في مواجهة طغاة الأرض والمستكبرين وعلى رأسهم امريكا واسرائيل",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 174488,
+              "follow_request_sent": false,
+              "followers_count": 12261,
+              "friends_count": 6761,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 9,
+              "media_count": 3030,
+              "needs_phone_verification": false,
+              "normal_followers_count": 12261,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1201117814490357760"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1175049198057721859/1774469526",
+              "profile_interstitial_type": "",
+              "statuses_count": 68786,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran (Shiraz)"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 584,
+                  "name": "Medical & Health"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1497843802098315264"
+            },
+            "profile_bio": {
+              "description": "#باطنية_قلبية بورد (#جامعة_شيراز)وكيل المستضعفين في مواجهة طغاة الأرض والمستكبرين وعلى رأسهم امريكا واسرائيل"
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1175049198057721859",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTE3NTA0OTE5ODA1NzcyMTg1OQ==",
           "result": {
-            "id": "VXNlcjoxMTc1MDQ5MTk4MDU3NzIxODU5",
-            "core": {
-              "name": "🟥 ☫ 🟩🇾🇪Dr.m",
-              "created_at": "Fri Sep 20 14:09:19 +0000 2019",
-              "screen_name": "Doc_m_7"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2028179982363549696/CfabFz54_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1175049198057721859",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1615299670694"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE3NTA0OTE5ODA1NzcyMTg1OQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMTc1MDQ5MTk4MDU3NzIxODU5",
-            "core": {
-              "name": "🟥 ☫ 🟩🇾🇪Dr.m",
-              "created_at": "Fri Sep 20 14:09:19 +0000 2019",
-              "screen_name": "Doc_m_7"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2028179982363549696/CfabFz54_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "#باطنية_قلبية بورد (#جامعة_شيراز)وكيل المستضعفين في مواجهة طغاة الأرض والمستكبرين وعلى رأسهم امريكا واسرائيل",
-              "media_count": 2975,
-              "listed_count": 9,
-              "friends_count": 6626,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 68079,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 12187,
-              "translator_type": "none",
-              "favourites_count": 169145,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1175049198057721859/1774469526",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1201117814490357760"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 12187,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Sep 20 14:09:19 +0000 2019",
+              "name": "🟥 ☫ 🟩🇾🇪Dr.m",
+              "screen_name": "Doc_m_7"
             },
+            "id": "VXNlcjoxMTc1MDQ5MTk4MDU3NzIxODU5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1175049198057721859",
-            "location": {
-              "location": "Iran (Shiraz)"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "#باطنية_قلبية بورد (#جامعة_شيراز)وكيل المستضعفين في مواجهة طغاة الأرض والمستكبرين وعلى رأسهم امريكا واسرائيل"
-            },
-            "professional": {
-              "rest_id": "1497843802098315264",
-              "category": [
-                {
-                  "id": 584,
-                  "name": "Medical & Health",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE3NTA0OTE5ODA1NzcyMTg1OQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "ar",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
