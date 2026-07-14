@@ -1,7 +1,7 @@
 {
   "snapshotId": "30dca0dc-f157-4e0c-b550-4b9788112358",
   "twitterId": "829475122218205185",
-  "scannedAt": "2026-05-31T06:10:57.015Z",
+  "scannedAt": "2026-07-14T07:48:03.907Z",
   "fields": {
     "username": "naghdeandisheh",
     "displayName": "مجله نقد انديشه",
@@ -15,168 +15,168 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1668231536863215619/Dz0Pg9nU_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Feb 08 23:40:54 +0000 2017",
+              "name": "مجله نقد انديشه",
+              "screen_name": "naghdeandisheh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4Mjk0NzUxMjIyMTgyMDUxODU=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Critique of Thought magazine ▪️مجله تفکر انتقادی و ایده‌های متضاد که به هیچ گروه و دسته‌ای، وابستگی و تمایل خاص ندارد▫️دانشِ ناقص خطرناک است ▪️لینک خرید👇",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/NaghdeAndisheh…",
+                      "expanded_url": "https://t.me/NaghdeAndisheh/1009",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ko71pzxZ8L"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 5980,
+              "follow_request_sent": false,
+              "followers_count": 7466,
+              "friends_count": 1541,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 34,
+              "media_count": 780,
+              "needs_phone_verification": false,
+              "normal_followers_count": 7466,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1951539275486351464"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/829475122218205185/1686555003",
+              "profile_interstitial_type": "",
+              "statuses_count": 7752,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/ko71pzxZ8L",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran, iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 579,
+                  "name": "Media & News"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1679600368286613506"
+            },
+            "profile_bio": {
+              "description": "Critique of Thought magazine ▪️مجله تفکر انتقادی و ایده‌های متضاد که به هیچ گروه و دسته‌ای، وابستگی و تمایل خاص ندارد▫️دانشِ ناقص خطرناک است ▪️لینک خرید👇"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "829475122218205185",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6ODI5NDc1MTIyMjE4MjA1MTg1",
           "result": {
-            "id": "VXNlcjo4Mjk0NzUxMjIyMTgyMDUxODU=",
-            "core": {
-              "name": "مجله نقد انديشه",
-              "created_at": "Wed Feb 08 23:40:54 +0000 2017",
-              "screen_name": "naghdeandisheh"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1668231536863215619/Dz0Pg9nU_normal.jpg"
             },
+            "core": {
+              "created_at": "Wed Feb 08 23:40:54 +0000 2017",
+              "name": "مجله نقد انديشه",
+              "screen_name": "naghdeandisheh"
+            },
+            "id": "VXNlcjo4Mjk0NzUxMjIyMTgyMDUxODU=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "829475122218205185",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODI5NDc1MTIyMjE4MjA1MTg1",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo4Mjk0NzUxMjIyMTgyMDUxODU=",
-            "core": {
-              "name": "مجله نقد انديشه",
-              "created_at": "Wed Feb 08 23:40:54 +0000 2017",
-              "screen_name": "naghdeandisheh"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1668231536863215619/Dz0Pg9nU_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/ko71pzxZ8L",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/ko71pzxZ8L",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/NaghdeAndisheh…",
-                      "expanded_url": "https://t.me/NaghdeAndisheh/1009"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Critique of Thought magazine ▪️مجله تفکر انتقادی و ایده‌های متضاد که به هیچ گروه و دسته‌ای، وابستگی و تمایل خاص ندارد▫️دانشِ ناقص خطرناک است ▪️لینک خرید👇",
-              "media_count": 776,
-              "listed_count": 33,
-              "friends_count": 1545,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 7754,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 7459,
-              "translator_type": "none",
-              "favourites_count": 5980,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/829475122218205185/1686555003",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1951539275486351464"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 7459,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "829475122218205185",
-            "location": {
-              "location": "Tehran, iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Critique of Thought magazine ▪️مجله تفکر انتقادی و ایده‌های متضاد که به هیچ گروه و دسته‌ای، وابستگی و تمایل خاص ندارد▫️دانشِ ناقص خطرناک است ▪️لینک خرید👇"
-            },
-            "professional": {
-              "rest_id": "1679600368286613506",
-              "category": [
-                {
-                  "id": 579,
-                  "name": "Media & News",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
