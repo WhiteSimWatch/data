@@ -1,7 +1,7 @@
 {
   "snapshotId": "4b5d1bc0-9518-42c6-9f57-dc45d4ff37fc",
   "twitterId": "1869007348628434944",
-  "scannedAt": "2026-05-31T05:12:27.257Z",
+  "scannedAt": "2026-07-14T06:37:48.387Z",
   "fields": {
     "username": "imiladnikmaram",
     "displayName": "میلادَم🚩",
@@ -15,158 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1869009182067720193/divP0jBi_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Dec 17 13:11:14 +0000 2024",
+              "name": "میلادَم🚩",
+              "screen_name": "imiladnikmaram"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODY5MDA3MzQ4NjI4NDM0OTQ0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "الحمدلله الذی خلق الحسین | از دوم خرداد تا سوم خرداد سال‌های نوری فاصله است. | اکانت قبلی ریق رحمت رو سر کشید:(",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/Ghalomaghal",
+                      "expanded_url": "http://t.me/Ghalomaghal",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/jQ293jkkeK"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 17361,
+              "follow_request_sent": false,
+              "followers_count": 1951,
+              "friends_count": 1340,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 9,
+              "media_count": 923,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1951,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2056583648728474111"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869007348628434944/1734441834",
+              "profile_interstitial_type": "",
+              "statuses_count": 6586,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/jQ293jkkeK",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "سحرگاه سیزدهم دی نود و هشت"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "الحمدلله الذی خلق الحسین | از دوم خرداد تا سوم خرداد سال‌های نوری فاصله است. | اکانت قبلی ریق رحمت رو سر کشید:("
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1869007348628434944",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg2OTAwNzM0ODYyODQzNDk0NA==",
           "result": {
-            "id": "VXNlcjoxODY5MDA3MzQ4NjI4NDM0OTQ0",
-            "core": {
-              "name": "میلادَم🚩",
-              "created_at": "Tue Dec 17 13:11:14 +0000 2024",
-              "screen_name": "imiladnikmaram"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1869009182067720193/divP0jBi_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1869007348628434944",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1734441138551"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg2OTAwNzM0ODYyODQzNDk0NA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODY5MDA3MzQ4NjI4NDM0OTQ0",
-            "core": {
-              "name": "میلادَم🚩",
-              "created_at": "Tue Dec 17 13:11:14 +0000 2024",
-              "screen_name": "imiladnikmaram"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1869009182067720193/divP0jBi_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/jQ293jkkeK",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/jQ293jkkeK",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/Ghalomaghal",
-                      "expanded_url": "http://t.me/Ghalomaghal"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "الحمدلله الذی خلق الحسین | از دوم خرداد تا سوم خرداد سال‌های نوری فاصله است. | اکانت قبلی ریق رحمت رو سر کشید:(",
-              "media_count": 914,
-              "listed_count": 9,
-              "friends_count": 1348,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 6554,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1951,
-              "translator_type": "none",
-              "favourites_count": 17409,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869007348628434944/1734441834",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2056583648728474111"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1951,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Dec 17 13:11:14 +0000 2024",
+              "name": "میلادَم🚩",
+              "screen_name": "imiladnikmaram"
             },
+            "id": "VXNlcjoxODY5MDA3MzQ4NjI4NDM0OTQ0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1869007348628434944",
-            "location": {
-              "location": "سحرگاه سیزدهم دی نود و هشت"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "الحمدلله الذی خلق الحسین | از دوم خرداد تا سوم خرداد سال‌های نوری فاصله است. | اکانت قبلی ریق رحمت رو سر کشید:("
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg2OTAwNzM0ODYyODQzNDk0NA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
