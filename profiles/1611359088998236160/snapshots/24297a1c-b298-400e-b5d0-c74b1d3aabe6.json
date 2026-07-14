@@ -1,7 +1,7 @@
 {
   "snapshotId": "24297a1c-b298-400e-b5d0-c74b1d3aabe6",
   "twitterId": "1611359088998236160",
-  "scannedAt": "2026-05-31T04:51:10.896Z",
+  "scannedAt": "2026-07-14T06:11:28.487Z",
   "fields": {
     "username": "Mostafahosieni",
     "displayName": "Mostafa Hoseini",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1641974668352421888/L72RJeSU_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jan 06 13:48:54 +0000 2023",
+              "name": "Mostafa Hoseini",
+              "screen_name": "Mostafahosieni"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjExMzU5MDg4OTk4MjM2MTYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1387,
+              "follow_request_sent": false,
+              "followers_count": 995,
+              "friends_count": 1275,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 811,
+              "needs_phone_verification": false,
+              "normal_followers_count": 995,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1611359088998236160/1680312261",
+              "profile_interstitial_type": "",
+              "statuses_count": 2157,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1611359088998236160",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTYxMTM1OTA4ODk5ODIzNjE2MA==",
           "result": {
-            "id": "VXNlcjoxNjExMzU5MDg4OTk4MjM2MTYw",
-            "core": {
-              "name": "Mostafa Hoseini",
-              "created_at": "Fri Jan 06 13:48:54 +0000 2023",
-              "screen_name": "Mostafahosieni"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1641974668352421888/L72RJeSU_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1611359088998236160",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1673012956485"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYxMTM1OTA4ODk5ODIzNjE2MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjExMzU5MDg4OTk4MjM2MTYw",
-            "core": {
-              "name": "Mostafa Hoseini",
-              "created_at": "Fri Jan 06 13:48:54 +0000 2023",
-              "screen_name": "Mostafahosieni"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1641974668352421888/L72RJeSU_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 800,
-              "listed_count": 3,
-              "friends_count": 1279,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2145,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1000,
-              "translator_type": "none",
-              "favourites_count": 1383,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1611359088998236160/1680312261",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1000,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Jan 06 13:48:54 +0000 2023",
+              "name": "Mostafa Hoseini",
+              "screen_name": "Mostafahosieni"
             },
+            "id": "VXNlcjoxNjExMzU5MDg4OTk4MjM2MTYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1611359088998236160",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYxMTM1OTA4ODk5ODIzNjE2MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
