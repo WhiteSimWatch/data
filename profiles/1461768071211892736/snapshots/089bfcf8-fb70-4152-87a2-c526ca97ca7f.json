@@ -1,7 +1,7 @@
 {
   "snapshotId": "089bfcf8-fb70-4152-87a2-c526ca97ca7f",
   "twitterId": "1461768071211892736",
-  "scannedAt": "2026-05-30T18:43:41.789Z",
+  "scannedAt": "2026-07-14T03:21:26.513Z",
   "fields": {
     "username": "Zahra39684524",
     "displayName": "Zahra",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1588625047480147973/v_D1rQGQ_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Nov 19 18:47:36 +0000 2021",
+              "name": "Zahra",
+              "screen_name": "Zahra39684524"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDYxNzY4MDcxMjExODkyNzM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "وطن پرست ،جدی و مسئولیت پذیر",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 14171,
+              "follow_request_sent": false,
+              "followers_count": 1587,
+              "friends_count": 2708,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 638,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1587,
+              "notifications": false,
+              "possibly_sensitive": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461768071211892736/1660400819",
+              "profile_interstitial_type": "",
+              "statuses_count": 1738,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "وطن پرست ،جدی و مسئولیت پذیر"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1461768071211892736",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTQ2MTc2ODA3MTIxMTg5MjczNg==",
           "result": {
-            "id": "VXNlcjoxNDYxNzY4MDcxMjExODkyNzM2",
-            "core": {
-              "name": "Zahra",
-              "created_at": "Fri Nov 19 18:47:36 +0000 2021",
-              "screen_name": "Zahra39684524"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1588625047480147973/v_D1rQGQ_normal.jpg"
             },
+            "core": {
+              "created_at": "Fri Nov 19 18:47:36 +0000 2021",
+              "name": "Zahra",
+              "screen_name": "Zahra39684524"
+            },
+            "id": "VXNlcjoxNDYxNzY4MDcxMjExODkyNzM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1461768071211892736",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ2MTc2ODA3MTIxMTg5MjczNg==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNDYxNzY4MDcxMjExODkyNzM2",
-            "core": {
-              "name": "Zahra",
-              "created_at": "Fri Nov 19 18:47:36 +0000 2021",
-              "screen_name": "Zahra39684524"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1588625047480147973/v_D1rQGQ_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "وطن پرست ،جدی و مسئولیت پذیر",
-              "media_count": 613,
-              "listed_count": 3,
-              "friends_count": 2695,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1709,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1582,
-              "translator_type": "none",
-              "favourites_count": 13982,
-              "possibly_sensitive": true,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461768071211892736/1660400819",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1582,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1461768071211892736",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "وطن پرست ،جدی و مسئولیت پذیر"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": false,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
