@@ -1,7 +1,7 @@
 {
   "snapshotId": "1ea63188-1ae6-4a52-8f38-aedf68cf94e5",
   "twitterId": "806536108788109312",
-  "scannedAt": "2026-05-31T05:33:48.076Z",
+  "scannedAt": "2026-07-14T07:03:48.603Z",
   "fields": {
     "username": "Maghatehrani",
     "displayName": "مرتضی آقاتهرانی",
@@ -15,155 +15,155 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1926850748639309824/hlqFtp_3_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Dec 07 16:29:27 +0000 2016",
+              "name": "مرتضی آقاتهرانی",
+              "screen_name": "Maghatehrani"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MDY1MzYxMDg3ODgxMDkzMTI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "‏‏‏‏‏‏‏‏‏‏‏طلبه و روضه خوان سیدالشهدا سلام الله علیه",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "aghatehrani.ir",
+                      "expanded_url": "http://www.aghatehrani.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/q0Bm92c5u9"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 691,
+              "follow_request_sent": false,
+              "followers_count": 47350,
+              "friends_count": 53,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 271,
+              "media_count": 138,
+              "needs_phone_verification": false,
+              "normal_followers_count": 47350,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/806536108788109312/1536781668",
+              "profile_interstitial_type": "",
+              "statuses_count": 637,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/q0Bm92c5u9",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "‏‏‏‏‏‏‏‏‏‏‏طلبه و روضه خوان سیدالشهدا سلام الله علیه"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "806536108788109312",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6ODA2NTM2MTA4Nzg4MTA5MzEy",
           "result": {
-            "id": "VXNlcjo4MDY1MzYxMDg3ODgxMDkzMTI=",
-            "core": {
-              "name": "مرتضی آقاتهرانی",
-              "created_at": "Wed Dec 07 16:29:27 +0000 2016",
-              "screen_name": "Maghatehrani"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1926850748639309824/hlqFtp_3_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "806536108788109312",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1500470076466"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODA2NTM2MTA4Nzg4MTA5MzEy",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo4MDY1MzYxMDg3ODgxMDkzMTI=",
-            "core": {
-              "name": "مرتضی آقاتهرانی",
-              "created_at": "Wed Dec 07 16:29:27 +0000 2016",
-              "screen_name": "Maghatehrani"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1926850748639309824/hlqFtp_3_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/q0Bm92c5u9",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/q0Bm92c5u9",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "aghatehrani.ir",
-                      "expanded_url": "http://www.aghatehrani.ir"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "‏‏‏‏‏‏‏‏‏‏‏طلبه و روضه خوان سیدالشهدا سلام الله علیه",
-              "media_count": 138,
-              "listed_count": 269,
-              "friends_count": 53,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 637,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 47416,
-              "translator_type": "none",
-              "favourites_count": 691,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/806536108788109312/1536781668",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 47416,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Dec 07 16:29:27 +0000 2016",
+              "name": "مرتضی آقاتهرانی",
+              "screen_name": "Maghatehrani"
             },
+            "id": "VXNlcjo4MDY1MzYxMDg3ODgxMDkzMTI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "806536108788109312",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "‏‏‏‏‏‏‏‏‏‏‏طلبه و روضه خوان سیدالشهدا سلام الله علیه"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODA2NTM2MTA4Nzg4MTA5MzEy",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
