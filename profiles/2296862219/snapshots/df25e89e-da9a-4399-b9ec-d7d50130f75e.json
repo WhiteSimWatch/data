@@ -1,0 +1,163 @@
+{
+  "snapshotId": "df25e89e-da9a-4399-b9ec-d7d50130f75e",
+  "twitterId": "2296862219",
+  "scannedAt": "2026-07-14T09:12:13.266Z",
+  "fields": {
+    "username": "lefoudujour",
+    "displayName": "BoebePhuffay",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2063354125304086528/RXhoXPeU_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2296862219/1780776945",
+    "bio": "this is a puppy's account woof woof",
+    "selfLocation": "",
+    "accountBasedIn": "Europe",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2063354125304086528/RXhoXPeU_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jan 22 06:37:17 +0000 2014",
+              "name": "BoebePhuffay",
+              "screen_name": "lefoudujour"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMjk2ODYyMjE5",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "this is a puppy's account woof woof",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 191170,
+              "follow_request_sent": false,
+              "followers_count": 1276,
+              "friends_count": 5413,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 1173,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1276,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1860394233305203048"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2296862219/1780776945",
+              "profile_interstitial_type": "",
+              "statuses_count": 32310,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "this is a puppy's account woof woof"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "2296862219",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjI5Njg2MjIxOQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "7",
+                "last_changed_at_msec": "1702535741575"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2063354125304086528/RXhoXPeU_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jan 22 06:37:17 +0000 2014",
+              "name": "BoebePhuffay",
+              "screen_name": "lefoudujour"
+            },
+            "id": "VXNlcjoyMjk2ODYyMjE5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2296862219",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjI5Njg2MjIxOQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
