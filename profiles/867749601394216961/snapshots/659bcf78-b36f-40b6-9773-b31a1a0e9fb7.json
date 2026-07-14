@@ -1,7 +1,7 @@
 {
   "snapshotId": "659bcf78-b36f-40b6-9773-b31a1a0e9fb7",
   "twitterId": "867749601394216961",
-  "scannedAt": "2026-05-31T05:57:05.675Z",
+  "scannedAt": "2026-07-14T07:31:29.470Z",
   "fields": {
     "username": "smslavasani",
     "displayName": "سیدمحمدصادق لواسانی",
@@ -15,154 +15,154 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2056066192008257536/EA0wvobs_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu May 25 14:30:01 +0000 2017",
+              "name": "سیدمحمدصادق لواسانی",
+              "screen_name": "smslavasani"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4Njc3NDk2MDEzOTQyMTY5NjE=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "سرگرم با فرهنگ و هنر | خبرنگار و مشاور رسانه‌ای \nMedia Advisor in Cinema & Culture | Journalist",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 29054,
+              "follow_request_sent": false,
+              "followers_count": 5174,
+              "friends_count": 564,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 14,
+              "media_count": 1590,
+              "needs_phone_verification": false,
+              "normal_followers_count": 5174,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1284520144132288512"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/867749601394216961/1725554104",
+              "profile_interstitial_type": "",
+              "statuses_count": 18208,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1492274258990579717"
+            },
+            "profile_bio": {
+              "description": "سرگرم با فرهنگ و هنر | خبرنگار و مشاور رسانه‌ای \nMedia Advisor in Cinema & Culture | Journalist"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "867749601394216961",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6ODY3NzQ5NjAxMzk0MjE2OTYx",
           "result": {
-            "id": "VXNlcjo4Njc3NDk2MDEzOTQyMTY5NjE=",
-            "core": {
-              "name": "سیدمحمدصادق لواسانی",
-              "created_at": "Thu May 25 14:30:01 +0000 2017",
-              "screen_name": "smslavasani"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Turkey App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2056066192008257536/EA0wvobs_normal.jpg"
             },
+            "core": {
+              "created_at": "Thu May 25 14:30:01 +0000 2017",
+              "name": "سیدمحمدصادق لواسانی",
+              "screen_name": "smslavasani"
+            },
+            "id": "VXNlcjo4Njc3NDk2MDEzOTQyMTY5NjE=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "867749601394216961",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Turkey App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODY3NzQ5NjAxMzk0MjE2OTYx",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo4Njc3NDk2MDEzOTQyMTY5NjE=",
-            "core": {
-              "name": "سیدمحمدصادق لواسانی",
-              "created_at": "Thu May 25 14:30:01 +0000 2017",
-              "screen_name": "smslavasani"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2056066192008257536/EA0wvobs_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "سرگرم با فرهنگ و هنر | خبرنگار و مشاور رسانه‌ای \nMedia Advisor in Cinema & Culture | Journalist",
-              "media_count": 1585,
-              "listed_count": 15,
-              "friends_count": 562,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 18153,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 5164,
-              "translator_type": "none",
-              "favourites_count": 29033,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/867749601394216961/1725554104",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1284520144132288512"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 5164,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "867749601394216961",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "سرگرم با فرهنگ و هنر | خبرنگار و مشاور رسانه‌ای \nMedia Advisor in Cinema & Culture | Journalist"
-            },
-            "professional": {
-              "rest_id": "1492274258990579717",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
