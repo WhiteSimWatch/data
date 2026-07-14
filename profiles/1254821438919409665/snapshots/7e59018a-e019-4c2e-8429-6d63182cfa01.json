@@ -1,7 +1,7 @@
 {
   "snapshotId": "7e59018a-e019-4c2e-8429-6d63182cfa01",
   "twitterId": "1254821438919409665",
-  "scannedAt": "2026-05-31T06:58:05.654Z",
+  "scannedAt": "2026-07-14T08:45:00.111Z",
   "fields": {
     "username": "engelabiha",
     "displayName": "اِنقِلابی‌ها",
@@ -15,158 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1937771835715649536/BysFcEsG_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Apr 27 17:16:41 +0000 2020",
+              "name": "اِنقِلابی‌ها",
+              "screen_name": "engelabiha"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjU0ODIxNDM4OTE5NDA5NjY1",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "شاگرد انقلابی بیزار از چپ و راست",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "Masaf.ir",
+                      "expanded_url": "http://Masaf.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/IIvThNW7c7"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 26464,
+              "follow_request_sent": false,
+              "followers_count": 5223,
+              "friends_count": 571,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 25,
+              "media_count": 6337,
+              "needs_phone_verification": false,
+              "normal_followers_count": 5223,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2021689672095748246"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254821438919409665/1696844846",
+              "profile_interstitial_type": "",
+              "statuses_count": 24100,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/IIvThNW7c7",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "شاگرد انقلابی بیزار از چپ و راست"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1254821438919409665",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTI1NDgyMTQzODkxOTQwOTY2NQ==",
           "result": {
-            "id": "VXNlcjoxMjU0ODIxNDM4OTE5NDA5NjY1",
-            "core": {
-              "name": "اِنقِلابی‌ها",
-              "created_at": "Mon Apr 27 17:16:41 +0000 2020",
-              "screen_name": "engelabiha"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1937771835715649536/BysFcEsG_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1254821438919409665",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "5",
                 "last_changed_at_msec": "1750835827837"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI1NDgyMTQzODkxOTQwOTY2NQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjU0ODIxNDM4OTE5NDA5NjY1",
-            "core": {
-              "name": "اِنقِلابی‌ها",
-              "created_at": "Mon Apr 27 17:16:41 +0000 2020",
-              "screen_name": "engelabiha"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1937771835715649536/BysFcEsG_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/IIvThNW7c7",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/IIvThNW7c7",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "Masaf.ir",
-                      "expanded_url": "http://Masaf.ir"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "شاگرد انقلابی بیزار از چپ و راست",
-              "media_count": 6230,
-              "listed_count": 22,
-              "friends_count": 570,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 23920,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 5177,
-              "translator_type": "none",
-              "favourites_count": 26355,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254821438919409665/1696844846",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "2021689672095748246"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 5177,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Apr 27 17:16:41 +0000 2020",
+              "name": "اِنقِلابی‌ها",
+              "screen_name": "engelabiha"
             },
+            "id": "VXNlcjoxMjU0ODIxNDM4OTE5NDA5NjY1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1254821438919409665",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "شاگرد انقلابی بیزار از چپ و راست"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI1NDgyMTQzODkxOTQwOTY2NQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
