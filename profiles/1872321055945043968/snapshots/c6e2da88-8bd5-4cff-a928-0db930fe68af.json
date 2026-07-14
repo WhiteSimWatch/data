@@ -1,7 +1,7 @@
 {
   "snapshotId": "c6e2da88-8bd5-4cff-a928-0db930fe68af",
   "twitterId": "1872321055945043968",
-  "scannedAt": "2026-05-31T03:16:27.914Z",
+  "scannedAt": "2026-07-14T04:20:45.097Z",
   "fields": {
     "username": "a_rezaeia",
     "displayName": "Alireza Rezaei",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1952233014089359361/fh00efpm_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Dec 26 16:38:35 +0000 2024",
+              "name": "Alireza Rezaei",
+              "screen_name": "a_rezaeia"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODcyMzIxMDU1OTQ1MDQzOTY4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "🧑‍💻 مهندس نرم‌افزار با علاقه‌مند به یادگیری بی پایان \nاینجا می‌نویسم، یاد می‌گیرم.",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 12325,
+              "follow_request_sent": false,
+              "followers_count": 7593,
+              "friends_count": 4034,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 603,
+              "needs_phone_verification": false,
+              "normal_followers_count": 7593,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1986383005070324148"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1872321055945043968/1754805910",
+              "profile_interstitial_type": "",
+              "statuses_count": 7352,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": " "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "🧑‍💻 مهندس نرم‌افزار با علاقه‌مند به یادگیری بی پایان \nاینجا می‌نویسم، یاد می‌گیرم."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1872321055945043968",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg3MjMyMTA1NTk0NTA0Mzk2OA==",
           "result": {
-            "id": "VXNlcjoxODcyMzIxMDU1OTQ1MDQzOTY4",
-            "core": {
-              "name": "Alireza Rezaei",
-              "created_at": "Thu Dec 26 16:38:35 +0000 2024",
-              "screen_name": "a_rezaeia"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1952233014089359361/fh00efpm_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1872321055945043968",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1754290595165"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg3MjMyMTA1NTk0NTA0Mzk2OA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODcyMzIxMDU1OTQ1MDQzOTY4",
-            "core": {
-              "name": "Alireza Rezaei",
-              "created_at": "Thu Dec 26 16:38:35 +0000 2024",
-              "screen_name": "a_rezaeia"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1952233014089359361/fh00efpm_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "🧑‍💻 مهندس نرم‌افزار با علاقه‌مند به یادگیری بی پایان \nاینجا می‌نویسم، یاد می‌گیرم.",
-              "media_count": 562,
-              "listed_count": 2,
-              "friends_count": 3987,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 6763,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 7610,
-              "translator_type": "none",
-              "favourites_count": 11637,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1872321055945043968/1754805910",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1986383005070324148"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 7610,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Dec 26 16:38:35 +0000 2024",
+              "name": "Alireza Rezaei",
+              "screen_name": "a_rezaeia"
             },
+            "id": "VXNlcjoxODcyMzIxMDU1OTQ1MDQzOTY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1872321055945043968",
-            "location": {
-              "location": " "
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "🧑‍💻 مهندس نرم‌افزار با علاقه‌مند به یادگیری بی پایان \nاینجا می‌نویسم، یاد می‌گیرم."
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg3MjMyMTA1NTk0NTA0Mzk2OA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
