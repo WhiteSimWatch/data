@@ -1,7 +1,7 @@
 {
   "snapshotId": "8e12bf91-6e26-4731-92ec-be187aee419b",
   "twitterId": "1074834565980712961",
-  "scannedAt": "2026-05-31T03:31:56.877Z",
+  "scannedAt": "2026-07-14T04:38:48.898Z",
   "fields": {
     "username": "saeed_3202",
     "displayName": "سعیدطاهری بنی",
@@ -15,162 +15,162 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1647828827744157696/yQ-78Cek_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Dec 18 01:11:44 +0000 2018",
+              "name": "سعیدطاهری بنی",
+              "screen_name": "saeed_3202"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDc0ODM0NTY1OTgwNzEyOTYx",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "سلام بر تو که روی تو روشنایی ماست...🌻\n\nخبرنگار و فعال اجتماعی🇮🇷",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 11128,
+              "follow_request_sent": false,
+              "followers_count": 4758,
+              "friends_count": 3942,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 688,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4758,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1633846953225388032"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074834565980712961/1652075468",
+              "profile_interstitial_type": "",
+              "statuses_count": 11641,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "visibility": "MutualFollow",
+                "year": 1991,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "Islamic Republic of Iran_ben"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 580,
+                  "name": "Media & News Company"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1622889761651171331"
+            },
+            "profile_bio": {
+              "description": "سلام بر تو که روی تو روشنایی ماست...🌻\n\nخبرنگار و فعال اجتماعی🇮🇷"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1074834565980712961",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTA3NDgzNDU2NTk4MDcxMjk2MQ==",
           "result": {
-            "id": "VXNlcjoxMDc0ODM0NTY1OTgwNzEyOTYx",
-            "core": {
-              "name": "سعیدطاهری بنی",
-              "created_at": "Tue Dec 18 01:11:44 +0000 2018",
-              "screen_name": "saeed_3202"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1647828827744157696/yQ-78Cek_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1074834565980712961",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1618168987202"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA3NDgzNDU2NTk4MDcxMjk2MQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMDc0ODM0NTY1OTgwNzEyOTYx",
-            "core": {
-              "name": "سعیدطاهری بنی",
-              "created_at": "Tue Dec 18 01:11:44 +0000 2018",
-              "screen_name": "saeed_3202"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1647828827744157696/yQ-78Cek_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "سلام بر تو که روی تو روشنایی ماست...🌻\n\nخبرنگار و فعال اجتماعی🇮🇷",
-              "media_count": 687,
-              "listed_count": 2,
-              "friends_count": 3946,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 11627,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 4658,
-              "translator_type": "none",
-              "favourites_count": 11109,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074834565980712961/1652075468",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1633846953225388032"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 4658,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Dec 18 01:11:44 +0000 2018",
+              "name": "سعیدطاهری بنی",
+              "screen_name": "saeed_3202"
             },
+            "id": "VXNlcjoxMDc0ODM0NTY1OTgwNzEyOTYx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1074834565980712961",
-            "location": {
-              "location": "Islamic Republic of Iran_ben"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "سلام بر تو که روی تو روشنایی ماست...🌻\n\nخبرنگار و فعال اجتماعی🇮🇷"
-            },
-            "professional": {
-              "rest_id": "1622889761651171331",
-              "category": [
-                {
-                  "id": 580,
-                  "name": "Media & News Company",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA3NDgzNDU2NTk4MDcxMjk2MQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "year": 1991,
-                "visibility": "MutualFollow",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
