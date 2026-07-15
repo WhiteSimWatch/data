@@ -1,7 +1,7 @@
 {
   "snapshotId": "eb77d72e-6562-49a6-b588-ced7aa1b4e77",
   "twitterId": "1739595593708666880",
-  "scannedAt": "2026-05-31T07:51:46.139Z",
+  "scannedAt": "2026-07-15T03:30:31.356Z",
   "fields": {
     "username": "taliya_taromi",
     "displayName": "تالیا طارمی",
@@ -15,158 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2050139554019983362/SxydJ3ad_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Dec 26 10:41:33 +0000 2023",
+              "name": "تالیا طارمی",
+              "screen_name": "taliya_taromi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzM5NTk1NTkzNzA4NjY2ODgw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "•| درگیر رسانه ها👩🏻‍💻 |•\n•| عکاس 📸 و سازنده محتوا 💻 |•\n•| جلو لنز عکاس دروغه لبخند☺️ |•\n•| محتوا از من و روایتگری از شما|•",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/taliya_taromi",
+                      "expanded_url": "http://instagram.com/taliya_taromi",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Q5y8jHpKzW"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 11499,
+              "follow_request_sent": false,
+              "followers_count": 1518,
+              "friends_count": 3017,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 154,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1518,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2059593649126531400"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739595593708666880/1755293422",
+              "profile_interstitial_type": "",
+              "statuses_count": 1543,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/Q5y8jHpKzW",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "•| درگیر رسانه ها👩🏻‍💻 |•\n•| عکاس 📸 و سازنده محتوا 💻 |•\n•| جلو لنز عکاس دروغه لبخند☺️ |•\n•| محتوا از من و روایتگری از شما|•"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1739595593708666880",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTczOTU5NTU5MzcwODY2Njg4MA==",
           "result": {
-            "id": "VXNlcjoxNzM5NTk1NTkzNzA4NjY2ODgw",
-            "core": {
-              "name": "تالیا طارمی",
-              "created_at": "Tue Dec 26 10:41:33 +0000 2023",
-              "screen_name": "taliya_taromi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2050139554019983362/SxydJ3ad_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1739595593708666880",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1714516407470"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTczOTU5NTU5MzcwODY2Njg4MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNzM5NTk1NTkzNzA4NjY2ODgw",
-            "core": {
-              "name": "تالیا طارمی",
-              "created_at": "Tue Dec 26 10:41:33 +0000 2023",
-              "screen_name": "taliya_taromi"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2050139554019983362/SxydJ3ad_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/Q5y8jHpKzW",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/Q5y8jHpKzW",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "instagram.com/taliya_taromi",
-                      "expanded_url": "http://instagram.com/taliya_taromi"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "•| درگیر رسانه ها👩🏻‍💻 |•\n•| عکاس 📸 و سازنده محتوا 💻 |•\n•| جلو لنز عکاس دروغه لبخند☺️ |•\n•| محتوا از من و روایتگری از شما|•",
-              "media_count": 146,
-              "listed_count": 2,
-              "friends_count": 3015,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1524,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1531,
-              "translator_type": "none",
-              "favourites_count": 11470,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739595593708666880/1755293422",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2059593649126531400"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1531,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Dec 26 10:41:33 +0000 2023",
+              "name": "تالیا طارمی",
+              "screen_name": "taliya_taromi"
             },
+            "id": "VXNlcjoxNzM5NTk1NTkzNzA4NjY2ODgw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1739595593708666880",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "•| درگیر رسانه ها👩🏻‍💻 |•\n•| عکاس 📸 و سازنده محتوا 💻 |•\n•| جلو لنز عکاس دروغه لبخند☺️ |•\n•| محتوا از من و روایتگری از شما|•"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTczOTU5NTU5MzcwODY2Njg4MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
