@@ -1,0 +1,179 @@
+{
+  "snapshotId": "5b2dc4b9-e9c6-4fc6-adb4-e6a40630638a",
+  "twitterId": "718461237307293696",
+  "scannedAt": "2026-07-15T06:38:45.201Z",
+  "fields": {
+    "username": "SYAtAaSY",
+    "displayName": "Jekyll & Hyde",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2075281962567106560/B6Z7Il-a_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/718461237307293696/1769880367",
+    "bio": "🕊✌️\n🇮🇷🤝🇺🇲🤝🇮🇱🤝🇺🇦🤝🇦🇪🤝🇺🇬🤝🇮🇳",
+    "selfLocation": "زیر سایه‌ت",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2075281962567106560/B6Z7Il-a_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Apr 08 15:31:22 +0000 2016",
+              "name": "Jekyll & Hyde",
+              "screen_name": "SYAtAaSY"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3MTg0NjEyMzczMDcyOTM2OTY=",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "🕊✌️\n🇮🇷🤝🇺🇲🤝🇮🇱🤝🇺🇦🤝🇦🇪🤝🇺🇬🤝🇮🇳",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 168389,
+              "follow_request_sent": false,
+              "followers_count": 2976,
+              "friends_count": 2097,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 3304,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2976,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/718461237307293696/1769880367",
+              "profile_interstitial_type": "",
+              "statuses_count": 39013,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "زیر سایه‌ت"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "🕊✌️\n🇮🇷🤝🇺🇲🤝🇮🇱🤝🇺🇦🤝🇦🇪🤝🇺🇬🤝🇮🇳"
+            },
+            "profile_description_language": "art",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "718461237307293696",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1774209110990"
+              }
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzE4NDYxMjM3MzA3MjkzNjk2",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1603100939442"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2075281962567106560/B6Z7Il-a_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Apr 08 15:31:22 +0000 2016",
+              "name": "Jekyll & Hyde",
+              "screen_name": "SYAtAaSY"
+            },
+            "id": "VXNlcjo3MTg0NjEyMzczMDcyOTM2OTY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "718461237307293696",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzE4NDYxMjM3MzA3MjkzNjk2",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1774209110990"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
