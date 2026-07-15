@@ -1,7 +1,7 @@
 {
   "snapshotId": "5e72b18f-679d-4706-aef8-ff6c8224d270",
   "twitterId": "601235085",
-  "scannedAt": "2026-06-01T07:23:55.126Z",
+  "scannedAt": "2026-07-15T08:55:58.847Z",
   "fields": {
     "username": "RezaNasri1",
     "displayName": "Reza Nasri",
@@ -15,164 +15,82 @@
     "verified": true
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6NjAxMjM1MDg1",
-          "result": {
-            "id": "VXNlcjo2MDEyMzUwODU=",
-            "core": {
-              "name": "Reza Nasri",
-              "created_at": "Wed Jun 06 17:45:00 +0000 2012",
-              "screen_name": "RezaNasri1"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1467881766304288772/nyNjqdaj_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "601235085",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NjAxMjM1MDg1",
-              "reason": {
-                "verified_since_msec": "1771709921635"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjo2MDEyMzUwODU=",
-            "core": {
-              "name": "Reza Nasri",
-              "created_at": "Wed Jun 06 17:45:00 +0000 2012",
-              "screen_name": "RezaNasri1"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1467881766304288772/nyNjqdaj_normal.jpg"
             },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jun 06 17:45:00 +0000 2012",
+              "name": "Reza Nasri",
+              "screen_name": "RezaNasri1"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo2MDEyMzUwODU=",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
             "legacy": {
-              "url": "https://t.co/PkzvVijENq",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "International Lawyer. Foreign policy analyst. Tweets about Iran, in Persian, English and French.",
               "entities": {
+                "description": {},
                 "url": {
                   "urls": [
                     {
-                      "url": "https://t.co/PkzvVijENq",
+                      "display_url": "telegram.me/rezanasrichann…",
+                      "expanded_url": "http://telegram.me/rezanasrichannel",
                       "indices": [
                         0,
                         23
                       ],
-                      "display_url": "telegram.me/rezanasrichann…",
-                      "expanded_url": "http://telegram.me/rezanasrichannel"
+                      "url": "https://t.co/PkzvVijENq"
                     }
                   ]
-                },
-                "description": {}
+                }
               },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "International Lawyer. Foreign policy analyst. Tweets about Iran, in Persian, English and French.",
-              "media_count": 736,
-              "listed_count": 331,
-              "friends_count": 3490,
+              "fast_followers_count": 0,
+              "favourites_count": 7965,
+              "follow_request_sent": false,
+              "followers_count": 55859,
+              "friends_count": 3491,
+              "has_custom_timelines": false,
               "is_translator": false,
+              "listed_count": 345,
+              "media_count": 745,
+              "needs_phone_verification": false,
+              "normal_followers_count": 55859,
               "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 10338,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 55157,
-              "translator_type": "none",
-              "favourites_count": 7920,
               "possibly_sensitive": false,
               "profile_banner_url": "https://pbs.twimg.com/profile_banners/601235085/1506773003",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
+              "profile_interstitial_type": "",
+              "statuses_count": 10401,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/PkzvVijENq",
+              "utc_offset": 0,
+              "want_retweets": false,
               "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 55157,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+              "withheld_scope": ""
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "601235085",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "International Lawyer. Foreign policy analyst. Tweets about Iran, in Persian, English and French."
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
-                "verified_since_msec": "1771709921635"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 9,
@@ -181,14 +99,96 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "International Lawyer. Foreign policy analyst. Tweets about Iran, in Persian, English and French."
+            },
             "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "601235085",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1771709921635"
+              }
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NjAxMjM1MDg1",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1467881766304288772/nyNjqdaj_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jun 06 17:45:00 +0000 2012",
+              "name": "Reza Nasri",
+              "screen_name": "RezaNasri1"
+            },
+            "id": "VXNlcjo2MDEyMzUwODU=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "601235085",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NjAxMjM1MDg1",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1771709921635"
+              }
             }
           }
         }
