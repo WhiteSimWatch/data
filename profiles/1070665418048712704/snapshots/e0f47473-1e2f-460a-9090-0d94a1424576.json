@@ -1,7 +1,7 @@
 {
   "snapshotId": "e0f47473-1e2f-460a-9090-0d94a1424576",
   "twitterId": "1070665418048712704",
-  "scannedAt": "2026-06-01T07:20:52.838Z",
+  "scannedAt": "2026-07-15T08:52:22.173Z",
   "fields": {
     "username": "parsin_tv",
     "displayName": "پارسین تی‌ویParsinTV l",
@@ -15,199 +15,199 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1841105684189892610/1AV3nrVk_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Dec 06 13:05:02 +0000 2018",
+              "name": "پارسین تی‌ویParsinTV l",
+              "screen_name": "parsin_tv"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Official Parsine TV account on the X platform"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "41"
+            },
+            "id": "VXNlcjoxMDcwNjY1NDE4MDQ4NzEyNzA0",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "حساب رسمی پارسین تی‌وی در پلتفرم‌ X",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/ParsinTv",
+                      "expanded_url": "https://t.me/ParsinTv",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/uvMx5aXxyB"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 11649,
+              "follow_request_sent": false,
+              "followers_count": 12560,
+              "friends_count": 148,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 34,
+              "media_count": 2188,
+              "needs_phone_verification": false,
+              "normal_followers_count": 12560,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2045777635490296163"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1070665418048712704/1727788775",
+              "profile_interstitial_type": "",
+              "statuses_count": 2685,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/uvMx5aXxyB",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Earth"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 580,
+                  "name": "Media & News Company"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1675103104339935232"
+            },
+            "profile_bio": {
+              "description": "حساب رسمی پارسین تی‌وی در پلتفرم‌ X"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1070665418048712704",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1767183633533"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTA3MDY2NTQxODA0ODcxMjcwNA==",
           "result": {
-            "id": "VXNlcjoxMDcwNjY1NDE4MDQ4NzEyNzA0",
-            "core": {
-              "name": "پارسین تی‌ویParsinTV l",
-              "created_at": "Thu Dec 06 13:05:02 +0000 2018",
-              "screen_name": "parsin_tv"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1841105684189892610/1AV3nrVk_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1070665418048712704",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia App Store",
               "username_changes": {
                 "count": "9",
                 "last_changed_at_msec": "1727788609050"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA3MDY2NTQxODA0ODcxMjcwNA==",
-              "reason": {
-                "verified_since_msec": "1767183633533"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMDcwNjY1NDE4MDQ4NzEyNzA0",
-            "core": {
-              "name": "پارسین تی‌ویParsinTV l",
-              "created_at": "Thu Dec 06 13:05:02 +0000 2018",
-              "screen_name": "parsin_tv"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1841105684189892610/1AV3nrVk_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/uvMx5aXxyB",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/uvMx5aXxyB",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/ParsinTv",
-                      "expanded_url": "https://t.me/ParsinTv"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "حساب رسمی پارسین تی‌وی در پلتفرم‌ X",
-              "media_count": 1980,
-              "listed_count": 33,
-              "friends_count": 144,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2475,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 12029,
-              "translator_type": "none",
-              "favourites_count": 11452,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1070665418048712704/1727788775",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "2045777635490296163"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 12029,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Dec 06 13:05:02 +0000 2018",
+              "name": "پارسین تی‌ویParsinTV l",
+              "screen_name": "parsin_tv"
             },
+            "id": "VXNlcjoxMDcwNjY1NDE4MDQ4NzEyNzA0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1070665418048712704",
-            "location": {
-              "location": "Earth"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "حساب رسمی پارسین تی‌وی در پلتفرم‌ X"
-            },
-            "professional": {
-              "rest_id": "1675103104339935232",
-              "category": [
-                {
-                  "id": 580,
-                  "name": "Media & News Company",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "41",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA3MDY2NTQxODA0ODcxMjcwNA==",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1767183633533"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Official Parsineh TV account on the X platform",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
+              }
             }
           }
         }
