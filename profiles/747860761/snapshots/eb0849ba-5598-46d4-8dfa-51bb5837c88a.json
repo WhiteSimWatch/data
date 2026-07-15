@@ -1,7 +1,7 @@
 {
   "snapshotId": "eb0849ba-5598-46d4-8dfa-51bb5837c88a",
   "twitterId": "747860761",
-  "scannedAt": "2026-06-01T07:02:17.739Z",
+  "scannedAt": "2026-07-15T08:29:32.099Z",
   "fields": {
     "username": "ehsanmzni",
     "displayName": "Ehsan Mazandarani",
@@ -15,175 +15,175 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2038739252888903680/mn8A9a10_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Aug 09 20:12:19 +0000 2012",
+              "name": "Ehsan Mazandarani",
+              "screen_name": "ehsanmzni"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3NDc4NjA3NjE=",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "|کارشناس ارشد مدیریت بازرگانی دریا| |دانشجوی دکتری مدیریت بازرگانی|",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 118831,
+              "follow_request_sent": false,
+              "followers_count": 8924,
+              "friends_count": 609,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 51,
+              "media_count": 1025,
+              "needs_phone_verification": false,
+              "normal_followers_count": 8924,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1246498308693954567"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/747860761/1774889260",
+              "profile_interstitial_type": "",
+              "statuses_count": 35533,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Turkey"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 139,
+                  "name": "Cargo & Freight Company"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1507786323343650818"
+            },
+            "profile_bio": {
+              "description": "|کارشناس ارشد مدیریت بازرگانی دریا| |دانشجوی دکتری مدیریت بازرگانی|"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "747860761",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1749106601610"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6NzQ3ODYwNzYx",
           "result": {
-            "id": "VXNlcjo3NDc4NjA3NjE=",
-            "core": {
-              "name": "Ehsan Mazandarani",
-              "created_at": "Thu Aug 09 20:12:19 +0000 2012",
-              "screen_name": "ehsanmzni"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2038739252888903680/mn8A9a10_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "747860761",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia App Store",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1571087695554"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzQ3ODYwNzYx",
-              "reason": {
-                "verified_since_msec": "1749106601610"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo3NDc4NjA3NjE=",
-            "core": {
-              "name": "Ehsan Mazandarani",
-              "created_at": "Thu Aug 09 20:12:19 +0000 2012",
-              "screen_name": "ehsanmzni"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2038739252888903680/mn8A9a10_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "|کارشناس ارشد مدیریت بازرگانی دریا| |دانشجوی دکتری مدیریت بازرگانی|",
-              "media_count": 1023,
-              "listed_count": 53,
-              "friends_count": 607,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 35527,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 8915,
-              "translator_type": "none",
-              "favourites_count": 118883,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/747860761/1774889260",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1246498308693954567"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 8915,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Aug 09 20:12:19 +0000 2012",
+              "name": "Ehsan Mazandarani",
+              "screen_name": "ehsanmzni"
             },
+            "id": "VXNlcjo3NDc4NjA3NjE=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "747860761",
-            "location": {
-              "location": "Turkey"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "|کارشناس ارشد مدیریت بازرگانی دریا| |دانشجوی دکتری مدیریت بازرگانی|"
-            },
-            "professional": {
-              "rest_id": "1507786323343650818",
-              "category": [
-                {
-                  "id": 139,
-                  "name": "Cargo & Freight Company",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzQ3ODYwNzYx",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1749106601610"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
