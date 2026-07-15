@@ -1,7 +1,7 @@
 {
   "snapshotId": "51c4bef5-98c7-459b-8b39-91c289e28fdb",
   "twitterId": "1462769996883443714",
-  "scannedAt": "2026-06-01T03:09:59.045Z",
+  "scannedAt": "2026-07-15T04:02:30.853Z",
   "fields": {
     "username": "asedmahdiii",
     "displayName": "آسِّدْ مَهْدی",
@@ -15,150 +15,150 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2051751247280058375/Lc4f0NfQ_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Nov 22 13:09:15 +0000 2021",
+              "name": "آسِّدْ مَهْدی",
+              "screen_name": "asedmahdiii"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDYyNzY5OTk2ODgzNDQzNzE0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "طلبه و مدرس حوزه علمیه",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 83736,
+              "follow_request_sent": false,
+              "followers_count": 13055,
+              "friends_count": 598,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 32,
+              "media_count": 4368,
+              "needs_phone_verification": false,
+              "normal_followers_count": 13055,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1966725049039131005"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462769996883443714/1772936056",
+              "profile_interstitial_type": "",
+              "statuses_count": 37972,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1512684192198545408"
+            },
+            "profile_bio": {
+              "description": "طلبه و مدرس حوزه علمیه"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1462769996883443714",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTQ2Mjc2OTk5Njg4MzQ0MzcxNA==",
           "result": {
-            "id": "VXNlcjoxNDYyNzY5OTk2ODgzNDQzNzE0",
-            "core": {
-              "name": "آسِّدْ مَهْدی",
-              "created_at": "Mon Nov 22 13:09:15 +0000 2021",
-              "screen_name": "asedmahdiii"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2051751247280058375/Lc4f0NfQ_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1462769996883443714",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1688223126035"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ2Mjc2OTk5Njg4MzQ0MzcxNA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNDYyNzY5OTk2ODgzNDQzNzE0",
-            "core": {
-              "name": "آسِّدْ مَهْدی",
-              "created_at": "Mon Nov 22 13:09:15 +0000 2021",
-              "screen_name": "asedmahdiii"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2051751247280058375/Lc4f0NfQ_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "طلبه و مدرس حوزه علمیه",
-              "media_count": 4292,
-              "listed_count": 31,
-              "friends_count": 595,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 37579,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 12721,
-              "translator_type": "none",
-              "favourites_count": 81547,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462769996883443714/1772936056",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1966725049039131005"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 12721,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Nov 22 13:09:15 +0000 2021",
+              "name": "آسِّدْ مَهْدی",
+              "screen_name": "asedmahdiii"
             },
+            "id": "VXNlcjoxNDYyNzY5OTk2ODgzNDQzNzE0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1462769996883443714",
-            "location": {
-              "location": "تهران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "طلبه و مدرس حوزه علمیه"
-            },
-            "professional": {
-              "rest_id": "1512684192198545408",
-              "category": [],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ2Mjc2OTk5Njg4MzQ0MzcxNA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
