@@ -1,7 +1,7 @@
 {
   "snapshotId": "1f5ed523-bf09-4336-9eb6-eae46e72939b",
   "twitterId": "1598724682672390144",
-  "scannedAt": "2026-06-01T05:40:57.932Z",
+  "scannedAt": "2026-07-15T06:49:15.076Z",
   "fields": {
     "username": "fatemeh_87_87",
     "displayName": "🌱خانم عزیزی🌱",
@@ -15,169 +15,180 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1825980551997624320/dW16ceXT_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Dec 02 17:04:42 +0000 2022",
+              "name": "🌱خانم عزیزی🌱",
+              "screen_name": "fatemeh_87_87"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Ardibeheshti,\n\nA revolutionary Gen Z'er,\n\nAthlete\nfrom the land of the Commander"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTk4NzI0NjgyNjcyMzkwMTQ0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "اردیبهشتی، \n\nی دهه هشتادی انقلابی، \n\nورزشکار\nاز دیار فرمانده",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "twitter.com/fatemeh_87_87",
+                      "expanded_url": "https://twitter.com/fatemeh_87_87",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/tCTRKipWdk"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 98202,
+              "follow_request_sent": false,
+              "followers_count": 8839,
+              "friends_count": 8125,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 8,
+              "media_count": 1285,
+              "needs_phone_verification": false,
+              "normal_followers_count": 8839,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2028541769185419497"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598724682672390144/1740600249",
+              "profile_interstitial_type": "",
+              "statuses_count": 10462,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/tCTRKipWdk",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 920,
+                  "name": "Other"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1655593424823767043"
+            },
+            "profile_bio": {
+              "description": "اردیبهشتی، \n\nی دهه هشتادی انقلابی، \n\nورزشکار\nاز دیار فرمانده"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1598724682672390144",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU5ODcyNDY4MjY3MjM5MDE0NA==",
           "result": {
-            "id": "VXNlcjoxNTk4NzI0NjgyNjcyMzkwMTQ0",
-            "core": {
-              "name": "🌱خانم عزیزی🌱",
-              "created_at": "Fri Dec 02 17:04:42 +0000 2022",
-              "screen_name": "fatemeh_87_87"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1825980551997624320/dW16ceXT_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1598724682672390144",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1688915047536"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU5ODcyNDY4MjY3MjM5MDE0NA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTk4NzI0NjgyNjcyMzkwMTQ0",
-            "core": {
-              "name": "🌱خانم عزیزی🌱",
-              "created_at": "Fri Dec 02 17:04:42 +0000 2022",
-              "screen_name": "fatemeh_87_87"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1825980551997624320/dW16ceXT_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/tCTRKipWdk",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/tCTRKipWdk",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "twitter.com/fatemeh_87_87",
-                      "expanded_url": "https://twitter.com/fatemeh_87_87"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "اردیبهشتی، \n\nی دهه هشتادی انقلابی، \n\nورزشکار\nاز دیار فرمانده",
-              "media_count": 1187,
-              "listed_count": 8,
-              "friends_count": 7954,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 10190,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 8606,
-              "translator_type": "none",
-              "favourites_count": 94846,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598724682672390144/1740600249",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2028541769185419497"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 8606,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Dec 02 17:04:42 +0000 2022",
+              "name": "🌱خانم عزیزی🌱",
+              "screen_name": "fatemeh_87_87"
             },
+            "id": "VXNlcjoxNTk4NzI0NjgyNjcyMzkwMTQ0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1598724682672390144",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "اردیبهشتی، \n\nی دهه هشتادی انقلابی، \n\nورزشکار\nاز دیار فرمانده"
-            },
-            "professional": {
-              "rest_id": "1655593424823767043",
-              "category": [
-                {
-                  "id": 920,
-                  "name": "Other",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU5ODcyNDY4MjY3MjM5MDE0NA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
