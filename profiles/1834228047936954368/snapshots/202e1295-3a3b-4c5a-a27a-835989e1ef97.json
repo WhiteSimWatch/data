@@ -1,7 +1,7 @@
 {
   "snapshotId": "202e1295-3a3b-4c5a-a27a-835989e1ef97",
   "twitterId": "1834228047936954368",
-  "scannedAt": "2026-06-01T06:54:28.225Z",
+  "scannedAt": "2026-07-15T08:20:33.709Z",
   "fields": {
     "username": "kianaprh",
     "displayName": "کیانا پورحقیقی",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2054249393038200832/iFhwkOoU_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Sep 12 13:51:53 +0000 2024",
+              "name": "کیانا پورحقیقی",
+              "screen_name": "kianaprh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODM0MjI4MDQ3OTM2OTU0MzY4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "🧠PSY student -  ☕️Journalist",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 17245,
+              "follow_request_sent": false,
+              "followers_count": 2724,
+              "friends_count": 663,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 30,
+              "media_count": 195,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2724,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834228047936954368/1775307506",
+              "profile_interstitial_type": "",
+              "statuses_count": 2616,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "🧠PSY student -  ☕️Journalist"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1834228047936954368",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTgzNDIyODA0NzkzNjk1NDM2OA==",
           "result": {
-            "id": "VXNlcjoxODM0MjI4MDQ3OTM2OTU0MzY4",
-            "core": {
-              "name": "کیانا پورحقیقی",
-              "created_at": "Thu Sep 12 13:51:53 +0000 2024",
-              "screen_name": "kianaprh"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2054249393038200832/iFhwkOoU_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1834228047936954368",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1726149175284"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgzNDIyODA0NzkzNjk1NDM2OA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODM0MjI4MDQ3OTM2OTU0MzY4",
-            "core": {
-              "name": "کیانا پورحقیقی",
-              "created_at": "Thu Sep 12 13:51:53 +0000 2024",
-              "screen_name": "kianaprh"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2054249393038200832/iFhwkOoU_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "🧠PSY student -  ☕️Journalist",
-              "media_count": 176,
-              "listed_count": 25,
-              "friends_count": 657,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2382,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2563,
-              "translator_type": "none",
-              "favourites_count": 15969,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834228047936954368/1775307506",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2563,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Sep 12 13:51:53 +0000 2024",
+              "name": "کیانا پورحقیقی",
+              "screen_name": "kianaprh"
             },
+            "id": "VXNlcjoxODM0MjI4MDQ3OTM2OTU0MzY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1834228047936954368",
-            "location": {
-              "location": "Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "🧠PSY student -  ☕️Journalist"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgzNDIyODA0NzkzNjk1NDM2OA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
