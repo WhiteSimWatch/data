@@ -1,7 +1,7 @@
 {
   "snapshotId": "87611334-9b30-4528-9384-d39744118022",
   "twitterId": "1114495168181428226",
-  "scannedAt": "2026-05-31T07:56:15.895Z",
+  "scannedAt": "2026-07-15T03:35:33.211Z",
   "fields": {
     "username": "VahidRonaghi",
     "displayName": "Vahid Ronaghi",
@@ -15,157 +15,82 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTExNDQ5NTE2ODE4MTQyODIyNg==",
-          "result": {
-            "id": "VXNlcjoxMTE0NDk1MTY4MTgxNDI4MjI2",
-            "core": {
-              "name": "Vahid Ronaghi",
-              "created_at": "Sat Apr 06 11:48:49 +0000 2019",
-              "screen_name": "VahidRonaghi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2021684208322650113/48QSm073_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1114495168181428226",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "1",
-                "last_changed_at_msec": "1581194306446"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTExNDQ5NTE2ODE4MTQyODIyNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxMTE0NDk1MTY4MTgxNDI4MjI2",
-            "core": {
-              "name": "Vahid Ronaghi",
-              "created_at": "Sat Apr 06 11:48:49 +0000 2019",
-              "screen_name": "VahidRonaghi"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2021684208322650113/48QSm073_normal.jpg"
             },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Apr 06 11:48:49 +0000 2019",
+              "name": "Vahid Ronaghi",
+              "screen_name": "VahidRonaghi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTE0NDk1MTY4MTgxNDI4MjI2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
             "legacy": {
-              "url": "https://t.co/gitG2M6Rne",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": ":: وحید رونقی ::\n‌\nوسط وایستادم، دارم این معرکه دنیا رو تماشا می‌کنم!",
               "entities": {
+                "description": {},
                 "url": {
                   "urls": [
                     {
-                      "url": "https://t.co/gitG2M6Rne",
+                      "display_url": "instagram.com/vahidronaghi",
+                      "expanded_url": "http://www.instagram.com/vahidronaghi",
                       "indices": [
                         0,
                         23
                       ],
-                      "display_url": "instagram.com/vahidronaghi",
-                      "expanded_url": "http://www.instagram.com/vahidronaghi"
+                      "url": "https://t.co/gitG2M6Rne"
                     }
                   ]
-                },
-                "description": {}
+                }
               },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": ":: وحید رونقی ::\n‌\nوسط وایستادم، دارم این معرکه دنیا رو تماشا می‌کنم!",
-              "media_count": 91,
-              "listed_count": 14,
-              "friends_count": 147,
+              "fast_followers_count": 0,
+              "favourites_count": 1497,
+              "follow_request_sent": false,
+              "followers_count": 1180,
+              "friends_count": 149,
+              "has_custom_timelines": false,
               "is_translator": false,
+              "listed_count": 14,
+              "media_count": 97,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1180,
               "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 815,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1177,
-              "translator_type": "none",
-              "favourites_count": 1466,
               "possibly_sensitive": false,
               "profile_banner_url": "https://pbs.twimg.com/profile_banners/1114495168181428226/1774345961",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
+              "profile_interstitial_type": "",
+              "statuses_count": 834,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/gitG2M6Rne",
+              "utc_offset": 0,
+              "want_retweets": false,
               "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1177,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+              "withheld_scope": ""
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1114495168181428226",
-            "location": {
-              "location": "Tehran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ":: وحید رونقی ::\n‌\nوسط وایستادم، دارم این معرکه دنیا رو تماشا می‌کنم!"
-            },
-            "professional": {
-              "rest_id": "1640624873331466248",
-              "category": [
-                {
-                  "id": 15,
-                  "name": "Entertainment & Recreation",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 17,
@@ -174,14 +99,89 @@
                 "year_visibility": "Followers"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 15,
+                  "name": "Entertainment & Recreation"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1640624873331466248"
+            },
+            "profile_bio": {
+              "description": ":: وحید رونقی ::\n‌\nوسط وایستادم، دارم این معرکه دنیا رو تماشا می‌کنم!"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1114495168181428226",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTExNDQ5NTE2ODE4MTQyODIyNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1581194306446"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2021684208322650113/48QSm073_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Apr 06 11:48:49 +0000 2019",
+              "name": "Vahid Ronaghi",
+              "screen_name": "VahidRonaghi"
+            },
+            "id": "VXNlcjoxMTE0NDk1MTY4MTgxNDI4MjI2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1114495168181428226",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTExNDQ5NTE2ODE4MTQyODIyNg==",
+              "is_identity_verified": false
             }
           }
         }
