@@ -1,7 +1,7 @@
 {
   "snapshotId": "d2c860fc-cd8b-4aff-ab97-402ed2490b6f",
   "twitterId": "1513760904751595520",
-  "scannedAt": "2026-06-01T04:05:09.030Z",
+  "scannedAt": "2026-07-15T05:03:49.132Z",
   "fields": {
     "username": "BinazirJ",
     "displayName": "بی نظیر جلالی",
@@ -15,188 +15,188 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1929646712160735232/ka5Wz9lw_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Apr 12 06:09:41 +0000 2022",
+              "name": "بی نظیر جلالی",
+              "screen_name": "BinazirJ"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTEzNzYwOTA0NzUxNTk1NTIw",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "https://t.co/9vkF8L97EK\n\nروانشناس و فعال اجتماعی",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/binazir_j",
+                      "expanded_url": "https://www.instagram.com/binazir_j",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/9vkF8L97EK"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/+AAHLHDkH_R0zO…",
+                      "expanded_url": "https://t.me/+AAHLHDkH_R0zOGVk",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/egEj0wFzoR"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 95467,
+              "follow_request_sent": false,
+              "followers_count": 4865,
+              "friends_count": 713,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 12,
+              "media_count": 242,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4865,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1813849553210159322"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1513760904751595520/1748918893",
+              "profile_interstitial_type": "",
+              "statuses_count": 22015,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/egEj0wFzoR",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "https://t.co/9vkF8L97EK\n\nروانشناس و فعال اجتماعی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1513760904751595520",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1746270896207"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTUxMzc2MDkwNDc1MTU5NTUyMA==",
           "result": {
-            "id": "VXNlcjoxNTEzNzYwOTA0NzUxNTk1NTIw",
-            "core": {
-              "name": "بی نظیر جلالی",
-              "created_at": "Tue Apr 12 06:09:41 +0000 2022",
-              "screen_name": "BinazirJ"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1929646712160735232/ka5Wz9lw_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1513760904751595520",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUxMzc2MDkwNDc1MTU5NTUyMA==",
-              "reason": {
-                "verified_since_msec": "1746270896207"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTEzNzYwOTA0NzUxNTk1NTIw",
-            "core": {
-              "name": "بی نظیر جلالی",
-              "created_at": "Tue Apr 12 06:09:41 +0000 2022",
-              "screen_name": "BinazirJ"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1929646712160735232/ka5Wz9lw_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/egEj0wFzoR",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/egEj0wFzoR",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/+AAHLHDkH_R0zO…",
-                      "expanded_url": "https://t.me/+AAHLHDkH_R0zOGVk"
-                    }
-                  ]
-                },
-                "description": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/9vkF8L97EK",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "instagram.com/binazir_j",
-                      "expanded_url": "https://www.instagram.com/binazir_j"
-                    }
-                  ]
-                }
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "https://t.co/9vkF8L97EK\n\nروانشناس و فعال اجتماعی",
-              "media_count": 232,
-              "listed_count": 11,
-              "friends_count": 714,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 20898,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 4788,
-              "translator_type": "none",
-              "favourites_count": 90880,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1513760904751595520/1748918893",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1813849553210159322"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 4788,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Apr 12 06:09:41 +0000 2022",
+              "name": "بی نظیر جلالی",
+              "screen_name": "BinazirJ"
             },
+            "id": "VXNlcjoxNTEzNzYwOTA0NzUxNTk1NTIw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1513760904751595520",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "https://t.co/9vkF8L97EK\n\nروانشناس و فعال اجتماعی"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUxMzc2MDkwNDc1MTU5NTUyMA==",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1746270896207"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
