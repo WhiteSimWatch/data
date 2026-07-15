@@ -1,7 +1,7 @@
 {
   "snapshotId": "26e3c1dd-2aa4-47a3-9fcb-44843f004111",
   "twitterId": "995963377779400709",
-  "scannedAt": "2026-06-01T03:17:45.684Z",
+  "scannedAt": "2026-07-15T04:11:03.108Z",
   "fields": {
     "username": "mjakhavan",
     "displayName": "محمّدجواد اخوان ☫",
@@ -15,189 +15,189 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2004269752437407744/xwdzrX9f_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon May 14 09:45:48 +0000 2018",
+              "name": "محمّدجواد اخوان ☫",
+              "screen_name": "mjakhavan"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5OTU5NjMzNzc3Nzk0MDA3MDk=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "مدیر مسئول روزنامه جوان و مدرس دانشگاه\n....\nUniversity lecturer & journalist\n....\nتوییت‌ها نظر شخصی است\n.... \nhttps://t.co/c7DSCudpFb\n.........\nhttps://t.co/6KHF3bqbvO",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "Instagr.am/mjakhavan2",
+                      "expanded_url": "http://Instagr.am/mjakhavan2",
+                      "indices": [
+                        110,
+                        133
+                      ],
+                      "url": "https://t.co/c7DSCudpFb"
+                    },
+                    {
+                      "display_url": "t.me/mjakhavan",
+                      "expanded_url": "http://t.me/mjakhavan",
+                      "indices": [
+                        144,
+                        167
+                      ],
+                      "url": "https://t.co/6KHF3bqbvO"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "raygah.ir",
+                      "expanded_url": "http://www.raygah.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/fq9BhppGag"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 16557,
+              "follow_request_sent": false,
+              "followers_count": 2326,
+              "friends_count": 289,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 15,
+              "media_count": 667,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2326,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1010839070602399745"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/995963377779400709/1694878043",
+              "profile_interstitial_type": "",
+              "statuses_count": 3717,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/fq9BhppGag",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1571024410521530369"
+            },
+            "profile_bio": {
+              "description": "مدیر مسئول روزنامه جوان و مدرس دانشگاه\n....\nUniversity lecturer & journalist\n....\nتوییت‌ها نظر شخصی است\n.... \nhttps://t.co/c7DSCudpFb\n.........\nhttps://t.co/6KHF3bqbvO"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "995963377779400709",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTk1OTYzMzc3Nzc5NDAwNzA5",
           "result": {
-            "id": "VXNlcjo5OTU5NjMzNzc3Nzk0MDA3MDk=",
-            "core": {
-              "name": "محمّدجواد اخوان ☫",
-              "created_at": "Mon May 14 09:45:48 +0000 2018",
-              "screen_name": "mjakhavan"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2004269752437407744/xwdzrX9f_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "995963377779400709",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1526331045649"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTk1OTYzMzc3Nzc5NDAwNzA5",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5OTU5NjMzNzc3Nzk0MDA3MDk=",
-            "core": {
-              "name": "محمّدجواد اخوان ☫",
-              "created_at": "Mon May 14 09:45:48 +0000 2018",
-              "screen_name": "mjakhavan"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2004269752437407744/xwdzrX9f_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/fq9BhppGag",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/fq9BhppGag",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "raygah.ir",
-                      "expanded_url": "http://www.raygah.ir"
-                    }
-                  ]
-                },
-                "description": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/c7DSCudpFb",
-                      "indices": [
-                        110,
-                        133
-                      ],
-                      "display_url": "Instagr.am/mjakhavan2",
-                      "expanded_url": "http://Instagr.am/mjakhavan2"
-                    },
-                    {
-                      "url": "https://t.co/6KHF3bqbvO",
-                      "indices": [
-                        144,
-                        167
-                      ],
-                      "display_url": "t.me/mjakhavan",
-                      "expanded_url": "http://t.me/mjakhavan"
-                    }
-                  ]
-                }
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مدیر مسئول روزنامه جوان و مدرس دانشگاه\n....\nUniversity lecturer & journalist\n....\nتوییت‌ها نظر شخصی است\n.... \nhttps://t.co/c7DSCudpFb\n.........\nhttps://t.co/6KHF3bqbvO",
-              "media_count": 665,
-              "listed_count": 15,
-              "friends_count": 283,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 3704,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 2308,
-              "translator_type": "none",
-              "favourites_count": 16531,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/995963377779400709/1694878043",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1010839070602399745"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2308,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon May 14 09:45:48 +0000 2018",
+              "name": "محمّدجواد اخوان ☫",
+              "screen_name": "mjakhavan"
             },
+            "id": "VXNlcjo5OTU5NjMzNzc3Nzk0MDA3MDk=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "995963377779400709",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مدیر مسئول روزنامه جوان و مدرس دانشگاه\n....\nUniversity lecturer & journalist\n....\nتوییت‌ها نظر شخصی است\n.... \nhttps://t.co/c7DSCudpFb\n.........\nhttps://t.co/6KHF3bqbvO"
-            },
-            "professional": {
-              "rest_id": "1571024410521530369",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTk1OTYzMzc3Nzc5NDAwNzA5",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
