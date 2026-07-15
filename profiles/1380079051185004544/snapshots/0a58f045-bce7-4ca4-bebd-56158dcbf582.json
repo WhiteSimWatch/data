@@ -1,7 +1,7 @@
 {
   "snapshotId": "0a58f045-bce7-4ca4-bebd-56158dcbf582",
   "twitterId": "1380079051185004544",
-  "scannedAt": "2026-06-01T05:28:13.201Z",
+  "scannedAt": "2026-07-15T06:33:19.507Z",
   "fields": {
     "username": "Sara_nikdell",
     "displayName": "سارا نیکدل",
@@ -15,164 +15,164 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1852086623984357376/jsvm4KbC_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Apr 08 08:44:34 +0000 2021",
+              "name": "سارا نیکدل",
+              "screen_name": "Sara_nikdell"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "72"
+            },
+            "id": "VXNlcjoxMzgwMDc5MDUxMTg1MDA0NTQ0",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مشرف به شرافت معلمی👩🏻‍🏫",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 83403,
+              "follow_request_sent": false,
+              "followers_count": 25325,
+              "friends_count": 16872,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 15,
+              "media_count": 2659,
+              "needs_phone_verification": false,
+              "normal_followers_count": 25325,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2075273015143866654"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1380079051185004544/1730406873",
+              "profile_interstitial_type": "",
+              "statuses_count": 30141,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "مسیر دانش"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مشرف به شرافت معلمی👩🏻‍🏫"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1380079051185004544",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1760831357273"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTM4MDA3OTA1MTE4NTAwNDU0NA==",
           "result": {
-            "id": "VXNlcjoxMzgwMDc5MDUxMTg1MDA0NTQ0",
-            "core": {
-              "name": "سارا نیکدل",
-              "created_at": "Thu Apr 08 08:44:34 +0000 2021",
-              "screen_name": "Sara_nikdell"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1852086623984357376/jsvm4KbC_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1380079051185004544",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Finland App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Finland App Store",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1730575654693"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM4MDA3OTA1MTE4NTAwNDU0NA==",
-              "reason": {
-                "verified_since_msec": "1760831357273"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMzgwMDc5MDUxMTg1MDA0NTQ0",
-            "core": {
-              "name": "سارا نیکدل",
-              "created_at": "Thu Apr 08 08:44:34 +0000 2021",
-              "screen_name": "Sara_nikdell"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1852086623984357376/jsvm4KbC_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مشرف به شرافت معلمی👩🏻‍🏫",
-              "media_count": 2443,
-              "listed_count": 14,
-              "friends_count": 16898,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 28616,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 25135,
-              "translator_type": "none",
-              "favourites_count": 82923,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1380079051185004544/1730406873",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "2056655135762182169"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 25135,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Apr 08 08:44:34 +0000 2021",
+              "name": "سارا نیکدل",
+              "screen_name": "Sara_nikdell"
             },
+            "id": "VXNlcjoxMzgwMDc5MDUxMTg1MDA0NTQ0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1380079051185004544",
-            "location": {
-              "location": "مسیر دانش"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مشرف به شرافت معلمی👩🏻‍🏫"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "62",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM4MDA3OTA1MTE4NTAwNDU0NA==",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1760831357273"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
