@@ -1,7 +1,7 @@
 {
   "snapshotId": "6babf538-a688-4fcd-a227-680ab8331408",
   "twitterId": "5788942",
-  "scannedAt": "2026-06-01T03:30:26.501Z",
+  "scannedAt": "2026-07-15T04:26:19.590Z",
   "fields": {
     "username": "Mamoocham",
     "displayName": "Mohammad Reza",
@@ -15,166 +15,166 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1480218959005859849/AtRNAabw_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat May 05 13:35:36 +0000 2007",
+              "name": "Mohammad Reza",
+              "screen_name": "Mamoocham"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "3"
+            },
+            "id": "VXNlcjo1Nzg4OTQy",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Master of Business Administration, Entrepreneur, interested in economy and politics.",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 192624,
+              "follow_request_sent": false,
+              "followers_count": 15225,
+              "friends_count": 317,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 45,
+              "media_count": 1562,
+              "needs_phone_verification": false,
+              "normal_followers_count": 15225,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/5788942/1726670363",
+              "profile_interstitial_type": "",
+              "statuses_count": 55225,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "London, England"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1480235472249053190"
+            },
+            "profile_bio": {
+              "description": "Master of Business Administration, Entrepreneur, interested in economy and politics."
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "5788942",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": true,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1671087298933"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6NTc4ODk0Mg==",
           "result": {
-            "id": "VXNlcjo1Nzg4OTQy",
-            "core": {
-              "name": "Mohammad Reza",
-              "created_at": "Sat May 05 13:35:36 +0000 2007",
-              "screen_name": "Mamoocham"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1480218959005859849/AtRNAabw_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "5788942",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United Kingdom App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United Kingdom App Store",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1641746387759"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NTc4ODk0Mg==",
-              "reason": {
-                "verified_since_msec": "1671087298933"
-              },
-              "is_identity_verified": true
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo1Nzg4OTQy",
-            "core": {
-              "name": "Mohammad Reza",
-              "created_at": "Sat May 05 13:35:36 +0000 2007",
-              "screen_name": "Mamoocham"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1480218959005859849/AtRNAabw_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Master of Business Administration, Entrepreneur, interested in economy and politics.",
-              "media_count": 1490,
-              "listed_count": 44,
-              "friends_count": 305,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 53672,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 14785,
-              "translator_type": "none",
-              "favourites_count": 186011,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/5788942/1726670363",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 14785,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat May 05 13:35:36 +0000 2007",
+              "name": "Mohammad Reza",
+              "screen_name": "Mamoocham"
             },
+            "id": "VXNlcjo1Nzg4OTQy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "5788942",
-            "location": {
-              "location": "London, England"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Master of Business Administration, Entrepreneur, interested in economy and politics."
-            },
-            "professional": {
-              "rest_id": "1480235472249053190",
-              "category": [],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "3",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NTc4ODk0Mg==",
+              "is_identity_verified": true,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1671087298933"
-              },
-              "is_identity_verified": true
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
