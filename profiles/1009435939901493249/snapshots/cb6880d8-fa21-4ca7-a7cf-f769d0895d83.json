@@ -1,0 +1,225 @@
+{
+  "snapshotId": "cb6880d8-fa21-4ca7-a7cf-f769d0895d83",
+  "twitterId": "1009435939901493249",
+  "scannedAt": "2026-07-15T08:01:38.302Z",
+  "fields": {
+    "username": "farahani_zohre",
+    "displayName": "زهره فراهانی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2055316494028820480/mf2yGXVM_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1009435939901493249/1778866616",
+    "bio": "خبرنگار | روابط مقدم است بر سیاست | توئیت‌ها شخصی | شما هم مختارید که مخالف باشید :)",
+    "selfLocation": "تهران",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2055316494028820480/mf2yGXVM_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jun 20 14:00:57 +0000 2018",
+              "name": "زهره فراهانی",
+              "screen_name": "farahani_zohre"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Journalist | Relations come before politics | Tweets are personal | You're free to disagree too :)"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDA5NDM1OTM5OTAxNDkzMjQ5",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "خبرنگار | روابط مقدم است بر سیاست | توئیت‌ها شخصی | شما هم مختارید که مخالف باشید :)",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/farahani_zohre…",
+                      "expanded_url": "https://www.instagram.com/farahani_zohream?igsh=NmJoaDV2cGI0bTZq&utm_source=qr",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/pKo9F9oziE"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 94187,
+              "follow_request_sent": false,
+              "followers_count": 5921,
+              "friends_count": 393,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 23,
+              "media_count": 1350,
+              "needs_phone_verification": false,
+              "normal_followers_count": 5921,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2037237747338166644"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009435939901493249/1778866616",
+              "profile_interstitial_type": "",
+              "statuses_count": 12002,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/pKo9F9oziE",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 24,
+                "month": 8,
+                "visibility": "Public",
+                "year": 1989,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1471795569471467524"
+            },
+            "profile_bio": {
+              "description": "خبرنگار | روابط مقدم است بر سیاست | توئیت‌ها شخصی | شما هم مختارید که مخالف باشید :)"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1009435939901493249",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1782381077946"
+              }
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTAwOTQzNTkzOTkwMTQ5MzI0OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1619038985831"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2055316494028820480/mf2yGXVM_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jun 20 14:00:57 +0000 2018",
+              "name": "زهره فراهانی",
+              "screen_name": "farahani_zohre"
+            },
+            "id": "VXNlcjoxMDA5NDM1OTM5OTAxNDkzMjQ5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1009435939901493249",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTAwOTQzNTkzOTkwMTQ5MzI0OQ==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1782381077946"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
