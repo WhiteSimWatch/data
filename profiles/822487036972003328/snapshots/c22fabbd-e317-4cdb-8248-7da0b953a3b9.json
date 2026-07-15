@@ -1,7 +1,7 @@
 {
   "snapshotId": "c22fabbd-e317-4cdb-8248-7da0b953a3b9",
   "twitterId": "822487036972003328",
-  "scannedAt": "2026-06-01T06:00:51.091Z",
+  "scannedAt": "2026-07-15T07:14:03.066Z",
   "fields": {
     "username": "hamedshofficial",
     "displayName": "حامد‌/شاهمیری",
@@ -15,169 +15,169 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1779406087218712576/8Y7LpZNg_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jan 20 16:52:45 +0000 2017",
+              "name": "حامد‌/شاهمیری",
+              "screen_name": "hamedshofficial"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MjI0ODcwMzY5NzIwMDMzMjg=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مدیر، مشاور و پژوهشگر رسانه 📺\nارشد علوم ارتباطات دانشگاه صداوسیما 🎓 از تاریخ فرهنگ و رسانه می‌گویم/ Reporter _ social cultural Activist _ DM & PR Expert",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/hamed.shahmiri…",
+                      "expanded_url": "https://www.instagram.com/hamed.shahmirii?igsh=MWF0YzExOHNnYnAybQ==",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/9KVX3SSaCQ"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 118001,
+              "follow_request_sent": false,
+              "followers_count": 3030,
+              "friends_count": 1577,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 15,
+              "media_count": 1509,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3030,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1640648252356796417"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/822487036972003328/1654342301",
+              "profile_interstitial_type": "",
+              "statuses_count": 12555,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/9KVX3SSaCQ",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran Tehran 🇮🇷"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 580,
+                  "name": "Media & News Company"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1640503815311966208"
+            },
+            "profile_bio": {
+              "description": "مدیر، مشاور و پژوهشگر رسانه 📺\nارشد علوم ارتباطات دانشگاه صداوسیما 🎓 از تاریخ فرهنگ و رسانه می‌گویم/ Reporter _ social cultural Activist _ DM & PR Expert"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "822487036972003328",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6ODIyNDg3MDM2OTcyMDAzMzI4",
           "result": {
-            "id": "VXNlcjo4MjI0ODcwMzY5NzIwMDMzMjg=",
-            "core": {
-              "name": "حامد‌/شاهمیری",
-              "created_at": "Fri Jan 20 16:52:45 +0000 2017",
-              "screen_name": "hamedshofficial"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1779406087218712576/8Y7LpZNg_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "822487036972003328",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "6",
                 "last_changed_at_msec": "1631945257205"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODIyNDg3MDM2OTcyMDAzMzI4",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo4MjI0ODcwMzY5NzIwMDMzMjg=",
-            "core": {
-              "name": "حامد‌/شاهمیری",
-              "created_at": "Fri Jan 20 16:52:45 +0000 2017",
-              "screen_name": "hamedshofficial"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1779406087218712576/8Y7LpZNg_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/9KVX3SSaCQ",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/9KVX3SSaCQ",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "instagram.com/hamed.shahmiri…",
-                      "expanded_url": "https://www.instagram.com/hamed.shahmirii?igsh=MWF0YzExOHNnYnAybQ=="
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مدیر، مشاور و پژوهشگر رسانه 📺\nارشد علوم ارتباطات دانشگاه صداوسیما 🎓 از تاریخ فرهنگ و رسانه می‌گویم/ Reporter _ social cultural Activist _ DM & PR Expert",
-              "media_count": 1494,
-              "listed_count": 15,
-              "friends_count": 1577,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 12483,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3013,
-              "translator_type": "none",
-              "favourites_count": 117763,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/822487036972003328/1654342301",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1640648252356796417"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3013,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Jan 20 16:52:45 +0000 2017",
+              "name": "حامد‌/شاهمیری",
+              "screen_name": "hamedshofficial"
             },
+            "id": "VXNlcjo4MjI0ODcwMzY5NzIwMDMzMjg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "822487036972003328",
-            "location": {
-              "location": "Iran Tehran 🇮🇷"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مدیر، مشاور و پژوهشگر رسانه 📺\nارشد علوم ارتباطات دانشگاه صداوسیما 🎓 از تاریخ فرهنگ و رسانه می‌گویم/ Reporter _ social cultural Activist _ DM & PR Expert"
-            },
-            "professional": {
-              "rest_id": "1640503815311966208",
-              "category": [
-                {
-                  "id": 580,
-                  "name": "Media & News Company",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODIyNDg3MDM2OTcyMDAzMzI4",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
