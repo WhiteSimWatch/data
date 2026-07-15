@@ -1,7 +1,7 @@
 {
   "snapshotId": "176d4418-1c5c-4098-b8ba-9f4aad01882f",
   "twitterId": "982661856170053633",
-  "scannedAt": "2026-06-01T06:39:07.861Z",
+  "scannedAt": "2026-07-15T08:03:20.356Z",
   "fields": {
     "username": "sina_jahaani",
     "displayName": "سینا جهانی",
@@ -15,188 +15,199 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1951702870102831104/3NRDbjlm_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Apr 07 16:50:18 +0000 2018",
+              "name": "سینا جهانی",
+              "screen_name": "sina_jahaani"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Green Reporter🌱"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "1"
+            },
+            "id": "VXNlcjo5ODI2NjE4NTYxNzAwNTM2MzM=",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "خبرنگار سبز🌱",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "faraz.ir",
+                      "expanded_url": "http://faraz.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/1LK1nKT5QX"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 32827,
+              "follow_request_sent": false,
+              "followers_count": 17376,
+              "friends_count": 997,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 104,
+              "media_count": 3496,
+              "needs_phone_verification": false,
+              "normal_followers_count": 17376,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1050343306004180992"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/982661856170053633/1590195435",
+              "profile_interstitial_type": "",
+              "statuses_count": 32359,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/1LK1nKT5QX",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1478490488969867272"
+            },
+            "profile_bio": {
+              "description": "خبرنگار سبز🌱"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "982661856170053633",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1779712898572"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTgyNjYxODU2MTcwMDUzNjMz",
           "result": {
-            "id": "VXNlcjo5ODI2NjE4NTYxNzAwNTM2MzM=",
-            "core": {
-              "name": "سینا جهانی",
-              "created_at": "Sat Apr 07 16:50:18 +0000 2018",
-              "screen_name": "sina_jahaani"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1951702870102831104/3NRDbjlm_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "982661856170053633",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1576211753478"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTgyNjYxODU2MTcwMDUzNjMz",
-              "reason": {
-                "verified_since_msec": "1779712898572"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5ODI2NjE4NTYxNzAwNTM2MzM=",
-            "core": {
-              "name": "سینا جهانی",
-              "created_at": "Sat Apr 07 16:50:18 +0000 2018",
-              "screen_name": "sina_jahaani"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1951702870102831104/3NRDbjlm_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/1LK1nKT5QX",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/1LK1nKT5QX",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "faraz.ir",
-                      "expanded_url": "http://faraz.ir"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "خبرنگار سبز🌱",
-              "media_count": 3439,
-              "listed_count": 105,
-              "friends_count": 991,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 32097,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 17166,
-              "translator_type": "none",
-              "favourites_count": 32706,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/982661856170053633/1590195435",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1050343306004180992"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 17166,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Apr 07 16:50:18 +0000 2018",
+              "name": "سینا جهانی",
+              "screen_name": "sina_jahaani"
             },
+            "id": "VXNlcjo5ODI2NjE4NTYxNzAwNTM2MzM=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "982661856170053633",
-            "location": {
-              "location": "Tehran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "خبرنگار سبز🌱"
-            },
-            "professional": {
-              "rest_id": "1478490488969867272",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "1",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTgyNjYxODU2MTcwMDUzNjMz",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1779712898572"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
