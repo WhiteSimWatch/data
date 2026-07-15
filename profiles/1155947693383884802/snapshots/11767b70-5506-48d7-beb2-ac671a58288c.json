@@ -1,7 +1,7 @@
 {
   "snapshotId": "11767b70-5506-48d7-beb2-ac671a58288c",
   "twitterId": "1155947693383884802",
-  "scannedAt": "2026-06-01T07:08:31.659Z",
+  "scannedAt": "2026-07-15T08:37:28.617Z",
   "fields": {
     "username": "Mahsa_S0ltani",
     "displayName": "Mahsa Soltani",
@@ -15,147 +15,72 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTE1NTk0NzY5MzM4Mzg4NDgwMg==",
-          "result": {
-            "id": "VXNlcjoxMTU1OTQ3NjkzMzgzODg0ODAy",
-            "core": {
-              "name": "Mahsa Soltani",
-              "created_at": "Mon Jul 29 21:06:21 +0000 2019",
-              "screen_name": "Mahsa_S0ltani"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1994007216513273856/gN6j--4e_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1155947693383884802",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "7",
-                "last_changed_at_msec": "1586941765377"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE1NTk0NzY5MzM4Mzg4NDgwMg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxMTU1OTQ3NjkzMzgzODg0ODAy",
-            "core": {
-              "name": "Mahsa Soltani",
-              "created_at": "Mon Jul 29 21:06:21 +0000 2019",
-              "screen_name": "Mahsa_S0ltani"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1994007216513273856/gN6j--4e_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "درگیر رسانه و روابط عمومی، نوآوری و فناوری",
-              "media_count": 1144,
-              "listed_count": 24,
-              "friends_count": 784,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 47057,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 6529,
-              "translator_type": "none",
-              "favourites_count": 166519,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1155947693383884802/1779801877",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1478435675955515397"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 6529,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jul 29 21:06:21 +0000 2019",
+              "name": "Mahsa Soltani",
+              "screen_name": "Mahsa_S0ltani"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1155947693383884802",
-            "location": {
-              "location": "Tehran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "درگیر رسانه و روابط عمومی، نوآوری و فناوری"
-            },
-            "professional": {
-              "rest_id": "1612351183309381632",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": true
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTU1OTQ3NjkzMzgzODg0ODAy",
+            "is_blue_verified": false,
             "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "درگیر رسانه و روابط عمومی، نوآوری و فناوری",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 164704,
+              "follow_request_sent": false,
+              "followers_count": 6534,
+              "friends_count": 788,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 24,
+              "media_count": 1144,
+              "needs_phone_verification": false,
+              "normal_followers_count": 6534,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1478435675955515397"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1155947693383884802/1779801877",
+              "profile_interstitial_type": "",
+              "statuses_count": 47025,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 22,
@@ -164,25 +89,89 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1612351183309381632"
+            },
+            "profile_bio": {
+              "description": "درگیر رسانه و روابط عمومی، نوآوری و فناوری"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Engaged in media and public relations, innovation and technology",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1155947693383884802",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE1NTk0NzY5MzM4Mzg4NDgwMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "7",
+                "last_changed_at_msec": "1586941765377"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1994007216513273856/gN6j--4e_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jul 29 21:06:21 +0000 2019",
+              "name": "Mahsa Soltani",
+              "screen_name": "Mahsa_S0ltani"
+            },
+            "id": "VXNlcjoxMTU1OTQ3NjkzMzgzODg0ODAy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1155947693383884802",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE1NTk0NzY5MzM4Mzg4NDgwMg==",
+              "is_identity_verified": false
             }
           }
         }
