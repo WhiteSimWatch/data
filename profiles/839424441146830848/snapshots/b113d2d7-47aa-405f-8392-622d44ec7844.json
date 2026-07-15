@@ -1,7 +1,7 @@
 {
   "snapshotId": "b113d2d7-47aa-405f-8392-622d44ec7844",
   "twitterId": "839424441146830848",
-  "scannedAt": "2026-06-01T06:36:05.589Z",
+  "scannedAt": "2026-07-15T07:59:47.197Z",
   "fields": {
     "username": "SNaghdipour",
     "displayName": "Sahar Naghdipour",
@@ -15,151 +15,151 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2023824944707305472/5hAmDsH-_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Mar 08 10:35:57 +0000 2017",
+              "name": "Sahar Naghdipour",
+              "screen_name": "SNaghdipour"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4Mzk0MjQ0NDExNDY4MzA4NDg=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "CivilEngineer  | IRATA Technician | Cat's Lover... Lousi's mom.❤️ |ملی‌گرا| سکولار| لیبرال|\n#BDS",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 395264,
+              "follow_request_sent": false,
+              "followers_count": 2967,
+              "friends_count": 1193,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 17,
+              "media_count": 557,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2967,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/839424441146830848/1775488901",
+              "profile_interstitial_type": "",
+              "statuses_count": 46528,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran, Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1575797200869027840"
+            },
+            "profile_bio": {
+              "description": "CivilEngineer  | IRATA Technician | Cat's Lover... Lousi's mom.❤️ |ملی‌گرا| سکولار| لیبرال|\n#BDS"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "839424441146830848",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6ODM5NDI0NDQxMTQ2ODMwODQ4",
           "result": {
-            "id": "VXNlcjo4Mzk0MjQ0NDExNDY4MzA4NDg=",
-            "core": {
-              "name": "Sahar Naghdipour",
-              "created_at": "Wed Mar 08 10:35:57 +0000 2017",
-              "screen_name": "SNaghdipour"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2023824944707305472/5hAmDsH-_normal.jpg"
             },
+            "core": {
+              "created_at": "Wed Mar 08 10:35:57 +0000 2017",
+              "name": "Sahar Naghdipour",
+              "screen_name": "SNaghdipour"
+            },
+            "id": "VXNlcjo4Mzk0MjQ0NDExNDY4MzA4NDg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "839424441146830848",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODM5NDI0NDQxMTQ2ODMwODQ4",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo4Mzk0MjQ0NDExNDY4MzA4NDg=",
-            "core": {
-              "name": "Sahar Naghdipour",
-              "created_at": "Wed Mar 08 10:35:57 +0000 2017",
-              "screen_name": "SNaghdipour"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2023824944707305472/5hAmDsH-_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "CivilEngineer  | IRATA Technician | Cat's Lover... Lousi's mom.❤️ |ملی‌گرا| سکولار| لیبرال|\n#BDS",
-              "media_count": 556,
-              "listed_count": 17,
-              "friends_count": 1182,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 46282,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2961,
-              "translator_type": "none",
-              "favourites_count": 393020,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/839424441146830848/1775488901",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2961,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "839424441146830848",
-            "location": {
-              "location": "Iran, Tehran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "CivilEngineer  | IRATA Technician | Cat's Lover... Lousi's mom.❤️ |ملی‌گرا| سکولار| لیبرال|\n#BDS"
-            },
-            "professional": {
-              "rest_id": "1575797200869027840",
-              "category": [
-                {
-                  "id": 934,
-                  "name": "Social Media Influencer",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
