@@ -1,7 +1,7 @@
 {
   "snapshotId": "49a4b71d-c709-4bc8-8e3a-da5ececebbf5",
   "twitterId": "2001690884056997888",
-  "scannedAt": "2026-06-02T05:02:17.901Z",
+  "scannedAt": "2026-07-16T07:48:00.771Z",
   "fields": {
     "username": "fsnh743129",
     "displayName": "Afsaneh",
@@ -15,155 +15,166 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2001693157969530886/mdkdl9s0_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Dec 18 16:28:23 +0000 2025",
+              "name": "Afsaneh",
+              "screen_name": "fsnh743129"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Psychology student\n\nFrom the land of Imam Reza (AS)\n\nThird account ✌️🥲"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDAxNjkwODg0MDU2OTk3ODg4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "دانشجو روانشناسی \n \nاز دیار امام رضا (ع)\n\n اکانت سوم ✌️🥲",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 3170,
+              "follow_request_sent": false,
+              "followers_count": 626,
+              "friends_count": 699,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 138,
+              "needs_phone_verification": false,
+              "normal_followers_count": 626,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2076639581714129408"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2001690884056997888/1766075813",
+              "profile_interstitial_type": "",
+              "statuses_count": 1333,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "آمریکا"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 15,
+                  "name": "Entertainment & Recreation"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "2047221473295610001"
+            },
+            "profile_bio": {
+              "description": "دانشجو روانشناسی \n \nاز دیار امام رضا (ع)\n\n اکانت سوم ✌️🥲"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2001690884056997888",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjAwMTY5MDg4NDA1Njk5Nzg4OA==",
           "result": {
-            "id": "VXNlcjoyMDAxNjkwODg0MDU2OTk3ODg4",
-            "core": {
-              "name": "Afsaneh",
-              "created_at": "Thu Dec 18 16:28:23 +0000 2025",
-              "screen_name": "fsnh743129"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2001693157969530886/mdkdl9s0_normal.jpg"
             },
+            "core": {
+              "created_at": "Thu Dec 18 16:28:23 +0000 2025",
+              "name": "Afsaneh",
+              "screen_name": "fsnh743129"
+            },
+            "id": "VXNlcjoyMDAxNjkwODg0MDU2OTk3ODg4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2001690884056997888",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAwMTY5MDg4NDA1Njk5Nzg4OA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDAxNjkwODg0MDU2OTk3ODg4",
-            "core": {
-              "name": "Afsaneh",
-              "created_at": "Thu Dec 18 16:28:23 +0000 2025",
-              "screen_name": "fsnh743129"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2001693157969530886/mdkdl9s0_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "دانشجو روانشناسی \n \nاز دیار امام رضا (ع)\n\n اکانت سوم ✌️🥲",
-              "media_count": 116,
-              "listed_count": 0,
-              "friends_count": 595,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1095,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 522,
-              "translator_type": "none",
-              "favourites_count": 2550,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2001690884056997888/1766075813",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2061011802889023517"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 522,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2001690884056997888",
-            "location": {
-              "location": "آمریکا"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "دانشجو روانشناسی \n \nاز دیار امام رضا (ع)\n\n اکانت سوم ✌️🥲"
-            },
-            "professional": {
-              "rest_id": "2047221473295610001",
-              "category": [
-                {
-                  "id": 15,
-                  "name": "Entertainment & Recreation",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
