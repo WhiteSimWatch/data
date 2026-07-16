@@ -1,7 +1,7 @@
 {
   "snapshotId": "0dfae83e-07a2-4e0f-8efd-14c74c5a4422",
   "twitterId": "905769835031928832",
-  "scannedAt": "2026-06-01T07:43:24.986Z",
+  "scannedAt": "2026-07-16T03:15:13.035Z",
   "fields": {
     "username": "MontajabiAkbar",
     "displayName": "اکبر منتجبی",
@@ -15,157 +15,82 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6OTA1NzY5ODM1MDMxOTI4ODMy",
-          "result": {
-            "id": "VXNlcjo5MDU3Njk4MzUwMzE5Mjg4MzI=",
-            "core": {
-              "name": "اکبر منتجبی",
-              "created_at": "Thu Sep 07 12:28:51 +0000 2017",
-              "screen_name": "MontajabiAkbar"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1173679262945226759/zL4T6TFo_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "905769835031928832",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "1",
-                "last_changed_at_msec": "1504787393783"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTA1NzY5ODM1MDMxOTI4ODMy",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjo5MDU3Njk4MzUwMzE5Mjg4MzI=",
-            "core": {
-              "name": "اکبر منتجبی",
-              "created_at": "Thu Sep 07 12:28:51 +0000 2017",
-              "screen_name": "MontajabiAkbar"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1173679262945226759/zL4T6TFo_normal.jpg"
             },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Sep 07 12:28:51 +0000 2017",
+              "name": "اکبر منتجبی",
+              "screen_name": "MontajabiAkbar"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5MDU3Njk4MzUwMzE5Mjg4MzI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
             "legacy": {
-              "url": "https://t.co/SREbPb6a3I",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Journalist\n\nروزنامه‌نویس\n، سردبیر روزنامه‌ی سازندگی\n، فارغ‌التحصیل تاتر",
               "entities": {
+                "description": {},
                 "url": {
                   "urls": [
                     {
-                      "url": "https://t.co/SREbPb6a3I",
+                      "display_url": "instagram.com/akbar.montajab…",
+                      "expanded_url": "https://www.instagram.com/akbar.montajabi/",
                       "indices": [
                         0,
                         23
                       ],
-                      "display_url": "instagram.com/akbar.montajab…",
-                      "expanded_url": "https://www.instagram.com/akbar.montajabi/"
+                      "url": "https://t.co/SREbPb6a3I"
                     }
                   ]
-                },
-                "description": {}
+                }
               },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Journalist\n\nروزنامه‌نویس\n، سردبیر روزنامه‌ی سازندگی\n، فارغ‌التحصیل تاتر",
-              "media_count": 590,
-              "listed_count": 75,
-              "friends_count": 975,
+              "fast_followers_count": 0,
+              "favourites_count": 2377,
+              "follow_request_sent": false,
+              "followers_count": 12686,
+              "friends_count": 982,
+              "has_custom_timelines": false,
               "is_translator": false,
+              "listed_count": 75,
+              "media_count": 604,
+              "needs_phone_verification": false,
+              "normal_followers_count": 12686,
               "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1812,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 12588,
-              "translator_type": "none",
-              "favourites_count": 2371,
               "possibly_sensitive": false,
               "profile_banner_url": "https://pbs.twimg.com/profile_banners/905769835031928832/1637666517",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
+              "profile_interstitial_type": "",
+              "statuses_count": 1840,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/SREbPb6a3I",
+              "utc_offset": 0,
+              "want_retweets": false,
               "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 12588,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+              "withheld_scope": ""
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "905769835031928832",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Journalist\n\nروزنامه‌نویس\n، سردبیر روزنامه‌ی سازندگی\n، فارغ‌التحصیل تاتر"
-            },
-            "professional": {
-              "rest_id": "1463102263795273730",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 17,
@@ -174,14 +99,89 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1463102263795273730"
+            },
+            "profile_bio": {
+              "description": "Journalist\n\nروزنامه‌نویس\n، سردبیر روزنامه‌ی سازندگی\n، فارغ‌التحصیل تاتر"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "905769835031928832",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTA1NzY5ODM1MDMxOTI4ODMy",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1504787393783"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1173679262945226759/zL4T6TFo_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Sep 07 12:28:51 +0000 2017",
+              "name": "اکبر منتجبی",
+              "screen_name": "MontajabiAkbar"
+            },
+            "id": "VXNlcjo5MDU3Njk4MzUwMzE5Mjg4MzI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "905769835031928832",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTA1NzY5ODM1MDMxOTI4ODMy",
+              "is_identity_verified": false
             }
           }
         }
