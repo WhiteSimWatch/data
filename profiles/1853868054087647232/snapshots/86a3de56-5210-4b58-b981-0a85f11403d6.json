@@ -1,7 +1,7 @@
 {
   "snapshotId": "86a3de56-5210-4b58-b981-0a85f11403d6",
   "twitterId": "1853868054087647232",
-  "scannedAt": "2026-06-01T07:35:17.561Z",
+  "scannedAt": "2026-07-16T03:06:43.798Z",
   "fields": {
     "username": "_M_moein",
     "displayName": "مسلم معین",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1854205116699512844/jXSSRpTj_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Nov 05 18:32:53 +0000 2024",
+              "name": "مسلم معین",
+              "screen_name": "_M_moein"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODUzODY4MDU0MDg3NjQ3MjMy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "سرباز سید علی خامنه ای",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 22,
+              "follow_request_sent": false,
+              "followers_count": 10351,
+              "friends_count": 41,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 16,
+              "media_count": 49,
+              "needs_phone_verification": false,
+              "normal_followers_count": 10351,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853868054087647232/1730912042",
+              "profile_interstitial_type": "",
+              "statuses_count": 141,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "سرباز سید علی خامنه ای"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1853868054087647232",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg1Mzg2ODA1NDA4NzY0NzIzMg==",
           "result": {
-            "id": "VXNlcjoxODUzODY4MDU0MDg3NjQ3MjMy",
-            "core": {
-              "name": "مسلم معین",
-              "created_at": "Tue Nov 05 18:32:53 +0000 2024",
-              "screen_name": "_M_moein"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1854205116699512844/jXSSRpTj_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1853868054087647232",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1730831603766"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1Mzg2ODA1NDA4NzY0NzIzMg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODUzODY4MDU0MDg3NjQ3MjMy",
-            "core": {
-              "name": "مسلم معین",
-              "created_at": "Tue Nov 05 18:32:53 +0000 2024",
-              "screen_name": "_M_moein"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1854205116699512844/jXSSRpTj_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "سرباز سید علی خامنه ای",
-              "media_count": 49,
-              "listed_count": 15,
-              "friends_count": 40,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 141,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 9844,
-              "translator_type": "none",
-              "favourites_count": 22,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853868054087647232/1730912042",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 9844,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Nov 05 18:32:53 +0000 2024",
+              "name": "مسلم معین",
+              "screen_name": "_M_moein"
             },
+            "id": "VXNlcjoxODUzODY4MDU0MDg3NjQ3MjMy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1853868054087647232",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "سرباز سید علی خامنه ای"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1Mzg2ODA1NDA4NzY0NzIzMg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
