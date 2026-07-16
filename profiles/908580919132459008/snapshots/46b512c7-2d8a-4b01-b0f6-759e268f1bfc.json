@@ -1,7 +1,7 @@
 {
   "snapshotId": "46b512c7-2d8a-4b01-b0f6-759e268f1bfc",
   "twitterId": "908580919132459008",
-  "scannedAt": "2026-06-01T07:51:15.253Z",
+  "scannedAt": "2026-07-16T03:23:49.125Z",
   "fields": {
     "username": "cryptosamz",
     "displayName": "Uncle Sam - عموسام 🇮🇷",
@@ -15,169 +15,169 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1982136718145753089/y9oGSGMv_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Sep 15 06:39:06 +0000 2017",
+              "name": "Uncle Sam - عموسام 🇮🇷",
+              "screen_name": "cryptosamz"
+            },
+            "creator_subscriptions_count": 1,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "9"
+            },
+            "id": "VXNlcjo5MDg1ODA5MTkxMzI0NTkwMDg=",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Passionate about fighting against IRGC oppression in Iran & promoting the liberating potential of #Bitcoin. standing up for freedom on 2 fronts #IRGCterrorists",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 239342,
+              "follow_request_sent": false,
+              "followers_count": 70784,
+              "friends_count": 2003,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 268,
+              "media_count": 5049,
+              "needs_phone_verification": false,
+              "normal_followers_count": 70784,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1792311436644958245"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/908580919132459008/1761413194",
+              "profile_interstitial_type": "",
+              "statuses_count": 55806,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Burkina Faso"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Business",
+              "rest_id": "1462812237035364356"
+            },
+            "profile_bio": {
+              "description": "Passionate about fighting against IRGC oppression in Iran & promoting the liberating potential of #Bitcoin. standing up for freedom on 2 fronts #IRGCterrorists"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "908580919132459008",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1778603303763"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTA4NTgwOTE5MTMyNDU5MDA4",
           "result": {
-            "id": "VXNlcjo5MDg1ODA5MTkxMzI0NTkwMDg=",
-            "core": {
-              "name": "Uncle Sam - عموسام 🇮🇷",
-              "created_at": "Fri Sep 15 06:39:06 +0000 2017",
-              "screen_name": "cryptosamz"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1982136718145753089/y9oGSGMv_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "908580919132459008",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "7",
                 "last_changed_at_msec": "1648898857135"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTA4NTgwOTE5MTMyNDU5MDA4",
-              "reason": {
-                "verified_since_msec": "1778603303763"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5MDg1ODA5MTkxMzI0NTkwMDg=",
-            "core": {
-              "name": "Uncle Sam - عموسام 🇮🇷",
-              "created_at": "Fri Sep 15 06:39:06 +0000 2017",
-              "screen_name": "cryptosamz"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1982136718145753089/y9oGSGMv_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Passionate about fighting against IRGC oppression in Iran & promoting the liberating potential of #Bitcoin. standing up for freedom on 2 fronts #IRGCterrorists",
-              "media_count": 4891,
-              "listed_count": 266,
-              "friends_count": 1991,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 54910,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 70691,
-              "translator_type": "none",
-              "favourites_count": 235823,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/908580919132459008/1761413194",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1792311436644958245"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 70691,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Sep 15 06:39:06 +0000 2017",
+              "name": "Uncle Sam - عموسام 🇮🇷",
+              "screen_name": "cryptosamz"
             },
+            "id": "VXNlcjo5MDg1ODA5MTkxMzI0NTkwMDg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "908580919132459008",
-            "location": {
-              "location": "Burkina Faso"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Passionate about fighting against IRGC oppression in Iran & promoting the liberating potential of #Bitcoin. standing up for freedom on 2 fronts #IRGCterrorists"
-            },
-            "professional": {
-              "rest_id": "1462812237035364356",
-              "category": [],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "9",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTA4NTgwOTE5MTMyNDU5MDA4",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1778603303763"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 1,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
