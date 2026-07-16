@@ -1,7 +1,7 @@
 {
   "snapshotId": "e0611645-ae57-4a7f-b96f-114b0bb4a06a",
   "twitterId": "1490830580170342401",
-  "scannedAt": "2026-06-01T10:22:29.899Z",
+  "scannedAt": "2026-07-16T04:38:09.876Z",
   "fields": {
     "username": "Montazer134",
     "displayName": "Montazer",
@@ -15,136 +15,72 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTQ5MDgzMDU4MDE3MDM0MjQwMQ==",
-          "result": {
-            "id": "VXNlcjoxNDkwODMwNTgwMTcwMzQyNDAx",
-            "core": {
-              "name": "Montazer",
-              "created_at": "Mon Feb 07 23:31:43 +0000 2022",
-              "screen_name": "Montazer134"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1647169123997356033/eh1nq5qI_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1490830580170342401",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "1",
-                "last_changed_at_msec": "1644276794805"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ5MDgzMDU4MDE3MDM0MjQwMQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxNDkwODMwNTgwMTcwMzQyNDAx",
-            "core": {
-              "name": "Montazer",
-              "created_at": "Mon Feb 07 23:31:43 +0000 2022",
-              "screen_name": "Montazer134"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1647169123997356033/eh1nq5qI_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "شهادت یک لباس تک‌سایز است.\n\nهر وقت و هر زمان اندازه‌ات را به لباس شهادت رساندی،\n\nهر جا که باشی با شهادت از دنیا می‌روی...",
-              "media_count": 33,
-              "listed_count": 0,
-              "friends_count": 2001,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 251,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1238,
-              "translator_type": "none",
-              "favourites_count": 727,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490830580170342401/1644621125",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1500758497239003137"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1238,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 07 23:31:43 +0000 2022",
+              "name": "Montazer",
+              "screen_name": "Montazer134"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1490830580170342401",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "شهادت یک لباس تک‌سایز است.\n\nهر وقت و هر زمان اندازه‌ات را به لباس شهادت رساندی،\n\nهر جا که باشی با شهادت از دنیا می‌روی..."
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": false
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDkwODMwNTgwMTcwMzQyNDAx",
+            "is_blue_verified": false,
             "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "شهادت یک لباس تک‌سایز است.\n\nهر وقت و هر زمان اندازه‌ات را به لباس شهادت رساندی،\n\nهر جا که باشی با شهادت از دنیا می‌روی...",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 727,
+              "follow_request_sent": false,
+              "followers_count": 1236,
+              "friends_count": 1998,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 33,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1236,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1500758497239003137"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490830580170342401/1644621125",
+              "profile_interstitial_type": "",
+              "statuses_count": 251,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 5,
@@ -153,14 +89,78 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "شهادت یک لباس تک‌سایز است.\n\nهر وقت و هر زمان اندازه‌ات را به لباس شهادت رساندی،\n\nهر جا که باشی با شهادت از دنیا می‌روی..."
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1490830580170342401",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ5MDgzMDU4MDE3MDM0MjQwMQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1644276794805"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1647169123997356033/eh1nq5qI_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Feb 07 23:31:43 +0000 2022",
+              "name": "Montazer",
+              "screen_name": "Montazer134"
+            },
+            "id": "VXNlcjoxNDkwODMwNTgwMTcwMzQyNDAx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1490830580170342401",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ5MDgzMDU4MDE3MDM0MjQwMQ==",
+              "is_identity_verified": false
             }
           }
         }
