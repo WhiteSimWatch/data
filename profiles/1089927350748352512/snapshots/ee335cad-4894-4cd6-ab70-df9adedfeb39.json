@@ -1,7 +1,7 @@
 {
   "snapshotId": "ee335cad-4894-4cd6-ab70-df9adedfeb39",
   "twitterId": "1089927350748352512",
-  "scannedAt": "2026-06-02T05:03:50.526Z",
+  "scannedAt": "2026-07-16T07:49:41.295Z",
   "fields": {
     "username": "HajAghaSadegh",
     "displayName": "حاج آقا صادق 🎒",
@@ -15,149 +15,85 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTA4OTkyNzM1MDc0ODM1MjUxMg==",
-          "result": {
-            "id": "VXNlcjoxMDg5OTI3MzUwNzQ4MzUyNTEy",
-            "core": {
-              "name": "حاج آقا صادق 🎒",
-              "created_at": "Mon Jan 28 16:45:05 +0000 2019",
-              "screen_name": "HajAghaSadegh"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1425764885099581441/EKgfr19K_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1089927350748352512",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "7",
-                "last_changed_at_msec": "1598560719090"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA4OTkyNzM1MDc0ODM1MjUxMg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxMDg5OTI3MzUwNzQ4MzUyNTEy",
-            "core": {
-              "name": "حاج آقا صادق 🎒",
-              "created_at": "Mon Jan 28 16:45:05 +0000 2019",
-              "screen_name": "HajAghaSadegh"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1425764885099581441/EKgfr19K_normal.jpg"
             },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jan 28 16:45:05 +0000 2019",
+              "name": "حاج آقا صادق 🎒",
+              "screen_name": "HajAghaSadegh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDg5OTI3MzUwNzQ4MzUyNTEy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
             "legacy": {
-              "url": "https://t.co/XQu4VV2VkL",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "عبد و فقیر الی الله|طلبه درس خارج|ارشد رسانه‌دار|انقلابی عدالت‌طلب اصلاح‌جو|\nدم در بَده، بفرمایید داخل (:\nقبل از رفتن هم اون زنگ بالا🔔 رو بزنید لطفا❤️",
               "entities": {
+                "description": {},
                 "url": {
                   "urls": [
                     {
-                      "url": "https://t.co/XQu4VV2VkL",
+                      "display_url": "twitter.com/search?q=from%…",
+                      "expanded_url": "https://twitter.com/search?q=from%3A%40HajAghaSadegh%2Fexclude%3Areplies",
                       "indices": [
                         0,
                         23
                       ],
-                      "display_url": "twitter.com/search?q=from%…",
-                      "expanded_url": "https://twitter.com/search?q=from%3A%40HajAghaSadegh%2Fexclude%3Areplies"
+                      "url": "https://t.co/XQu4VV2VkL"
                     }
                   ]
-                },
-                "description": {}
+                }
               },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "عبد و فقیر الی الله|طلبه درس خارج|ارشد رسانه‌دار|انقلابی عدالت‌طلب اصلاح‌جو|\nدم در بَده، بفرمایید داخل (:\nقبل از رفتن هم اون زنگ بالا🔔 رو بزنید لطفا❤️",
-              "media_count": 357,
-              "listed_count": 8,
-              "friends_count": 1697,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 8368,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1721,
-              "translator_type": "none",
-              "favourites_count": 53986,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089927350748352512/1550066049",
-              "follow_request_sent": false,
               "fast_followers_count": 0,
+              "favourites_count": 54916,
+              "follow_request_sent": false,
+              "followers_count": 1724,
+              "friends_count": 1703,
               "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 8,
+              "media_count": 361,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1724,
+              "notifications": false,
               "pinned_tweet_ids_str": [
                 "1303341959461781505"
               ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089927350748352512/1550066049",
+              "profile_interstitial_type": "",
+              "statuses_count": 8423,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/XQu4VV2VkL",
+              "utc_offset": 0,
+              "want_retweets": false,
               "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1721,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+              "withheld_scope": ""
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1089927350748352512",
-            "location": {
-              "location": "اینجا"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "عبد و فقیر الی الله|طلبه درس خارج|ارشد رسانه‌دار|انقلابی عدالت‌طلب اصلاح‌جو|\nدم در بَده، بفرمایید داخل (:\nقبل از رفتن هم اون زنگ بالا🔔 رو بزنید لطفا❤️"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 17,
@@ -166,14 +102,78 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "اینجا"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "عبد و فقیر الی الله|طلبه درس خارج|ارشد رسانه‌دار|انقلابی عدالت‌طلب اصلاح‌جو|\nدم در بَده، بفرمایید داخل (:\nقبل از رفتن هم اون زنگ بالا🔔 رو بزنید لطفا❤️"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1089927350748352512",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTA4OTkyNzM1MDc0ODM1MjUxMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "7",
+                "last_changed_at_msec": "1598560719090"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1425764885099581441/EKgfr19K_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jan 28 16:45:05 +0000 2019",
+              "name": "حاج آقا صادق 🎒",
+              "screen_name": "HajAghaSadegh"
+            },
+            "id": "VXNlcjoxMDg5OTI3MzUwNzQ4MzUyNTEy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1089927350748352512",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA4OTkyNzM1MDc0ODM1MjUxMg==",
+              "is_identity_verified": false
             }
           }
         }
