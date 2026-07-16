@@ -1,7 +1,7 @@
 {
   "snapshotId": "ea541f56-cb48-4d53-86a7-7aae01637f94",
   "twitterId": "355151457",
-  "scannedAt": "2026-06-01T07:33:49.777Z",
+  "scannedAt": "2026-07-16T03:04:32.387Z",
   "fields": {
     "username": "Fazlinejad",
     "displayName": "پيام فضلی‌نژاد",
@@ -15,212 +15,212 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/907117025503346689/s9wAZzfT_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Aug 14 22:36:46 +0000 2011",
+              "name": "پيام فضلی‌نژاد",
+              "screen_name": "Fazlinejad"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        41,
+                        56
+                      ],
+                      "text": "NaghdeAndisheh"
+                    },
+                    {
+                      "indices": [
+                        104,
+                        113
+                      ],
+                      "text": "Shockran"
+                    },
+                    {
+                      "indices": [
+                        164,
+                        177
+                      ],
+                      "text": "AsreAndisheh"
+                    }
+                  ],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": [
+                    {
+                      "id": "829475122218205185",
+                      "id_str": "829475122218205185",
+                      "indices": [
+                        202,
+                        217
+                      ],
+                      "name": "مجله نقد انديشه",
+                      "screen_name": "naghdeandisheh"
+                    }
+                  ]
+                },
+                "source_language": "fa",
+                "translation": "Managing Director and Editor-in-Chief of #NaghdeAndisheh magazine | Producer and Editor-in-Chief of the #Shockran program, Channel Four | Former Editor-in-Chief of #AsreAndisheh magazine | Publisher of @naghdeandisheh magazine"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjozNTUxNTE0NTc=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "مديرمسئول و سردبیر مجله #نقد_انديشه | تهیه‌کننده و سردبیر برنامه #شوکران، شبکه چهار | سردبیر پیشین مجله #عصر_اندیشه | Publisher of @naghdeandisheh magazine",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/NaghdeAndisheh…",
+                      "expanded_url": "https://t.me/NaghdeAndisheh/1023",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/EOVSVSmNzt"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 28754,
+              "follow_request_sent": false,
+              "followers_count": 27051,
+              "friends_count": 1441,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 132,
+              "media_count": 505,
+              "needs_phone_verification": false,
+              "normal_followers_count": 27051,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2064779940738797693"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/355151457/1686691090",
+              "profile_interstitial_type": "",
+              "statuses_count": 3149,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/EOVSVSmNzt",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran, iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 956,
+                  "name": "Writer"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1679608057305636865"
+            },
+            "profile_bio": {
+              "description": "مديرمسئول و سردبیر مجله #نقد_انديشه | تهیه‌کننده و سردبیر برنامه #شوکران، شبکه چهار | سردبیر پیشین مجله #عصر_اندیشه | Publisher of @naghdeandisheh magazine"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "355151457",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MzU1MTUxNDU3",
           "result": {
-            "id": "VXNlcjozNTUxNTE0NTc=",
-            "core": {
-              "name": "پيام فضلی‌نژاد",
-              "created_at": "Sun Aug 14 22:36:46 +0000 2011",
-              "screen_name": "Fazlinejad"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/907117025503346689/s9wAZzfT_normal.jpg"
             },
+            "core": {
+              "created_at": "Sun Aug 14 22:36:46 +0000 2011",
+              "name": "پيام فضلی‌نژاد",
+              "screen_name": "Fazlinejad"
+            },
+            "id": "VXNlcjozNTUxNTE0NTc=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "355151457",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzU1MTUxNDU3",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjozNTUxNTE0NTc=",
-            "core": {
-              "name": "پيام فضلی‌نژاد",
-              "created_at": "Sun Aug 14 22:36:46 +0000 2011",
-              "screen_name": "Fazlinejad"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/907117025503346689/s9wAZzfT_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/EOVSVSmNzt",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/EOVSVSmNzt",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/NaghdeAndisheh…",
-                      "expanded_url": "https://t.me/NaghdeAndisheh/1023"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مديرمسئول و سردبیر مجله #نقد_انديشه | تهیه‌کننده و سردبیر برنامه #شوکران، شبکه چهار | سردبیر پیشین مجله #عصر_اندیشه | Publisher of @naghdeandisheh magazine",
-              "media_count": 498,
-              "listed_count": 131,
-              "friends_count": 1414,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 3124,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 26830,
-              "translator_type": "none",
-              "favourites_count": 28723,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/355151457/1686691090",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "2032603031364149423"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 26830,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "355151457",
-            "location": {
-              "location": "Tehran, iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مديرمسئول و سردبیر مجله #نقد_انديشه | تهیه‌کننده و سردبیر برنامه #شوکران، شبکه چهار | سردبیر پیشین مجله #عصر_اندیشه | Publisher of @naghdeandisheh magazine"
-            },
-            "professional": {
-              "rest_id": "1679608057305636865",
-              "category": [
-                {
-                  "id": 956,
-                  "name": "Writer",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [
-                    {
-                      "text": "NaghdeAndisheh",
-                      "indices": [
-                        19,
-                        34
-                      ]
-                    },
-                    {
-                      "text": "Shockran",
-                      "indices": [
-                        69,
-                        78
-                      ]
-                    },
-                    {
-                      "text": "AsreAndisheh",
-                      "indices": [
-                        129,
-                        142
-                      ]
-                    }
-                  ],
-                  "user_mentions": [
-                    {
-                      "id": "829475122218205185",
-                      "name": "مجله نقد انديشه",
-                      "id_str": "829475122218205185",
-                      "indices": [
-                        167,
-                        182
-                      ],
-                      "screen_name": "naghdeandisheh"
-                    }
-                  ]
-                },
-                "translation": "Editor-in-Chief of #NaghdeAndisheh magazine | Producer and Editor of #Shockran program, Channel Four | Former Editor-in-Chief of #AsreAndisheh magazine | Publisher of @naghdeandisheh magazine",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
