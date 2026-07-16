@@ -1,7 +1,7 @@
 {
   "snapshotId": "3239360a-78bf-4ad9-bc99-e60b5adb15c6",
   "twitterId": "2049533168030527488",
-  "scannedAt": "2026-06-02T05:08:27.890Z",
+  "scannedAt": "2026-07-16T07:51:41.022Z",
   "fields": {
     "username": "PariGomshodeh",
     "displayName": "𝙿𝚊𝚛𝚒g𝚘𝚖𝚜𝚑𝚘𝚍𝚎𝚑❣️",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2051030523737174016/-39vNB7o_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Apr 29 16:56:37 +0000 2026",
+              "name": "𝙿𝚊𝚛𝚒g𝚘𝚖𝚜𝚑𝚘𝚍𝚎𝚑❣️",
+              "screen_name": "PariGomshodeh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQ5NTMzMTY4MDMwNTI3NDg4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "-وَعَبآس، کفیل ِدل‌هآی ِرَنج‌دیدِه‌دَردُنیآست《إِنَّ مَعیَ رَبّی...》\n 💚𝟙𝟛𝟛",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 5478,
+              "follow_request_sent": false,
+              "followers_count": 796,
+              "friends_count": 650,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 43,
+              "needs_phone_verification": false,
+              "normal_followers_count": 796,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2051397402968396028"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049533168030527488/1777839971",
+              "profile_interstitial_type": "",
+              "statuses_count": 2414,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "-وَعَبآس، کفیل ِدل‌هآی ِرَنج‌دیدِه‌دَردُنیآست《إِنَّ مَعیَ رَبّی...》\n 💚𝟙𝟛𝟛"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2049533168030527488",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjA0OTUzMzE2ODAzMDUyNzQ4OA==",
           "result": {
-            "id": "VXNlcjoyMDQ5NTMzMTY4MDMwNTI3NDg4",
-            "core": {
-              "name": "𝙿𝚊𝚛𝚒g𝚘𝚖𝚜𝚑𝚘𝚍𝚎𝚑❣️",
-              "created_at": "Wed Apr 29 16:56:37 +0000 2026",
-              "screen_name": "PariGomshodeh"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2051030523737174016/-39vNB7o_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2049533168030527488",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1777839178769"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0OTUzMzE2ODAzMDUyNzQ4OA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDQ5NTMzMTY4MDMwNTI3NDg4",
-            "core": {
-              "name": "𝙿𝚊𝚛𝚒g𝚘𝚖𝚜𝚑𝚘𝚍𝚎𝚑❣️",
-              "created_at": "Wed Apr 29 16:56:37 +0000 2026",
-              "screen_name": "PariGomshodeh"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2051030523737174016/-39vNB7o_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "-وَعَبآس، کفیل ِدل‌هآی ِرَنج‌دیدِه‌دَردُنیآست《إِنَّ مَعیَ رَبّی...》\n 💚𝟙𝟛𝟛",
-              "media_count": 16,
-              "listed_count": 0,
-              "friends_count": 436,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 249,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 508,
-              "translator_type": "none",
-              "favourites_count": 575,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049533168030527488/1777839971",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2051397402968396028"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 508,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Apr 29 16:56:37 +0000 2026",
+              "name": "𝙿𝚊𝚛𝚒g𝚘𝚖𝚜𝚑𝚘𝚍𝚎𝚑❣️",
+              "screen_name": "PariGomshodeh"
             },
+            "id": "VXNlcjoyMDQ5NTMzMTY4MDMwNTI3NDg4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2049533168030527488",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "-وَعَبآس، کفیل ِدل‌هآی ِرَنج‌دیدِه‌دَردُنیآست《إِنَّ مَعیَ رَبّی...》\n 💚𝟙𝟛𝟛"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0OTUzMzE2ODAzMDUyNzQ4OA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
