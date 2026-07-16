@@ -1,0 +1,159 @@
+{
+  "snapshotId": "6b4d090c-95c4-426c-9ca2-dd35d1e13153",
+  "twitterId": "2041515906606444544",
+  "scannedAt": "2026-07-16T16:44:10.051Z",
+  "fields": {
+    "username": "Lawyer_shirzad",
+    "displayName": "Mohammad Shirzad",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2045488747714588672/Ujnw1hQU_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2041515906606444544/1778872431",
+    "bio": "",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045488747714588672/Ujnw1hQU_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Apr 07 14:00:36 +0000 2026",
+              "name": "Mohammad Shirzad",
+              "screen_name": "Lawyer_shirzad"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQxNTE1OTA2NjA2NDQ0NTQ0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 52,
+              "follow_request_sent": false,
+              "followers_count": 2,
+              "friends_count": 92,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 0,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041515906606444544/1778872431",
+              "profile_interstitial_type": "",
+              "statuses_count": 70,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2041515906606444544",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA0MTUxNTkwNjYwNjQ0NDU0NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1775570583017"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045488747714588672/Ujnw1hQU_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Apr 07 14:00:36 +0000 2026",
+              "name": "Mohammad Shirzad",
+              "screen_name": "Lawyer_shirzad"
+            },
+            "id": "VXNlcjoyMDQxNTE1OTA2NjA2NDQ0NTQ0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2041515906606444544",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0MTUxNTkwNjYwNjQ0NDU0NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
