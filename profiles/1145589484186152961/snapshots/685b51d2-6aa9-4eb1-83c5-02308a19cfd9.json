@@ -1,7 +1,7 @@
 {
   "snapshotId": "685b51d2-6aa9-4eb1-83c5-02308a19cfd9",
   "twitterId": "1145589484186152961",
-  "scannedAt": "2026-06-01T13:30:13.971Z",
+  "scannedAt": "2026-07-16T04:57:42.085Z",
   "fields": {
     "username": "Mmahdaviat",
     "displayName": "مهدیاران",
@@ -15,155 +15,155 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1905001673388396544/4RB7Pr27_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jul 01 07:06:31 +0000 2019",
+              "name": "مهدیاران",
+              "screen_name": "Mmahdaviat"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTQ1NTg5NDg0MTg2MTUyOTYx",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "رسانۀ تخصصی مهدویت و حوزه آخرالزمان",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "zil.ink/mahdiaran",
+                      "expanded_url": "http://zil.ink/mahdiaran",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/dkAldV6T3K"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2197,
+              "follow_request_sent": false,
+              "followers_count": 41750,
+              "friends_count": 47,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 49,
+              "media_count": 1351,
+              "needs_phone_verification": false,
+              "normal_followers_count": 41750,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145589484186152961/1698224866",
+              "profile_interstitial_type": "",
+              "statuses_count": 2386,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/dkAldV6T3K",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "رسانۀ تخصصی مهدویت و حوزه آخرالزمان"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1145589484186152961",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTE0NTU4OTQ4NDE4NjE1Mjk2MQ==",
           "result": {
-            "id": "VXNlcjoxMTQ1NTg5NDg0MTg2MTUyOTYx",
-            "core": {
-              "name": "مهدیاران",
-              "created_at": "Mon Jul 01 07:06:31 +0000 2019",
-              "screen_name": "Mmahdaviat"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1905001673388396544/4RB7Pr27_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1145589484186152961",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1561965357249"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE0NTU4OTQ4NDE4NjE1Mjk2MQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMTQ1NTg5NDg0MTg2MTUyOTYx",
-            "core": {
-              "name": "مهدیاران",
-              "created_at": "Mon Jul 01 07:06:31 +0000 2019",
-              "screen_name": "Mmahdaviat"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1905001673388396544/4RB7Pr27_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/dkAldV6T3K",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/dkAldV6T3K",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "zil.ink/mahdiaran",
-                      "expanded_url": "http://zil.ink/mahdiaran"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "رسانۀ تخصصی مهدویت و حوزه آخرالزمان",
-              "media_count": 1323,
-              "listed_count": 50,
-              "friends_count": 48,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2355,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 41733,
-              "translator_type": "none",
-              "favourites_count": 2194,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145589484186152961/1698224866",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 41733,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Jul 01 07:06:31 +0000 2019",
+              "name": "مهدیاران",
+              "screen_name": "Mmahdaviat"
             },
+            "id": "VXNlcjoxMTQ1NTg5NDg0MTg2MTUyOTYx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1145589484186152961",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "رسانۀ تخصصی مهدویت و حوزه آخرالزمان"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE0NTU4OTQ4NDE4NjE1Mjk2MQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
