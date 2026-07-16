@@ -1,0 +1,211 @@
+{
+  "snapshotId": "89e06a8a-da5a-44f7-984b-a8caa7b0aacd",
+  "twitterId": "1031578778508644354",
+  "scannedAt": "2026-07-16T04:54:06.966Z",
+  "fields": {
+    "username": "A_poormasood",
+    "displayName": "علیرضا پورمسعود",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1960357225035104256/J7Bzxm0F_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1031578778508644354/1736415577",
+    "bio": "همه چیز می گذرد ...\n\nوطن دوستی بخشی از ایمان است",
+    "selfLocation": "Iran,Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1960357225035104256/J7Bzxm0F_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Aug 20 16:28:41 +0000 2018",
+              "name": "علیرضا پورمسعود",
+              "screen_name": "A_poormasood"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Everything passes ...\n\nPatriotism is part of faith"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "1"
+            },
+            "id": "VXNlcjoxMDMxNTc4Nzc4NTA4NjQ0MzU0",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "همه چیز می گذرد ...\n\nوطن دوستی بخشی از ایمان است",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "youtube.com/@PourmasoudOff…",
+                      "expanded_url": "https://www.youtube.com/@PourmasoudOfficial",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/6NnUBNnFW4"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 7296,
+              "follow_request_sent": false,
+              "followers_count": 96176,
+              "friends_count": 47,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 249,
+              "media_count": 651,
+              "needs_phone_verification": false,
+              "normal_followers_count": 96176,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1868337634713424048"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1031578778508644354/1736415577",
+              "profile_interstitial_type": "",
+              "statuses_count": 2092,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/6NnUBNnFW4",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran,Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Business",
+              "rest_id": "1666534512354885633"
+            },
+            "profile_bio": {
+              "description": "همه چیز می گذرد ...\n\nوطن دوستی بخشی از ایمان است"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1031578778508644354",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1776302169259"
+              }
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTAzMTU3ODc3ODUwODY0NDM1NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1534785497699"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1960357225035104256/J7Bzxm0F_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Aug 20 16:28:41 +0000 2018",
+              "name": "علیرضا پورمسعود",
+              "screen_name": "A_poormasood"
+            },
+            "id": "VXNlcjoxMDMxNTc4Nzc4NTA4NjQ0MzU0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1031578778508644354",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTAzMTU3ODc3ODUwODY0NDM1NA==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1776302169259"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
