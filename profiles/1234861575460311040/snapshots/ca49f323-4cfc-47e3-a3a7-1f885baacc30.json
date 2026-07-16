@@ -1,7 +1,7 @@
 {
   "snapshotId": "ca49f323-4cfc-47e3-a3a7-1f885baacc30",
   "twitterId": "1234861575460311040",
-  "scannedAt": "2026-06-02T04:47:21.815Z",
+  "scannedAt": "2026-07-16T07:31:31.235Z",
   "fields": {
     "username": "zh__madareman",
     "displayName": "مادرِمن",
@@ -15,153 +15,156 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2026875628612411392/5qd2zl-D_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Mar 03 15:22:15 +0000 2020",
+              "name": "مادرِمن",
+              "screen_name": "zh__madareman"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjM0ODYxNTc1NDYwMzExMDQw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "ان شاءالله جوان های ما عاقبت به خیر  وسربازان خوبی برای  صاحب الزمان (عج) شوند .برای ظهور امام زمان (عج) زیاد دعاکنیدوامام شهداوشهدا را فراموش نکنید.",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 31820,
+              "follow_request_sent": false,
+              "followers_count": 15996,
+              "friends_count": 13931,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 1542,
+              "needs_phone_verification": false,
+              "normal_followers_count": 15996,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2067188020864749991"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1234861575460311040/1747708257",
+              "profile_interstitial_type": "",
+              "statuses_count": 17860,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 580,
+                  "name": "Media & News Company"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1522194469462114304"
+            },
+            "profile_bio": {
+              "description": "ان شاءالله جوان های ما عاقبت به خیر  وسربازان خوبی برای  صاحب الزمان (عج) شوند .برای ظهور امام زمان (عج) زیاد دعاکنیدوامام شهداوشهدا را فراموش نکنید."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1234861575460311040",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTIzNDg2MTU3NTQ2MDMxMTA0MA==",
           "result": {
-            "id": "VXNlcjoxMjM0ODYxNTc1NDYwMzExMDQw",
-            "core": {
-              "name": "مادرِمن",
-              "created_at": "Tue Mar 03 15:22:15 +0000 2020",
-              "screen_name": "zh__madareman"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2026875628612411392/5qd2zl-D_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1234861575460311040",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "7",
                 "last_changed_at_msec": "1774558768446"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIzNDg2MTU3NTQ2MDMxMTA0MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjM0ODYxNTc1NDYwMzExMDQw",
-            "core": {
-              "name": "مادرِمن",
-              "created_at": "Tue Mar 03 15:22:15 +0000 2020",
-              "screen_name": "zh__madareman"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2026875628612411392/5qd2zl-D_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "ان شاءالله جوان های ما عاقبت به خیر  وسربازان خوبی برای  صاحب الزمان (عج) شوند .برای ظهور امام زمان (عج) زیاد دعاکنیدوامام شهداوشهدا را فراموش نکنید.",
-              "media_count": 1426,
-              "listed_count": 5,
-              "friends_count": 13538,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 16716,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 15569,
-              "translator_type": "none",
-              "favourites_count": 29056,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1234861575460311040/1747708257",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 15569,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Mar 03 15:22:15 +0000 2020",
+              "name": "مادرِمن",
+              "screen_name": "zh__madareman"
             },
+            "id": "VXNlcjoxMjM0ODYxNTc1NDYwMzExMDQw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1234861575460311040",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "ان شاءالله جوان های ما عاقبت به خیر  وسربازان خوبی برای  صاحب الزمان (عج) شوند .برای ظهور امام زمان (عج) زیاد دعاکنیدوامام شهداوشهدا را فراموش نکنید."
-            },
-            "professional": {
-              "rest_id": "1522194469462114304",
-              "category": [
-                {
-                  "id": 580,
-                  "name": "Media & News Company",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIzNDg2MTU3NTQ2MDMxMTA0MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
