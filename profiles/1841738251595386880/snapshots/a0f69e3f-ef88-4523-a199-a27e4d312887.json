@@ -1,7 +1,7 @@
 {
   "snapshotId": "a0f69e3f-ef88-4523-a199-a27e4d312887",
   "twitterId": "1841738251595386880",
-  "scannedAt": "2026-06-02T05:36:31.214Z",
+  "scannedAt": "2026-07-16T08:22:57.499Z",
   "fields": {
     "username": "Mortaza_talayi",
     "displayName": "مرتضی(هیچ سابق)🚩",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2005205369564413952/IsLtcQkz_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Oct 03 07:13:27 +0000 2024",
+              "name": "مرتضی(هیچ سابق)🚩",
+              "screen_name": "Mortaza_talayi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODQxNzM4MjUxNTk1Mzg2ODgw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "پژوهشگر مسائل آمریکا\n@Jeronimo_1_3 اکانت مرتضی طلایی به انگلیسی",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 176866,
+              "follow_request_sent": false,
+              "followers_count": 2815,
+              "friends_count": 1759,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 2670,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2815,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1851992173316538597"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841738251595386880/1766945127",
+              "profile_interstitial_type": "",
+              "statuses_count": 85996,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "زیر سایه خدا"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "پژوهشگر مسائل آمریکا\n@Jeronimo_1_3 اکانت مرتضی طلایی به انگلیسی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1841738251595386880",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg0MTczODI1MTU5NTM4Njg4MA==",
           "result": {
-            "id": "VXNlcjoxODQxNzM4MjUxNTk1Mzg2ODgw",
-            "core": {
-              "name": "مرتضی(هیچ سابق)🚩",
-              "created_at": "Thu Oct 03 07:13:27 +0000 2024",
-              "screen_name": "Mortaza_talayi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2005205369564413952/IsLtcQkz_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1841738251595386880",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1727940475400"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg0MTczODI1MTU5NTM4Njg4MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODQxNzM4MjUxNTk1Mzg2ODgw",
-            "core": {
-              "name": "مرتضی(هیچ سابق)🚩",
-              "created_at": "Thu Oct 03 07:13:27 +0000 2024",
-              "screen_name": "Mortaza_talayi"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2005205369564413952/IsLtcQkz_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "پژوهشگر مسائل آمریکا\n@Jeronimo_1_3 اکانت مرتضی طلایی به انگلیسی",
-              "media_count": 2551,
-              "listed_count": 3,
-              "friends_count": 1682,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 78978,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2708,
-              "translator_type": "none",
-              "favourites_count": 165571,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841738251595386880/1766945127",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1851992173316538597"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2708,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Oct 03 07:13:27 +0000 2024",
+              "name": "مرتضی(هیچ سابق)🚩",
+              "screen_name": "Mortaza_talayi"
             },
+            "id": "VXNlcjoxODQxNzM4MjUxNTk1Mzg2ODgw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1841738251595386880",
-            "location": {
-              "location": "زیر سایه خدا"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "پژوهشگر مسائل آمریکا\n@Jeronimo_1_3 اکانت مرتضی طلایی به انگلیسی"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg0MTczODI1MTU5NTM4Njg4MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
