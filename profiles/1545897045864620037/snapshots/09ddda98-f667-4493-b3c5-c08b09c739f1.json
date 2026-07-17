@@ -1,7 +1,7 @@
 {
   "snapshotId": "09ddda98-f667-4493-b3c5-c08b09c739f1",
   "twitterId": "1545897045864620037",
-  "scannedAt": "2026-06-02T13:17:17.480Z",
+  "scannedAt": "2026-07-17T06:05:26.624Z",
   "fields": {
     "username": "Parvaz176",
     "displayName": "پریماه🦋",
@@ -15,150 +15,150 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2026370055882022912/h6znFkTs_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jul 09 22:26:13 +0000 2022",
+              "name": "پریماه🦋",
+              "screen_name": "Parvaz176"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTQ1ODk3MDQ1ODY0NjIwMDM3",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "«هذا من فضل ربی» \n\nما همان نسل جوانیم که ثابت کردیم/\nدر ره ♡عشق♡جگر دار تر از صد مردیم",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 74201,
+              "follow_request_sent": false,
+              "followers_count": 12654,
+              "friends_count": 9978,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 6,
+              "media_count": 2624,
+              "needs_phone_verification": false,
+              "normal_followers_count": 12654,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2021620243135922601"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545897045864620037/1754519657",
+              "profile_interstitial_type": "",
+              "statuses_count": 18326,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "زیر آسمان شهر"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Business",
+              "rest_id": "1795572928257335650"
+            },
+            "profile_bio": {
+              "description": "«هذا من فضل ربی» \n\nما همان نسل جوانیم که ثابت کردیم/\nدر ره ♡عشق♡جگر دار تر از صد مردیم"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1545897045864620037",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU0NTg5NzA0NTg2NDYyMDAzNw==",
           "result": {
-            "id": "VXNlcjoxNTQ1ODk3MDQ1ODY0NjIwMDM3",
-            "core": {
-              "name": "پریماه🦋",
-              "created_at": "Sat Jul 09 22:26:13 +0000 2022",
-              "screen_name": "Parvaz176"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2026370055882022912/h6znFkTs_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1545897045864620037",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1658783728072"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU0NTg5NzA0NTg2NDYyMDAzNw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTQ1ODk3MDQ1ODY0NjIwMDM3",
-            "core": {
-              "name": "پریماه🦋",
-              "created_at": "Sat Jul 09 22:26:13 +0000 2022",
-              "screen_name": "Parvaz176"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2026370055882022912/h6znFkTs_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "«هذا من فضل ربی» \n\nما همان نسل جوانیم که ثابت کردیم/\nدر ره ♡عشق♡جگر دار تر از صد مردیم",
-              "media_count": 2560,
-              "listed_count": 6,
-              "friends_count": 9743,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 18030,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 12361,
-              "translator_type": "none",
-              "favourites_count": 71843,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545897045864620037/1754519657",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2021620243135922601"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 12361,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Jul 09 22:26:13 +0000 2022",
+              "name": "پریماه🦋",
+              "screen_name": "Parvaz176"
             },
+            "id": "VXNlcjoxNTQ1ODk3MDQ1ODY0NjIwMDM3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1545897045864620037",
-            "location": {
-              "location": "زیر آسمان شهر"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "«هذا من فضل ربی» \n\nما همان نسل جوانیم که ثابت کردیم/\nدر ره ♡عشق♡جگر دار تر از صد مردیم"
-            },
-            "professional": {
-              "rest_id": "1795572928257335650",
-              "category": [],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU0NTg5NzA0NTg2NDYyMDAzNw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
