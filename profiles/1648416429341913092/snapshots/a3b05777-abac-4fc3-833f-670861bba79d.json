@@ -1,7 +1,7 @@
 {
   "snapshotId": "a3b05777-abac-4fc3-833f-670861bba79d",
   "twitterId": "1648416429341913092",
-  "scannedAt": "2026-06-03T03:59:17.127Z",
+  "scannedAt": "2026-07-17T07:42:58.918Z",
   "fields": {
     "username": "Kor_Bakhtiyare",
     "displayName": "کُر بختیاری",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1927048267747004416/dwhpOnZb_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Apr 18 20:01:34 +0000 2023",
+              "name": "کُر بختیاری",
+              "screen_name": "Kor_Bakhtiyare"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjQ4NDE2NDI5MzQxOTEzMDky",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "🎹 ایرونیُم مو لُر بختیاری 🎹\n\nما آموخته ایم اَصلح انتخاب کنیم حتئ اگه 72 نفر باشیم....🖤\n              یا حسین😥",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 13019,
+              "follow_request_sent": false,
+              "followers_count": 9894,
+              "friends_count": 8305,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 670,
+              "needs_phone_verification": false,
+              "normal_followers_count": 9894,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1899210471846125664"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1648416429341913092/1683205746",
+              "profile_interstitial_type": "",
+              "statuses_count": 9986,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "چهارمحال وبختیاری  "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "🎹 ایرونیُم مو لُر بختیاری 🎹\n\nما آموخته ایم اَصلح انتخاب کنیم حتئ اگه 72 نفر باشیم....🖤\n              یا حسین😥"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1648416429341913092",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTY0ODQxNjQyOTM0MTkxMzA5Mg==",
           "result": {
-            "id": "VXNlcjoxNjQ4NDE2NDI5MzQxOTEzMDky",
-            "core": {
-              "name": "کُر بختیاری",
-              "created_at": "Tue Apr 18 20:01:34 +0000 2023",
-              "screen_name": "Kor_Bakhtiyare"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1927048267747004416/dwhpOnZb_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1648416429341913092",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1682377819465"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY0ODQxNjQyOTM0MTkxMzA5Mg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjQ4NDE2NDI5MzQxOTEzMDky",
-            "core": {
-              "name": "کُر بختیاری",
-              "created_at": "Tue Apr 18 20:01:34 +0000 2023",
-              "screen_name": "Kor_Bakhtiyare"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1927048267747004416/dwhpOnZb_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "🎹 ایرونیُم مو لُر بختیاری 🎹\n\nما آموخته ایم اَصلح انتخاب کنیم حتئ اگه 72 نفر باشیم....🖤\n              یا حسین😥",
-              "media_count": 667,
-              "listed_count": 2,
-              "friends_count": 8306,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 9944,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 9904,
-              "translator_type": "none",
-              "favourites_count": 12977,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1648416429341913092/1683205746",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1899210471846125664"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 9904,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Apr 18 20:01:34 +0000 2023",
+              "name": "کُر بختیاری",
+              "screen_name": "Kor_Bakhtiyare"
             },
+            "id": "VXNlcjoxNjQ4NDE2NDI5MzQxOTEzMDky",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1648416429341913092",
-            "location": {
-              "location": "چهارمحال وبختیاری  "
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "🎹 ایرونیُم مو لُر بختیاری 🎹\n\nما آموخته ایم اَصلح انتخاب کنیم حتئ اگه 72 نفر باشیم....🖤\n              یا حسین😥"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY0ODQxNjQyOTM0MTkxMzA5Mg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
