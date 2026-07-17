@@ -1,7 +1,7 @@
 {
   "snapshotId": "b788db08-b4c3-4b79-a0dd-c6285497f5bb",
   "twitterId": "4881862457",
-  "scannedAt": "2026-06-02T07:10:48.156Z",
+  "scannedAt": "2026-07-17T04:09:16.490Z",
   "fields": {
     "username": "Rahmani33405",
     "displayName": "علیـرضا رحمانی",
@@ -15,155 +15,155 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1543478370754781185/aaaZ5tQt_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Feb 06 15:10:23 +0000 2016",
+              "name": "علیـرضا رحمانی",
+              "screen_name": "Rahmani33405"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo0ODgxODYyNDU3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "حقوق‌دانِ ارتباطات‌خوانده، معاون رسانه نسل نو",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "zil.ink/33405",
+                      "expanded_url": "http://zil.ink/33405",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/zWSewTR8e7"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 7768,
+              "follow_request_sent": false,
+              "followers_count": 390,
+              "friends_count": 558,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 93,
+              "needs_phone_verification": false,
+              "normal_followers_count": 390,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 969,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/zWSewTR8e7",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "متأسفانه تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "حقوق‌دانِ ارتباطات‌خوانده، معاون رسانه نسل نو"
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "4881862457",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6NDg4MTg2MjQ1Nw==",
           "result": {
-            "id": "VXNlcjo0ODgxODYyNDU3",
-            "core": {
-              "name": "علیـرضا رحمانی",
-              "created_at": "Sat Feb 06 15:10:23 +0000 2016",
-              "screen_name": "Rahmani33405"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1543478370754781185/aaaZ5tQt_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "4881862457",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1637946103525"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NDg4MTg2MjQ1Nw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo0ODgxODYyNDU3",
-            "core": {
-              "name": "علیـرضا رحمانی",
-              "created_at": "Sat Feb 06 15:10:23 +0000 2016",
-              "screen_name": "Rahmani33405"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1543478370754781185/aaaZ5tQt_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/zWSewTR8e7",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/zWSewTR8e7",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "zil.ink/33405",
-                      "expanded_url": "http://zil.ink/33405"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "حقوق‌دانِ ارتباطات‌خوانده، معاون رسانه نسل نو",
-              "media_count": 93,
-              "listed_count": 3,
-              "friends_count": 559,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 968,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 391,
-              "translator_type": "none",
-              "favourites_count": 7768,
-              "possibly_sensitive": false,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 391,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Feb 06 15:10:23 +0000 2016",
+              "name": "علیـرضا رحمانی",
+              "screen_name": "Rahmani33405"
             },
+            "id": "VXNlcjo0ODgxODYyNDU3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "4881862457",
-            "location": {
-              "location": "متأسفانه تهران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "حقوق‌دانِ ارتباطات‌خوانده، معاون رسانه نسل نو"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NDg4MTg2MjQ1Nw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "ar",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
