@@ -1,7 +1,7 @@
 {
   "snapshotId": "43415e0b-90fa-4aac-b273-9d356867a0f3",
   "twitterId": "1436024654985039876",
-  "scannedAt": "2026-06-03T04:48:25.436Z",
+  "scannedAt": "2026-07-17T08:45:17.365Z",
   "fields": {
     "username": "vatanamiran67",
     "displayName": "انقلابی ام",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1682628289754550312/i3aGKmCd_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Sep 09 17:52:48 +0000 2021",
+              "name": "انقلابی ام",
+              "screen_name": "vatanamiran67"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDM2MDI0NjU0OTg1MDM5ODc2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "🌹معلم انقلابیِ فعال در مجازی...🌹",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 82765,
+              "follow_request_sent": false,
+              "followers_count": 9121,
+              "friends_count": 5176,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 7,
+              "media_count": 1490,
+              "needs_phone_verification": false,
+              "normal_followers_count": 9121,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1952051824506081672"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436024654985039876/1688842614",
+              "profile_interstitial_type": "",
+              "statuses_count": 47583,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "🌹معلم انقلابیِ فعال در مجازی...🌹"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1436024654985039876",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTQzNjAyNDY1NDk4NTAzOTg3Ng==",
           "result": {
-            "id": "VXNlcjoxNDM2MDI0NjU0OTg1MDM5ODc2",
-            "core": {
-              "name": "انقلابی ام",
-              "created_at": "Thu Sep 09 17:52:48 +0000 2021",
-              "screen_name": "vatanamiran67"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1682628289754550312/i3aGKmCd_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1436024654985039876",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1667548697348"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQzNjAyNDY1NDk4NTAzOTg3Ng==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNDM2MDI0NjU0OTg1MDM5ODc2",
-            "core": {
-              "name": "انقلابی ام",
-              "created_at": "Thu Sep 09 17:52:48 +0000 2021",
-              "screen_name": "vatanamiran67"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1682628289754550312/i3aGKmCd_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "🌹معلم انقلابیِ فعال در مجازی...🌹",
-              "media_count": 1483,
-              "listed_count": 7,
-              "friends_count": 5172,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 47613,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 8974,
-              "translator_type": "none",
-              "favourites_count": 82777,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436024654985039876/1688842614",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1952051824506081672"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 8974,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Sep 09 17:52:48 +0000 2021",
+              "name": "انقلابی ام",
+              "screen_name": "vatanamiran67"
             },
+            "id": "VXNlcjoxNDM2MDI0NjU0OTg1MDM5ODc2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1436024654985039876",
-            "location": {
-              "location": "ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "🌹معلم انقلابیِ فعال در مجازی...🌹"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQzNjAyNDY1NDk4NTAzOTg3Ng==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
