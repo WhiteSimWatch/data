@@ -1,7 +1,7 @@
 {
   "snapshotId": "26c32388-db70-4b3b-b8f3-df7dc49e302d",
   "twitterId": "1763982992261758977",
-  "scannedAt": "2026-06-02T07:52:22.907Z",
+  "scannedAt": "2026-07-17T04:54:05.691Z",
   "fields": {
     "username": "nrgs_fp84",
     "displayName": "🎒معلم ستاره ساز:)🌟",
@@ -15,156 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2043970077691875328/JgwTl8JJ_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Mar 02 17:41:53 +0000 2024",
+              "name": "🎒معلم ستاره ساز:)🌟",
+              "screen_name": "nrgs_fp84"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzYzOTgyOTkyMjYxNzU4OTc3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "چوب این حجم از محبت میکشد آخر مرا، باز هم مانند سابق مهربانی میکنم:) یک عدد جوجه معلم دهه هشتادی🐣👩‍🏫\nفالو=بک تضمینی🤝💯",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 48253,
+              "follow_request_sent": false,
+              "followers_count": 2646,
+              "friends_count": 3015,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 6,
+              "media_count": 269,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2646,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2046127670358847627"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763982992261758977/1759691202",
+              "profile_interstitial_type": "",
+              "statuses_count": 10574,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "گوشه ای از حرم اميرالمؤمنين(ع)"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "چوب این حجم از محبت میکشد آخر مرا، باز هم مانند سابق مهربانی میکنم:) یک عدد جوجه معلم دهه هشتادی🐣👩‍🏫\nفالو=بک تضمینی🤝💯"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1763982992261758977",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTc2Mzk4Mjk5MjI2MTc1ODk3Nw==",
           "result": {
-            "id": "VXNlcjoxNzYzOTgyOTkyMjYxNzU4OTc3",
-            "core": {
-              "name": "🎒معلم ستاره ساز:)🌟",
-              "created_at": "Sat Mar 02 17:41:53 +0000 2024",
-              "screen_name": "nrgs_fp84"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2043970077691875328/JgwTl8JJ_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1763982992261758977",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1712244589755"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc2Mzk4Mjk5MjI2MTc1ODk3Nw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNzYzOTgyOTkyMjYxNzU4OTc3",
-            "core": {
-              "name": "🎒معلم ستاره ساز:)🌟",
-              "created_at": "Sat Mar 02 17:41:53 +0000 2024",
-              "screen_name": "nrgs_fp84"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2043970077691875328/JgwTl8JJ_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "چوب این حجم از محبت میکشد آخر مرا، باز هم مانند سابق مهربانی میکنم:) یک عدد جوجه معلم دهه هشتادی🐣👩‍🏫\nفالو=بک تضمینی🤝💯",
-              "media_count": 264,
-              "listed_count": 6,
-              "friends_count": 2997,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 10367,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2624,
-              "translator_type": "none",
-              "favourites_count": 47920,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763982992261758977/1759691202",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2046127670358847627"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2624,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Mar 02 17:41:53 +0000 2024",
+              "name": "🎒معلم ستاره ساز:)🌟",
+              "screen_name": "nrgs_fp84"
             },
+            "id": "VXNlcjoxNzYzOTgyOTkyMjYxNzU4OTc3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1763982992261758977",
-            "location": {
-              "location": "گوشه ای از حرم اميرالمؤمنين(ع)"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "چوب این حجم از محبت میکشد آخر مرا، باز هم مانند سابق مهربانی میکنم:) یک عدد جوجه معلم دهه هشتادی🐣👩‍🏫\nفالو=بک تضمینی🤝💯"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc2Mzk4Mjk5MjI2MTc1ODk3Nw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "This much affection is going to be the death of me, but I'll keep being kind like before:) One '80s-born teacher chick🐣👩‍🏫  \nFollow=back guaranteed🤝💯",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
