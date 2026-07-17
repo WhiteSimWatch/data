@@ -1,7 +1,7 @@
 {
   "snapshotId": "ddefcd24-763b-47c4-9607-72a0f368f87c",
   "twitterId": "967473440",
-  "scannedAt": "2026-06-03T04:38:59.532Z",
+  "scannedAt": "2026-07-17T08:33:44.720Z",
   "fields": {
     "username": "farahani52",
     "displayName": "Majid Farahani",
@@ -15,168 +15,157 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/755425151890575361/uMPR-fGi_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Nov 24 06:21:07 +0000 2012",
+              "name": "Majid Farahani",
+              "screen_name": "farahani52"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5Njc0NzM0NDA=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "معاون هماهنگی و پیگیری معاونت اجرایی رئیس جمهور / عضو شورای اسلامی شهر تهران ( دوره پنجم)  / عضو شورایعالی و هیات مدیره  انجمن مدیریت پروژه ایران",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "aryanapm.com",
+                      "expanded_url": "http://aryanapm.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/OuqLJC186w"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 184,
+              "follow_request_sent": false,
+              "followers_count": 9302,
+              "friends_count": 251,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 53,
+              "media_count": 112,
+              "needs_phone_verification": false,
+              "normal_followers_count": 9302,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1809356151475302824"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/967473440/1468944007",
+              "profile_interstitial_type": "",
+              "statuses_count": 260,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/OuqLJC186w",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran, Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "معاون هماهنگی و پیگیری معاونت اجرایی رئیس جمهور / عضو شورای اسلامی شهر تهران ( دوره پنجم)  / عضو شورایعالی و هیات مدیره  انجمن مدیریت پروژه ایران"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "967473440",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTY3NDczNDQw",
           "result": {
-            "id": "VXNlcjo5Njc0NzM0NDA=",
-            "core": {
-              "name": "Majid Farahani",
-              "created_at": "Sat Nov 24 06:21:07 +0000 2012",
-              "screen_name": "farahani52"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/755425151890575361/uMPR-fGi_normal.jpg"
             },
+            "core": {
+              "created_at": "Sat Nov 24 06:21:07 +0000 2012",
+              "name": "Majid Farahani",
+              "screen_name": "farahani52"
+            },
+            "id": "VXNlcjo5Njc0NzM0NDA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "967473440",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTY3NDczNDQw",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5Njc0NzM0NDA=",
-            "core": {
-              "name": "Majid Farahani",
-              "created_at": "Sat Nov 24 06:21:07 +0000 2012",
-              "screen_name": "farahani52"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/755425151890575361/uMPR-fGi_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/OuqLJC186w",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/OuqLJC186w",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "aryanapm.com",
-                      "expanded_url": "http://aryanapm.com"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "معاون هماهنگی و پیگیری معاونت اجرایی رئیس جمهور / عضو شورای اسلامی شهر تهران ( دوره پنجم)  / عضو شورایعالی و هیات مدیره  انجمن مدیریت پروژه ایران",
-              "media_count": 112,
-              "listed_count": 53,
-              "friends_count": 249,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 259,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 9302,
-              "translator_type": "none",
-              "favourites_count": 190,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/967473440/1468944007",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1809356151475302824"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 9302,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "967473440",
-            "location": {
-              "location": "Tehran, Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "معاون هماهنگی و پیگیری معاونت اجرایی رئیس جمهور / عضو شورای اسلامی شهر تهران ( دوره پنجم)  / عضو شورایعالی و هیات مدیره  انجمن مدیریت پروژه ایران"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Deputy of Coordination and Follow-up, Executive Vice Presidency of the President / Member of the Tehran City Islamic Council (Fifth Term) / Member of the Board of Trustees and Board of Directors, Iranian Project Management Association",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
