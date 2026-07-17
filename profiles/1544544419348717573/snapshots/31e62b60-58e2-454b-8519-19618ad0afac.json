@@ -1,7 +1,7 @@
 {
   "snapshotId": "31e62b60-58e2-454b-8519-19618ad0afac",
   "twitterId": "1544544419348717573",
-  "scannedAt": "2026-06-02T07:50:50.093Z",
+  "scannedAt": "2026-07-17T04:52:25.621Z",
   "fields": {
     "username": "khalafbikar",
     "displayName": "خلافکار فرهیخته",
@@ -15,155 +15,155 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1808159740301922308/cNVStPPq_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jul 06 04:51:24 +0000 2022",
+              "name": "خلافکار فرهیخته",
+              "screen_name": "khalafbikar"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTQ0NTQ0NDE5MzQ4NzE3NTcz",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "دانشجوی علوم سیاسی، خوش تیپی که عکس نمیذاره، از قدیمی های توییتر",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "x.com/search?q=from%…",
+                      "expanded_url": "http://x.com/search?q=from%3A%40khalafbikar%2fexclude%3Areplies&t=_GcbQIZUXTBBk5ITxYukow&s=09",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/o8z56emJth"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 11818,
+              "follow_request_sent": false,
+              "followers_count": 1614,
+              "friends_count": 1561,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 266,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1614,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544544419348717573/1657084877",
+              "profile_interstitial_type": "",
+              "statuses_count": 8060,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/o8z56emJth",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دانشجوی علوم سیاسی، خوش تیپی که عکس نمیذاره، از قدیمی های توییتر"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1544544419348717573",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU0NDU0NDQxOTM0ODcxNzU3Mw==",
           "result": {
-            "id": "VXNlcjoxNTQ0NTQ0NDE5MzQ4NzE3NTcz",
-            "core": {
-              "name": "خلافکار فرهیخته",
-              "created_at": "Wed Jul 06 04:51:24 +0000 2022",
-              "screen_name": "khalafbikar"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1808159740301922308/cNVStPPq_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1544544419348717573",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1657083188795"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU0NDU0NDQxOTM0ODcxNzU3Mw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTQ0NTQ0NDE5MzQ4NzE3NTcz",
-            "core": {
-              "name": "خلافکار فرهیخته",
-              "created_at": "Wed Jul 06 04:51:24 +0000 2022",
-              "screen_name": "khalafbikar"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1808159740301922308/cNVStPPq_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/o8z56emJth",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/o8z56emJth",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "x.com/search?q=from%…",
-                      "expanded_url": "http://x.com/search?q=from%3A%40khalafbikar%2fexclude%3Areplies&t=_GcbQIZUXTBBk5ITxYukow&s=09"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "دانشجوی علوم سیاسی، خوش تیپی که عکس نمیذاره، از قدیمی های توییتر",
-              "media_count": 265,
-              "listed_count": 0,
-              "friends_count": 1562,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 8053,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1611,
-              "translator_type": "none",
-              "favourites_count": 11815,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544544419348717573/1657084877",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1611,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Jul 06 04:51:24 +0000 2022",
+              "name": "خلافکار فرهیخته",
+              "screen_name": "khalafbikar"
             },
+            "id": "VXNlcjoxNTQ0NTQ0NDE5MzQ4NzE3NTcz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1544544419348717573",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "دانشجوی علوم سیاسی، خوش تیپی که عکس نمیذاره، از قدیمی های توییتر"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU0NDU0NDQxOTM0ODcxNzU3Mw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
