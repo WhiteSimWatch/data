@@ -1,7 +1,7 @@
 {
   "snapshotId": "2766a12d-04f9-4453-9233-4ff2f0910a50",
   "twitterId": "1346790872806019077",
-  "scannedAt": "2026-06-02T08:14:32.435Z",
+  "scannedAt": "2026-07-17T05:17:08.598Z",
   "fields": {
     "username": "HassanDanesh8",
     "displayName": "حَسنَم",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1918335923558772736/MIWelYKM_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jan 06 12:09:20 +0000 2021",
+              "name": "حَسنَم",
+              "screen_name": "HassanDanesh8"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzQ2NzkwODcyODA2MDE5MDc3",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "سرگرم دنیا | رسانه و روابط عمومی",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 103385,
+              "follow_request_sent": false,
+              "followers_count": 2626,
+              "friends_count": 2452,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 6,
+              "media_count": 333,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2626,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1803846891102183717"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346790872806019077/1718462332",
+              "profile_interstitial_type": "",
+              "statuses_count": 10098,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "سرگرم دنیا | رسانه و روابط عمومی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1346790872806019077",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTM0Njc5MDg3MjgwNjAxOTA3Nw==",
           "result": {
-            "id": "VXNlcjoxMzQ2NzkwODcyODA2MDE5MDc3",
-            "core": {
-              "name": "حَسنَم",
-              "created_at": "Wed Jan 06 12:09:20 +0000 2021",
-              "screen_name": "HassanDanesh8"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1918335923558772736/MIWelYKM_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1346790872806019077",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1623094960886"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM0Njc5MDg3MjgwNjAxOTA3Nw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMzQ2NzkwODcyODA2MDE5MDc3",
-            "core": {
-              "name": "حَسنَم",
-              "created_at": "Wed Jan 06 12:09:20 +0000 2021",
-              "screen_name": "HassanDanesh8"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1918335923558772736/MIWelYKM_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "سرگرم دنیا | رسانه و روابط عمومی",
-              "media_count": 333,
-              "listed_count": 6,
-              "friends_count": 2455,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 10098,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2637,
-              "translator_type": "none",
-              "favourites_count": 103755,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346790872806019077/1718462332",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1803846891102183717"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2637,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Jan 06 12:09:20 +0000 2021",
+              "name": "حَسنَم",
+              "screen_name": "HassanDanesh8"
             },
+            "id": "VXNlcjoxMzQ2NzkwODcyODA2MDE5MDc3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1346790872806019077",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "سرگرم دنیا | رسانه و روابط عمومی"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM0Njc5MDg3MjgwNjAxOTA3Nw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
