@@ -1,7 +1,7 @@
 {
   "snapshotId": "0eab6d7f-64f7-4912-9ce8-9122d179df6b",
   "twitterId": "914487877354115073",
-  "scannedAt": "2026-06-03T04:40:33.923Z",
+  "scannedAt": "2026-07-17T08:35:49.601Z",
   "fields": {
     "username": "vahidekarimi",
     "displayName": "وحیده کریمی",
@@ -15,155 +15,155 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1910952027552714752/aTI9CBUE_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Oct 01 13:51:15 +0000 2017",
+              "name": "وحیده کریمی",
+              "screen_name": "vahidekarimi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5MTQ0ODc4NzczNTQxMTUwNzM=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Journalist @sharghdaily | دبیر گروه سیاسی روزنامه شرق",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "sharghdaily.com",
+                      "expanded_url": "http://sharghdaily.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/yDbFWAYOJO"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 31352,
+              "follow_request_sent": false,
+              "followers_count": 1142,
+              "friends_count": 248,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 4,
+              "media_count": 29,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1142,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/914487877354115073/1564065744",
+              "profile_interstitial_type": "",
+              "statuses_count": 1970,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/yDbFWAYOJO",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Journalist @sharghdaily | دبیر گروه سیاسی روزنامه شرق"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "914487877354115073",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTE0NDg3ODc3MzU0MTE1MDcz",
           "result": {
-            "id": "VXNlcjo5MTQ0ODc4NzczNTQxMTUwNzM=",
-            "core": {
-              "name": "وحیده کریمی",
-              "created_at": "Sun Oct 01 13:51:15 +0000 2017",
-              "screen_name": "vahidekarimi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1910952027552714752/aTI9CBUE_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "914487877354115073",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1506865943505"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTE0NDg3ODc3MzU0MTE1MDcz",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5MTQ0ODc4NzczNTQxMTUwNzM=",
-            "core": {
-              "name": "وحیده کریمی",
-              "created_at": "Sun Oct 01 13:51:15 +0000 2017",
-              "screen_name": "vahidekarimi"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1910952027552714752/aTI9CBUE_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/yDbFWAYOJO",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/yDbFWAYOJO",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "sharghdaily.com",
-                      "expanded_url": "http://sharghdaily.com"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Journalist @sharghdaily | دبیر گروه سیاسی روزنامه شرق",
-              "media_count": 29,
-              "listed_count": 4,
-              "friends_count": 249,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1968,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1150,
-              "translator_type": "none",
-              "favourites_count": 31258,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/914487877354115073/1564065744",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1150,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Oct 01 13:51:15 +0000 2017",
+              "name": "وحیده کریمی",
+              "screen_name": "vahidekarimi"
             },
+            "id": "VXNlcjo5MTQ0ODc4NzczNTQxMTUwNzM=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "914487877354115073",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Journalist @sharghdaily | دبیر گروه سیاسی روزنامه شرق"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTE0NDg3ODc3MzU0MTE1MDcz",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
