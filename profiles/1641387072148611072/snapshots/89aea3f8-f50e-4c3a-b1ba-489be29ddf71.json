@@ -1,7 +1,7 @@
 {
   "snapshotId": "89aea3f8-f50e-4c3a-b1ba-489be29ddf71",
   "twitterId": "1641387072148611072",
-  "scannedAt": "2026-06-03T05:01:10.825Z",
+  "scannedAt": "2026-07-17T09:09:58.869Z",
   "fields": {
     "username": "Ebraheim_hemat",
     "displayName": "بیقرار شهادت (شهید سلیمانی )",
@@ -15,150 +15,150 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1792460744854007808/-z3TvsD1_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Mar 30 10:29:21 +0000 2023",
+              "name": "بیقرار شهادت (شهید سلیمانی )",
+              "screen_name": "Ebraheim_hemat"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjQxMzg3MDcyMTQ4NjExMDcy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "✍️تا خدا اینجاست نگرانی بیجاست\nالسلام علیک یا ابا عبدالله الحسین علیه السلام \n(انقلابی.خادم خانه خدا.اعتقاد راسخ به ولایت فقیه،خدایا رزق شهادت نصیبم گردان)🤲🤲",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 67984,
+              "follow_request_sent": false,
+              "followers_count": 3748,
+              "friends_count": 4102,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 2725,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3748,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1858328346314015067"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641387072148611072/1680431642",
+              "profile_interstitial_type": "",
+              "statuses_count": 6310,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": " هگمتانه ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Business",
+              "rest_id": "1712298336231813252"
+            },
+            "profile_bio": {
+              "description": "✍️تا خدا اینجاست نگرانی بیجاست\nالسلام علیک یا ابا عبدالله الحسین علیه السلام \n(انقلابی.خادم خانه خدا.اعتقاد راسخ به ولایت فقیه،خدایا رزق شهادت نصیبم گردان)🤲🤲"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1641387072148611072",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTY0MTM4NzA3MjE0ODYxMTA3Mg==",
           "result": {
-            "id": "VXNlcjoxNjQxMzg3MDcyMTQ4NjExMDcy",
-            "core": {
-              "name": "بیقرار شهادت (شهید سلیمانی )",
-              "created_at": "Thu Mar 30 10:29:21 +0000 2023",
-              "screen_name": "Ebraheim_hemat"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1792460744854007808/-z3TvsD1_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1641387072148611072",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1758700947874"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY0MTM4NzA3MjE0ODYxMTA3Mg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjQxMzg3MDcyMTQ4NjExMDcy",
-            "core": {
-              "name": "بیقرار شهادت (شهید سلیمانی )",
-              "created_at": "Thu Mar 30 10:29:21 +0000 2023",
-              "screen_name": "Ebraheim_hemat"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1792460744854007808/-z3TvsD1_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "✍️تا خدا اینجاست نگرانی بیجاست\nالسلام علیک یا ابا عبدالله الحسین علیه السلام \n(انقلابی.خادم خانه خدا.اعتقاد راسخ به ولایت فقیه،خدایا رزق شهادت نصیبم گردان)🤲🤲",
-              "media_count": 2667,
-              "listed_count": 3,
-              "friends_count": 4026,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 6239,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3681,
-              "translator_type": "none",
-              "favourites_count": 67315,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641387072148611072/1680431642",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1858328346314015067"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3681,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Mar 30 10:29:21 +0000 2023",
+              "name": "بیقرار شهادت (شهید سلیمانی )",
+              "screen_name": "Ebraheim_hemat"
             },
+            "id": "VXNlcjoxNjQxMzg3MDcyMTQ4NjExMDcy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1641387072148611072",
-            "location": {
-              "location": " هگمتانه ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "✍️تا خدا اینجاست نگرانی بیجاست\nالسلام علیک یا ابا عبدالله الحسین علیه السلام \n(انقلابی.خادم خانه خدا.اعتقاد راسخ به ولایت فقیه،خدایا رزق شهادت نصیبم گردان)🤲🤲"
-            },
-            "professional": {
-              "rest_id": "1712298336231813252",
-              "category": [],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY0MTM4NzA3MjE0ODYxMTA3Mg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
