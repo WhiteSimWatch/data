@@ -1,0 +1,159 @@
+{
+  "snapshotId": "952b228a-506e-4232-8b85-8626c8bae9c0",
+  "twitterId": "1557700010602643459",
+  "scannedAt": "2026-07-17T22:03:05.959Z",
+  "fields": {
+    "username": "mjtby32848332",
+    "displayName": "محمد",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1669049222098739201/6PeIBfFv_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1557700010602643459/1668256133",
+    "bio": "فعال اجتماعی\nروانشناس",
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1669049222098739201/6PeIBfFv_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Aug 11 12:06:59 +0000 2022",
+              "name": "محمد",
+              "screen_name": "mjtby32848332"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTU3NzAwMDEwNjAyNjQzNDU5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "فعال اجتماعی\nروانشناس",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2556,
+              "follow_request_sent": false,
+              "followers_count": 1044,
+              "friends_count": 1085,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 109,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1044,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557700010602643459/1668256133",
+              "profile_interstitial_type": "",
+              "statuses_count": 3173,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فعال اجتماعی\nروانشناس"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1557700010602643459",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU1NzcwMDAxMDYwMjY0MzQ1OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1669049222098739201/6PeIBfFv_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Aug 11 12:06:59 +0000 2022",
+              "name": "محمد",
+              "screen_name": "mjtby32848332"
+            },
+            "id": "VXNlcjoxNTU3NzAwMDEwNjAyNjQzNDU5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1557700010602643459",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU1NzcwMDAxMDYwMjY0MzQ1OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
