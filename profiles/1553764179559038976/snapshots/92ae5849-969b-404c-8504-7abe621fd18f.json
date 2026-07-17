@@ -1,7 +1,7 @@
 {
   "snapshotId": "92ae5849-969b-404c-8504-7abe621fd18f",
   "twitterId": "1553764179559038976",
-  "scannedAt": "2026-06-03T04:46:56.623Z",
+  "scannedAt": "2026-07-17T08:43:31.900Z",
   "fields": {
     "username": "Zahra_so52",
     "displayName": "سلیمانی",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1970562919625523201/0RlQ_xsv_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jul 31 15:27:37 +0000 2022",
+              "name": "سلیمانی",
+              "screen_name": "Zahra_so52"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTUzNzY0MTc5NTU5MDM4OTc2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "سوزن طلا/خیاطی ساعت خوش من است.\nمامان سه تا دسته گل و یک کنشگر فضای مجازی.\n\nمازنده برآنیم که آرام نگیریم/موجیم که آسودگی ماعدم ماست",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 50435,
+              "follow_request_sent": false,
+              "followers_count": 4841,
+              "friends_count": 3979,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 4089,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4841,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553764179559038976/1758738485",
+              "profile_interstitial_type": "",
+              "statuses_count": 18815,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "سوزن طلا/خیاطی ساعت خوش من است.\nمامان سه تا دسته گل و یک کنشگر فضای مجازی.\n\nمازنده برآنیم که آرام نگیریم/موجیم که آسودگی ماعدم ماست"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1553764179559038976",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU1Mzc2NDE3OTU1OTAzODk3Ng==",
           "result": {
-            "id": "VXNlcjoxNTUzNzY0MTc5NTU5MDM4OTc2",
-            "core": {
-              "name": "سلیمانی",
-              "created_at": "Sun Jul 31 15:27:37 +0000 2022",
-              "screen_name": "Zahra_so52"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1970562919625523201/0RlQ_xsv_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1553764179559038976",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1659281389978"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU1Mzc2NDE3OTU1OTAzODk3Ng==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTUzNzY0MTc5NTU5MDM4OTc2",
-            "core": {
-              "name": "سلیمانی",
-              "created_at": "Sun Jul 31 15:27:37 +0000 2022",
-              "screen_name": "Zahra_so52"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1970562919625523201/0RlQ_xsv_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "سوزن طلا/خیاطی ساعت خوش من است.\nمامان سه تا دسته گل و یک کنشگر فضای مجازی.\n\nمازنده برآنیم که آرام نگیریم/موجیم که آسودگی ماعدم ماست",
-              "media_count": 3966,
-              "listed_count": 5,
-              "friends_count": 3926,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 18523,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 4737,
-              "translator_type": "none",
-              "favourites_count": 49994,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553764179559038976/1758738485",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 4737,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Jul 31 15:27:37 +0000 2022",
+              "name": "سلیمانی",
+              "screen_name": "Zahra_so52"
             },
+            "id": "VXNlcjoxNTUzNzY0MTc5NTU5MDM4OTc2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1553764179559038976",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "سوزن طلا/خیاطی ساعت خوش من است.\nمامان سه تا دسته گل و یک کنشگر فضای مجازی.\n\nمازنده برآنیم که آرام نگیریم/موجیم که آسودگی ماعدم ماست"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU1Mzc2NDE3OTU1OTAzODk3Ng==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
