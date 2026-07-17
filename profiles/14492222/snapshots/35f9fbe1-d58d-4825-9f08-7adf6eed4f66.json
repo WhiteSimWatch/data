@@ -1,7 +1,7 @@
 {
   "snapshotId": "35f9fbe1-d58d-4825-9f08-7adf6eed4f66",
   "twitterId": "14492222",
-  "scannedAt": "2026-06-03T04:11:03.310Z",
+  "scannedAt": "2026-07-17T07:56:16.636Z",
   "fields": {
     "username": "mohammad784",
     "displayName": "Mohammad Javad Shakouri",
@@ -15,172 +15,172 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2044475897663651840/p1qio3Mo_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Apr 23 12:11:53 +0000 2008",
+              "name": "Mohammad Javad Shakouri",
+              "screen_name": "mohammad784"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDQ5MjIyMg==",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "CO-Founder and CEO of Saba Idea Co. which provides Aparat,Filimo,Sabavision, Cinematicket and Filimo School",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "sabaidea.com",
+                      "expanded_url": "http://www.sabaidea.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/cSADzkwfsM"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2047,
+              "follow_request_sent": false,
+              "followers_count": 13207,
+              "friends_count": 255,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 69,
+              "media_count": 54,
+              "needs_phone_verification": false,
+              "normal_followers_count": 13207,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/14492222/1406035173",
+              "profile_interstitial_type": "",
+              "statuses_count": 1339,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/cSADzkwfsM",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "CO-Founder and CEO of Saba Idea Co. which provides Aparat,Filimo,Sabavision, Cinematicket and Filimo School"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "14492222",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1759523013221"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTQ0OTIyMjI=",
           "result": {
-            "id": "VXNlcjoxNDQ5MjIyMg==",
-            "core": {
-              "name": "Mohammad Javad Shakouri",
-              "created_at": "Wed Apr 23 12:11:53 +0000 2008",
-              "screen_name": "mohammad784"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2044475897663651840/p1qio3Mo_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "14492222",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia App Store",
               "username_changes": {
                 "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ0OTIyMjI=",
-              "reason": {
-                "verified_since_msec": "1759523013221"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNDQ5MjIyMg==",
-            "core": {
-              "name": "Mohammad Javad Shakouri",
-              "created_at": "Wed Apr 23 12:11:53 +0000 2008",
-              "screen_name": "mohammad784"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2044475897663651840/p1qio3Mo_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/cSADzkwfsM",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/cSADzkwfsM",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "sabaidea.com",
-                      "expanded_url": "http://www.sabaidea.com"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "CO-Founder and CEO of Saba Idea Co. which provides Aparat,Filimo,Sabavision, Cinematicket and Filimo School",
-              "media_count": 54,
-              "listed_count": 70,
-              "friends_count": 254,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1339,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 13223,
-              "translator_type": "none",
-              "favourites_count": 2049,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/14492222/1406035173",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 13223,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Apr 23 12:11:53 +0000 2008",
+              "name": "Mohammad Javad Shakouri",
+              "screen_name": "mohammad784"
             },
+            "id": "VXNlcjoxNDQ5MjIyMg==",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "14492222",
-            "location": {
-              "location": "Tehran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "CO-Founder and CEO of Saba Idea Co. which provides Aparat,Filimo,Sabavision, Cinematicket and Filimo School"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ0OTIyMjI=",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1759523013221"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
