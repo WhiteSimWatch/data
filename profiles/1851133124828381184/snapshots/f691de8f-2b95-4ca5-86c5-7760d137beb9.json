@@ -1,7 +1,7 @@
 {
   "snapshotId": "f691de8f-2b95-4ca5-86c5-7760d137beb9",
   "twitterId": "1851133124828381184",
-  "scannedAt": "2026-06-02T13:19:29.389Z",
+  "scannedAt": "2026-07-17T06:10:58.531Z",
   "fields": {
     "username": "delanMontazer",
     "displayName": "DaryadelanMontazer",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1851134208267464704/TR9MiV4f_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Oct 29 05:25:21 +0000 2024",
+              "name": "DaryadelanMontazer",
+              "screen_name": "delanMontazer"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODUxMTMzMTI0ODI4MzgxMTg0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 195,
+              "follow_request_sent": false,
+              "followers_count": 395,
+              "friends_count": 654,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 145,
+              "needs_phone_verification": false,
+              "normal_followers_count": 395,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 254,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1851133124828381184",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg1MTEzMzEyNDgyODM4MTE4NA==",
           "result": {
-            "id": "VXNlcjoxODUxMTMzMTI0ODI4MzgxMTg0",
-            "core": {
-              "name": "DaryadelanMontazer",
-              "created_at": "Tue Oct 29 05:25:21 +0000 2024",
-              "screen_name": "delanMontazer"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1851134208267464704/TR9MiV4f_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1851133124828381184",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1730179629469"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1MTEzMzEyNDgyODM4MTE4NA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODUxMTMzMTI0ODI4MzgxMTg0",
-            "core": {
-              "name": "DaryadelanMontazer",
-              "created_at": "Tue Oct 29 05:25:21 +0000 2024",
-              "screen_name": "delanMontazer"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1851134208267464704/TR9MiV4f_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 84,
-              "listed_count": 0,
-              "friends_count": 550,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 168,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 323,
-              "translator_type": "none",
-              "favourites_count": 179,
-              "possibly_sensitive": false,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 323,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Oct 29 05:25:21 +0000 2024",
+              "name": "DaryadelanMontazer",
+              "screen_name": "delanMontazer"
             },
+            "id": "VXNlcjoxODUxMTMzMTI0ODI4MzgxMTg0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1851133124828381184",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1MTEzMzEyNDgyODM4MTE4NA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
