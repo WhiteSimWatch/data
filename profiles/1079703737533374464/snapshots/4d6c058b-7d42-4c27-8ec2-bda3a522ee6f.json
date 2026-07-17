@@ -1,7 +1,7 @@
 {
   "snapshotId": "4d6c058b-7d42-4c27-8ec2-bda3a522ee6f",
   "twitterId": "1079703737533374464",
-  "scannedAt": "2026-06-02T06:58:55.271Z",
+  "scannedAt": "2026-07-17T03:56:30.344Z",
   "fields": {
     "username": "vafaei_hamed",
     "displayName": "Hamed Vafaei （好麦特）",
@@ -15,152 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1084548163803983872/oY_MpZYX_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Dec 31 11:40:05 +0000 2018",
+              "name": "Hamed Vafaei （好麦特）",
+              "screen_name": "vafaei_hamed"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDc5NzAzNzM3NTMzMzc0NDY0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "德黑兰大学中文系教授 Assistant Professor of Chinese literature; University of Tehran",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 11594,
+              "follow_request_sent": false,
+              "followers_count": 6976,
+              "friends_count": 2459,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 46,
+              "media_count": 359,
+              "needs_phone_verification": false,
+              "normal_followers_count": 6976,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079703737533374464/1546284175",
+              "profile_interstitial_type": "",
+              "statuses_count": 1500,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "德黑兰大学中文系教授 Assistant Professor of Chinese literature; University of Tehran"
+            },
+            "profile_description_language": "zh",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1079703737533374464",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTA3OTcwMzczNzUzMzM3NDQ2NA==",
           "result": {
-            "id": "VXNlcjoxMDc5NzAzNzM3NTMzMzc0NDY0",
-            "core": {
-              "name": "Hamed Vafaei （好麦特）",
-              "created_at": "Mon Dec 31 11:40:05 +0000 2018",
-              "screen_name": "vafaei_hamed"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1084548163803983872/oY_MpZYX_normal.jpg"
             },
+            "core": {
+              "created_at": "Mon Dec 31 11:40:05 +0000 2018",
+              "name": "Hamed Vafaei （好麦特）",
+              "screen_name": "vafaei_hamed"
+            },
+            "id": "VXNlcjoxMDc5NzAzNzM3NTMzMzc0NDY0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1079703737533374464",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA3OTcwMzczNzUzMzM3NDQ2NA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMDc5NzAzNzM3NTMzMzc0NDY0",
-            "core": {
-              "name": "Hamed Vafaei （好麦特）",
-              "created_at": "Mon Dec 31 11:40:05 +0000 2018",
-              "screen_name": "vafaei_hamed"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1084548163803983872/oY_MpZYX_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "德黑兰大学中文系教授 Assistant Professor of Chinese literature; University of Tehran",
-              "media_count": 358,
-              "listed_count": 44,
-              "friends_count": 2436,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1497,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 6896,
-              "translator_type": "none",
-              "favourites_count": 11553,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079703737533374464/1546284175",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 6896,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1079703737533374464",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "德黑兰大学中文系教授 Assistant Professor of Chinese literature; University of Tehran"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "zh",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Professor, Department of Chinese, University of Tehran  \nAssistant Professor of Chinese Literature; University of Tehran",
-                "source_language": "zh",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
