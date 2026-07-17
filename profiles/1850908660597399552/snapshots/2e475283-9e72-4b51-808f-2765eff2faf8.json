@@ -1,7 +1,7 @@
 {
   "snapshotId": "2e475283-9e72-4b51-808f-2765eff2faf8",
   "twitterId": "1850908660597399552",
-  "scannedAt": "2026-06-03T04:59:31.574Z",
+  "scannedAt": "2026-07-17T09:07:40.673Z",
   "fields": {
     "username": "payamkharazi",
     "displayName": "مجتبی درخشنده",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1994918999960780800/CO-72LtK_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Oct 28 14:33:32 +0000 2024",
+              "name": "مجتبی درخشنده",
+              "screen_name": "payamkharazi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODUwOTA4NjYwNTk3Mzk5NTUy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "یک عدد بی ترمز بی اعصاب زمان جنگ ایران عراق\nاین اکانت و نذر حضرت قمر بنی هاشم کردم",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 14916,
+              "follow_request_sent": false,
+              "followers_count": 2811,
+              "friends_count": 2734,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 1247,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2811,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850908660597399552/1735484962",
+              "profile_interstitial_type": "",
+              "statuses_count": 14251,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "فاقد مکان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یک عدد بی ترمز بی اعصاب زمان جنگ ایران عراق\nاین اکانت و نذر حضرت قمر بنی هاشم کردم"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1850908660597399552",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg1MDkwODY2MDU5NzM5OTU1Mg==",
           "result": {
-            "id": "VXNlcjoxODUwOTA4NjYwNTk3Mzk5NTUy",
-            "core": {
-              "name": "مجتبی درخشنده",
-              "created_at": "Mon Oct 28 14:33:32 +0000 2024",
-              "screen_name": "payamkharazi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1994918999960780800/CO-72LtK_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1850908660597399552",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1730126068419"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1MDkwODY2MDU5NzM5OTU1Mg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODUwOTA4NjYwNTk3Mzk5NTUy",
-            "core": {
-              "name": "مجتبی درخشنده",
-              "created_at": "Mon Oct 28 14:33:32 +0000 2024",
-              "screen_name": "payamkharazi"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1994918999960780800/CO-72LtK_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "یک عدد بی ترمز بی اعصاب زمان جنگ ایران عراق\nاین اکانت و نذر حضرت قمر بنی هاشم کردم",
-              "media_count": 1153,
-              "listed_count": 1,
-              "friends_count": 2669,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 13404,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2739,
-              "translator_type": "none",
-              "favourites_count": 13377,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850908660597399552/1735484962",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2739,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Oct 28 14:33:32 +0000 2024",
+              "name": "مجتبی درخشنده",
+              "screen_name": "payamkharazi"
             },
+            "id": "VXNlcjoxODUwOTA4NjYwNTk3Mzk5NTUy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1850908660597399552",
-            "location": {
-              "location": "فاقد مکان"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "یک عدد بی ترمز بی اعصاب زمان جنگ ایران عراق\nاین اکانت و نذر حضرت قمر بنی هاشم کردم"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1MDkwODY2MDU5NzM5OTU1Mg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
