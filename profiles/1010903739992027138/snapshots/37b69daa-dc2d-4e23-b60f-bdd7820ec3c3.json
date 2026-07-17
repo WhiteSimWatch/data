@@ -1,7 +1,7 @@
 {
   "snapshotId": "37b69daa-dc2d-4e23-b60f-bdd7820ec3c3",
   "twitterId": "1010903739992027138",
-  "scannedAt": "2026-06-02T08:31:55.377Z",
+  "scannedAt": "2026-07-17T05:35:20.168Z",
   "fields": {
     "username": "ali_khezrian",
     "displayName": "علی خضریان | Ali Khezrian",
@@ -15,166 +15,166 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1997421503801892864/doIy1LXO_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jun 24 15:13:28 +0000 2018",
+              "name": "علی خضریان | Ali Khezrian",
+              "screen_name": "ali_khezrian"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Political and Media Activist / Representative of the Dear People of Iran from the Tehran, Rey, Shemiranat, Islamshahr, and Pardis Electoral District in the Eleventh and Twelfth Terms of the Islamic Consultative Assembly"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDEwOTAzNzM5OTkyMDI3MTM4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "فعال سیاسی و رسانه‌ای/ نماینده مردم عزیز ایران از حوزه انتخابیه تهران، ری، شمیرانات، اسلامشهر و پردیس در دوره‌های یازدهم و دوازدهم مجلس شورای اسلامی",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "khezrian.ir",
+                      "expanded_url": "http://khezrian.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/IRP1rJIzwL"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 32456,
+              "follow_request_sent": false,
+              "followers_count": 53857,
+              "friends_count": 486,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 456,
+              "media_count": 2600,
+              "needs_phone_verification": false,
+              "normal_followers_count": 53857,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010903739992027138/1612981070",
+              "profile_interstitial_type": "",
+              "statuses_count": 6205,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/IRP1rJIzwL",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فعال سیاسی و رسانه‌ای/ نماینده مردم عزیز ایران از حوزه انتخابیه تهران، ری، شمیرانات، اسلامشهر و پردیس در دوره‌های یازدهم و دوازدهم مجلس شورای اسلامی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1010903739992027138",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTAxMDkwMzczOTk5MjAyNzEzOA==",
           "result": {
-            "id": "VXNlcjoxMDEwOTAzNzM5OTkyMDI3MTM4",
-            "core": {
-              "name": "علی خضریان | Ali Khezrian",
-              "created_at": "Sun Jun 24 15:13:28 +0000 2018",
-              "screen_name": "ali_khezrian"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1997421503801892864/doIy1LXO_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1010903739992027138",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1529853803676"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTAxMDkwMzczOTk5MjAyNzEzOA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMDEwOTAzNzM5OTkyMDI3MTM4",
-            "core": {
-              "name": "علی خضریان | Ali Khezrian",
-              "created_at": "Sun Jun 24 15:13:28 +0000 2018",
-              "screen_name": "ali_khezrian"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1997421503801892864/doIy1LXO_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/IRP1rJIzwL",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/IRP1rJIzwL",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "khezrian.ir",
-                      "expanded_url": "http://khezrian.ir"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "فعال سیاسی و رسانه‌ای/ نماینده مردم عزیز ایران از حوزه انتخابیه تهران، ری، شمیرانات، اسلامشهر و پردیس در دوره‌های یازدهم و دوازدهم مجلس شورای اسلامی",
-              "media_count": 2526,
-              "listed_count": 438,
-              "friends_count": 491,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 6122,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 52709,
-              "translator_type": "none",
-              "favourites_count": 32436,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010903739992027138/1612981070",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 52709,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Jun 24 15:13:28 +0000 2018",
+              "name": "علی خضریان | Ali Khezrian",
+              "screen_name": "ali_khezrian"
             },
+            "id": "VXNlcjoxMDEwOTAzNzM5OTkyMDI3MTM4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1010903739992027138",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "فعال سیاسی و رسانه‌ای/ نماینده مردم عزیز ایران از حوزه انتخابیه تهران، ری، شمیرانات، اسلامشهر و پردیس در دوره‌های یازدهم و دوازدهم مجلس شورای اسلامی"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTAxMDkwMzczOTk5MjAyNzEzOA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Political and Media Activist/ Representative of the dear people of Iran from the Tehran, Rey, Shemiranat, Islamshahr, and Pardis electoral district in the 11th and 12th periods of the Islamic Consultative Assembly",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
