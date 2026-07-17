@@ -1,7 +1,7 @@
 {
   "snapshotId": "26b25947-6b8f-4a85-a6de-63c2feb5f701",
   "twitterId": "1129146224639012864",
-  "scannedAt": "2026-06-03T03:46:00.234Z",
+  "scannedAt": "2026-07-17T07:26:15.666Z",
   "fields": {
     "username": "sh_bardestan",
     "displayName": "شهدای بردستان «لمیت شدم»",
@@ -15,151 +15,151 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1173267018318921728/FZXsjnjs_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu May 16 22:06:53 +0000 2019",
+              "name": "شهدای بردستان «لمیت شدم»",
+              "screen_name": "sh_bardestan"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": false,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTI5MTQ2MjI0NjM5MDEyODY0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "‏‏‏شهداء  چراغ را برای زندگی ما هستند",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 13127,
+              "follow_request_sent": false,
+              "followers_count": 3275,
+              "friends_count": 4021,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 415,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3275,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1470398007933906946"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1129146224639012864/1568563703",
+              "profile_interstitial_type": "",
+              "statuses_count": 3982,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "visibility": "MutualFollow",
+                "year": 1990,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "‏‏‏شهداء  چراغ را برای زندگی ما هستند"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1129146224639012864",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTEyOTE0NjIyNDYzOTAxMjg2NA==",
           "result": {
-            "id": "VXNlcjoxMTI5MTQ2MjI0NjM5MDEyODY0",
-            "core": {
-              "name": "شهدای بردستان «لمیت شدم»",
-              "created_at": "Thu May 16 22:06:53 +0000 2019",
-              "screen_name": "sh_bardestan"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1173267018318921728/FZXsjnjs_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1129146224639012864",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1568893201342"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTEyOTE0NjIyNDYzOTAxMjg2NA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMTI5MTQ2MjI0NjM5MDEyODY0",
-            "core": {
-              "name": "شهدای بردستان «لمیت شدم»",
-              "created_at": "Thu May 16 22:06:53 +0000 2019",
-              "screen_name": "sh_bardestan"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1173267018318921728/FZXsjnjs_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "‏‏‏شهداء  چراغ را برای زندگی ما هستند",
-              "media_count": 415,
-              "listed_count": 3,
-              "friends_count": 4034,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 3980,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3287,
-              "translator_type": "none",
-              "favourites_count": 13131,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1129146224639012864/1568563703",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1470398007933906946"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3287,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu May 16 22:06:53 +0000 2019",
+              "name": "شهدای بردستان «لمیت شدم»",
+              "screen_name": "sh_bardestan"
             },
+            "id": "VXNlcjoxMTI5MTQ2MjI0NjM5MDEyODY0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1129146224639012864",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "‏‏‏شهداء  چراغ را برای زندگی ما هستند"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTEyOTE0NjIyNDYzOTAxMjg2NA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": false,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "year": 1990,
-                "visibility": "MutualFollow",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
