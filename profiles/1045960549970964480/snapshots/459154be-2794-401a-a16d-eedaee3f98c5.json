@@ -1,7 +1,7 @@
 {
   "snapshotId": "459154be-2794-401a-a16d-eedaee3f98c5",
   "twitterId": "1045960549970964480",
-  "scannedAt": "2026-06-03T03:21:11.111Z",
+  "scannedAt": "2026-07-17T06:53:05.091Z",
   "fields": {
     "username": "AbediniElham",
     "displayName": "الهام عابدینی",
@@ -15,198 +15,198 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1994684247123124224/efOk_MgJ_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Sep 29 08:56:42 +0000 2018",
+              "name": "الهام عابدینی",
+              "screen_name": "AbediniElham"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Journalist/PhD Student in British Studies/\nGraduate of Japanese Studies 🇮🇷\n❤️ 🇵🇸\n\nThe responsibility for users' opinions does not lie with me."
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": true,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDQ1OTYwNTQ5OTcwOTY0NDgw",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "خبرنگار/‌‌‌دانشجوی دکتری مطالعات بریتانیا/\nدانش‌آموخته ‌‌مطالعات ژاپن🇮🇷\n❤️ 🇵🇸\n‌\nمسئولیت نظر کاربران با من نیست.",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/elhamabedini.70",
+                      "expanded_url": "https://www.instagram.com/elhamabedini.70",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/3IVyENLQGr"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 65604,
+              "follow_request_sent": false,
+              "followers_count": 32925,
+              "friends_count": 1459,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 138,
+              "media_count": 2599,
+              "needs_phone_verification": false,
+              "normal_followers_count": 32925,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1398588859630370822"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045960549970964480/1772570550",
+              "profile_interstitial_type": "",
+              "statuses_count": 22686,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/3IVyENLQGr",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1456078059430420483"
+            },
+            "profile_bio": {
+              "description": "خبرنگار/‌‌‌دانشجوی دکتری مطالعات بریتانیا/\nدانش‌آموخته ‌‌مطالعات ژاپن🇮🇷\n❤️ 🇵🇸\n‌\nمسئولیت نظر کاربران با من نیست."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1045960549970964480",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1755007482312"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTA0NTk2MDU0OTk3MDk2NDQ4MA==",
           "result": {
-            "id": "VXNlcjoxMDQ1OTYwNTQ5OTcwOTY0NDgw",
-            "core": {
-              "name": "الهام عابدینی",
-              "created_at": "Sat Sep 29 08:56:42 +0000 2018",
-              "screen_name": "AbediniElham"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1994684247123124224/efOk_MgJ_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1045960549970964480",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA0NTk2MDU0OTk3MDk2NDQ4MA==",
-              "reason": {
-                "verified_since_msec": "1755007482312"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMDQ1OTYwNTQ5OTcwOTY0NDgw",
-            "core": {
-              "name": "الهام عابدینی",
-              "created_at": "Sat Sep 29 08:56:42 +0000 2018",
-              "screen_name": "AbediniElham"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1994684247123124224/efOk_MgJ_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/3IVyENLiQT",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/3IVyENLiQT",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "instagram.com/elhamabedini.70",
-                      "expanded_url": "https://www.instagram.com/elhamabedini.70"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "خبرنگار/‌‌‌دانشجوی دکتری مطالعات بریتانیا/\nدانش‌آموخته ‌‌مطالعات ژاپن🇮🇷\n❤️ 🇵🇸\n‌\nمسئولیت نظر کاربران با من نیست.",
-              "media_count": 2599,
-              "listed_count": 136,
-              "friends_count": 1449,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 22677,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 32623,
-              "translator_type": "none",
-              "favourites_count": 65491,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045960549970964480/1772570550",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1398588859630370822"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 32623,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Sep 29 08:56:42 +0000 2018",
+              "name": "الهام عابدینی",
+              "screen_name": "AbediniElham"
             },
+            "id": "VXNlcjoxMDQ1OTYwNTQ5OTcwOTY0NDgw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1045960549970964480",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "خبرنگار/‌‌‌دانشجوی دکتری مطالعات بریتانیا/\nدانش‌آموخته ‌‌مطالعات ژاپن🇮🇷\n❤️ 🇵🇸\n‌\nمسئولیت نظر کاربران با من نیست."
-            },
-            "professional": {
-              "rest_id": "1456078059430420483",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA0NTk2MDU0OTk3MDk2NDQ4MA==",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1755007482312"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": true,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Journalist/PhD Student in British Studies/\nGraduate of Japanese Studies 🇮🇷\n❤️ 🇵🇸\n\nI am not responsible for users' opinions.",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
+              }
             }
           }
         }
