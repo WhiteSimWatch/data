@@ -1,7 +1,7 @@
 {
   "snapshotId": "9003814c-72af-409e-8503-f4a8511c1700",
   "twitterId": "827552393822949378",
-  "scannedAt": "2026-06-03T03:12:44.479Z",
+  "scannedAt": "2026-07-17T06:43:47.765Z",
   "fields": {
     "username": "AmirH_Hadadian",
     "displayName": "امیرحسین حدادیان",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1934608228777660416/7KeQxXuw_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Feb 03 16:20:40 +0000 2017",
+              "name": "امیرحسین حدادیان",
+              "screen_name": "AmirH_Hadadian"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4Mjc1NTIzOTM4MjI5NDkzNzg=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "طلبه حوزه علمیه قم | مکانیک خوانده دانشگاه | تاریخ‌پژوه | بابای آقامحمد |\nمنطق‌گرای افراطی | خلیفه ناخلف خدا بر روی زمین",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 111971,
+              "follow_request_sent": false,
+              "followers_count": 9461,
+              "friends_count": 585,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 19,
+              "media_count": 1747,
+              "needs_phone_verification": false,
+              "normal_followers_count": 9461,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1500477872896724995"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/827552393822949378/1503044797",
+              "profile_interstitial_type": "",
+              "statuses_count": 50190,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "مرکز دنیا"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "طلبه حوزه علمیه قم | مکانیک خوانده دانشگاه | تاریخ‌پژوه | بابای آقامحمد |\nمنطق‌گرای افراطی | خلیفه ناخلف خدا بر روی زمین"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "827552393822949378",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6ODI3NTUyMzkzODIyOTQ5Mzc4",
           "result": {
-            "id": "VXNlcjo4Mjc1NTIzOTM4MjI5NDkzNzg=",
-            "core": {
-              "name": "امیرحسین حدادیان",
-              "created_at": "Fri Feb 03 16:20:40 +0000 2017",
-              "screen_name": "AmirH_Hadadian"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1934608228777660416/7KeQxXuw_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "827552393822949378",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1630909427913"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODI3NTUyMzkzODIyOTQ5Mzc4",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo4Mjc1NTIzOTM4MjI5NDkzNzg=",
-            "core": {
-              "name": "امیرحسین حدادیان",
-              "created_at": "Fri Feb 03 16:20:40 +0000 2017",
-              "screen_name": "AmirH_Hadadian"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1934608228777660416/7KeQxXuw_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "طلبه حوزه علمیه قم | مکانیک خوانده دانشگاه | تاریخ‌پژوه | بابای آقامحمد |\nمنطق‌گرای افراطی | خلیفه ناخلف خدا بر روی زمین",
-              "media_count": 1727,
-              "listed_count": 19,
-              "friends_count": 589,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 50131,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 9445,
-              "translator_type": "none",
-              "favourites_count": 112004,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/827552393822949378/1503044797",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1500477872896724995"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 9445,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Feb 03 16:20:40 +0000 2017",
+              "name": "امیرحسین حدادیان",
+              "screen_name": "AmirH_Hadadian"
             },
+            "id": "VXNlcjo4Mjc1NTIzOTM4MjI5NDkzNzg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "827552393822949378",
-            "location": {
-              "location": "مرکز دنیا"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "طلبه حوزه علمیه قم | مکانیک خوانده دانشگاه | تاریخ‌پژوه | بابای آقامحمد |\nمنطق‌گرای افراطی | خلیفه ناخلف خدا بر روی زمین"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODI3NTUyMzkzODIyOTQ5Mzc4",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
