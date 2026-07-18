@@ -1,0 +1,163 @@
+{
+  "snapshotId": "72854582-53cd-4822-953e-2cfa2bcbe232",
+  "twitterId": "1073827149390471170",
+  "scannedAt": "2026-07-18T19:25:39.058Z",
+  "fields": {
+    "username": "saedramezanali",
+    "displayName": "ساعد رمضانعلی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1090332513548070912/vDOnZRLy_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1073827149390471170/1545741668",
+    "bio": "",
+    "selfLocation": "ایران. تهران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1090332513548070912/vDOnZRLy_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Dec 15 06:28:37 +0000 2018",
+              "name": "ساعد رمضانعلی",
+              "screen_name": "saedramezanali"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDczODI3MTQ5MzkwNDcxMTcw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 146073,
+              "follow_request_sent": false,
+              "followers_count": 5134,
+              "friends_count": 6233,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 3376,
+              "needs_phone_verification": false,
+              "normal_followers_count": 5134,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1318069386771681281"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1073827149390471170/1545741668",
+              "profile_interstitial_type": "",
+              "statuses_count": 11210,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "ایران. تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_description_language": "und",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1073827149390471170",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTA3MzgyNzE0OTM5MDQ3MTE3MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1553278631726"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1090332513548070912/vDOnZRLy_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Dec 15 06:28:37 +0000 2018",
+              "name": "ساعد رمضانعلی",
+              "screen_name": "saedramezanali"
+            },
+            "id": "VXNlcjoxMDczODI3MTQ5MzkwNDcxMTcw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1073827149390471170",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA3MzgyNzE0OTM5MDQ3MTE3MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
