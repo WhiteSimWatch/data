@@ -1,7 +1,7 @@
 {
   "snapshotId": "59db68df-900d-48a4-b650-d26c5b5f931a",
   "twitterId": "1352224297264312324",
-  "scannedAt": "2026-06-03T08:21:14.358Z",
+  "scannedAt": "2026-07-18T06:32:07.384Z",
   "fields": {
     "username": "amirezaa_",
     "displayName": "امیررضا🎒",
@@ -15,165 +15,165 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1845589936772186112/Q1A814Sw_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Jan 21 11:59:43 +0000 2021",
+              "name": "امیررضا🎒",
+              "screen_name": "amirezaa_"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzUyMjI0Mjk3MjY0MzEyMzI0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "𝙰𝚕𝚘𝚗𝚎 🖤\n𝙱𝙽𝙳 🌊🌴",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/HarfinoBot?sta…",
+                      "expanded_url": "https://t.me/HarfinoBot?start=f65640364db04df",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/HtViU89a6E"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 20727,
+              "follow_request_sent": false,
+              "followers_count": 3591,
+              "friends_count": 1915,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 4,
+              "media_count": 474,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3591,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352224297264312324/1774267800",
+              "profile_interstitial_type": "",
+              "statuses_count": 10236,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/HtViU89a6E",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 566,
+                  "name": "Photographic Services"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1477300602732437504"
+            },
+            "profile_bio": {
+              "description": "𝙰𝚕𝚘𝚗𝚎 🖤\n𝙱𝙽𝙳 🌊🌴"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1352224297264312324",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTM1MjIyNDI5NzI2NDMxMjMyNA==",
           "result": {
-            "id": "VXNlcjoxMzUyMjI0Mjk3MjY0MzEyMzI0",
-            "core": {
-              "name": "امیررضا🎒",
-              "created_at": "Thu Jan 21 11:59:43 +0000 2021",
-              "screen_name": "amirezaa_"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1845589936772186112/Q1A814Sw_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1352224297264312324",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "North America App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "North America App Store",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1735162349277"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM1MjIyNDI5NzI2NDMxMjMyNA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMzUyMjI0Mjk3MjY0MzEyMzI0",
-            "core": {
-              "name": "امیررضا🎒",
-              "created_at": "Thu Jan 21 11:59:43 +0000 2021",
-              "screen_name": "amirezaa_"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1845589936772186112/Q1A814Sw_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/HtViU89a6E",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/HtViU89a6E",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/HarfinoBot?sta…",
-                      "expanded_url": "https://t.me/HarfinoBot?start=f65640364db04df"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "𝙰𝚕𝚘𝚗𝚎 🖤\n𝙱𝙽𝙳 🌊🌴",
-              "media_count": 442,
-              "listed_count": 1,
-              "friends_count": 1891,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 9570,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3498,
-              "translator_type": "none",
-              "favourites_count": 19760,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352224297264312324/1774267800",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3498,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Jan 21 11:59:43 +0000 2021",
+              "name": "امیررضا🎒",
+              "screen_name": "amirezaa_"
             },
+            "id": "VXNlcjoxMzUyMjI0Mjk3MjY0MzEyMzI0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1352224297264312324",
-            "location": {
-              "location": "Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "𝙰𝚕𝚘𝚗𝚎 🖤\n𝙱𝙽𝙳 🌊🌴"
-            },
-            "professional": {
-              "rest_id": "1477300602732437504",
-              "category": [
-                {
-                  "id": 566,
-                  "name": "Photographic Services",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM1MjIyNDI5NzI2NDMxMjMyNA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
