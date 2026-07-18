@@ -1,0 +1,163 @@
+{
+  "snapshotId": "389d623c-f95a-487f-891a-8b5345218361",
+  "twitterId": "1501692866766282756",
+  "scannedAt": "2026-07-18T18:39:45.618Z",
+  "fields": {
+    "username": "fatemeh_bh313",
+    "displayName": "Fatemeh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1677076512317616128/rLK9g6La_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1501692866766282756/1646867094",
+    "bio": "یا زهرا",
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1677076512317616128/rLK9g6La_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Mar 09 22:54:38 +0000 2022",
+              "name": "Fatemeh",
+              "screen_name": "fatemeh_bh313"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTAxNjkyODY2NzY2MjgyNzU2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "یا زهرا",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 7964,
+              "follow_request_sent": false,
+              "followers_count": 1701,
+              "friends_count": 1416,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 91,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1701,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1965072135061389816"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1501692866766282756/1646867094",
+              "profile_interstitial_type": "",
+              "statuses_count": 5157,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یا زهرا"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1501692866766282756",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTUwMTY5Mjg2Njc2NjI4Mjc1Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1646867208578"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1677076512317616128/rLK9g6La_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Mar 09 22:54:38 +0000 2022",
+              "name": "Fatemeh",
+              "screen_name": "fatemeh_bh313"
+            },
+            "id": "VXNlcjoxNTAxNjkyODY2NzY2MjgyNzU2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1501692866766282756",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUwMTY5Mjg2Njc2NjI4Mjc1Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
