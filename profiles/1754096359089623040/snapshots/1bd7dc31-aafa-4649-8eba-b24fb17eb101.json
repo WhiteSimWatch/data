@@ -1,7 +1,7 @@
 {
   "snapshotId": "1bd7dc31-aafa-4649-8eba-b24fb17eb101",
   "twitterId": "1754096359089623040",
-  "scannedAt": "2026-06-03T11:13:40.668Z",
+  "scannedAt": "2026-07-18T07:21:05.283Z",
   "fields": {
     "username": "gol_yas_110",
     "displayName": "🎒🖤yas",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1754101967318659072/lxBQNFYi_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Feb 04 10:55:59 +0000 2024",
+              "name": "🎒🖤yas",
+              "screen_name": "gol_yas_110"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzU0MDk2MzU5MDg5NjIzMDQw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مامان دوتا فرشته، نیمچه خیاط، پر از خالی. .",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6876,
+              "follow_request_sent": false,
+              "followers_count": 1594,
+              "friends_count": 1538,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 3069,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1594,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2019195670000005306"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754096359089623040/1713041173",
+              "profile_interstitial_type": "",
+              "statuses_count": 15970,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مامان دوتا فرشته، نیمچه خیاط، پر از خالی. ."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1754096359089623040",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTc1NDA5NjM1OTA4OTYyMzA0MA==",
           "result": {
-            "id": "VXNlcjoxNzU0MDk2MzU5MDg5NjIzMDQw",
-            "core": {
-              "name": "🎒🖤yas",
-              "created_at": "Sun Feb 04 10:55:59 +0000 2024",
-              "screen_name": "gol_yas_110"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1754101967318659072/lxBQNFYi_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1754096359089623040",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1707044250611"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc1NDA5NjM1OTA4OTYyMzA0MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNzU0MDk2MzU5MDg5NjIzMDQw",
-            "core": {
-              "name": "🎒🖤yas",
-              "created_at": "Sun Feb 04 10:55:59 +0000 2024",
-              "screen_name": "gol_yas_110"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1754101967318659072/lxBQNFYi_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مامان دوتا فرشته، نیمچه خیاط، پر از خالی. .",
-              "media_count": 2731,
-              "listed_count": 3,
-              "friends_count": 1472,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 15164,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1534,
-              "translator_type": "none",
-              "favourites_count": 6618,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754096359089623040/1713041173",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2019195670000005306"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1534,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Feb 04 10:55:59 +0000 2024",
+              "name": "🎒🖤yas",
+              "screen_name": "gol_yas_110"
             },
+            "id": "VXNlcjoxNzU0MDk2MzU5MDg5NjIzMDQw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1754096359089623040",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مامان دوتا فرشته، نیمچه خیاط، پر از خالی. ."
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc1NDA5NjM1OTA4OTYyMzA0MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
