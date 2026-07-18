@@ -1,7 +1,7 @@
 {
   "snapshotId": "b69792d5-dad3-41f0-bc75-78abb3ed9fa4",
   "twitterId": "3277928653",
-  "scannedAt": "2026-06-03T05:39:57.758Z",
+  "scannedAt": "2026-07-18T03:29:48.448Z",
   "fields": {
     "username": "KikoRaul7",
     "displayName": "Kiavash Azizi",
@@ -15,148 +15,85 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MzI3NzkyODY1Mw==",
-          "result": {
-            "id": "VXNlcjozMjc3OTI4NjUz",
-            "core": {
-              "name": "Kiavash Azizi",
-              "created_at": "Sun Jul 12 22:58:39 +0000 2015",
-              "screen_name": "KikoRaul7"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2032326757932494848/phPsEiF6_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "3277928653",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzI3NzkyODY1Mw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjozMjc3OTI4NjUz",
-            "core": {
-              "name": "Kiavash Azizi",
-              "created_at": "Sun Jul 12 22:58:39 +0000 2015",
-              "screen_name": "KikoRaul7"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2032326757932494848/phPsEiF6_normal.jpg"
             },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jul 12 22:58:39 +0000 2015",
+              "name": "Kiavash Azizi",
+              "screen_name": "KikoRaul7"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjozMjc3OTI4NjUz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
             "legacy": {
-              "url": "https://t.co/d4tY8sXvoe",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "work at varzesh3\n\n،،،،،\n\nStudied Civil engineering at babol noshirvani university of technology\nزمان، سکوت، کتاب، روزنامه کافیه باشه تا کاملا احساس خوشبختی کنم",
               "entities": {
+                "description": {},
                 "url": {
                   "urls": [
                     {
-                      "url": "https://t.co/d4tY8sXvoe",
+                      "display_url": "varzesh3.com",
+                      "expanded_url": "https://www.varzesh3.com",
                       "indices": [
                         0,
                         23
                       ],
-                      "display_url": "varzesh3.com",
-                      "expanded_url": "https://www.varzesh3.com"
+                      "url": "https://t.co/d4tY8sXvoe"
                     }
                   ]
-                },
-                "description": {}
+                }
               },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "work at varzesh3\n\n،،،،،\n\nStudied Civil engineering at babol noshirvani university of technology\nزمان، سکوت، کتاب، روزنامه کافیه باشه تا کاملا احساس خوشبختی کنم",
-              "media_count": 383,
-              "listed_count": 1,
-              "friends_count": 2445,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1310,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 460,
-              "translator_type": "none",
-              "favourites_count": 3799,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/3277928653/1655342238",
-              "follow_request_sent": false,
               "fast_followers_count": 0,
+              "favourites_count": 3797,
+              "follow_request_sent": false,
+              "followers_count": 459,
+              "friends_count": 2450,
               "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 383,
+              "needs_phone_verification": false,
+              "normal_followers_count": 459,
+              "notifications": false,
               "pinned_tweet_ids_str": [
                 "1677578882348896257"
               ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/3277928653/1655342238",
+              "profile_interstitial_type": "",
+              "statuses_count": 1310,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/d4tY8sXvoe",
+              "utc_offset": 0,
+              "want_retweets": false,
               "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 460,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+              "withheld_scope": ""
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "3277928653",
-            "location": {
-              "location": "tehran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "work at varzesh3\n\n،،،،،\n\nStudied Civil engineering at babol noshirvani university of technology\nزمان، سکوت، کتاب، روزنامه کافیه باشه تا کاملا احساس خوشبختی کنم"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 31,
@@ -165,13 +102,76 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "work at varzesh3\n\n،،،،،\n\nStudied Civil engineering at babol noshirvani university of technology\nزمان، سکوت، کتاب، روزنامه کافیه باشه تا کاملا احساس خوشبختی کنم"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "3277928653",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MzI3NzkyODY1Mw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
             "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2032326757932494848/phPsEiF6_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jul 12 22:58:39 +0000 2015",
+              "name": "Kiavash Azizi",
+              "screen_name": "KikoRaul7"
+            },
+            "id": "VXNlcjozMjc3OTI4NjUz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "3277928653",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzI3NzkyODY1Mw==",
+              "is_identity_verified": false
             }
           }
         }
