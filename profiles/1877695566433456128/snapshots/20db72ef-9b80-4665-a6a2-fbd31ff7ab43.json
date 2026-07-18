@@ -1,7 +1,7 @@
 {
   "snapshotId": "20db72ef-9b80-4665-a6a2-fbd31ff7ab43",
   "twitterId": "1877695566433456128",
-  "scannedAt": "2026-06-03T05:36:58.748Z",
+  "scannedAt": "2026-07-18T03:26:12.447Z",
   "fields": {
     "username": "fatemehsayareh",
     "displayName": "« فاطمه سَیّاره »",
@@ -15,167 +15,156 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1922885408351817728/xRMldmKT_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jan 10 12:35:06 +0000 2025",
+              "name": "« فاطمه سَیّاره »",
+              "screen_name": "fatemehsayareh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODc3Njk1NTY2NDMzNDU2MTI4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "« مامانِ حـُسین |ساکن حاشیه خلیج فارس|درگیر با هوش مصنوعی »⁣",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 14278,
+              "follow_request_sent": false,
+              "followers_count": 436,
+              "friends_count": 82,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 180,
+              "needs_phone_verification": false,
+              "normal_followers_count": 436,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2052889777137914084"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877695566433456128/1742217148",
+              "profile_interstitial_type": "",
+              "statuses_count": 3202,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1901095987818496126"
+            },
+            "profile_bio": {
+              "description": "« مامانِ حـُسین |ساکن حاشیه خلیج فارس|درگیر با هوش مصنوعی »⁣"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1877695566433456128",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg3NzY5NTU2NjQzMzQ1NjEyOA==",
           "result": {
-            "id": "VXNlcjoxODc3Njk1NTY2NDMzNDU2MTI4",
-            "core": {
-              "name": "« فاطمه سَیّاره »",
-              "created_at": "Fri Jan 10 12:35:06 +0000 2025",
-              "screen_name": "fatemehsayareh"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1922885408351817728/xRMldmKT_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1877695566433456128",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1742091452691"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg3NzY5NTU2NjQzMzQ1NjEyOA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODc3Njk1NTY2NDMzNDU2MTI4",
-            "core": {
-              "name": "« فاطمه سَیّاره »",
-              "created_at": "Fri Jan 10 12:35:06 +0000 2025",
-              "screen_name": "fatemehsayareh"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1922885408351817728/xRMldmKT_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "« مامانِ حـُسین |ساکن حاشیه خلیج فارس|درگیر با هوش مصنوعی »⁣",
-              "media_count": 163,
-              "listed_count": 1,
-              "friends_count": 78,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 3051,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 412,
-              "translator_type": "none",
-              "favourites_count": 12536,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877695566433456128/1742217148",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2052889777137914084"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 412,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Jan 10 12:35:06 +0000 2025",
+              "name": "« فاطمه سَیّاره »",
+              "screen_name": "fatemehsayareh"
             },
+            "id": "VXNlcjoxODc3Njk1NTY2NDMzNDU2MTI4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1877695566433456128",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "« مامانِ حـُسین |ساکن حاشیه خلیج فارس|درگیر با هوش مصنوعی »⁣"
-            },
-            "professional": {
-              "rest_id": "1901095987818496126",
-              "category": [
-                {
-                  "id": 934,
-                  "name": "Social Media Influencer",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg3NzY5NTU2NjQzMzQ1NjEyOA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "«Hossein's Mom |Resident of the Persian Gulf Coast|Engaged with Artificial Intelligence»",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
