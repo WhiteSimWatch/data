@@ -1,7 +1,7 @@
 {
   "snapshotId": "58ef4379-d84d-4bde-80a6-04d893ab1134",
   "twitterId": "350564903",
-  "scannedAt": "2026-06-03T05:58:23.127Z",
+  "scannedAt": "2026-07-18T03:59:09.558Z",
   "fields": {
     "username": "YoSrA_Bakhakh",
     "displayName": "Yosra Bakhakh",
@@ -15,169 +15,169 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2014697148139368448/wrt3-Xaf_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Aug 08 00:05:08 +0000 2011",
+              "name": "Yosra Bakhakh",
+              "screen_name": "YoSrA_Bakhakh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjozNTA1NjQ5MDM=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Journalist | Producer at @AJArabic | Tehran | My opinions are my own | RTs≠endorsements | Twitting on Middle East, Arab World & Iran",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "network.aljazeera.net/ar",
+                      "expanded_url": "https://network.aljazeera.net/ar",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/2Z6bvZNyk5"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 38744,
+              "follow_request_sent": false,
+              "followers_count": 7607,
+              "friends_count": 1107,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 75,
+              "media_count": 2324,
+              "needs_phone_verification": false,
+              "normal_followers_count": 7607,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1495514384067702787"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/350564903/1506624523",
+              "profile_interstitial_type": "",
+              "statuses_count": 20113,
+              "time_zone": "",
+              "translator_type": "regular",
+              "url": "https://t.co/2Z6bvZNyk5",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1478707451692298248"
+            },
+            "profile_bio": {
+              "description": "Journalist | Producer at @AJArabic | Tehran | My opinions are my own | RTs≠endorsements | Twitting on Middle East, Arab World & Iran"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "350564903",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MzUwNTY0OTAz",
           "result": {
-            "id": "VXNlcjozNTA1NjQ5MDM=",
-            "core": {
-              "name": "Yosra Bakhakh",
-              "created_at": "Mon Aug 08 00:05:08 +0000 2011",
-              "screen_name": "YoSrA_Bakhakh"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2014697148139368448/wrt3-Xaf_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "350564903",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Canada App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Canada App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1472543106036"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzUwNTY0OTAz",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjozNTA1NjQ5MDM=",
-            "core": {
-              "name": "Yosra Bakhakh",
-              "created_at": "Mon Aug 08 00:05:08 +0000 2011",
-              "screen_name": "YoSrA_Bakhakh"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2014697148139368448/wrt3-Xaf_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/2Z6bvZNyk5",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/2Z6bvZNyk5",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "network.aljazeera.net/ar",
-                      "expanded_url": "https://network.aljazeera.net/ar"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Journalist | Producer at @AJArabic | Tehran | My opinions are my own | RTs≠endorsements | Twitting on Middle East, Arab World & Iran",
-              "media_count": 2326,
-              "listed_count": 74,
-              "friends_count": 1097,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 20113,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 7623,
-              "translator_type": "regular",
-              "favourites_count": 38710,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/350564903/1506624523",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1495514384067702787"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 7623,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Aug 08 00:05:08 +0000 2011",
+              "name": "Yosra Bakhakh",
+              "screen_name": "YoSrA_Bakhakh"
             },
+            "id": "VXNlcjozNTA1NjQ5MDM=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "350564903",
-            "location": {
-              "location": "Tehran Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Journalist | Producer at @AJArabic | Tehran | My opinions are my own | RTs≠endorsements | Twitting on Middle East, Arab World & Iran"
-            },
-            "professional": {
-              "rest_id": "1478707451692298248",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzUwNTY0OTAz",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
