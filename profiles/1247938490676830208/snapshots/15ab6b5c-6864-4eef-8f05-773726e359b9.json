@@ -1,7 +1,7 @@
 {
   "snapshotId": "15ab6b5c-6864-4eef-8f05-773726e359b9",
   "twitterId": "1247938490676830208",
-  "scannedAt": "2026-06-03T13:51:22.315Z",
+  "scannedAt": "2026-07-18T08:13:34.232Z",
   "fields": {
     "username": "VPurmoradi",
     "displayName": "Vahide.purmoradi",
@@ -15,154 +15,154 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1343280929050132480/J0WKADut_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Apr 08 17:25:12 +0000 2020",
+              "name": "Vahide.purmoradi",
+              "screen_name": "VPurmoradi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjQ3OTM4NDkwNjc2ODMwMjA4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "وَ مَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجا\n\nفعال فرهنگی، رسانه ای",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/vpur_moradi",
+                      "expanded_url": "https://www.instagram.com/vpur_moradi",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/FPtVeOMm5Y"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 10051,
+              "follow_request_sent": false,
+              "followers_count": 1479,
+              "friends_count": 1047,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 232,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1479,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247938490676830208/1746435196",
+              "profile_interstitial_type": "",
+              "statuses_count": 3023,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/FPtVeOMm5Y",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "وَ مَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجا\n\nفعال فرهنگی، رسانه ای"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1247938490676830208",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTI0NzkzODQ5MDY3NjgzMDIwOA==",
           "result": {
-            "id": "VXNlcjoxMjQ3OTM4NDkwNjc2ODMwMjA4",
-            "core": {
-              "name": "Vahide.purmoradi",
-              "created_at": "Wed Apr 08 17:25:12 +0000 2020",
-              "screen_name": "VPurmoradi"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1343280929050132480/J0WKADut_normal.jpg"
             },
+            "core": {
+              "created_at": "Wed Apr 08 17:25:12 +0000 2020",
+              "name": "Vahide.purmoradi",
+              "screen_name": "VPurmoradi"
+            },
+            "id": "VXNlcjoxMjQ3OTM4NDkwNjc2ODMwMjA4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1247938490676830208",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI0NzkzODQ5MDY3NjgzMDIwOA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjQ3OTM4NDkwNjc2ODMwMjA4",
-            "core": {
-              "name": "Vahide.purmoradi",
-              "created_at": "Wed Apr 08 17:25:12 +0000 2020",
-              "screen_name": "VPurmoradi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1343280929050132480/J0WKADut_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/FPtVeOMm5Y",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/FPtVeOMm5Y",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "instagram.com/vpur_moradi",
-                      "expanded_url": "https://www.instagram.com/vpur_moradi"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "وَ مَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجا\n\nفعال فرهنگی، رسانه ای",
-              "media_count": 211,
-              "listed_count": 0,
-              "friends_count": 993,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2941,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1443,
-              "translator_type": "none",
-              "favourites_count": 9759,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247938490676830208/1746435196",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1443,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1247938490676830208",
-            "location": {
-              "location": "Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "وَ مَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجا\n\nفعال فرهنگی، رسانه ای"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
