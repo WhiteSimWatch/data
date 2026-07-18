@@ -1,7 +1,7 @@
 {
   "snapshotId": "04724fe6-4f0f-4026-aadb-61977bb61066",
   "twitterId": "1558290778811686913",
-  "scannedAt": "2026-06-03T07:37:20.650Z",
+  "scannedAt": "2026-07-18T05:43:57.063Z",
   "fields": {
     "username": "ZArab1984",
     "displayName": "Z.A",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1683522014261256202/yk9lvNbD_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Aug 13 03:14:21 +0000 2022",
+              "name": "Z.A",
+              "screen_name": "ZArab1984"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTU4MjkwNzc4ODExNjg2OTEz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Woman, live and love",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 10883,
+              "follow_request_sent": false,
+              "followers_count": 379,
+              "friends_count": 369,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 354,
+              "needs_phone_verification": false,
+              "normal_followers_count": 379,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2037864720020156862"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 10754,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Woman, live and love"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1558290778811686913",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU1ODI5MDc3ODgxMTY4NjkxMw==",
           "result": {
-            "id": "VXNlcjoxNTU4MjkwNzc4ODExNjg2OTEz",
-            "core": {
-              "name": "Z.A",
-              "created_at": "Sat Aug 13 03:14:21 +0000 2022",
-              "screen_name": "ZArab1984"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1683522014261256202/yk9lvNbD_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1558290778811686913",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1660361142748"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU1ODI5MDc3ODgxMTY4NjkxMw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTU4MjkwNzc4ODExNjg2OTEz",
-            "core": {
-              "name": "Z.A",
-              "created_at": "Sat Aug 13 03:14:21 +0000 2022",
-              "screen_name": "ZArab1984"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1683522014261256202/yk9lvNbD_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Woman, live and love",
-              "media_count": 321,
-              "listed_count": 1,
-              "friends_count": 364,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 10021,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 371,
-              "translator_type": "none",
-              "favourites_count": 10229,
-              "possibly_sensitive": false,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "2037864720020156862"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 371,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Aug 13 03:14:21 +0000 2022",
+              "name": "Z.A",
+              "screen_name": "ZArab1984"
             },
+            "id": "VXNlcjoxNTU4MjkwNzc4ODExNjg2OTEz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1558290778811686913",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Woman, live and love"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU1ODI5MDc3ODgxMTY4NjkxMw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
