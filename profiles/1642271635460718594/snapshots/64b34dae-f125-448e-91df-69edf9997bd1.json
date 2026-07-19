@@ -1,7 +1,7 @@
 {
   "snapshotId": "64b34dae-f125-448e-91df-69edf9997bd1",
   "twitterId": "1642271635460718594",
-  "scannedAt": "2026-06-03T19:07:38.178Z",
+  "scannedAt": "2026-07-19T03:37:11.700Z",
   "fields": {
     "username": "Doovar_Tashoni",
     "displayName": "دُووَر تشونی🎒",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045036505177989120/LEqSOn3D_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Apr 01 21:05:33 +0000 2023",
+              "name": "دُووَر تشونی🎒",
+              "screen_name": "Doovar_Tashoni"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjQyMjcxNjM1NDYwNzE4NTk0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "یه دختر دهه شصتی، پر انرژی و امیدوار به آینده‌ای روشن✌🏻😇",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 21784,
+              "follow_request_sent": false,
+              "followers_count": 2053,
+              "friends_count": 456,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 865,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2053,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2045037420123496920"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642271635460718594/1776409513",
+              "profile_interstitial_type": "",
+              "statuses_count": 15589,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تشان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یه دختر دهه شصتی، پر انرژی و امیدوار به آینده‌ای روشن✌🏻😇"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1642271635460718594",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTY0MjI3MTYzNTQ2MDcxODU5NA==",
           "result": {
-            "id": "VXNlcjoxNjQyMjcxNjM1NDYwNzE4NTk0",
-            "core": {
-              "name": "دُووَر تشونی🎒",
-              "created_at": "Sat Apr 01 21:05:33 +0000 2023",
-              "screen_name": "Doovar_Tashoni"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2045036505177989120/LEqSOn3D_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1642271635460718594",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "5",
                 "last_changed_at_msec": "1716798232491"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY0MjI3MTYzNTQ2MDcxODU5NA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjQyMjcxNjM1NDYwNzE4NTk0",
-            "core": {
-              "name": "دُووَر تشونی🎒",
-              "created_at": "Sat Apr 01 21:05:33 +0000 2023",
-              "screen_name": "Doovar_Tashoni"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2045036505177989120/LEqSOn3D_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "یه دختر دهه شصتی، پر انرژی و امیدوار به آینده‌ای روشن✌🏻😇",
-              "media_count": 862,
-              "listed_count": 2,
-              "friends_count": 443,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 15449,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2054,
-              "translator_type": "none",
-              "favourites_count": 21732,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642271635460718594/1776409513",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2045037420123496920"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2054,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Apr 01 21:05:33 +0000 2023",
+              "name": "دُووَر تشونی🎒",
+              "screen_name": "Doovar_Tashoni"
             },
+            "id": "VXNlcjoxNjQyMjcxNjM1NDYwNzE4NTk0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1642271635460718594",
-            "location": {
-              "location": "تشان"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "یه دختر دهه شصتی، پر انرژی و امیدوار به آینده‌ای روشن✌🏻😇"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY0MjI3MTYzNTQ2MDcxODU5NA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
