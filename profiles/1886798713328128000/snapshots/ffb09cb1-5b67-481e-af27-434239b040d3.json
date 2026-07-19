@@ -1,7 +1,7 @@
 {
   "snapshotId": "ffb09cb1-5b67-481e-af27-434239b040d3",
   "twitterId": "1886798713328128000",
-  "scannedAt": "2026-06-04T06:05:54.110Z",
+  "scannedAt": "2026-07-19T07:27:29.048Z",
   "fields": {
     "username": "Alnahiit_z",
     "displayName": "alnahiit",
@@ -15,156 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2031547505683595264/hxM0YZdN_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Feb 04 15:27:33 +0000 2025",
+              "name": "alnahiit",
+              "screen_name": "Alnahiit_z"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODg2Nzk4NzEzMzI4MTI4MDAw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Emergency doctor🥼🩺\n🏡hmd\n🎂8Esfand\n«النحیط» به معنایِ گریه‌ای که ظاهر نمی‌شود\nاما در سینه طنین انداز می‌شود...",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 11934,
+              "follow_request_sent": false,
+              "followers_count": 1743,
+              "friends_count": 954,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 4,
+              "media_count": 806,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1743,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1951656566463119581"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886798713328128000/1746364472",
+              "profile_interstitial_type": "",
+              "statuses_count": 9264,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Emergency doctor🥼🩺\n🏡hmd\n🎂8Esfand\n«النحیط» به معنایِ گریه‌ای که ظاهر نمی‌شود\nاما در سینه طنین انداز می‌شود..."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1886798713328128000",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg4Njc5ODcxMzMyODEyODAwMA==",
           "result": {
-            "id": "VXNlcjoxODg2Nzk4NzEzMzI4MTI4MDAw",
-            "core": {
-              "name": "alnahiit",
-              "created_at": "Tue Feb 04 15:27:33 +0000 2025",
-              "screen_name": "Alnahiit_z"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2031547505683595264/hxM0YZdN_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1886798713328128000",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1738682951727"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4Njc5ODcxMzMyODEyODAwMA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODg2Nzk4NzEzMzI4MTI4MDAw",
-            "core": {
-              "name": "alnahiit",
-              "created_at": "Tue Feb 04 15:27:33 +0000 2025",
-              "screen_name": "Alnahiit_z"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2031547505683595264/hxM0YZdN_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Emergency doctor🥼🩺\n🏡hmd\n🎂8Esfand\n«النحیط» به معنایِ گریه‌ای که ظاهر نمی‌شود\nاما در سینه طنین انداز می‌شود...",
-              "media_count": 768,
-              "listed_count": 4,
-              "friends_count": 940,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 8975,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1754,
-              "translator_type": "none",
-              "favourites_count": 11571,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886798713328128000/1746364472",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1951656566463119581"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1754,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Feb 04 15:27:33 +0000 2025",
+              "name": "alnahiit",
+              "screen_name": "Alnahiit_z"
             },
+            "id": "VXNlcjoxODg2Nzk4NzEzMzI4MTI4MDAw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1886798713328128000",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Emergency doctor🥼🩺\n🏡hmd\n🎂8Esfand\n«النحیط» به معنایِ گریه‌ای که ظاهر نمی‌شود\nاما در سینه طنین انداز می‌شود..."
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4Njc5ODcxMzMyODEyODAwMA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Emergency doctor🥼🩺  \n🏡hmd  \n🎂8Esfand  \n«Alnihit» meaning a cry that does not appear  \nbut echoes in the chest...",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
