@@ -1,0 +1,230 @@
+{
+  "snapshotId": "60d460b5-0e67-41ab-967f-69069362b906",
+  "twitterId": "1144562483593666561",
+  "scannedAt": "2026-07-19T04:27:35.417Z",
+  "fields": {
+    "username": "m_Khalili93",
+    "displayName": "Mehrdad Khalili",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2075924826011701248/VdZkQ_kc_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1144562483593666561/1782023910",
+    "bio": "باحث في مركز بنيان للدراسات الإستراتيجية @bonyanstudies\n\n#Minab168🎒",
+    "selfLocation": "Islamic Republic Of Iran",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Lebanon App Store",
+    "locatedCountryAccurate": false,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2075924826011701248/VdZkQ_kc_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jun 28 11:05:35 +0000 2019",
+              "name": "Mehrdad Khalili",
+              "screen_name": "m_Khalili93"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        66,
+                        75
+                      ],
+                      "text": "Minab168"
+                    }
+                  ],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": [
+                    {
+                      "id": "1961663996840624128",
+                      "id_str": "1961663996840624128",
+                      "indices": [
+                        50,
+                        64
+                      ],
+                      "name": "Bonyan | بنيان",
+                      "screen_name": "bonyanstudies"
+                    }
+                  ]
+                },
+                "source_language": "ar",
+                "translation": "Researcher at Bonyan Center for Strategic Studies @bonyanstudies\n\n#Minab168🎒"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTQ0NTYyNDgzNTkzNjY2NTYx",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "باحث في مركز بنيان للدراسات الإستراتيجية @bonyanstudies\n\n#Minab168🎒",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 60698,
+              "follow_request_sent": false,
+              "followers_count": 85125,
+              "friends_count": 2039,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 64,
+              "media_count": 2036,
+              "needs_phone_verification": false,
+              "normal_followers_count": 85125,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2016300559158985125"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144562483593666561/1782023910",
+              "profile_interstitial_type": "",
+              "statuses_count": 12803,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 12,
+                "month": 6,
+                "visibility": "Public",
+                "year_visibility": "Self"
+              }
+            },
+            "location": {
+              "location": "Islamic Republic Of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 579,
+                  "name": "Media & News"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1471523530005225473"
+            },
+            "profile_bio": {
+              "description": "باحث في مركز بنيان للدراسات الإستراتيجية @bonyanstudies\n\n#Minab168🎒"
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1144562483593666561",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1624253664069"
+              }
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE0NDU2MjQ4MzU5MzY2NjU2MQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "Lebanon App Store",
+              "username_changes": {
+                "count": "6",
+                "last_changed_at_msec": "1686033105113"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2075924826011701248/VdZkQ_kc_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jun 28 11:05:35 +0000 2019",
+              "name": "Mehrdad Khalili",
+              "screen_name": "m_Khalili93"
+            },
+            "id": "VXNlcjoxMTQ0NTYyNDgzNTkzNjY2NTYx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1144562483593666561",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE0NDU2MjQ4MzU5MzY2NjU2MQ==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1624253664069"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
