@@ -1,7 +1,7 @@
 {
   "snapshotId": "5489b2a0-e7dc-4e7f-9356-63ee57022b68",
   "twitterId": "1637166828613926914",
-  "scannedAt": "2026-06-04T03:31:45.223Z",
+  "scannedAt": "2026-07-19T04:17:45.133Z",
   "fields": {
     "username": "Yazahra1402",
     "displayName": "Ya zahra",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1912442619805704192/OpQWZeYA_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Mar 18 18:59:39 +0000 2023",
+              "name": "Ya zahra",
+              "screen_name": "Yazahra1402"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjM3MTY2ODI4NjEzOTI2OTE0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "✨دل را پر از طراوت عطر حضور کن\n\nآقا تو را به حضرٺ زهرا ظهورکن\n\nآخر کجایی ای گل خوشبوی فاطمه(س)\n\nبرگرد و شهر را پر از امواج نورکن✨\n\n#اللهم_عجل_الولیک_الفرج",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 3360,
+              "follow_request_sent": false,
+              "followers_count": 1224,
+              "friends_count": 1097,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 493,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1224,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1775973407475028008"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637166828613926914/1679822104",
+              "profile_interstitial_type": "",
+              "statuses_count": 8896,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "همدان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "✨دل را پر از طراوت عطر حضور کن\n\nآقا تو را به حضرٺ زهرا ظهورکن\n\nآخر کجایی ای گل خوشبوی فاطمه(س)\n\nبرگرد و شهر را پر از امواج نورکن✨\n\n#اللهم_عجل_الولیک_الفرج"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1637166828613926914",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTYzNzE2NjgyODYxMzkyNjkxNA==",
           "result": {
-            "id": "VXNlcjoxNjM3MTY2ODI4NjEzOTI2OTE0",
-            "core": {
-              "name": "Ya zahra",
-              "created_at": "Sat Mar 18 18:59:39 +0000 2023",
-              "screen_name": "Yazahra1402"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1912442619805704192/OpQWZeYA_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1637166828613926914",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1679166201988"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYzNzE2NjgyODYxMzkyNjkxNA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjM3MTY2ODI4NjEzOTI2OTE0",
-            "core": {
-              "name": "Ya zahra",
-              "created_at": "Sat Mar 18 18:59:39 +0000 2023",
-              "screen_name": "Yazahra1402"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1912442619805704192/OpQWZeYA_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "✨دل را پر از طراوت عطر حضور کن\n\nآقا تو را به حضرٺ زهرا ظهورکن\n\nآخر کجایی ای گل خوشبوی فاطمه(س)\n\nبرگرد و شهر را پر از امواج نورکن✨\n\n#اللهم_عجل_الولیک_الفرج",
-              "media_count": 486,
-              "listed_count": 2,
-              "friends_count": 1092,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 8679,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1206,
-              "translator_type": "none",
-              "favourites_count": 3297,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637166828613926914/1679822104",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1775973407475028008"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1206,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Mar 18 18:59:39 +0000 2023",
+              "name": "Ya zahra",
+              "screen_name": "Yazahra1402"
             },
+            "id": "VXNlcjoxNjM3MTY2ODI4NjEzOTI2OTE0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1637166828613926914",
-            "location": {
-              "location": "همدان"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "✨دل را پر از طراوت عطر حضور کن\n\nآقا تو را به حضرٺ زهرا ظهورکن\n\nآخر کجایی ای گل خوشبوی فاطمه(س)\n\nبرگرد و شهر را پر از امواج نورکن✨\n\n#اللهم_عجل_الولیک_الفرج"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYzNzE2NjgyODYxMzkyNjkxNA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
