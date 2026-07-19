@@ -1,7 +1,7 @@
 {
   "snapshotId": "3071e48d-661e-406a-9099-747f9293dce8",
   "twitterId": "2048083837570191360",
-  "scannedAt": "2026-06-04T06:47:31.950Z",
+  "scannedAt": "2026-07-19T08:15:17.235Z",
   "fields": {
     "username": "samyarYmz2025",
     "displayName": "Ymz",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2048377640545894400/6wGA5KuG_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Apr 25 16:57:08 +0000 2026",
+              "name": "Ymz",
+              "screen_name": "samyarYmz2025"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQ4MDgzODM3NTcwMTkxMzYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 242,
+              "follow_request_sent": false,
+              "followers_count": 51,
+              "friends_count": 59,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 215,
+              "needs_phone_verification": false,
+              "normal_followers_count": 51,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 2355,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2048083837570191360",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjA0ODA4MzgzNzU3MDE5MTM2MA==",
           "result": {
-            "id": "VXNlcjoyMDQ4MDgzODM3NTcwMTkxMzYw",
-            "core": {
-              "name": "Ymz",
-              "created_at": "Sat Apr 25 16:57:08 +0000 2026",
-              "screen_name": "samyarYmz2025"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2048377640545894400/6wGA5KuG_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2048083837570191360",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1777136316186"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0ODA4MzgzNzU3MDE5MTM2MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDQ4MDgzODM3NTcwMTkxMzYw",
-            "core": {
-              "name": "Ymz",
-              "created_at": "Sat Apr 25 16:57:08 +0000 2026",
-              "screen_name": "samyarYmz2025"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2048377640545894400/6wGA5KuG_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 194,
-              "listed_count": 0,
-              "friends_count": 59,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1912,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 47,
-              "translator_type": "none",
-              "favourites_count": 227,
-              "possibly_sensitive": false,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 47,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Apr 25 16:57:08 +0000 2026",
+              "name": "Ymz",
+              "screen_name": "samyarYmz2025"
             },
+            "id": "VXNlcjoyMDQ4MDgzODM3NTcwMTkxMzYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2048083837570191360",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0ODA4MzgzNzU3MDE5MTM2MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
