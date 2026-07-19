@@ -1,7 +1,7 @@
 {
   "snapshotId": "9383f4fe-d9c8-4eb0-8933-691e0ee5e9ae",
   "twitterId": "1951540087113895936",
-  "scannedAt": "2026-06-04T05:44:32.531Z",
+  "scannedAt": "2026-07-19T06:59:17.438Z",
   "fields": {
     "username": "nahidyusef64472",
     "displayName": "nahidyusefzadeh",
@@ -15,144 +15,155 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1966927381936906240/UvBPlSjs_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Aug 02 07:07:09 +0000 2025",
+              "name": "nahidyusefzadeh",
+              "screen_name": "nahidyusef64472"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "«👩‍👧 Mother of two children | ✨ Passionate about fine arts | 🧵 Sewing»"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTUxNTQwMDg3MTEzODk1OTM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "«👩‍👧 مادر دو فرزند | ✨ علاقه‌مند به هنرهای ظریف | 🧵 خیاطی»",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 19625,
+              "follow_request_sent": false,
+              "followers_count": 1162,
+              "friends_count": 1185,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 510,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1162,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2022547117798248508"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951540087113895936/1757790597",
+              "profile_interstitial_type": "",
+              "statuses_count": 5453,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "«👩‍👧 مادر دو فرزند | ✨ علاقه‌مند به هنرهای ظریف | 🧵 خیاطی»"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1951540087113895936",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTk1MTU0MDA4NzExMzg5NTkzNg==",
           "result": {
-            "id": "VXNlcjoxOTUxNTQwMDg3MTEzODk1OTM2",
-            "core": {
-              "name": "nahidyusefzadeh",
-              "created_at": "Sat Aug 02 07:07:09 +0000 2025",
-              "screen_name": "nahidyusef64472"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1966927381936906240/UvBPlSjs_normal.jpg"
             },
+            "core": {
+              "created_at": "Sat Aug 02 07:07:09 +0000 2025",
+              "name": "nahidyusefzadeh",
+              "screen_name": "nahidyusef64472"
+            },
+            "id": "VXNlcjoxOTUxNTQwMDg3MTEzODk1OTM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1951540087113895936",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "West Asia",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk1MTU0MDA4NzExMzg5NTkzNg==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTUxNTQwMDg3MTEzODk1OTM2",
-            "core": {
-              "name": "nahidyusefzadeh",
-              "created_at": "Sat Aug 02 07:07:09 +0000 2025",
-              "screen_name": "nahidyusef64472"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1966927381936906240/UvBPlSjs_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "«👩‍👧 مادر دو فرزند | ✨ علاقه‌مند به هنرهای ظریف | 🧵 خیاطی»",
-              "media_count": 460,
-              "listed_count": 0,
-              "friends_count": 1071,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 4605,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1052,
-              "translator_type": "none",
-              "favourites_count": 16206,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951540087113895936/1757790597",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2022547117798248508"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1052,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1951540087113895936",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "«👩‍👧 مادر دو فرزند | ✨ علاقه‌مند به هنرهای ظریف | 🧵 خیاطی»"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
