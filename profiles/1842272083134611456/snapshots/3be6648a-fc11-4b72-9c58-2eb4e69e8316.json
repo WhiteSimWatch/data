@@ -1,7 +1,7 @@
 {
   "snapshotId": "3be6648a-fc11-4b72-9c58-2eb4e69e8316",
   "twitterId": "1842272083134611456",
-  "scannedAt": "2026-06-04T06:08:52.673Z",
+  "scannedAt": "2026-07-19T07:31:36.131Z",
   "fields": {
     "username": "TMRYOUSEF",
     "displayName": "ߊ߬‌ܦ̈ߊ ࡅ࡙ࡐ‌ܢܚܦ̇ߺܙ🎒‌",
@@ -15,154 +15,82 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTg0MjI3MjA4MzEzNDYxMTQ1Ng==",
-          "result": {
-            "id": "VXNlcjoxODQyMjcyMDgzMTM0NjExNDU2",
-            "core": {
-              "name": "ߊ߬‌ܦ̈ߊ ࡅ࡙ࡐ‌ܢܚܦ̇ߺܙ🎒‌",
-              "created_at": "Fri Oct 04 18:34:54 +0000 2024",
-              "screen_name": "TMRYOUSEF"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2037099605838749698/Dco51GAX_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1842272083134611456",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "2",
-                "last_changed_at_msec": "1733264596897"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg0MjI3MjA4MzEzNDYxMTQ1Ng==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxODQyMjcyMDgzMTM0NjExNDU2",
-            "core": {
-              "name": "ߊ߬‌ܦ̈ߊ ࡅ࡙ࡐ‌ܢܚܦ̇ߺܙ🎒‌",
-              "created_at": "Fri Oct 04 18:34:54 +0000 2024",
-              "screen_name": "TMRYOUSEF"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2037099605838749698/Dco51GAX_normal.jpg"
             },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Oct 04 18:34:54 +0000 2024",
+              "name": "ߊ߬‌ܦ̈ߊ ࡅ࡙ࡐ‌ܢܚܦ̇ߺܙ🎒‌",
+              "screen_name": "TMRYOUSEF"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODQyMjcyMDgzMTM0NjExNDU2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
             "legacy": {
-              "url": "https://t.co/wTzFeh936K",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "🎋 ⃟▬▭Until you make the unconscious conscious, it will direct your life and you will call it fate.",
               "entities": {
+                "description": {},
                 "url": {
                   "urls": [
                     {
-                      "url": "https://t.co/wTzFeh936K",
+                      "display_url": "instagram.com/tmryousef",
+                      "expanded_url": "https://www.instagram.com/tmryousef",
                       "indices": [
                         0,
                         23
                       ],
-                      "display_url": "instagram.com/tmryousef",
-                      "expanded_url": "https://www.instagram.com/tmryousef"
+                      "url": "https://t.co/wTzFeh936K"
                     }
                   ]
-                },
-                "description": {}
+                }
               },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "🎋 ⃟▬▭Until you make the unconscious conscious, it will direct your life and you will call it fate.",
-              "media_count": 244,
-              "listed_count": 0,
-              "friends_count": 762,
+              "fast_followers_count": 0,
+              "favourites_count": 2232,
+              "follow_request_sent": false,
+              "followers_count": 909,
+              "friends_count": 760,
+              "has_custom_timelines": false,
               "is_translator": false,
+              "listed_count": 0,
+              "media_count": 245,
+              "needs_phone_verification": false,
+              "normal_followers_count": 909,
               "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1436,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 885,
-              "translator_type": "none",
-              "favourites_count": 2222,
               "possibly_sensitive": false,
               "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842272083134611456/1779133188",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2058125238513156428"
-              ],
+              "profile_interstitial_type": "",
+              "statuses_count": 1452,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/wTzFeh936K",
+              "utc_offset": 0,
+              "want_retweets": false,
               "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 885,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+              "withheld_scope": ""
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1842272083134611456",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "🎋 ⃟▬▭Until you make the unconscious conscious, it will direct your life and you will call it fate."
-            },
-            "professional": {
-              "rest_id": "1863292930179350530",
-              "category": [],
-              "professional_type": "Business"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 12,
@@ -171,14 +99,83 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Business",
+              "rest_id": "1863292930179350530"
+            },
+            "profile_bio": {
+              "description": "🎋 ⃟▬▭Until you make the unconscious conscious, it will direct your life and you will call it fate."
+            },
             "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1842272083134611456",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg0MjI3MjA4MzEzNDYxMTQ1Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1733264596897"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2037099605838749698/Dco51GAX_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Oct 04 18:34:54 +0000 2024",
+              "name": "ߊ߬‌ܦ̈ߊ ࡅ࡙ࡐ‌ܢܚܦ̇ߺܙ🎒‌",
+              "screen_name": "TMRYOUSEF"
+            },
+            "id": "VXNlcjoxODQyMjcyMDgzMTM0NjExNDU2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1842272083134611456",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg0MjI3MjA4MzEzNDYxMTQ1Ng==",
+              "is_identity_verified": false
             }
           }
         }
