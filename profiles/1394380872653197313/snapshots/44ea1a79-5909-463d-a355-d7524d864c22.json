@@ -1,7 +1,7 @@
 {
   "snapshotId": "44ea1a79-5909-463d-a355-d7524d864c22",
   "twitterId": "1394380872653197313",
-  "scannedAt": "2026-06-04T05:32:11.038Z",
+  "scannedAt": "2026-07-19T06:43:28.437Z",
   "fields": {
     "username": "Yarefigh_313",
     "displayName": "یارفیق من لا رفیق له",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1394381072201392139/N0W5Nx9B_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon May 17 19:54:51 +0000 2021",
+              "name": "یارفیق من لا رفیق له",
+              "screen_name": "Yarefigh_313"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzk0MzgwODcyNjUzMTk3MzEz",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "دشمن در پناهِ آهن و آتش است\nغافل از اینکه ما در پناهِ حیدر و حسینیم💚\n|شهیدآوینی|",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 5104,
+              "follow_request_sent": false,
+              "followers_count": 1023,
+              "friends_count": 1592,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 526,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1023,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2073170917820158415"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1394380872653197313/1656391079",
+              "profile_interstitial_type": "",
+              "statuses_count": 2799,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دشمن در پناهِ آهن و آتش است\nغافل از اینکه ما در پناهِ حیدر و حسینیم💚\n|شهیدآوینی|"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1394380872653197313",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTM5NDM4MDg3MjY1MzE5NzMxMw==",
           "result": {
-            "id": "VXNlcjoxMzk0MzgwODcyNjUzMTk3MzEz",
-            "core": {
-              "name": "یارفیق من لا رفیق له",
-              "created_at": "Mon May 17 19:54:51 +0000 2021",
-              "screen_name": "Yarefigh_313"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1394381072201392139/N0W5Nx9B_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1394380872653197313",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1656390809440"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM5NDM4MDg3MjY1MzE5NzMxMw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMzk0MzgwODcyNjUzMTk3MzEz",
-            "core": {
-              "name": "یارفیق من لا رفیق له",
-              "created_at": "Mon May 17 19:54:51 +0000 2021",
-              "screen_name": "Yarefigh_313"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1394381072201392139/N0W5Nx9B_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "دشمن در پناهِ آهن و آتش است\nغافل از اینکه ما در پناهِ حیدر و حسینیم💚\n|شهیدآوینی|",
-              "media_count": 508,
-              "listed_count": 2,
-              "friends_count": 1535,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2741,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 976,
-              "translator_type": "none",
-              "favourites_count": 4860,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1394380872653197313/1656391079",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2034537304161755502"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 976,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon May 17 19:54:51 +0000 2021",
+              "name": "یارفیق من لا رفیق له",
+              "screen_name": "Yarefigh_313"
             },
+            "id": "VXNlcjoxMzk0MzgwODcyNjUzMTk3MzEz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1394380872653197313",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "دشمن در پناهِ آهن و آتش است\nغافل از اینکه ما در پناهِ حیدر و حسینیم💚\n|شهیدآوینی|"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM5NDM4MDg3MjY1MzE5NzMxMw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
