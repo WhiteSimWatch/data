@@ -1,7 +1,7 @@
 {
   "snapshotId": "f131e550-c0fe-43b8-80a9-596f14475b7d",
   "twitterId": "996625685694296065",
-  "scannedAt": "2026-06-04T03:49:59.253Z",
+  "scannedAt": "2026-07-19T04:41:03.342Z",
   "fields": {
     "username": "PanahianTU",
     "displayName": "Ali Rıza Penahiyan",
@@ -15,155 +15,155 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1259791863126601728/j97C3fC9_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed May 16 05:37:34 +0000 2018",
+              "name": "Ali Rıza Penahiyan",
+              "screen_name": "PanahianTU"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5OTY2MjU2ODU2OTQyOTYwNjU=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Resmi Twitter Hesabı/ Konuşmacı, öğretmen ve yazar. Eğitim ve ahlak uzmanı. Medrese müdürü.",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "Panahian.net",
+                      "expanded_url": "http://www.Panahian.net",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/nuIcWct1Kb"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1,
+              "follow_request_sent": false,
+              "followers_count": 3502,
+              "friends_count": 1,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 1060,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3502,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/996625685694296065/1675589548",
+              "profile_interstitial_type": "",
+              "statuses_count": 1212,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/nuIcWct1Kb",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Resmi Twitter Hesabı/ Konuşmacı, öğretmen ve yazar. Eğitim ve ahlak uzmanı. Medrese müdürü."
+            },
+            "profile_description_language": "tr",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "996625685694296065",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTk2NjI1Njg1Njk0Mjk2MDY1",
           "result": {
-            "id": "VXNlcjo5OTY2MjU2ODU2OTQyOTYwNjU=",
-            "core": {
-              "name": "Ali Rıza Penahiyan",
-              "created_at": "Wed May 16 05:37:34 +0000 2018",
-              "screen_name": "PanahianTU"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1259791863126601728/j97C3fC9_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "996625685694296065",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1526449156604"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTk2NjI1Njg1Njk0Mjk2MDY1",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5OTY2MjU2ODU2OTQyOTYwNjU=",
-            "core": {
-              "name": "Ali Rıza Penahiyan",
-              "created_at": "Wed May 16 05:37:34 +0000 2018",
-              "screen_name": "PanahianTU"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1259791863126601728/j97C3fC9_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/nuIcWct1Kb",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/nuIcWct1Kb",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "Panahian.net",
-                      "expanded_url": "http://www.Panahian.net"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Resmi Twitter Hesabı/ Konuşmacı, öğretmen ve yazar. Eğitim ve ahlak uzmanı. Medrese müdürü.",
-              "media_count": 1060,
-              "listed_count": 3,
-              "friends_count": 1,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1212,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3530,
-              "translator_type": "none",
-              "favourites_count": 1,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/996625685694296065/1675589548",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3530,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed May 16 05:37:34 +0000 2018",
+              "name": "Ali Rıza Penahiyan",
+              "screen_name": "PanahianTU"
             },
+            "id": "VXNlcjo5OTY2MjU2ODU2OTQyOTYwNjU=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "996625685694296065",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Resmi Twitter Hesabı/ Konuşmacı, öğretmen ve yazar. Eğitim ve ahlak uzmanı. Medrese müdürü."
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTk2NjI1Njg1Njk0Mjk2MDY1",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "tr",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
