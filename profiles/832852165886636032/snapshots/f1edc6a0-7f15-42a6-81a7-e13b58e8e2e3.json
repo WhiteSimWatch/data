@@ -1,7 +1,7 @@
 {
   "snapshotId": "f1edc6a0-7f15-42a6-81a7-e13b58e8e2e3",
   "twitterId": "832852165886636032",
-  "scannedAt": "2026-06-04T07:40:34.321Z",
+  "scannedAt": "2026-07-19T09:12:03.427Z",
   "fields": {
     "username": "GhSeyfi",
     "displayName": "seyfi",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/944589787071238145/lH9iSxBe_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Feb 18 07:20:04 +0000 2017",
+              "name": "seyfi",
+              "screen_name": "GhSeyfi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MzI4NTIxNjU4ODY2MzYwMzI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "مقیم فضای مجازی هستم و کمی تا قسمتی روزنامه نگارِ ساکنِ تبریز tabriz",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 43067,
+              "follow_request_sent": false,
+              "followers_count": 4558,
+              "friends_count": 326,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 6,
+              "media_count": 190,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4558,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/832852165886636032/1509697489",
+              "profile_interstitial_type": "",
+              "statuses_count": 2195,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تبریز"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مقیم فضای مجازی هستم و کمی تا قسمتی روزنامه نگارِ ساکنِ تبریز tabriz"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "832852165886636032",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6ODMyODUyMTY1ODg2NjM2MDMy",
           "result": {
-            "id": "VXNlcjo4MzI4NTIxNjU4ODY2MzYwMzI=",
-            "core": {
-              "name": "seyfi",
-              "created_at": "Sat Feb 18 07:20:04 +0000 2017",
-              "screen_name": "GhSeyfi"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/944589787071238145/lH9iSxBe_normal.jpg"
             },
+            "core": {
+              "created_at": "Sat Feb 18 07:20:04 +0000 2017",
+              "name": "seyfi",
+              "screen_name": "GhSeyfi"
+            },
+            "id": "VXNlcjo4MzI4NTIxNjU4ODY2MzYwMzI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "832852165886636032",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODMyODUyMTY1ODg2NjM2MDMy",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo4MzI4NTIxNjU4ODY2MzYwMzI=",
-            "core": {
-              "name": "seyfi",
-              "created_at": "Sat Feb 18 07:20:04 +0000 2017",
-              "screen_name": "GhSeyfi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/944589787071238145/lH9iSxBe_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "مقیم فضای مجازی هستم و کمی تا قسمتی روزنامه نگارِ ساکنِ تبریز tabriz",
-              "media_count": 190,
-              "listed_count": 7,
-              "friends_count": 327,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2187,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 4560,
-              "translator_type": "none",
-              "favourites_count": 43068,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/832852165886636032/1509697489",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 4560,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "832852165886636032",
-            "location": {
-              "location": "تبریز"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "مقیم فضای مجازی هستم و کمی تا قسمتی روزنامه نگارِ ساکنِ تبریز tabriz"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
