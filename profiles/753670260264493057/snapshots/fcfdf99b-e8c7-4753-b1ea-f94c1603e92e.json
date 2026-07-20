@@ -1,7 +1,7 @@
 {
   "snapshotId": "fcfdf99b-e8c7-4753-b1ea-f94c1603e92e",
   "twitterId": "753670260264493057",
-  "scannedAt": "2026-06-05T03:07:02.622Z",
+  "scannedAt": "2026-07-20T03:42:52.044Z",
   "fields": {
     "username": "AK_Hosseinzadeh",
     "displayName": "عبدالکریم حسین‌زاده",
@@ -15,169 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1879997944142721024/myq3khwi_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Jul 14 19:19:27 +0000 2016",
+              "name": "عبدالکریم حسین‌زاده",
+              "screen_name": "AK_Hosseinzadeh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3NTM2NzAyNjAyNjQ0OTMwNTc=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "نماینده ملت شریف ایران از حوزه انتخابیه نقده و اشنویه در مجالس نهم، دهم و دوازدهم/ رییس فراکسیون حقوق شهروندی / فعال حقوق شهروندی/ معاون رییس جمهوری",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "ak-hosseinzadeh.ir",
+                      "expanded_url": "http://www.ak-hosseinzadeh.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/V7hz4aXCZm"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 508,
+              "follow_request_sent": false,
+              "followers_count": 24293,
+              "friends_count": 360,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 134,
+              "media_count": 286,
+              "needs_phone_verification": false,
+              "normal_followers_count": 24293,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "872452800839639040"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/753670260264493057/1675978680",
+              "profile_interstitial_type": "",
+              "statuses_count": 736,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/V7hz4aXCZm",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران، نقده و ‌اشنویه"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "نماینده ملت شریف ایران از حوزه انتخابیه نقده و اشنویه در مجالس نهم، دهم و دوازدهم/ رییس فراکسیون حقوق شهروندی / فعال حقوق شهروندی/ معاون رییس جمهوری"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "753670260264493057",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6NzUzNjcwMjYwMjY0NDkzMDU3",
           "result": {
-            "id": "VXNlcjo3NTM2NzAyNjAyNjQ0OTMwNTc=",
-            "core": {
-              "name": "عبدالکریم حسین‌زاده",
-              "created_at": "Thu Jul 14 19:19:27 +0000 2016",
-              "screen_name": "AK_Hosseinzadeh"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1879997944142721024/myq3khwi_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "753670260264493057",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "North America App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "North America App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1468524561912"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzUzNjcwMjYwMjY0NDkzMDU3",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo3NTM2NzAyNjAyNjQ0OTMwNTc=",
-            "core": {
-              "name": "عبدالکریم حسین‌زاده",
-              "created_at": "Thu Jul 14 19:19:27 +0000 2016",
-              "screen_name": "AK_Hosseinzadeh"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1879997944142721024/myq3khwi_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/V7hz4aXCZm",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/V7hz4aXCZm",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "ak-hosseinzadeh.ir",
-                      "expanded_url": "http://www.ak-hosseinzadeh.ir"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "نماینده ملت شریف ایران از حوزه انتخابیه نقده و اشنویه در مجالس نهم، دهم و دوازدهم/ رییس فراکسیون حقوق شهروندی / فعال حقوق شهروندی/ معاون رییس جمهوری",
-              "media_count": 286,
-              "listed_count": 135,
-              "friends_count": 358,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 735,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 24285,
-              "translator_type": "none",
-              "favourites_count": 511,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/753670260264493057/1675978680",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "872452800839639040"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 24285,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Jul 14 19:19:27 +0000 2016",
+              "name": "عبدالکریم حسین‌زاده",
+              "screen_name": "AK_Hosseinzadeh"
             },
+            "id": "VXNlcjo3NTM2NzAyNjAyNjQ0OTMwNTc=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "753670260264493057",
-            "location": {
-              "location": "تهران، نقده و ‌اشنویه"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "نماینده ملت شریف ایران از حوزه انتخابیه نقده و اشنویه در مجالس نهم، دهم و دوازدهم/ رییس فراکسیون حقوق شهروندی / فعال حقوق شهروندی/ معاون رییس جمهوری"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzUzNjcwMjYwMjY0NDkzMDU3",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Representative of the noble nation of Iran from the Nahavand and Urmia electoral district in the 9th, 10th, and 12th Parliaments / Head of the Citizens' Rights Faction / Citizens' Rights Activist / Vice President of the Republic",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
