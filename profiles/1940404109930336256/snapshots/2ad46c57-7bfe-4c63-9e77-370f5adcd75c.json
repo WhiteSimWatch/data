@@ -1,7 +1,7 @@
 {
   "snapshotId": "2ad46c57-7bfe-4c63-9e77-370f5adcd75c",
   "twitterId": "1940404109930336256",
-  "scannedAt": "2026-06-05T03:30:14.580Z",
+  "scannedAt": "2026-07-20T04:10:47.813Z",
   "fields": {
     "username": "Sofiiya78",
     "displayName": "مریم مرشدی",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030202490071982080/llqVON8-_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jul 02 13:36:25 +0000 2025",
+              "name": "مریم مرشدی",
+              "screen_name": "Sofiiya78"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTQwNDA0MTA5OTMwMzM2MjU2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "خیر\nنویسنده\nمشاور\nمربی،پیشگیری از آسیب های اجتماعی\nمربی اموزش،های،پیش از ازدواج از وزارت ورزش،و جوانان\nمربی خبرنگاری\nعضو خانه احزاب\nبازرس جمعیت وفاداران \nکنشگر",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 87,
+              "follow_request_sent": false,
+              "followers_count": 42,
+              "friends_count": 100,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 4,
+              "needs_phone_verification": false,
+              "normal_followers_count": 42,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940404109930336256/1751464265",
+              "profile_interstitial_type": "",
+              "statuses_count": 46,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "همین حوالی"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خیر\nنویسنده\nمشاور\nمربی،پیشگیری از آسیب های اجتماعی\nمربی اموزش،های،پیش از ازدواج از وزارت ورزش،و جوانان\nمربی خبرنگاری\nعضو خانه احزاب\nبازرس جمعیت وفاداران \nکنشگر"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1940404109930336256",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTk0MDQwNDEwOTkzMDMzNjI1Ng==",
           "result": {
-            "id": "VXNlcjoxOTQwNDA0MTA5OTMwMzM2MjU2",
-            "core": {
-              "name": "مریم مرشدی",
-              "created_at": "Wed Jul 02 13:36:25 +0000 2025",
-              "screen_name": "Sofiiya78"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2030202490071982080/llqVON8-_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1940404109930336256",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1751463580014"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk0MDQwNDEwOTkzMDMzNjI1Ng==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTQwNDA0MTA5OTMwMzM2MjU2",
-            "core": {
-              "name": "مریم مرشدی",
-              "created_at": "Wed Jul 02 13:36:25 +0000 2025",
-              "screen_name": "Sofiiya78"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2030202490071982080/llqVON8-_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "خیر\nنویسنده\nمشاور\nمربی،پیشگیری از آسیب های اجتماعی\nمربی اموزش،های،پیش از ازدواج از وزارت ورزش،و جوانان\nمربی خبرنگاری\nعضو خانه احزاب\nبازرس جمعیت وفاداران \nکنشگر",
-              "media_count": 4,
-              "listed_count": 0,
-              "friends_count": 102,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 46,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 42,
-              "translator_type": "none",
-              "favourites_count": 87,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940404109930336256/1751464265",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 42,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Jul 02 13:36:25 +0000 2025",
+              "name": "مریم مرشدی",
+              "screen_name": "Sofiiya78"
             },
+            "id": "VXNlcjoxOTQwNDA0MTA5OTMwMzM2MjU2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1940404109930336256",
-            "location": {
-              "location": "همین حوالی"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "خیر\nنویسنده\nمشاور\nمربی،پیشگیری از آسیب های اجتماعی\nمربی اموزش،های،پیش از ازدواج از وزارت ورزش،و جوانان\nمربی خبرنگاری\nعضو خانه احزاب\nبازرس جمعیت وفاداران \nکنشگر"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk0MDQwNDEwOTkzMDMzNjI1Ng==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
