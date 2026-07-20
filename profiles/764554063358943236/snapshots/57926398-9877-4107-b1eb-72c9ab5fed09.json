@@ -1,7 +1,7 @@
 {
   "snapshotId": "57926398-9877-4107-b1eb-72c9ab5fed09",
   "twitterId": "764554063358943236",
-  "scannedAt": "2026-06-05T05:38:09.530Z",
+  "scannedAt": "2026-07-20T16:31:54.305Z",
   "fields": {
     "username": "HediehKhatibi",
     "displayName": "هدیه خطیبی",
@@ -15,143 +15,143 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1500231568396361729/y3VkjCta_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Aug 13 20:07:48 +0000 2016",
+              "name": "هدیه خطیبی",
+              "screen_name": "HediehKhatibi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3NjQ1NTQwNjMzNTg5NDMyMzY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "#Journalist #SocialMedia /روزنامه نگار #FIBA,#FIVB,#FIFA... Communications",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 54617,
+              "follow_request_sent": false,
+              "followers_count": 2001,
+              "friends_count": 416,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 431,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2001,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1061234475076669440"
+              ],
+              "possibly_sensitive": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/764554063358943236/1688418507",
+              "profile_interstitial_type": "",
+              "statuses_count": 9111,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "#Journalist #SocialMedia /روزنامه نگار #FIBA,#FIVB,#FIFA... Communications"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "764554063358943236",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6NzY0NTU0MDYzMzU4OTQzMjM2",
           "result": {
-            "id": "VXNlcjo3NjQ1NTQwNjMzNTg5NDMyMzY=",
-            "core": {
-              "name": "هدیه خطیبی",
-              "created_at": "Sat Aug 13 20:07:48 +0000 2016",
-              "screen_name": "HediehKhatibi"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1500231568396361729/y3VkjCta_normal.jpg"
             },
+            "core": {
+              "created_at": "Sat Aug 13 20:07:48 +0000 2016",
+              "name": "هدیه خطیبی",
+              "screen_name": "HediehKhatibi"
+            },
+            "id": "VXNlcjo3NjQ1NTQwNjMzNTg5NDMyMzY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "764554063358943236",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzY0NTU0MDYzMzU4OTQzMjM2",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo3NjQ1NTQwNjMzNTg5NDMyMzY=",
-            "core": {
-              "name": "هدیه خطیبی",
-              "created_at": "Sat Aug 13 20:07:48 +0000 2016",
-              "screen_name": "HediehKhatibi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1500231568396361729/y3VkjCta_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "#Journalist #SocialMedia /روزنامه نگار #FIBA,#FIVB,#FIFA... Communications",
-              "media_count": 431,
-              "listed_count": 3,
-              "friends_count": 417,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 9112,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2010,
-              "translator_type": "none",
-              "favourites_count": 54760,
-              "possibly_sensitive": true,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/764554063358943236/1688418507",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1061234475076669440"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2010,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "764554063358943236",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "#Journalist #SocialMedia /روزنامه نگار #FIBA,#FIVB,#FIFA... Communications"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
