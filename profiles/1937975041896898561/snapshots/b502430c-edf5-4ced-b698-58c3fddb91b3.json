@@ -1,7 +1,7 @@
 {
   "snapshotId": "b502430c-edf5-4ced-b698-58c3fddb91b3",
   "twitterId": "1937975041896898561",
-  "scannedAt": "2026-06-05T05:21:11.676Z",
+  "scannedAt": "2026-07-20T16:11:44.529Z",
   "fields": {
     "username": "Mahda_110",
     "displayName": "🎒𝓜𝓪𝓱𝓭𝓪",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1948000835134476288/ZjPWhAhv_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jun 25 20:44:16 +0000 2025",
+              "name": "🎒𝓜𝓪𝓱𝓭𝓪",
+              "screen_name": "Mahda_110"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTM3OTc1MDQxODk2ODk4NTYx",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "دختری از ایل کورد و قوم ترک‌ ، عاشق جمهوری اسلامی ایران ، پیگیر سیاست",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 4554,
+              "follow_request_sent": false,
+              "followers_count": 235,
+              "friends_count": 405,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 92,
+              "needs_phone_verification": false,
+              "normal_followers_count": 235,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1947962100766437811"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937975041896898561/1767291101",
+              "profile_interstitial_type": "",
+              "statuses_count": 1657,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "متعلق به جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دختری از ایل کورد و قوم ترک‌ ، عاشق جمهوری اسلامی ایران ، پیگیر سیاست"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1937975041896898561",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTkzNzk3NTA0MTg5Njg5ODU2MQ==",
           "result": {
-            "id": "VXNlcjoxOTM3OTc1MDQxODk2ODk4NTYx",
-            "core": {
-              "name": "🎒𝓜𝓪𝓱𝓭𝓪",
-              "created_at": "Wed Jun 25 20:44:16 +0000 2025",
-              "screen_name": "Mahda_110"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1948000835134476288/ZjPWhAhv_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1937975041896898561",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1750884286729"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkzNzk3NTA0MTg5Njg5ODU2MQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTM3OTc1MDQxODk2ODk4NTYx",
-            "core": {
-              "name": "🎒𝓜𝓪𝓱𝓭𝓪",
-              "created_at": "Wed Jun 25 20:44:16 +0000 2025",
-              "screen_name": "Mahda_110"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1948000835134476288/ZjPWhAhv_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "دختری از ایل کورد و قوم ترک‌ ، عاشق جمهوری اسلامی ایران ، پیگیر سیاست",
-              "media_count": 92,
-              "listed_count": 2,
-              "friends_count": 360,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1566,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 208,
-              "translator_type": "none",
-              "favourites_count": 4536,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937975041896898561/1767291101",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1947962100766437811"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 208,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Jun 25 20:44:16 +0000 2025",
+              "name": "🎒𝓜𝓪𝓱𝓭𝓪",
+              "screen_name": "Mahda_110"
             },
+            "id": "VXNlcjoxOTM3OTc1MDQxODk2ODk4NTYx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1937975041896898561",
-            "location": {
-              "location": "متعلق به جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "دختری از ایل کورد و قوم ترک‌ ، عاشق جمهوری اسلامی ایران ، پیگیر سیاست"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkzNzk3NTA0MTg5Njg5ODU2MQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
