@@ -1,7 +1,7 @@
 {
   "snapshotId": "7d52cbe5-a39e-4992-8da5-5dd81115bf04",
   "twitterId": "1989594494355025920",
-  "scannedAt": "2026-06-05T05:53:08.247Z",
+  "scannedAt": "2026-07-20T16:50:12.902Z",
   "fields": {
     "username": "Sadat7224781103",
     "displayName": "Sadat",
@@ -15,144 +15,144 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1989603660716818432/Fkc-_jkl_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Nov 15 07:21:38 +0000 2025",
+              "name": "Sadat",
+              "screen_name": "Sadat7224781103"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTg5NTk0NDk0MzU1MDI1OTIw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "از سلاله ی سادات💚 خدایا مرا خرج کاری کن که مرا برای آن آفریدی",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6893,
+              "follow_request_sent": false,
+              "followers_count": 659,
+              "friends_count": 603,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 249,
+              "needs_phone_verification": false,
+              "normal_followers_count": 659,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1990050573509705903"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989594494355025920/1763194783",
+              "profile_interstitial_type": "",
+              "statuses_count": 1738,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "از سلاله ی سادات💚 خدایا مرا خرج کاری کن که مرا برای آن آفریدی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1989594494355025920",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTk4OTU5NDQ5NDM1NTAyNTkyMA==",
           "result": {
-            "id": "VXNlcjoxOTg5NTk0NDk0MzU1MDI1OTIw",
-            "core": {
-              "name": "Sadat",
-              "created_at": "Sat Nov 15 07:21:38 +0000 2025",
-              "screen_name": "Sadat7224781103"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1989603660716818432/Fkc-_jkl_normal.jpg"
             },
+            "core": {
+              "created_at": "Sat Nov 15 07:21:38 +0000 2025",
+              "name": "Sadat",
+              "screen_name": "Sadat7224781103"
+            },
+            "id": "VXNlcjoxOTg5NTk0NDk0MzU1MDI1OTIw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1989594494355025920",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk4OTU5NDQ5NDM1NTAyNTkyMA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTg5NTk0NDk0MzU1MDI1OTIw",
-            "core": {
-              "name": "Sadat",
-              "created_at": "Sat Nov 15 07:21:38 +0000 2025",
-              "screen_name": "Sadat7224781103"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1989603660716818432/Fkc-_jkl_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "از سلاله ی سادات💚 خدایا مرا خرج کاری کن که مرا برای آن آفریدی",
-              "media_count": 200,
-              "listed_count": 1,
-              "friends_count": 577,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1303,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 628,
-              "translator_type": "none",
-              "favourites_count": 5714,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989594494355025920/1763194783",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1990050573509705903"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 628,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1989594494355025920",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "از سلاله ی سادات💚 خدایا مرا خرج کاری کن که مرا برای آن آفریدی"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
