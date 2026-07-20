@@ -1,7 +1,7 @@
 {
   "snapshotId": "a68b8091-cedd-412d-b07d-0b1dbb8f37c5",
   "twitterId": "816818012",
-  "scannedAt": "2026-06-05T05:48:35.784Z",
+  "scannedAt": "2026-07-20T16:44:46.920Z",
   "fields": {
     "username": "shimidaan",
     "displayName": "شیمیدان برجسته ⌬",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1993619416672538624/x4pGSpj7_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Sep 11 06:23:48 +0000 2012",
+              "name": "شیمیدان برجسته ⌬",
+              "screen_name": "shimidaan"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MTY4MTgwMTI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "⁦🏳️⁩ تابع قوانین ترمودینامیک ⁦🏳️⁩",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 433095,
+              "follow_request_sent": false,
+              "followers_count": 4756,
+              "friends_count": 2313,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 8,
+              "media_count": 948,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4756,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1996204540388151519"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/816818012/1764151078",
+              "profile_interstitial_type": "",
+              "statuses_count": 48182,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "In Lab."
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "⁦🏳️⁩ تابع قوانین ترمودینامیک ⁦🏳️⁩"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "816818012",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6ODE2ODE4MDEy",
           "result": {
-            "id": "VXNlcjo4MTY4MTgwMTI=",
-            "core": {
-              "name": "شیمیدان برجسته ⌬",
-              "created_at": "Tue Sep 11 06:23:48 +0000 2012",
-              "screen_name": "shimidaan"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1993619416672538624/x4pGSpj7_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "816818012",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1554061806396"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODE2ODE4MDEy",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo4MTY4MTgwMTI=",
-            "core": {
-              "name": "شیمیدان برجسته ⌬",
-              "created_at": "Tue Sep 11 06:23:48 +0000 2012",
-              "screen_name": "shimidaan"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1993619416672538624/x4pGSpj7_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "⁦🏳️⁩ تابع قوانین ترمودینامیک ⁦🏳️⁩",
-              "media_count": 947,
-              "listed_count": 8,
-              "friends_count": 2310,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 47954,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 4759,
-              "translator_type": "none",
-              "favourites_count": 428513,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/816818012/1764151078",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1996204540388151519"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 4759,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Sep 11 06:23:48 +0000 2012",
+              "name": "شیمیدان برجسته ⌬",
+              "screen_name": "shimidaan"
             },
+            "id": "VXNlcjo4MTY4MTgwMTI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "816818012",
-            "location": {
-              "location": "In Lab."
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "⁦🏳️⁩ تابع قوانین ترمودینامیک ⁦🏳️⁩"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODE2ODE4MDEy",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
