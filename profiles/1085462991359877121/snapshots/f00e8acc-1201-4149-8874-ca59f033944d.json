@@ -1,7 +1,7 @@
 {
   "snapshotId": "f00e8acc-1201-4149-8874-ca59f033944d",
   "twitterId": "1085462991359877121",
-  "scannedAt": "2026-06-05T04:00:43.783Z",
+  "scannedAt": "2026-07-20T14:32:13.153Z",
   "fields": {
     "username": "Hadi_soltanii",
     "displayName": "هـــادی سلطانی 🎒",
@@ -15,158 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1802003940822728704/GMbPMlAC_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jan 16 09:05:18 +0000 2019",
+              "name": "هـــادی سلطانی 🎒",
+              "screen_name": "Hadi_soltanii"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDg1NDYyOTkxMzU5ODc3MTIx",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "فی‌الحال؛ شوهرش | طراح لوگو، لوگوتایپ و هویت بصری",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/hadiii_sol",
+                      "expanded_url": "http://t.me/hadiii_sol",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/qSUFCKpK26"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 96741,
+              "follow_request_sent": false,
+              "followers_count": 1871,
+              "friends_count": 265,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 4,
+              "media_count": 1308,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1871,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1423938691643449345"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085462991359877121/1716238670",
+              "profile_interstitial_type": "",
+              "statuses_count": 23499,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/qSUFCKpK26",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جایی در میانه بین‌الحرمین"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فی‌الحال؛ شوهرش | طراح لوگو، لوگوتایپ و هویت بصری"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1085462991359877121",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTA4NTQ2Mjk5MTM1OTg3NzEyMQ==",
           "result": {
-            "id": "VXNlcjoxMDg1NDYyOTkxMzU5ODc3MTIx",
-            "core": {
-              "name": "هـــادی سلطانی 🎒",
-              "created_at": "Wed Jan 16 09:05:18 +0000 2019",
-              "screen_name": "Hadi_soltanii"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1802003940822728704/GMbPMlAC_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1085462991359877121",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1547630030383"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA4NTQ2Mjk5MTM1OTg3NzEyMQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMDg1NDYyOTkxMzU5ODc3MTIx",
-            "core": {
-              "name": "هـــادی سلطانی 🎒",
-              "created_at": "Wed Jan 16 09:05:18 +0000 2019",
-              "screen_name": "Hadi_soltanii"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1802003940822728704/GMbPMlAC_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/qSUFCKpK26",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/qSUFCKpK26",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/hadiii_sol",
-                      "expanded_url": "http://t.me/hadiii_sol"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "فی‌الحال؛ شوهرش | طراح لوگو، لوگوتایپ و هویت بصری",
-              "media_count": 1304,
-              "listed_count": 4,
-              "friends_count": 261,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 23385,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 1878,
-              "translator_type": "none",
-              "favourites_count": 96222,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085462991359877121/1716238670",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1423938691643449345"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1878,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Jan 16 09:05:18 +0000 2019",
+              "name": "هـــادی سلطانی 🎒",
+              "screen_name": "Hadi_soltanii"
             },
+            "id": "VXNlcjoxMDg1NDYyOTkxMzU5ODc3MTIx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1085462991359877121",
-            "location": {
-              "location": "جایی در میانه بین‌الحرمین"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "فی‌الحال؛ شوهرش | طراح لوگو، لوگوتایپ و هویت بصری"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA4NTQ2Mjk5MTM1OTg3NzEyMQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
