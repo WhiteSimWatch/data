@@ -1,7 +1,7 @@
 {
   "snapshotId": "a2bbe7c4-2928-4aca-93e2-0ed0734a7ce3",
   "twitterId": "44066533",
-  "scannedAt": "2026-06-05T05:41:10.740Z",
+  "scannedAt": "2026-07-20T16:35:49.248Z",
   "fields": {
     "username": "hnikimaleki",
     "displayName": "حجت نیکی ملکی⁩⁦ ⁦🇮🇷⁩",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1075727781059813377/ie7SioIl_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jun 02 05:29:52 +0000 2009",
+              "name": "حجت نیکی ملکی⁩⁦ ⁦🇮🇷⁩",
+              "screen_name": "hnikimaleki"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo0NDA2NjUzMw==",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "‏‏‏‏‏‏کارشناسی مهندسی برق شریف و ‏‏\nدانش آموخته کارشناسی ارشد مدیریت MBA شریف و دکتری مدیریت رسانه دانشگاه تهران",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 50438,
+              "follow_request_sent": false,
+              "followers_count": 15633,
+              "friends_count": 1440,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 80,
+              "media_count": 460,
+              "needs_phone_verification": false,
+              "normal_followers_count": 15633,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/44066533/1545308622",
+              "profile_interstitial_type": "",
+              "statuses_count": 7190,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "‏‏‏‏‏‏کارشناسی مهندسی برق شریف و ‏‏\nدانش آموخته کارشناسی ارشد مدیریت MBA شریف و دکتری مدیریت رسانه دانشگاه تهران"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "44066533",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6NDQwNjY1MzM=",
           "result": {
-            "id": "VXNlcjo0NDA2NjUzMw==",
-            "core": {
-              "name": "حجت نیکی ملکی⁩⁦ ⁦🇮🇷⁩",
-              "created_at": "Tue Jun 02 05:29:52 +0000 2009",
-              "screen_name": "hnikimaleki"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1075727781059813377/ie7SioIl_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "44066533",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "5",
                 "last_changed_at_msec": "1578948847380"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NDQwNjY1MzM=",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo0NDA2NjUzMw==",
-            "core": {
-              "name": "حجت نیکی ملکی⁩⁦ ⁦🇮🇷⁩",
-              "created_at": "Tue Jun 02 05:29:52 +0000 2009",
-              "screen_name": "hnikimaleki"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1075727781059813377/ie7SioIl_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "‏‏‏‏‏‏کارشناسی مهندسی برق شریف و ‏‏\nدانش آموخته کارشناسی ارشد مدیریت MBA شریف و دکتری مدیریت رسانه دانشگاه تهران",
-              "media_count": 460,
-              "listed_count": 80,
-              "friends_count": 1447,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 7190,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 15663,
-              "translator_type": "none",
-              "favourites_count": 50496,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/44066533/1545308622",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 15663,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Jun 02 05:29:52 +0000 2009",
+              "name": "حجت نیکی ملکی⁩⁦ ⁦🇮🇷⁩",
+              "screen_name": "hnikimaleki"
             },
+            "id": "VXNlcjo0NDA2NjUzMw==",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "44066533",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "‏‏‏‏‏‏کارشناسی مهندسی برق شریف و ‏‏\nدانش آموخته کارشناسی ارشد مدیریت MBA شریف و دکتری مدیریت رسانه دانشگاه تهران"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NDQwNjY1MzM=",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
