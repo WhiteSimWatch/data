@@ -1,7 +1,7 @@
 {
   "snapshotId": "8b6c5374-a296-4e39-94d7-85d457a6248e",
   "twitterId": "1680070971963604993",
-  "scannedAt": "2026-06-05T06:41:45.800Z",
+  "scannedAt": "2026-07-20T13:00:34.122Z",
   "fields": {
     "username": "m_ah_di2",
     "displayName": "حاج مهدی",
@@ -15,151 +15,151 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1795066097323892736/0DWieLzA_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jul 15 04:25:52 +0000 2023",
+              "name": "حاج مهدی",
+              "screen_name": "m_ah_di2"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjgwMDcwOTcxOTYzNjA0OTkz",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "اکانت دوم \nدهه هشتادی پاکار انقلاب \n\nفالو=بک #حمایت_انقلابی",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2309,
+              "follow_request_sent": false,
+              "followers_count": 155,
+              "friends_count": 192,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 23,
+              "needs_phone_verification": false,
+              "normal_followers_count": 155,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1795050110973333964"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680070971963604993/1716812168",
+              "profile_interstitial_type": "",
+              "statuses_count": 378,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "visibility": "MutualFollow",
+                "year": 2001,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "هر جا وی پی ان وصل شه"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "اکانت دوم \nدهه هشتادی پاکار انقلاب \n\nفالو=بک #حمایت_انقلابی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1680070971963604993",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTY4MDA3MDk3MTk2MzYwNDk5Mw==",
           "result": {
-            "id": "VXNlcjoxNjgwMDcwOTcxOTYzNjA0OTkz",
-            "core": {
-              "name": "حاج مهدی",
-              "created_at": "Sat Jul 15 04:25:52 +0000 2023",
-              "screen_name": "m_ah_di2"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1795066097323892736/0DWieLzA_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1680070971963604993",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1708352164818"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY4MDA3MDk3MTk2MzYwNDk5Mw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjgwMDcwOTcxOTYzNjA0OTkz",
-            "core": {
-              "name": "حاج مهدی",
-              "created_at": "Sat Jul 15 04:25:52 +0000 2023",
-              "screen_name": "m_ah_di2"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1795066097323892736/0DWieLzA_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "اکانت دوم \nدهه هشتادی پاکار انقلاب \n\nفالو=بک #حمایت_انقلابی",
-              "media_count": 16,
-              "listed_count": 0,
-              "friends_count": 161,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 318,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 122,
-              "translator_type": "none",
-              "favourites_count": 1893,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680070971963604993/1716812168",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1795050110973333964"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 122,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Jul 15 04:25:52 +0000 2023",
+              "name": "حاج مهدی",
+              "screen_name": "m_ah_di2"
             },
+            "id": "VXNlcjoxNjgwMDcwOTcxOTYzNjA0OTkz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1680070971963604993",
-            "location": {
-              "location": "هر جا وی پی ان وصل شه"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "اکانت دوم \nدهه هشتادی پاکار انقلاب \n\nفالو=بک #حمایت_انقلابی"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY4MDA3MDk3MTk2MzYwNDk5Mw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "year": 2001,
-                "visibility": "MutualFollow",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
