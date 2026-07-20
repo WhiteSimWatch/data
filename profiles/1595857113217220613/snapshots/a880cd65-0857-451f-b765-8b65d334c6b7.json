@@ -1,7 +1,7 @@
 {
   "snapshotId": "a880cd65-0857-451f-b765-8b65d334c6b7",
   "twitterId": "1595857113217220613",
-  "scannedAt": "2026-06-05T06:33:54.681Z",
+  "scannedAt": "2026-07-20T12:50:44.327Z",
   "fields": {
     "username": "Zahra_dmd",
     "displayName": "زهرا دین محمد🎒",
@@ -15,156 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2008924438041894913/6-YWiBsq_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Nov 24 19:09:45 +0000 2022",
+              "name": "زهرا دین محمد🎒",
+              "screen_name": "Zahra_dmd"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTk1ODU3MTEzMjE3MjIwNjEz",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "شاید مشاور! متأهل💍",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 37663,
+              "follow_request_sent": false,
+              "followers_count": 2448,
+              "friends_count": 2198,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 511,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2448,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2044526737321857148"
+              ],
+              "possibly_sensitive": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595857113217220613/1779808121",
+              "profile_interstitial_type": "",
+              "statuses_count": 21347,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "شاید مشاور! متأهل💍"
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1595857113217220613",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU5NTg1NzExMzIxNzIyMDYxMw==",
           "result": {
-            "id": "VXNlcjoxNTk1ODU3MTEzMjE3MjIwNjEz",
-            "core": {
-              "name": "زهرا دین محمد🎒",
-              "created_at": "Thu Nov 24 19:09:45 +0000 2022",
-              "screen_name": "Zahra_dmd"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2008924438041894913/6-YWiBsq_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1595857113217220613",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1669317389137"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU5NTg1NzExMzIxNzIyMDYxMw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTk1ODU3MTEzMjE3MjIwNjEz",
-            "core": {
-              "name": "زهرا دین محمد🎒",
-              "created_at": "Thu Nov 24 19:09:45 +0000 2022",
-              "screen_name": "Zahra_dmd"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2008924438041894913/6-YWiBsq_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "شاید مشاور! متأهل💍",
-              "media_count": 497,
-              "listed_count": 2,
-              "friends_count": 2192,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 20757,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2454,
-              "translator_type": "none",
-              "favourites_count": 36833,
-              "possibly_sensitive": true,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595857113217220613/1779808121",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "2044526737321857148"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2454,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Nov 24 19:09:45 +0000 2022",
+              "name": "زهرا دین محمد🎒",
+              "screen_name": "Zahra_dmd"
             },
+            "id": "VXNlcjoxNTk1ODU3MTEzMjE3MjIwNjEz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1595857113217220613",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "شاید مشاور! متأهل💍"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU5NTg1NzExMzIxNzIyMDYxMw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "ar",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Maybe a consultant! Married💍",
-                "source_language": "ar",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
