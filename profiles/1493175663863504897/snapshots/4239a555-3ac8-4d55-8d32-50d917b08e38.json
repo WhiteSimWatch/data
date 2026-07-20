@@ -1,7 +1,7 @@
 {
   "snapshotId": "4239a555-3ac8-4d55-8d32-50d917b08e38",
   "twitterId": "1493175663863504897",
-  "scannedAt": "2026-06-05T03:11:57.967Z",
+  "scannedAt": "2026-07-20T03:48:13.532Z",
   "fields": {
     "username": "masoomane",
     "displayName": "نآریـن‌دخت",
@@ -15,150 +15,150 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2008835546114641920/AX7gfXSb_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 14 10:50:15 +0000 2022",
+              "name": "نآریـن‌دخت",
+              "screen_name": "masoomane"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDkzMTc1NjYzODYzNTA0ODk3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "نظرات شما برای ما محترمه و نشان‌دهنده‌ی ادب و شخصیت شماست🌹// مادر، خانه‌دار، علاقه‌مند به طراحی پوستر و ادیت",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 260744,
+              "follow_request_sent": false,
+              "followers_count": 12852,
+              "friends_count": 9665,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 2627,
+              "needs_phone_verification": false,
+              "normal_followers_count": 12852,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2076574374069469573"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493175663863504897/1741605376",
+              "profile_interstitial_type": "",
+              "statuses_count": 62768,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "از دیار کویر"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1500520253641613313"
+            },
+            "profile_bio": {
+              "description": "نظرات شما برای ما محترمه و نشان‌دهنده‌ی ادب و شخصیت شماست🌹// مادر، خانه‌دار، علاقه‌مند به طراحی پوستر و ادیت"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1493175663863504897",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTQ5MzE3NTY2Mzg2MzUwNDg5Nw==",
           "result": {
-            "id": "VXNlcjoxNDkzMTc1NjYzODYzNTA0ODk3",
-            "core": {
-              "name": "نآریـن‌دخت",
-              "created_at": "Mon Feb 14 10:50:15 +0000 2022",
-              "screen_name": "masoomane"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2008835546114641920/AX7gfXSb_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1493175663863504897",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "5",
                 "last_changed_at_msec": "1664608727169"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ5MzE3NTY2Mzg2MzUwNDg5Nw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNDkzMTc1NjYzODYzNTA0ODk3",
-            "core": {
-              "name": "نآریـن‌دخت",
-              "created_at": "Mon Feb 14 10:50:15 +0000 2022",
-              "screen_name": "masoomane"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2008835546114641920/AX7gfXSb_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "نظرات شما برای ما محترمه و نشان‌دهنده‌ی ادب و شخصیت شماست🌹// مادر، خانه‌دار، علاقه‌مند به طراحی پوستر و ادیت",
-              "media_count": 2521,
-              "listed_count": 5,
-              "friends_count": 9297,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 61401,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 12445,
-              "translator_type": "none",
-              "favourites_count": 246775,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493175663863504897/1741605376",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1992792992571338904"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 12445,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Feb 14 10:50:15 +0000 2022",
+              "name": "نآریـن‌دخت",
+              "screen_name": "masoomane"
             },
+            "id": "VXNlcjoxNDkzMTc1NjYzODYzNTA0ODk3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1493175663863504897",
-            "location": {
-              "location": "از دیار کویر"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "نظرات شما برای ما محترمه و نشان‌دهنده‌ی ادب و شخصیت شماست🌹// مادر، خانه‌دار، علاقه‌مند به طراحی پوستر و ادیت"
-            },
-            "professional": {
-              "rest_id": "1500520253641613313",
-              "category": [],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ5MzE3NTY2Mzg2MzUwNDg5Nw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
