@@ -1,7 +1,7 @@
 {
   "snapshotId": "8deb6710-ba19-41f1-bb67-a899975f20f2",
   "twitterId": "1356119299518300161",
-  "scannedAt": "2026-06-05T07:15:46.418Z",
+  "scannedAt": "2026-07-20T13:41:12.613Z",
   "fields": {
     "username": "mabe_atiye",
     "displayName": "عَط؟🎒",
@@ -15,146 +15,82 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTM1NjExOTI5OTUxODMwMDE2MQ==",
-          "result": {
-            "id": "VXNlcjoxMzU2MTE5Mjk5NTE4MzAwMTYx",
-            "core": {
-              "name": "عَط؟🎒",
-              "created_at": "Mon Feb 01 05:57:05 +0000 2021",
-              "screen_name": "mabe_atiye"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2038219074698973184/T3TwwyaT_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1356119299518300161",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "North America App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "West Asia",
-              "username_changes": {
-                "count": "7",
-                "last_changed_at_msec": "1770237372969"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM1NjExOTI5OTUxODMwMDE2MQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxMzU2MTE5Mjk5NTE4MzAwMTYx",
-            "core": {
-              "name": "عَط؟🎒",
-              "created_at": "Mon Feb 01 05:57:05 +0000 2021",
-              "screen_name": "mabe_atiye"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2038219074698973184/T3TwwyaT_normal.jpg"
             },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 01 05:57:05 +0000 2021",
+              "name": "عَط؟🎒",
+              "screen_name": "mabe_atiye"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzU2MTE5Mjk5NTE4MzAwMTYx",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
             "legacy": {
-              "url": "https://t.co/lcDLg1LeEP",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "بیچارهٔ نجف/دانشجوی دانشگاه تهران/کالیگرافر\n*بدان امید که آن شهسوار باز آید*\nکانال 👇🏼🌚",
               "entities": {
+                "description": {},
                 "url": {
                   "urls": [
                     {
-                      "url": "https://t.co/lcDLg1LeEP",
+                      "display_url": "ble.ir/moharrar_art",
+                      "expanded_url": "http://ble.ir/moharrar_art",
                       "indices": [
                         0,
                         23
                       ],
-                      "display_url": "ble.ir/moharrar_art",
-                      "expanded_url": "http://ble.ir/moharrar_art"
+                      "url": "https://t.co/lcDLg1LeEP"
                     }
                   ]
-                },
-                "description": {}
+                }
               },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "بیچارهٔ نجف/دانشجوی دانشگاه تهران/کالیگرافر\n*بدان امید که آن شهسوار باز آید*\nکانال 👇🏼🌚",
-              "media_count": 228,
-              "listed_count": 4,
-              "friends_count": 1078,
+              "fast_followers_count": 0,
+              "favourites_count": 5750,
+              "follow_request_sent": false,
+              "followers_count": 1316,
+              "friends_count": 1073,
+              "has_custom_timelines": false,
               "is_translator": false,
+              "listed_count": 4,
+              "media_count": 233,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1316,
               "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 3181,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1300,
-              "translator_type": "none",
-              "favourites_count": 5839,
               "possibly_sensitive": false,
               "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356119299518300161/1710939077",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
+              "profile_interstitial_type": "",
+              "statuses_count": 3254,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/lcDLg1LeEP",
+              "utc_offset": 0,
+              "want_retweets": false,
               "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1300,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+              "withheld_scope": ""
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1356119299518300161",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "بیچارهٔ نجف/دانشجوی دانشگاه تهران/کالیگرافر\n*بدان امید که آن شهسوار باز آید*\nکانال 👇🏼🌚"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 16,
@@ -163,25 +99,78 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "بیچارهٔ نجف/دانشجوی دانشگاه تهران/کالیگرافر\n*بدان امید که آن شهسوار باز آید*\nکانال 👇🏼🌚"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Poor Najaf/University of Tehran Student/Calligrapher  \n*Know hope, for that knight shall return*  \nChannel 👇🏼🌚",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1356119299518300161",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM1NjExOTI5OTUxODMwMDE2MQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "7",
+                "last_changed_at_msec": "1770237372969"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2038219074698973184/T3TwwyaT_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Feb 01 05:57:05 +0000 2021",
+              "name": "عَط؟🎒",
+              "screen_name": "mabe_atiye"
+            },
+            "id": "VXNlcjoxMzU2MTE5Mjk5NTE4MzAwMTYx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1356119299518300161",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM1NjExOTI5OTUxODMwMDE2MQ==",
+              "is_identity_verified": false
             }
           }
         }
