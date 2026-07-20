@@ -1,0 +1,160 @@
+{
+  "snapshotId": "fab1ca7c-1538-436c-9731-b93cb7e484eb",
+  "twitterId": "3374011787",
+  "scannedAt": "2026-07-20T12:27:59.789Z",
+  "fields": {
+    "username": "Sirus_MF",
+    "displayName": "Cyrus, la minor",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1576636690994810881/QbDySeB6_normal.jpg",
+    "profileBannerUrl": "",
+    "bio": "نگران میهن",
+    "selfLocation": "۳۴۵۵۵۳'/۱۴۴۴۵۶\"",
+    "accountBasedIn": "United Kingdom",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1576636690994810881/QbDySeB6_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jul 13 14:05:43 +0000 2015",
+              "name": "Cyrus, la minor",
+              "screen_name": "Sirus_MF"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjozMzc0MDExNzg3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "نگران میهن",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 33014,
+              "follow_request_sent": false,
+              "followers_count": 176,
+              "friends_count": 333,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 99,
+              "needs_phone_verification": false,
+              "normal_followers_count": 176,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 9450,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "۳۴۵۵۵۳'/۱۴۴۴۵۶\""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "نگران میهن"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "3374011787",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MzM3NDAxMTc4Nw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United Kingdom",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1664735213969"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1576636690994810881/QbDySeB6_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jul 13 14:05:43 +0000 2015",
+              "name": "Cyrus, la minor",
+              "screen_name": "Sirus_MF"
+            },
+            "id": "VXNlcjozMzc0MDExNzg3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "3374011787",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzM3NDAxMTc4Nw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
