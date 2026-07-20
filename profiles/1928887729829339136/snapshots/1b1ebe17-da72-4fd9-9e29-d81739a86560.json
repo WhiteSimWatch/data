@@ -1,7 +1,7 @@
 {
   "snapshotId": "1b1ebe17-da72-4fd9-9e29-d81739a86560",
   "twitterId": "1928887729829339136",
-  "scannedAt": "2026-06-05T06:16:56.799Z",
+  "scannedAt": "2026-07-20T12:29:43.048Z",
   "fields": {
     "username": "tbslmrs",
     "displayName": "پسرک قارچ فروش",
@@ -15,169 +15,169 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1943656769332367360/GsppwxWF_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat May 31 18:54:25 +0000 2025",
+              "name": "پسرک قارچ فروش",
+              "screen_name": "tbslmrs"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTI4ODg3NzI5ODI5MzM5MTM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "پسرک 🍄 فروش که مهندس 🧑‍💻 هم هست",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "valinasab.ir",
+                      "expanded_url": "https://valinasab.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ZEy2hrVZXi"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1266,
+              "follow_request_sent": false,
+              "followers_count": 151,
+              "friends_count": 262,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 18,
+              "needs_phone_verification": false,
+              "normal_followers_count": 151,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1943565940387647630"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1928887729829339136/1748961942",
+              "profile_interstitial_type": "",
+              "statuses_count": 524,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/ZEy2hrVZXi",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "همینجا"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1035,
+                  "name": "Producer"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1929913467655598381"
+            },
+            "profile_bio": {
+              "description": "پسرک 🍄 فروش که مهندس 🧑‍💻 هم هست"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1928887729829339136",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTkyODg4NzcyOTgyOTMzOTEzNg==",
           "result": {
-            "id": "VXNlcjoxOTI4ODg3NzI5ODI5MzM5MTM2",
-            "core": {
-              "name": "پسرک قارچ فروش",
-              "created_at": "Sat May 31 18:54:25 +0000 2025",
-              "screen_name": "tbslmrs"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1943656769332367360/GsppwxWF_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1928887729829339136",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1748717808396"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkyODg4NzcyOTgyOTMzOTEzNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTI4ODg3NzI5ODI5MzM5MTM2",
-            "core": {
-              "name": "پسرک قارچ فروش",
-              "created_at": "Sat May 31 18:54:25 +0000 2025",
-              "screen_name": "tbslmrs"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1943656769332367360/GsppwxWF_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/ZEy2hrVZXi",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/ZEy2hrVZXi",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "valinasab.ir",
-                      "expanded_url": "https://valinasab.ir"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "پسرک 🍄 فروش که مهندس 🧑‍💻 هم هست",
-              "media_count": 16,
-              "listed_count": 1,
-              "friends_count": 250,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 502,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 147,
-              "translator_type": "none",
-              "favourites_count": 1123,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1928887729829339136/1748961942",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1943565940387647630"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 147,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat May 31 18:54:25 +0000 2025",
+              "name": "پسرک قارچ فروش",
+              "screen_name": "tbslmrs"
             },
+            "id": "VXNlcjoxOTI4ODg3NzI5ODI5MzM5MTM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1928887729829339136",
-            "location": {
-              "location": "همینجا"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "پسرک 🍄 فروش که مهندس 🧑‍💻 هم هست"
-            },
-            "professional": {
-              "rest_id": "1929913467655598381",
-              "category": [
-                {
-                  "id": 1035,
-                  "name": "Producer",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkyODg4NzcyOTgyOTMzOTEzNg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
