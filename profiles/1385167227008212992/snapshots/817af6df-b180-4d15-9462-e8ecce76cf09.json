@@ -1,7 +1,7 @@
 {
   "snapshotId": "817af6df-b180-4d15-9462-e8ecce76cf09",
   "twitterId": "1385167227008212992",
-  "scannedAt": "2026-06-05T07:07:37.181Z",
+  "scannedAt": "2026-07-20T13:31:49.118Z",
   "fields": {
     "username": "Sasan_Danesh",
     "displayName": "ساسان دانش پژوه",
@@ -15,199 +15,199 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1871927534507433984/HYw8cx1f_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Apr 22 10:02:13 +0000 2021",
+              "name": "ساسان دانش پژوه",
+              "screen_name": "Sasan_Danesh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "I am responsible for what I write, not for what you interpret.  \nProducing the secret to Iran's longevity!!"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "1"
+            },
+            "id": "VXNlcjoxMzg1MTY3MjI3MDA4MjEyOTky",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "من مسئول چیزی هستم که مینویسم، نه چیزی که شما برداشت می کنید.\nتولید راز ماندگاری ایرانه!!",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "x.com/search?q=from%…",
+                      "expanded_url": "https://x.com/search?q=from%3A%40Sasan_Danesh%2Fexclude%3Areplies&src=typed_query",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/r3rKPGyvpC"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 89764,
+              "follow_request_sent": false,
+              "followers_count": 34308,
+              "friends_count": 945,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 27,
+              "media_count": 3888,
+              "needs_phone_verification": false,
+              "normal_followers_count": 34308,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2058987122229399841"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1385167227008212992/1759238300",
+              "profile_interstitial_type": "",
+              "statuses_count": 45768,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/r3rKPGyvpC",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "همین حوالی"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1468116432072359938"
+            },
+            "profile_bio": {
+              "description": "من مسئول چیزی هستم که مینویسم، نه چیزی که شما برداشت می کنید.\nتولید راز ماندگاری ایرانه!!"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1385167227008212992",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1764530514798"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTM4NTE2NzIyNzAwODIxMjk5Mg==",
           "result": {
-            "id": "VXNlcjoxMzg1MTY3MjI3MDA4MjEyOTky",
-            "core": {
-              "name": "ساسان دانش پژوه",
-              "created_at": "Thu Apr 22 10:02:13 +0000 2021",
-              "screen_name": "Sasan_Danesh"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1871927534507433984/HYw8cx1f_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1385167227008212992",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "4",
                 "last_changed_at_msec": "1644005031730"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM4NTE2NzIyNzAwODIxMjk5Mg==",
-              "reason": {
-                "verified_since_msec": "1764530514798"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMzg1MTY3MjI3MDA4MjEyOTky",
-            "core": {
-              "name": "ساسان دانش پژوه",
-              "created_at": "Thu Apr 22 10:02:13 +0000 2021",
-              "screen_name": "Sasan_Danesh"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1871927534507433984/HYw8cx1f_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/r3rKPGyvpC",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/r3rKPGyvpC",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "x.com/search?q=from%…",
-                      "expanded_url": "https://x.com/search?q=from%3A%40Sasan_Danesh%2Fexclude%3Areplies&src=typed_query"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "من مسئول چیزی هستم که مینویسم، نه چیزی که شما برداشت می کنید.\nتولید راز ماندگاری ایرانه!!",
-              "media_count": 3553,
-              "listed_count": 26,
-              "friends_count": 913,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 43342,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 33781,
-              "translator_type": "none",
-              "favourites_count": 83851,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1385167227008212992/1759238300",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "2058987122229399841"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 33781,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Apr 22 10:02:13 +0000 2021",
+              "name": "ساسان دانش پژوه",
+              "screen_name": "Sasan_Danesh"
             },
+            "id": "VXNlcjoxMzg1MTY3MjI3MDA4MjEyOTky",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1385167227008212992",
-            "location": {
-              "location": "همین حوالی"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "من مسئول چیزی هستم که مینویسم، نه چیزی که شما برداشت می کنید.\nتولید راز ماندگاری ایرانه!!"
-            },
-            "professional": {
-              "rest_id": "1468116432072359938",
-              "category": [
-                {
-                  "id": 934,
-                  "name": "Social Media Influencer",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "1",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM4NTE2NzIyNzAwODIxMjk5Mg==",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1764530514798"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "I am responsible for what I write, not for what you interpret.\n\nThe secret to Iran's longevity!!",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
+              }
             }
           }
         }
