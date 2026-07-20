@@ -1,7 +1,7 @@
 {
   "snapshotId": "0fafcf93-606e-409e-af99-f5ea68ecf022",
   "twitterId": "167812740",
-  "scannedAt": "2026-06-04T08:12:56.257Z",
+  "scannedAt": "2026-07-20T03:35:44.387Z",
   "fields": {
     "username": "sohailkarimi",
     "displayName": "سهیل کریمی 🇮🇷 Sohail Karimi",
@@ -15,163 +15,163 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2039593594353553408/lPkBQo7o_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jul 17 15:45:03 +0000 2010",
+              "name": "سهیل کریمی 🇮🇷 Sohail Karimi",
+              "screen_name": "sohailkarimi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjc4MTI3NDA=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "از خودم هیچی ندارم. نه سابقه، نه اثر، نه هنر، نه سواد، نه تخصص، نه تجربه و نه حتا عزت و آب‌رو. هر چی که هست و یا دیده می‌شه به خداوندی خدا هذا من فضل ربّی...",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "zil.ink/sohailkarimi",
+                      "expanded_url": "https://zil.ink/sohailkarimi",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/uXAA03aIpo"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6154,
+              "follow_request_sent": false,
+              "followers_count": 3721,
+              "friends_count": 214,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 19,
+              "media_count": 645,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3721,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1022227688432578560"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/167812740/1534573436",
+              "profile_interstitial_type": "",
+              "statuses_count": 4577,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/uXAA03aIpo",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "visibility": "MutualFollow",
+                "year": 1972,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "I.R.Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "از خودم هیچی ندارم. نه سابقه، نه اثر، نه هنر، نه سواد، نه تخصص، نه تجربه و نه حتا عزت و آب‌رو. هر چی که هست و یا دیده می‌شه به خداوندی خدا هذا من فضل ربّی..."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "167812740",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTY3ODEyNzQw",
           "result": {
-            "id": "VXNlcjoxNjc4MTI3NDA=",
-            "core": {
-              "name": "سهیل کریمی 🇮🇷 Sohail Karimi",
-              "created_at": "Sat Jul 17 15:45:03 +0000 2010",
-              "screen_name": "sohailkarimi"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2039593594353553408/lPkBQo7o_normal.jpg"
             },
+            "core": {
+              "created_at": "Sat Jul 17 15:45:03 +0000 2010",
+              "name": "سهیل کریمی 🇮🇷 Sohail Karimi",
+              "screen_name": "sohailkarimi"
+            },
+            "id": "VXNlcjoxNjc4MTI3NDA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "167812740",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY3ODEyNzQw",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjc4MTI3NDA=",
-            "core": {
-              "name": "سهیل کریمی 🇮🇷 Sohail Karimi",
-              "created_at": "Sat Jul 17 15:45:03 +0000 2010",
-              "screen_name": "sohailkarimi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2039593594353553408/lPkBQo7o_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/uXAA03aIpo",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/uXAA03aIpo",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "zil.ink/sohailkarimi",
-                      "expanded_url": "https://zil.ink/sohailkarimi"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "از خودم هیچی ندارم. نه سابقه، نه اثر، نه هنر، نه سواد، نه تخصص، نه تجربه و نه حتا عزت و آب‌رو. هر چی که هست و یا دیده می‌شه به خداوندی خدا هذا من فضل ربّی...",
-              "media_count": 637,
-              "listed_count": 19,
-              "friends_count": 215,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 4563,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 3637,
-              "translator_type": "none",
-              "favourites_count": 6156,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/167812740/1534573436",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1022227688432578560"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3637,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "167812740",
-            "location": {
-              "location": "I.R.Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "از خودم هیچی ندارم. نه سابقه، نه اثر، نه هنر، نه سواد، نه تخصص، نه تجربه و نه حتا عزت و آب‌رو. هر چی که هست و یا دیده می‌شه به خداوندی خدا هذا من فضل ربّی..."
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "year": 1972,
-                "visibility": "MutualFollow",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
