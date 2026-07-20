@@ -1,7 +1,7 @@
 {
   "snapshotId": "3835bcd4-432e-4af4-8ea1-e6101012f999",
   "twitterId": "949694857873850368",
-  "scannedAt": "2026-06-05T04:11:27.846Z",
+  "scannedAt": "2026-07-20T14:46:05.644Z",
   "fields": {
     "username": "Atiyehnajari",
     "displayName": "Atiyeh najari",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1845923116670763008/G9WQmCIX_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jan 06 17:31:13 +0000 2018",
+              "name": "Atiyeh najari",
+              "screen_name": "Atiyehnajari"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5NDk2OTQ4NTc4NzM4NTAzNjg=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "A journalist whose only effort is to achieve justice and truth. We are at peace with everyone except those who consider themselves superior to everyone",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 182707,
+              "follow_request_sent": false,
+              "followers_count": 15867,
+              "friends_count": 2216,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 58,
+              "media_count": 2856,
+              "needs_phone_verification": false,
+              "normal_followers_count": 15867,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1717292271970730177"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/949694857873850368/1558988389",
+              "profile_interstitial_type": "",
+              "statuses_count": 79908,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "IRAN"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "A journalist whose only effort is to achieve justice and truth. We are at peace with everyone except those who consider themselves superior to everyone"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "949694857873850368",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTQ5Njk0ODU3ODczODUwMzY4",
           "result": {
-            "id": "VXNlcjo5NDk2OTQ4NTc4NzM4NTAzNjg=",
-            "core": {
-              "name": "Atiyeh najari",
-              "created_at": "Sat Jan 06 17:31:13 +0000 2018",
-              "screen_name": "Atiyehnajari"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1845923116670763008/G9WQmCIX_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "949694857873850368",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "North America App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "North America App Store",
               "username_changes": {
                 "count": "9",
                 "last_changed_at_msec": "1613118409220"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTQ5Njk0ODU3ODczODUwMzY4",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5NDk2OTQ4NTc4NzM4NTAzNjg=",
-            "core": {
-              "name": "Atiyeh najari",
-              "created_at": "Sat Jan 06 17:31:13 +0000 2018",
-              "screen_name": "Atiyehnajari"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1845923116670763008/G9WQmCIX_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "A journalist whose only effort is to achieve justice and truth. We are at peace with everyone except those who consider themselves superior to everyone",
-              "media_count": 2832,
-              "listed_count": 60,
-              "friends_count": 2226,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 79697,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 15842,
-              "translator_type": "none",
-              "favourites_count": 181954,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/949694857873850368/1558988389",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1717292271970730177"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 15842,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Jan 06 17:31:13 +0000 2018",
+              "name": "Atiyeh najari",
+              "screen_name": "Atiyehnajari"
             },
+            "id": "VXNlcjo5NDk2OTQ4NTc4NzM4NTAzNjg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "949694857873850368",
-            "location": {
-              "location": "IRAN"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "A journalist whose only effort is to achieve justice and truth. We are at peace with everyone except those who consider themselves superior to everyone"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTQ5Njk0ODU3ODczODUwMzY4",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
