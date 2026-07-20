@@ -1,7 +1,7 @@
 {
   "snapshotId": "15f91728-fe51-497e-9799-5bd40e3b058d",
   "twitterId": "1760032126253318144",
-  "scannedAt": "2026-06-05T06:12:17.245Z",
+  "scannedAt": "2026-07-20T12:24:14.606Z",
   "fields": {
     "username": "ferfereh354158",
     "displayName": "فرزانه🇮🇷",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1760034254074093568/i0hAu0s7_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Feb 20 20:02:55 +0000 2024",
+              "name": "فرزانه🇮🇷",
+              "screen_name": "ferfereh354158"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzYwMDMyMTI2MjUzMzE4MTQ0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "دختر کویر،بلوچ،سرباز سیدعلی🇮🇷\nعشق تاوان دارد...\nو تاوان عاشق #سیدعلی بودن بسیجی شدن است🇮🇷",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 8029,
+              "follow_request_sent": false,
+              "followers_count": 346,
+              "friends_count": 394,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 203,
+              "needs_phone_verification": false,
+              "normal_followers_count": 346,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760032126253318144/1708461630",
+              "profile_interstitial_type": "",
+              "statuses_count": 871,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دختر کویر،بلوچ،سرباز سیدعلی🇮🇷\nعشق تاوان دارد...\nو تاوان عاشق #سیدعلی بودن بسیجی شدن است🇮🇷"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1760032126253318144",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTc2MDAzMjEyNjI1MzMxODE0NA==",
           "result": {
-            "id": "VXNlcjoxNzYwMDMyMTI2MjUzMzE4MTQ0",
-            "core": {
-              "name": "فرزانه🇮🇷",
-              "created_at": "Tue Feb 20 20:02:55 +0000 2024",
-              "screen_name": "ferfereh354158"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1760034254074093568/i0hAu0s7_normal.jpg"
             },
+            "core": {
+              "created_at": "Tue Feb 20 20:02:55 +0000 2024",
+              "name": "فرزانه🇮🇷",
+              "screen_name": "ferfereh354158"
+            },
+            "id": "VXNlcjoxNzYwMDMyMTI2MjUzMzE4MTQ0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1760032126253318144",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc2MDAzMjEyNjI1MzMxODE0NA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNzYwMDMyMTI2MjUzMzE4MTQ0",
-            "core": {
-              "name": "فرزانه🇮🇷",
-              "created_at": "Tue Feb 20 20:02:55 +0000 2024",
-              "screen_name": "ferfereh354158"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1760034254074093568/i0hAu0s7_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "دختر کویر،بلوچ،سرباز سیدعلی🇮🇷\nعشق تاوان دارد...\nو تاوان عاشق #سیدعلی بودن بسیجی شدن است🇮🇷",
-              "media_count": 190,
-              "listed_count": 0,
-              "friends_count": 392,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 820,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 343,
-              "translator_type": "none",
-              "favourites_count": 7967,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760032126253318144/1708461630",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 343,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1760032126253318144",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "دختر کویر،بلوچ،سرباز سیدعلی🇮🇷\nعشق تاوان دارد...\nو تاوان عاشق #سیدعلی بودن بسیجی شدن است🇮🇷"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
