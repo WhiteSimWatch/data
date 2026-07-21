@@ -1,7 +1,7 @@
 {
   "snapshotId": "c4cd2b97-6292-481c-8b58-d2197a417294",
   "twitterId": "2022054440996642816",
-  "scannedAt": "2026-06-05T12:13:04.837Z",
+  "scannedAt": "2026-07-21T04:33:28.039Z",
   "fields": {
     "username": "ghaf_alefsinmim",
     "displayName": "قاف الف سین میم",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2022054773986611200/WbX5uKMV_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Feb 12 21:05:37 +0000 2026",
+              "name": "قاف الف سین میم",
+              "screen_name": "ghaf_alefsinmim"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDIyMDU0NDQwOTk2NjQyODE2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 449,
+              "follow_request_sent": false,
+              "followers_count": 30,
+              "friends_count": 48,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 33,
+              "needs_phone_verification": false,
+              "normal_followers_count": 30,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022054440996642816/1778701109",
+              "profile_interstitial_type": "",
+              "statuses_count": 111,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2022054440996642816",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjAyMjA1NDQ0MDk5NjY0MjgxNg==",
           "result": {
-            "id": "VXNlcjoyMDIyMDU0NDQwOTk2NjQyODE2",
-            "core": {
-              "name": "قاف الف سین میم",
-              "created_at": "Thu Feb 12 21:05:37 +0000 2026",
-              "screen_name": "ghaf_alefsinmim"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2022054773986611200/WbX5uKMV_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2022054440996642816",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Web",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1770930601446"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAyMjA1NDQ0MDk5NjY0MjgxNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDIyMDU0NDQwOTk2NjQyODE2",
-            "core": {
-              "name": "قاف الف سین میم",
-              "created_at": "Thu Feb 12 21:05:37 +0000 2026",
-              "screen_name": "ghaf_alefsinmim"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2022054773986611200/WbX5uKMV_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 33,
-              "listed_count": 0,
-              "friends_count": 48,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 111,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 29,
-              "translator_type": "none",
-              "favourites_count": 449,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022054440996642816/1778701109",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 29,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Feb 12 21:05:37 +0000 2026",
+              "name": "قاف الف سین میم",
+              "screen_name": "ghaf_alefsinmim"
             },
+            "id": "VXNlcjoyMDIyMDU0NDQwOTk2NjQyODE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2022054440996642816",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAyMjA1NDQ0MDk5NjY0MjgxNg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
