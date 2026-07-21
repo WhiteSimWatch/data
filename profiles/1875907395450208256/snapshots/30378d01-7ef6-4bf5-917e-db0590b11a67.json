@@ -1,7 +1,7 @@
 {
   "snapshotId": "30378d01-7ef6-4bf5-917e-db0590b11a67",
   "twitterId": "1875907395450208256",
-  "scannedAt": "2026-06-06T06:13:08.850Z",
+  "scannedAt": "2026-07-21T08:59:59.552Z",
   "fields": {
     "username": "MIISHOB",
     "displayName": "-خانـوم‌ِحُب",
@@ -15,136 +15,72 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTg3NTkwNzM5NTQ1MDIwODI1Ng==",
-          "result": {
-            "id": "VXNlcjoxODc1OTA3Mzk1NDUwMjA4MjU2",
-            "core": {
-              "name": "-خانـوم‌ِحُب",
-              "created_at": "Sun Jan 05 14:09:48 +0000 2025",
-              "screen_name": "MIISHOB"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2051021601383043072/sTF4i4fL_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1875907395450208256",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "3",
-                "last_changed_at_msec": "1752164221779"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg3NTkwNzM5NTQ1MDIwODI1Ng==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxODc1OTA3Mzk1NDUwMjA4MjU2",
-            "core": {
-              "name": "-خانـوم‌ِحُب",
-              "created_at": "Sun Jan 05 14:09:48 +0000 2025",
-              "screen_name": "MIISHOB"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2051021601383043072/sTF4i4fL_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "رها کن آدم ساده! جوجه گرافیست عاشق بارون🫧💙",
-              "media_count": 209,
-              "listed_count": 0,
-              "friends_count": 1961,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 5779,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1940,
-              "translator_type": "none",
-              "favourites_count": 12181,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875907395450208256/1778779644",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2049003386981273658"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1940,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jan 05 14:09:48 +0000 2025",
+              "name": "-خانـوم‌ِحُب",
+              "screen_name": "MIISHOB"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1875907395450208256",
-            "location": {
-              "location": "دورازمن^^"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "رها کن آدم ساده! جوجه گرافیست عاشق بارون🫧💙"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": false
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODc1OTA3Mzk1NDUwMjA4MjU2",
+            "is_blue_verified": false,
             "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "رها کن آدم ساده! جوجه گرافیست عاشق بارون🫧💙",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 12503,
+              "follow_request_sent": false,
+              "followers_count": 1962,
+              "friends_count": 2010,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 216,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1962,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2049003386981273658"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875907395450208256/1778779644",
+              "profile_interstitial_type": "",
+              "statuses_count": 5969,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 15,
@@ -153,14 +89,78 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "دورازمن^^"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "رها کن آدم ساده! جوجه گرافیست عاشق بارون🫧💙"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1875907395450208256",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg3NTkwNzM5NTQ1MDIwODI1Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1752164221779"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2051021601383043072/sTF4i4fL_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jan 05 14:09:48 +0000 2025",
+              "name": "-خانـوم‌ِحُب",
+              "screen_name": "MIISHOB"
+            },
+            "id": "VXNlcjoxODc1OTA3Mzk1NDUwMjA4MjU2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1875907395450208256",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg3NTkwNzM5NTQ1MDIwODI1Ng==",
+              "is_identity_verified": false
             }
           }
         }
