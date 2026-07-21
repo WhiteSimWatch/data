@@ -1,7 +1,7 @@
 {
   "snapshotId": "9df91437-2447-4e24-aac6-0900260f1aff",
   "twitterId": "1630294104084041739",
-  "scannedAt": "2026-06-05T12:14:02.011Z",
+  "scannedAt": "2026-07-21T04:35:11.501Z",
   "fields": {
     "username": "AkramShadravan",
     "displayName": "Akram Shadravan",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1998675725419720704/t8ElgoW3_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 27 19:52:55 +0000 2023",
+              "name": "Akram Shadravan",
+              "screen_name": "AkramShadravan"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjMwMjk0MTA0MDg0MDQxNzM5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "نزدیک صبح ، هر گوشی موبایل یک رسانه و هر رسانه یک سلاح ، سنگر رو حفظ کن",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 17334,
+              "follow_request_sent": false,
+              "followers_count": 726,
+              "friends_count": 597,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 657,
+              "needs_phone_verification": false,
+              "normal_followers_count": 726,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 6994,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "semnan_Iran "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "نزدیک صبح ، هر گوشی موبایل یک رسانه و هر رسانه یک سلاح ، سنگر رو حفظ کن"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1630294104084041739",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTYzMDI5NDEwNDA4NDA0MTczOQ==",
           "result": {
-            "id": "VXNlcjoxNjMwMjk0MTA0MDg0MDQxNzM5",
-            "core": {
-              "name": "Akram Shadravan",
-              "created_at": "Mon Feb 27 19:52:55 +0000 2023",
-              "screen_name": "AkramShadravan"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1998675725419720704/t8ElgoW3_normal.jpg"
             },
+            "core": {
+              "created_at": "Mon Feb 27 19:52:55 +0000 2023",
+              "name": "Akram Shadravan",
+              "screen_name": "AkramShadravan"
+            },
+            "id": "VXNlcjoxNjMwMjk0MTA0MDg0MDQxNzM5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1630294104084041739",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "West Asia",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYzMDI5NDEwNDA4NDA0MTczOQ==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjMwMjk0MTA0MDg0MDQxNzM5",
-            "core": {
-              "name": "Akram Shadravan",
-              "created_at": "Mon Feb 27 19:52:55 +0000 2023",
-              "screen_name": "AkramShadravan"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1998675725419720704/t8ElgoW3_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "نزدیک صبح ، هر گوشی موبایل یک رسانه و هر رسانه یک سلاح ، سنگر رو حفظ کن",
-              "media_count": 649,
-              "listed_count": 1,
-              "friends_count": 592,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 6949,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 724,
-              "translator_type": "none",
-              "favourites_count": 17190,
-              "possibly_sensitive": false,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 724,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1630294104084041739",
-            "location": {
-              "location": "semnan_Iran "
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "نزدیک صبح ، هر گوشی موبایل یک رسانه و هر رسانه یک سلاح ، سنگر رو حفظ کن"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
