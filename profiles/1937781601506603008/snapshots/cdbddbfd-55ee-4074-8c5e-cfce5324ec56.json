@@ -1,7 +1,7 @@
 {
   "snapshotId": "cdbddbfd-55ee-4074-8c5e-cfce5324ec56",
   "twitterId": "1937781601506603008",
-  "scannedAt": "2026-06-05T07:37:49.333Z",
+  "scannedAt": "2026-07-21T03:02:57.712Z",
   "fields": {
     "username": "m_0_jlp",
     "displayName": "مبينا",
@@ -15,153 +15,153 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1940725654984478720/9RtUKGSM_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jun 25 07:55:54 +0000 2025",
+              "name": "مبينا",
+              "screen_name": "m_0_jlp"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTM3NzgxNjAxNTA2NjAzMDA4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "رَبّ)\n\n𝑆𝑇𝑅𝐼𝑉𝐸 𝐹𝑂𝑅 𝑌𝑂𝑈𝑅 𝐷𝑅𝐸𝐴𝑀𝑆",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2806,
+              "follow_request_sent": false,
+              "followers_count": 121,
+              "friends_count": 105,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 687,
+              "needs_phone_verification": false,
+              "normal_followers_count": 121,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937781601506603008/1752498664",
+              "profile_interstitial_type": "",
+              "statuses_count": 1198,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 15,
+                  "name": "Entertainment & Recreation"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1940539366423531758"
+            },
+            "profile_bio": {
+              "description": "رَبّ)\n\n𝑆𝑇𝑅𝐼𝑉𝐸 𝐹𝑂𝑅 𝑌𝑂𝑈𝑅 𝐷𝑅𝐸𝐴𝑀𝑆"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1937781601506603008",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTkzNzc4MTYwMTUwNjYwMzAwOA==",
           "result": {
-            "id": "VXNlcjoxOTM3NzgxNjAxNTA2NjAzMDA4",
-            "core": {
-              "name": "مبينا",
-              "created_at": "Wed Jun 25 07:55:54 +0000 2025",
-              "screen_name": "m_0_jlp"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1940725654984478720/9RtUKGSM_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1937781601506603008",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1751489418075"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkzNzc4MTYwMTUwNjYwMzAwOA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTM3NzgxNjAxNTA2NjAzMDA4",
-            "core": {
-              "name": "مبينا",
-              "created_at": "Wed Jun 25 07:55:54 +0000 2025",
-              "screen_name": "m_0_jlp"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1940725654984478720/9RtUKGSM_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "رَبّ)\n\n𝑆𝑇𝑅𝐼𝑉𝐸 𝐹𝑂𝑅 𝑌𝑂𝑈𝑅 𝐷𝑅𝐸𝐴𝑀𝑆",
-              "media_count": 555,
-              "listed_count": 0,
-              "friends_count": 96,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 824,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 92,
-              "translator_type": "none",
-              "favourites_count": 2121,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937781601506603008/1752498664",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 92,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Jun 25 07:55:54 +0000 2025",
+              "name": "مبينا",
+              "screen_name": "m_0_jlp"
             },
+            "id": "VXNlcjoxOTM3NzgxNjAxNTA2NjAzMDA4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1937781601506603008",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "رَبّ)\n\n𝑆𝑇𝑅𝐼𝑉𝐸 𝐹𝑂𝑅 𝑌𝑂𝑈𝑅 𝐷𝑅𝐸𝐴𝑀𝑆"
-            },
-            "professional": {
-              "rest_id": "1940539366423531758",
-              "category": [
-                {
-                  "id": 15,
-                  "name": "Entertainment & Recreation",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkzNzc4MTYwMTUwNjYwMzAwOA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
