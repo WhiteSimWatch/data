@@ -1,7 +1,7 @@
 {
   "snapshotId": "419498bd-71e2-44c2-8fbf-328713bce16b",
   "twitterId": "2036982176064167938",
-  "scannedAt": "2026-06-06T04:12:16.320Z",
+  "scannedAt": "2026-07-21T06:36:51.810Z",
   "fields": {
     "username": "XAmen58631",
     "displayName": "محسن",
@@ -15,149 +15,149 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2054762131787067392/PNl7Ng7-_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Mar 26 01:43:40 +0000 2026",
+              "name": "محسن",
+              "screen_name": "XAmen58631"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDM2OTgyMTc2MDY0MTY3OTM4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "ارشد حسابداری/حسابدارم/علاقه زیادی به شعر دارم ولی شاعر نیستم.\nفالو کنی قطعا بک میدم",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2108,
+              "follow_request_sent": false,
+              "followers_count": 73,
+              "friends_count": 85,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 22,
+              "needs_phone_verification": false,
+              "normal_followers_count": 73,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036982176064167938/1774492449",
+              "profile_interstitial_type": "",
+              "statuses_count": 880,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 28,
+                "month": 2,
+                "visibility": "Public",
+                "year": 1980,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ارشد حسابداری/حسابدارم/علاقه زیادی به شعر دارم ولی شاعر نیستم.\nفالو کنی قطعا بک میدم"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2036982176064167938",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjAzNjk4MjE3NjA2NDE2NzkzOA==",
           "result": {
-            "id": "VXNlcjoyMDM2OTgyMTc2MDY0MTY3OTM4",
-            "core": {
-              "name": "محسن",
-              "created_at": "Thu Mar 26 01:43:40 +0000 2026",
-              "screen_name": "XAmen58631"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2054762131787067392/PNl7Ng7-_normal.jpg"
             },
+            "core": {
+              "created_at": "Thu Mar 26 01:43:40 +0000 2026",
+              "name": "محسن",
+              "screen_name": "XAmen58631"
+            },
+            "id": "VXNlcjoyMDM2OTgyMTc2MDY0MTY3OTM4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2036982176064167938",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAzNjk4MjE3NjA2NDE2NzkzOA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDM2OTgyMTc2MDY0MTY3OTM4",
-            "core": {
-              "name": "محسن",
-              "created_at": "Thu Mar 26 01:43:40 +0000 2026",
-              "screen_name": "XAmen58631"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2054762131787067392/PNl7Ng7-_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "ارشد حسابداری/حسابدارم/علاقه زیادی به شعر دارم ولی شاعر نیستم.\nفالو کنی قطعا بک میدم",
-              "media_count": 16,
-              "listed_count": 0,
-              "friends_count": 49,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 719,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 39,
-              "translator_type": "none",
-              "favourites_count": 1663,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036982176064167938/1774492449",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 39,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2036982176064167938",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "ارشد حسابداری/حسابدارم/علاقه زیادی به شعر دارم ولی شاعر نیستم.\nفالو کنی قطعا بک میدم"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "day": 28,
-                "year": 1980,
-                "month": 2,
-                "visibility": "Public",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
