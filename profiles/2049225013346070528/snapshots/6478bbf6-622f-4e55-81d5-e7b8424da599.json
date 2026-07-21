@@ -1,7 +1,7 @@
 {
   "snapshotId": "6478bbf6-622f-4e55-81d5-e7b8424da599",
   "twitterId": "2049225013346070528",
-  "scannedAt": "2026-06-06T03:17:27.079Z",
+  "scannedAt": "2026-07-21T05:34:51.190Z",
   "fields": {
     "username": "soezi_",
     "displayName": "امیرحسین🎒",
@@ -15,144 +15,144 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2049226715231334400/Rysk76V0_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Apr 28 20:35:55 +0000 2026",
+              "name": "امیرحسین🎒",
+              "screen_name": "soezi_"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQ5MjI1MDEzMzQ2MDcwNTI4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "به زودی در این مکان توضیحاتی ارائه خواهم داد!",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 164,
+              "follow_request_sent": false,
+              "followers_count": 42,
+              "friends_count": 94,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 16,
+              "needs_phone_verification": false,
+              "normal_followers_count": 42,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2063710687159803998"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049225013346070528/1777410997",
+              "profile_interstitial_type": "",
+              "statuses_count": 211,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "به زودی در این مکان توضیحاتی ارائه خواهم داد!"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2049225013346070528",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjA0OTIyNTAxMzM0NjA3MDUyOA==",
           "result": {
-            "id": "VXNlcjoyMDQ5MjI1MDEzMzQ2MDcwNTI4",
-            "core": {
-              "name": "امیرحسین🎒",
-              "created_at": "Tue Apr 28 20:35:55 +0000 2026",
-              "screen_name": "soezi_"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2049226715231334400/Rysk76V0_normal.jpg"
             },
+            "core": {
+              "created_at": "Tue Apr 28 20:35:55 +0000 2026",
+              "name": "امیرحسین🎒",
+              "screen_name": "soezi_"
+            },
+            "id": "VXNlcjoyMDQ5MjI1MDEzMzQ2MDcwNTI4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2049225013346070528",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0OTIyNTAxMzM0NjA3MDUyOA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDQ5MjI1MDEzMzQ2MDcwNTI4",
-            "core": {
-              "name": "امیرحسین🎒",
-              "created_at": "Tue Apr 28 20:35:55 +0000 2026",
-              "screen_name": "soezi_"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2049226715231334400/Rysk76V0_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "به زودی در این مکان توضیحاتی ارائه خواهم داد!",
-              "media_count": 13,
-              "listed_count": 0,
-              "friends_count": 101,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 181,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 46,
-              "translator_type": "none",
-              "favourites_count": 118,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049225013346070528/1777410997",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2058599700215844927"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 46,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2049225013346070528",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "به زودی در این مکان توضیحاتی ارائه خواهم داد!"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
