@@ -1,0 +1,163 @@
+{
+  "snapshotId": "c0740272-6dd2-49ef-98e4-b593bad5a9b3",
+  "twitterId": "1235993420847603716",
+  "scannedAt": "2026-07-21T05:49:26.577Z",
+  "fields": {
+    "username": "wanderer_arch",
+    "displayName": "یه نفر",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2036442187316027392/AuWRmSBs_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1235993420847603716/1672149030",
+    "bio": "عشق فقط ایران",
+    "selfLocation": "",
+    "accountBasedIn": "Europe",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2036442187316027392/AuWRmSBs_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Mar 06 18:19:40 +0000 2020",
+              "name": "یه نفر",
+              "screen_name": "wanderer_arch"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjM1OTkzNDIwODQ3NjAzNzE2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "عشق فقط ایران",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1544,
+              "follow_request_sent": false,
+              "followers_count": 50,
+              "friends_count": 92,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 93,
+              "needs_phone_verification": false,
+              "normal_followers_count": 50,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2036438103158665482"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1235993420847603716/1672149030",
+              "profile_interstitial_type": "",
+              "statuses_count": 2056,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "عشق فقط ایران"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1235993420847603716",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIzNTk5MzQyMDg0NzYwMzcxNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1583519866434"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2036442187316027392/AuWRmSBs_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Mar 06 18:19:40 +0000 2020",
+              "name": "یه نفر",
+              "screen_name": "wanderer_arch"
+            },
+            "id": "VXNlcjoxMjM1OTkzNDIwODQ3NjAzNzE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1235993420847603716",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIzNTk5MzQyMDg0NzYwMzcxNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
