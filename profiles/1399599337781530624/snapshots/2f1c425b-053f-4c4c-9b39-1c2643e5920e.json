@@ -1,7 +1,7 @@
 {
   "snapshotId": "2f1c425b-053f-4c4c-9b39-1c2643e5920e",
   "twitterId": "1399599337781530624",
-  "scannedAt": "2026-06-06T04:17:04.001Z",
+  "scannedAt": "2026-07-21T06:42:04.568Z",
   "fields": {
     "username": "kaghz_ghalm",
     "displayName": "sinafarhadi",
@@ -15,156 +15,156 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2048412254706839552/4i9HS-7X_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jun 01 05:31:13 +0000 2021",
+              "name": "sinafarhadi",
+              "screen_name": "kaghz_ghalm"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzk5NTk5MzM3NzgxNTMwNjI0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "طلبه حوزه علمیه قم | دانش آموخته ارشد فلسفه دین|\nبین عقل و قلب | پاسخ به شبهات اعتقادی معاصر با رویکرد عقلی",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 26821,
+              "follow_request_sent": false,
+              "followers_count": 2211,
+              "friends_count": 2192,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 6,
+              "media_count": 973,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2211,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1707123935819538510"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1399599337781530624/1776749043",
+              "profile_interstitial_type": "",
+              "statuses_count": 11059,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 933,
+                  "name": "Media Personality"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1523309751031197696"
+            },
+            "profile_bio": {
+              "description": "طلبه حوزه علمیه قم | دانش آموخته ارشد فلسفه دین|\nبین عقل و قلب | پاسخ به شبهات اعتقادی معاصر با رویکرد عقلی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1399599337781530624",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTM5OTU5OTMzNzc4MTUzMDYyNA==",
           "result": {
-            "id": "VXNlcjoxMzk5NTk5MzM3NzgxNTMwNjI0",
-            "core": {
-              "name": "sinafarhadi",
-              "created_at": "Tue Jun 01 05:31:13 +0000 2021",
-              "screen_name": "kaghz_ghalm"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2048412254706839552/4i9HS-7X_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1399599337781530624",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Latvia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Latvia Android App",
               "username_changes": {
                 "count": "4",
                 "last_changed_at_msec": "1719758723792"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM5OTU5OTMzNzc4MTUzMDYyNA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMzk5NTk5MzM3NzgxNTMwNjI0",
-            "core": {
-              "name": "sinafarhadi",
-              "created_at": "Tue Jun 01 05:31:13 +0000 2021",
-              "screen_name": "kaghz_ghalm"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2048412254706839552/4i9HS-7X_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "طلبه حوزه علمیه قم | دانش آموخته ارشد فلسفه دین|\nبین عقل و قلب | پاسخ به شبهات اعتقادی معاصر با رویکرد عقلی",
-              "media_count": 973,
-              "listed_count": 6,
-              "friends_count": 2189,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 11059,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2208,
-              "translator_type": "none",
-              "favourites_count": 26839,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1399599337781530624/1776749043",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1707123935819538510"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2208,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Jun 01 05:31:13 +0000 2021",
+              "name": "sinafarhadi",
+              "screen_name": "kaghz_ghalm"
             },
+            "id": "VXNlcjoxMzk5NTk5MzM3NzgxNTMwNjI0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1399599337781530624",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "طلبه حوزه علمیه قم | دانش آموخته ارشد فلسفه دین|\nبین عقل و قلب | پاسخ به شبهات اعتقادی معاصر با رویکرد عقلی"
-            },
-            "professional": {
-              "rest_id": "1523309751031197696",
-              "category": [
-                {
-                  "id": 933,
-                  "name": "Media Personality",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM5OTU5OTMzNzc4MTUzMDYyNA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
