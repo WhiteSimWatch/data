@@ -1,7 +1,7 @@
 {
   "snapshotId": "97e098ae-2495-4b1e-8825-4e18a369508c",
   "twitterId": "1609060341228474368",
-  "scannedAt": "2026-06-05T10:03:31.245Z",
+  "scannedAt": "2026-07-21T04:09:25.662Z",
   "fields": {
     "username": "MahdiyehTajadi1",
     "displayName": "tajj-m2022",
@@ -15,140 +15,140 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2036690314832814081/SlaOfxP__normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Dec 31 05:35:36 +0000 2022",
+              "name": "tajj-m2022",
+              "screen_name": "MahdiyehTajadi1"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjA5MDYwMzQxMjI4NDc0MzY4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2670,
+              "follow_request_sent": false,
+              "followers_count": 83,
+              "friends_count": 75,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 277,
+              "needs_phone_verification": false,
+              "normal_followers_count": 83,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609060341228474368/1741013205",
+              "profile_interstitial_type": "",
+              "statuses_count": 1293,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1609060341228474368",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTYwOTA2MDM0MTIyODQ3NDM2OA==",
           "result": {
-            "id": "VXNlcjoxNjA5MDYwMzQxMjI4NDc0MzY4",
-            "core": {
-              "name": "tajj-m2022",
-              "created_at": "Sat Dec 31 05:35:36 +0000 2022",
-              "screen_name": "MahdiyehTajadi1"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2036690314832814081/SlaOfxP__normal.jpg"
             },
+            "core": {
+              "created_at": "Sat Dec 31 05:35:36 +0000 2022",
+              "name": "tajj-m2022",
+              "screen_name": "MahdiyehTajadi1"
+            },
+            "id": "VXNlcjoxNjA5MDYwMzQxMjI4NDc0MzY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1609060341228474368",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYwOTA2MDM0MTIyODQ3NDM2OA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjA5MDYwMzQxMjI4NDc0MzY4",
-            "core": {
-              "name": "tajj-m2022",
-              "created_at": "Sat Dec 31 05:35:36 +0000 2022",
-              "screen_name": "MahdiyehTajadi1"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2036690314832814081/SlaOfxP__normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 274,
-              "listed_count": 0,
-              "friends_count": 74,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1287,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 83,
-              "translator_type": "none",
-              "favourites_count": 2642,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609060341228474368/1741013205",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 83,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1609060341228474368",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
