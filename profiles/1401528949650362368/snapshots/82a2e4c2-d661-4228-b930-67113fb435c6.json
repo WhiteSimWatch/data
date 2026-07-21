@@ -1,7 +1,7 @@
 {
   "snapshotId": "82a2e4c2-d661-4228-b930-67113fb435c6",
   "twitterId": "1401528949650362368",
-  "scannedAt": "2026-06-05T08:15:39.884Z",
+  "scannedAt": "2026-07-21T03:55:05.340Z",
   "fields": {
     "username": "tarannom_72",
     "displayName": "ترنمم",
@@ -15,164 +15,153 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1976654123169677312/wExt6Swo_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jun 06 13:19:12 +0000 2021",
+              "name": "ترنمم",
+              "screen_name": "tarannom_72"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDAxNTI4OTQ5NjUwMzYyMzY4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "زندگی قبلی پیانیست بودم و این زندگی معمار",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 3245,
+              "follow_request_sent": false,
+              "followers_count": 563,
+              "friends_count": 422,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 7,
+              "media_count": 190,
+              "needs_phone_verification": false,
+              "normal_followers_count": 563,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1403806551387869185"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401528949650362368/1641856532",
+              "profile_interstitial_type": "",
+              "statuses_count": 2809,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 1,
+                "month": 6,
+                "visibility": "Public",
+                "year": 1995,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "زندگی قبلی پیانیست بودم و این زندگی معمار"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1401528949650362368",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTQwMTUyODk0OTY1MDM2MjM2OA==",
           "result": {
-            "id": "VXNlcjoxNDAxNTI4OTQ5NjUwMzYyMzY4",
-            "core": {
-              "name": "ترنمم",
-              "created_at": "Sun Jun 06 13:19:12 +0000 2021",
-              "screen_name": "tarannom_72"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1976654123169677312/wExt6Swo_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1401528949650362368",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1636154745836"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQwMTUyODk0OTY1MDM2MjM2OA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNDAxNTI4OTQ5NjUwMzYyMzY4",
-            "core": {
-              "name": "ترنمم",
-              "created_at": "Sun Jun 06 13:19:12 +0000 2021",
-              "screen_name": "tarannom_72"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1976654123169677312/wExt6Swo_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "زندگی قبلی پیانیست بودم و این زندگی معمار",
-              "media_count": 185,
-              "listed_count": 7,
-              "friends_count": 428,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2386,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 563,
-              "translator_type": "none",
-              "favourites_count": 3251,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401528949650362368/1641856532",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1403806551387869185"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 563,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Jun 06 13:19:12 +0000 2021",
+              "name": "ترنمم",
+              "screen_name": "tarannom_72"
             },
+            "id": "VXNlcjoxNDAxNTI4OTQ5NjUwMzYyMzY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1401528949650362368",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "زندگی قبلی پیانیست بودم و این زندگی معمار"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQwMTUyODk0OTY1MDM2MjM2OA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "day": 1,
-                "year": 1995,
-                "month": 6,
-                "visibility": "Public",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "In my previous life, I was a pianist, and in this life, an architect.",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
