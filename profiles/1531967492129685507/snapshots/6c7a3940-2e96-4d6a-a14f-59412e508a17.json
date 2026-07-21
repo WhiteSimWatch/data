@@ -1,7 +1,7 @@
 {
   "snapshotId": "6c7a3940-2e96-4d6a-a14f-59412e508a17",
   "twitterId": "1531967492129685507",
-  "scannedAt": "2026-06-06T04:04:35.559Z",
+  "scannedAt": "2026-07-21T06:27:43.305Z",
   "fields": {
     "username": "bidel_haghjoo",
     "displayName": "🇮🇷بی‌دل حق‌جو🇮🇷",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1531967904538927111/LeUl13UB_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jun 01 11:55:36 +0000 2022",
+              "name": "🇮🇷بی‌دل حق‌جو🇮🇷",
+              "screen_name": "bidel_haghjoo"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTMxOTY3NDkyMTI5Njg1NTA3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "زندگی برایم خیلی سخت است؛ اما واقعا زیباست؛ امیدوارم که بهتر می‌شود.",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 9524,
+              "follow_request_sent": false,
+              "followers_count": 63,
+              "friends_count": 1094,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 1,
+              "needs_phone_verification": false,
+              "normal_followers_count": 63,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1531967492129685507/1654085755",
+              "profile_interstitial_type": "",
+              "statuses_count": 1098,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "زندگی برایم خیلی سخت است؛ اما واقعا زیباست؛ امیدوارم که بهتر می‌شود."
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1531967492129685507",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTUzMTk2NzQ5MjEyOTY4NTUwNw==",
           "result": {
-            "id": "VXNlcjoxNTMxOTY3NDkyMTI5Njg1NTA3",
-            "core": {
-              "name": "🇮🇷بی‌دل حق‌جو🇮🇷",
-              "created_at": "Wed Jun 01 11:55:36 +0000 2022",
-              "screen_name": "bidel_haghjoo"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1531967904538927111/LeUl13UB_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1531967492129685507",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1654084696847"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUzMTk2NzQ5MjEyOTY4NTUwNw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTMxOTY3NDkyMTI5Njg1NTA3",
-            "core": {
-              "name": "🇮🇷بی‌دل حق‌جو🇮🇷",
-              "created_at": "Wed Jun 01 11:55:36 +0000 2022",
-              "screen_name": "bidel_haghjoo"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1531967904538927111/LeUl13UB_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "زندگی برایم خیلی سخت است؛ اما واقعا زیباست؛ امیدوارم که بهتر می‌شود.",
-              "media_count": 1,
-              "listed_count": 1,
-              "friends_count": 1090,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1086,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 64,
-              "translator_type": "none",
-              "favourites_count": 9324,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1531967492129685507/1654085755",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 64,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Jun 01 11:55:36 +0000 2022",
+              "name": "🇮🇷بی‌دل حق‌جو🇮🇷",
+              "screen_name": "bidel_haghjoo"
             },
+            "id": "VXNlcjoxNTMxOTY3NDkyMTI5Njg1NTA3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1531967492129685507",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "زندگی برایم خیلی سخت است؛ اما واقعا زیباست؛ امیدوارم که بهتر می‌شود."
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUzMTk2NzQ5MjEyOTY4NTUwNw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
