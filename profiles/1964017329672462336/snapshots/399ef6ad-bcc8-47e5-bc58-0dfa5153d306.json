@@ -1,7 +1,7 @@
 {
   "snapshotId": "399ef6ad-bcc8-47e5-bc58-0dfa5153d306",
   "twitterId": "1964017329672462336",
-  "scannedAt": "2026-06-06T10:21:38.626Z",
+  "scannedAt": "2026-07-22T16:25:08.015Z",
   "fields": {
     "username": "MohammadAs59393",
     "displayName": "Mohammad Asgharzadeh",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1964017831034470400/4lEK21HU_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Sep 05 17:28:34 +0000 2025",
+              "name": "Mohammad Asgharzadeh",
+              "screen_name": "MohammadAs59393"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": false,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTY0MDE3MzI5NjcyNDYyMzM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "زندگی یعنی شروع دوباره | آرامشم رو توی شلوغی نمی‌فروشم | پیچیده‌ام، اما ساده قدم می‌زنم#دانشجو معماری",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 306,
+              "follow_request_sent": false,
+              "followers_count": 54,
+              "friends_count": 80,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 2,
+              "needs_phone_verification": false,
+              "normal_followers_count": 54,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964017329672462336/1757114840",
+              "profile_interstitial_type": "",
+              "statuses_count": 238,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "زندگی یعنی شروع دوباره | آرامشم رو توی شلوغی نمی‌فروشم | پیچیده‌ام، اما ساده قدم می‌زنم#دانشجو معماری"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1964017329672462336",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTk2NDAxNzMyOTY3MjQ2MjMzNg==",
           "result": {
-            "id": "VXNlcjoxOTY0MDE3MzI5NjcyNDYyMzM2",
-            "core": {
-              "name": "Mohammad Asgharzadeh",
-              "created_at": "Fri Sep 05 17:28:34 +0000 2025",
-              "screen_name": "MohammadAs59393"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1964017831034470400/4lEK21HU_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1964017329672462336",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Turkey App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Turkey App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1757093349521"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk2NDAxNzMyOTY3MjQ2MjMzNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTY0MDE3MzI5NjcyNDYyMzM2",
-            "core": {
-              "name": "Mohammad Asgharzadeh",
-              "created_at": "Fri Sep 05 17:28:34 +0000 2025",
-              "screen_name": "MohammadAs59393"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1964017831034470400/4lEK21HU_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "زندگی یعنی شروع دوباره | آرامشم رو توی شلوغی نمی‌فروشم | پیچیده‌ام، اما ساده قدم می‌زنم#دانشجو معماری",
-              "media_count": 2,
-              "listed_count": 0,
-              "friends_count": 80,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 189,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 54,
-              "translator_type": "none",
-              "favourites_count": 307,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964017329672462336/1757114840",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 54,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Sep 05 17:28:34 +0000 2025",
+              "name": "Mohammad Asgharzadeh",
+              "screen_name": "MohammadAs59393"
             },
+            "id": "VXNlcjoxOTY0MDE3MzI5NjcyNDYyMzM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1964017329672462336",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "زندگی یعنی شروع دوباره | آرامشم رو توی شلوغی نمی‌فروشم | پیچیده‌ام، اما ساده قدم می‌زنم#دانشجو معماری"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk2NDAxNzMyOTY3MjQ2MjMzNg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
