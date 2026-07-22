@@ -1,7 +1,7 @@
 {
   "snapshotId": "4e9695a8-41d6-483a-88ce-bfecef503c08",
   "twitterId": "1326884718697181191",
-  "scannedAt": "2026-06-06T07:32:19.598Z",
+  "scannedAt": "2026-07-22T04:28:07.688Z",
   "fields": {
     "username": "mari_tahmasbi",
     "displayName": "طهماسبی",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1966772961425178624/SP50euH3_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Nov 12 13:50:01 +0000 2020",
+              "name": "طهماسبی",
+              "screen_name": "mari_tahmasbi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzI2ODg0NzE4Njk3MTgxMTkx",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "خودت باش این نمادی از خاص بودنه💎پر از حس امید و شادی مثل بمب انرژی🔥 ☺️",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 94865,
+              "follow_request_sent": false,
+              "followers_count": 9720,
+              "friends_count": 8553,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 3202,
+              "needs_phone_verification": false,
+              "normal_followers_count": 9720,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1925508302080802998"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1326884718697181191/1752655035",
+              "profile_interstitial_type": "",
+              "statuses_count": 48298,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خودت باش این نمادی از خاص بودنه💎پر از حس امید و شادی مثل بمب انرژی🔥 ☺️"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1326884718697181191",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTMyNjg4NDcxODY5NzE4MTE5MQ==",
           "result": {
-            "id": "VXNlcjoxMzI2ODg0NzE4Njk3MTgxMTkx",
-            "core": {
-              "name": "طهماسبی",
-              "created_at": "Thu Nov 12 13:50:01 +0000 2020",
-              "screen_name": "mari_tahmasbi"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1966772961425178624/SP50euH3_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1326884718697181191",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1697278998209"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMyNjg4NDcxODY5NzE4MTE5MQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMzI2ODg0NzE4Njk3MTgxMTkx",
-            "core": {
-              "name": "طهماسبی",
-              "created_at": "Thu Nov 12 13:50:01 +0000 2020",
-              "screen_name": "mari_tahmasbi"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1966772961425178624/SP50euH3_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "خودت باش این نمادی از خاص بودنه💎پر از حس امید و شادی مثل بمب انرژی🔥 ☺️",
-              "media_count": 3139,
-              "listed_count": 3,
-              "friends_count": 8605,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 47833,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 9692,
-              "translator_type": "none",
-              "favourites_count": 94035,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1326884718697181191/1752655035",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1925508302080802998"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 9692,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Nov 12 13:50:01 +0000 2020",
+              "name": "طهماسبی",
+              "screen_name": "mari_tahmasbi"
             },
+            "id": "VXNlcjoxMzI2ODg0NzE4Njk3MTgxMTkx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1326884718697181191",
-            "location": {
-              "location": "تهران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "خودت باش این نمادی از خاص بودنه💎پر از حس امید و شادی مثل بمب انرژی🔥 ☺️"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMyNjg4NDcxODY5NzE4MTE5MQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
