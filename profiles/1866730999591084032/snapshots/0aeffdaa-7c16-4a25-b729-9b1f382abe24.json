@@ -1,7 +1,7 @@
 {
   "snapshotId": "0aeffdaa-7c16-4a25-b729-9b1f382abe24",
   "twitterId": "1866730999591084032",
-  "scannedAt": "2026-06-06T08:04:46.260Z",
+  "scannedAt": "2026-07-22T15:09:46.287Z",
   "fields": {
     "username": "SolutionZa22719",
     "displayName": "zakie",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1872307058399232000/lTfjNXOL_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Dec 11 06:25:44 +0000 2024",
+              "name": "zakie",
+              "screen_name": "SolutionZa22719"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODY2NzMwOTk5NTkxMDg0MDMy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "“دوربین من، چشم سوم من است.”\n“هر کلیک، یک نقاشی با نور.”\n“عکاسی مثل یه سفر میمونه، پر از لحظه های ناب”\n“من یک داستان نویسم با دوربین به جای قلم.”",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1545,
+              "follow_request_sent": false,
+              "followers_count": 327,
+              "friends_count": 463,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 195,
+              "needs_phone_verification": false,
+              "normal_followers_count": 327,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866730999591084032/1735227759",
+              "profile_interstitial_type": "",
+              "statuses_count": 1854,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "“دوربین من، چشم سوم من است.”\n“هر کلیک، یک نقاشی با نور.”\n“عکاسی مثل یه سفر میمونه، پر از لحظه های ناب”\n“من یک داستان نویسم با دوربین به جای قلم.”"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1866730999591084032",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg2NjczMDk5OTU5MTA4NDAzMg==",
           "result": {
-            "id": "VXNlcjoxODY2NzMwOTk5NTkxMDg0MDMy",
-            "core": {
-              "name": "zakie",
-              "created_at": "Wed Dec 11 06:25:44 +0000 2024",
-              "screen_name": "SolutionZa22719"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1872307058399232000/lTfjNXOL_normal.jpg"
             },
+            "core": {
+              "created_at": "Wed Dec 11 06:25:44 +0000 2024",
+              "name": "zakie",
+              "screen_name": "SolutionZa22719"
+            },
+            "id": "VXNlcjoxODY2NzMwOTk5NTkxMDg0MDMy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1866730999591084032",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg2NjczMDk5OTU5MTA4NDAzMg==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODY2NzMwOTk5NTkxMDg0MDMy",
-            "core": {
-              "name": "zakie",
-              "created_at": "Wed Dec 11 06:25:44 +0000 2024",
-              "screen_name": "SolutionZa22719"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1872307058399232000/lTfjNXOL_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "“دوربین من، چشم سوم من است.”\n“هر کلیک، یک نقاشی با نور.”\n“عکاسی مثل یه سفر میمونه، پر از لحظه های ناب”\n“من یک داستان نویسم با دوربین به جای قلم.”",
-              "media_count": 168,
-              "listed_count": 0,
-              "friends_count": 445,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1798,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 321,
-              "translator_type": "none",
-              "favourites_count": 1446,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866730999591084032/1735227759",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 321,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1866730999591084032",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "“دوربین من، چشم سوم من است.”\n“هر کلیک، یک نقاشی با نور.”\n“عکاسی مثل یه سفر میمونه، پر از لحظه های ناب”\n“من یک داستان نویسم با دوربین به جای قلم.”"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
