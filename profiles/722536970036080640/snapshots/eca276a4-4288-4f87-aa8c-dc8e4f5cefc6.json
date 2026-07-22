@@ -1,0 +1,171 @@
+{
+  "snapshotId": "eca276a4-4288-4f87-aa8c-dc8e4f5cefc6",
+  "twitterId": "722536970036080640",
+  "scannedAt": "2026-07-22T03:36:17.333Z",
+  "fields": {
+    "username": "amiromrani",
+    "displayName": "Amir Omrani",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1552930126182195200/dFU3BMN9_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/722536970036080640/1570097516",
+    "bio": "سلام",
+    "selfLocation": "جمهوری اسلامی ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1552930126182195200/dFU3BMN9_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Apr 19 21:26:52 +0000 2016",
+              "name": "Amir Omrani",
+              "screen_name": "amiromrani"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3MjI1MzY5NzAwMzYwODA2NDA=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "سلام",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 48218,
+              "follow_request_sent": false,
+              "followers_count": 946,
+              "friends_count": 3497,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 2499,
+              "needs_phone_verification": false,
+              "normal_followers_count": 946,
+              "notifications": false,
+              "possibly_sensitive": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/722536970036080640/1570097516",
+              "profile_interstitial_type": "",
+              "statuses_count": 22161,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 933,
+                  "name": "Media Personality"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1595811106009645057"
+            },
+            "profile_bio": {
+              "description": "سلام"
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "722536970036080640",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzIyNTM2OTcwMDM2MDgwNjQw",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1461101340968"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1552930126182195200/dFU3BMN9_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Apr 19 21:26:52 +0000 2016",
+              "name": "Amir Omrani",
+              "screen_name": "amiromrani"
+            },
+            "id": "VXNlcjo3MjI1MzY5NzAwMzYwODA2NDA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "722536970036080640",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzIyNTM2OTcwMDM2MDgwNjQw",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
