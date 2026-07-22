@@ -1,7 +1,7 @@
 {
   "snapshotId": "eec3541d-ef8f-4180-8779-21514259d18a",
   "twitterId": "2046891831573807104",
-  "scannedAt": "2026-06-06T06:54:03.601Z",
+  "scannedAt": "2026-07-22T03:44:41.657Z",
   "fields": {
     "username": "samira_sls01",
     "displayName": "𝔖𝔞𝔪𝔦𝔯𝔞",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2046894036036784128/ZGCIRf1c_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Apr 22 10:01:20 +0000 2026",
+              "name": "𝔖𝔞𝔪𝔦𝔯𝔞",
+              "screen_name": "samira_sls01"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQ2ODkxODMxNTczODA3MTA0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "برای زندگی کردن لزومی نداره دیگران رو خراب کنیم.زندگی کنید و آرامش ببخشید",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 719,
+              "follow_request_sent": false,
+              "followers_count": 123,
+              "friends_count": 131,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 76,
+              "needs_phone_verification": false,
+              "normal_followers_count": 123,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046891831573807104/1777627787",
+              "profile_interstitial_type": "",
+              "statuses_count": 1363,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "برای زندگی کردن لزومی نداره دیگران رو خراب کنیم.زندگی کنید و آرامش ببخشید"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2046891831573807104",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjA0Njg5MTgzMTU3MzgwNzEwNA==",
           "result": {
-            "id": "VXNlcjoyMDQ2ODkxODMxNTczODA3MTA0",
-            "core": {
-              "name": "𝔖𝔞𝔪𝔦𝔯𝔞",
-              "created_at": "Wed Apr 22 10:01:20 +0000 2026",
-              "screen_name": "samira_sls01"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2046894036036784128/ZGCIRf1c_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2046891831573807104",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1776852193876"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0Njg5MTgzMTU3MzgwNzEwNA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDQ2ODkxODMxNTczODA3MTA0",
-            "core": {
-              "name": "𝔖𝔞𝔪𝔦𝔯𝔞",
-              "created_at": "Wed Apr 22 10:01:20 +0000 2026",
-              "screen_name": "samira_sls01"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2046894036036784128/ZGCIRf1c_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "برای زندگی کردن لزومی نداره دیگران رو خراب کنیم.زندگی کنید و آرامش ببخشید",
-              "media_count": 32,
-              "listed_count": 0,
-              "friends_count": 77,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 799,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 127,
-              "translator_type": "none",
-              "favourites_count": 466,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046891831573807104/1777627787",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 127,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Apr 22 10:01:20 +0000 2026",
+              "name": "𝔖𝔞𝔪𝔦𝔯𝔞",
+              "screen_name": "samira_sls01"
             },
+            "id": "VXNlcjoyMDQ2ODkxODMxNTczODA3MTA0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2046891831573807104",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "برای زندگی کردن لزومی نداره دیگران رو خراب کنیم.زندگی کنید و آرامش ببخشید"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0Njg5MTgzMTU3MzgwNzEwNA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
