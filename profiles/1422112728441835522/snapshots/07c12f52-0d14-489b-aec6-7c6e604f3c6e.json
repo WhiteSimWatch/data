@@ -1,7 +1,7 @@
 {
   "snapshotId": "07c12f52-0d14-489b-aec6-7c6e604f3c6e",
   "twitterId": "1422112728441835522",
-  "scannedAt": "2026-06-07T03:06:26.572Z",
+  "scannedAt": "2026-07-22T12:55:14.890Z",
   "fields": {
     "username": "aghamortteza",
     "displayName": "آقــا مُــرْتِــضــﮯٰرَضــﮯﷻ؏ــڼۨــہ",
@@ -15,156 +15,156 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1960002831731097600/4FRGii5l_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Aug 02 08:31:19 +0000 2021",
+              "name": "آقــا مُــرْتِــضــﮯٰرَضــﮯﷻ؏ــڼۨــہ",
+              "screen_name": "aghamortteza"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDIyMTEyNzI4NDQxODM1NTIy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "ارشد فقه⚖\nارباب نجواهای دولت :)",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 146347,
+              "follow_request_sent": false,
+              "followers_count": 10811,
+              "friends_count": 3041,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 8,
+              "media_count": 1877,
+              "needs_phone_verification": false,
+              "normal_followers_count": 10811,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1859985278628512185"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1422112728441835522/1755350183",
+              "profile_interstitial_type": "",
+              "statuses_count": 27117,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "قزوین"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 579,
+                  "name": "Media & News"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1471850651743305731"
+            },
+            "profile_bio": {
+              "description": "ارشد فقه⚖\nارباب نجواهای دولت :)"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1422112728441835522",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTQyMjExMjcyODQ0MTgzNTUyMg==",
           "result": {
-            "id": "VXNlcjoxNDIyMTEyNzI4NDQxODM1NTIy",
-            "core": {
-              "name": "آقــا مُــرْتِــضــﮯٰرَضــﮯﷻ؏ــڼۨــہ",
-              "created_at": "Mon Aug 02 08:31:19 +0000 2021",
-              "screen_name": "aghamortteza"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1960002831731097600/4FRGii5l_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1422112728441835522",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "North America",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "5",
                 "last_changed_at_msec": "1653165470355"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQyMjExMjcyODQ0MTgzNTUyMg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNDIyMTEyNzI4NDQxODM1NTIy",
-            "core": {
-              "name": "آقــا مُــرْتِــضــﮯٰرَضــﮯﷻ؏ــڼۨــہ",
-              "created_at": "Mon Aug 02 08:31:19 +0000 2021",
-              "screen_name": "aghamortteza"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1960002831731097600/4FRGii5l_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "ارشد فقه⚖\nارباب نجواهای دولت :)",
-              "media_count": 1877,
-              "listed_count": 8,
-              "friends_count": 3046,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 27116,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 10701,
-              "translator_type": "none",
-              "favourites_count": 146696,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1422112728441835522/1755350183",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1859985278628512185"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 10701,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Aug 02 08:31:19 +0000 2021",
+              "name": "آقــا مُــرْتِــضــﮯٰرَضــﮯﷻ؏ــڼۨــہ",
+              "screen_name": "aghamortteza"
             },
+            "id": "VXNlcjoxNDIyMTEyNzI4NDQxODM1NTIy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1422112728441835522",
-            "location": {
-              "location": "قزوین"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "ارشد فقه⚖\nارباب نجواهای دولت :)"
-            },
-            "professional": {
-              "rest_id": "1471850651743305731",
-              "category": [
-                {
-                  "id": 579,
-                  "name": "Media & News",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQyMjExMjcyODQ0MTgzNTUyMg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
