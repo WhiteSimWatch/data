@@ -1,7 +1,7 @@
 {
   "snapshotId": "261387df-611a-4204-9d26-4eb136bf456d",
   "twitterId": "1218064674673111040",
-  "scannedAt": "2026-06-06T06:27:29.288Z",
+  "scannedAt": "2026-07-22T03:16:15.588Z",
   "fields": {
     "username": "Ahrar94",
     "displayName": "Mohammad Taghi",
@@ -15,166 +15,166 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1346482657475981314/xiPZAMEp_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jan 17 06:57:27 +0000 2020",
+              "name": "Mohammad Taghi",
+              "screen_name": "Ahrar94"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjE4MDY0Njc0NjczMTExMDQw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "یه فرد ساده و مظلوم ،فعلا همین تا ببینیم چی میشه\nبقیشم مهم نیست واقعاً",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/BiChatBot?star…",
+                      "expanded_url": "https://t.me/BiChatBot?start=sc-80d7e164bf",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/qA5q0JJHev"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 285035,
+              "follow_request_sent": false,
+              "followers_count": 22704,
+              "friends_count": 1365,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 45,
+              "media_count": 28237,
+              "needs_phone_verification": false,
+              "normal_followers_count": 22704,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1941603857559117877"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1218064674673111040/1718915184",
+              "profile_interstitial_type": "",
+              "statuses_count": 262435,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/qA5q0JJHev",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 29,
+                "month": 10,
+                "visibility": "Public",
+                "year": 1995,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "در معیت پدر :)"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یه فرد ساده و مظلوم ،فعلا همین تا ببینیم چی میشه\nبقیشم مهم نیست واقعاً"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1218064674673111040",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTIxODA2NDY3NDY3MzExMTA0MA==",
           "result": {
-            "id": "VXNlcjoxMjE4MDY0Njc0NjczMTExMDQw",
-            "core": {
-              "name": "Mohammad Taghi",
-              "created_at": "Fri Jan 17 06:57:27 +0000 2020",
-              "screen_name": "Ahrar94"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1346482657475981314/xiPZAMEp_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1218064674673111040",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "44",
                 "last_changed_at_msec": "1674569372336"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIxODA2NDY3NDY3MzExMTA0MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjE4MDY0Njc0NjczMTExMDQw",
-            "core": {
-              "name": "Mohammad Taghi",
-              "created_at": "Fri Jan 17 06:57:27 +0000 2020",
-              "screen_name": "Ahrar94"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1346482657475981314/xiPZAMEp_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/qA5q0JJHev",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/qA5q0JJHev",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/BiChatBot?star…",
-                      "expanded_url": "https://t.me/BiChatBot?start=sc-80d7e164bf"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "یه فرد ساده و مظلوم ،فعلا همین تا ببینیم چی میشه\nبقیشم مهم نیست واقعاً",
-              "media_count": 28237,
-              "listed_count": 46,
-              "friends_count": 1371,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 262437,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 22753,
-              "translator_type": "none",
-              "favourites_count": 285957,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1218064674673111040/1718915184",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1941603857559117877"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 22753,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Jan 17 06:57:27 +0000 2020",
+              "name": "Mohammad Taghi",
+              "screen_name": "Ahrar94"
             },
+            "id": "VXNlcjoxMjE4MDY0Njc0NjczMTExMDQw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1218064674673111040",
-            "location": {
-              "location": "در معیت پدر :)"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "یه فرد ساده و مظلوم ،فعلا همین تا ببینیم چی میشه\nبقیشم مهم نیست واقعاً"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIxODA2NDY3NDY3MzExMTA0MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "day": 29,
-                "year": 1995,
-                "month": 10,
-                "visibility": "Public",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
