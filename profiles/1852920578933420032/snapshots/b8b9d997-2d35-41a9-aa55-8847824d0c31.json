@@ -1,7 +1,7 @@
 {
   "snapshotId": "b8b9d997-2d35-41a9-aa55-8847824d0c31",
   "twitterId": "1852920578933420032",
-  "scannedAt": "2026-06-06T07:17:39.265Z",
+  "scannedAt": "2026-07-22T04:09:16.605Z",
   "fields": {
     "username": "Eli111357",
     "displayName": "عرفانی 🇮🇷",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1916072335058128896/WEOl0i4s_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Nov 03 03:51:57 +0000 2024",
+              "name": "عرفانی 🇮🇷",
+              "screen_name": "Eli111357"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODUyOTIwNTc4OTMzNDIwMDMy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "بنده خدا و در پناه قرآنم",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2993,
+              "follow_request_sent": false,
+              "followers_count": 167,
+              "friends_count": 253,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 831,
+              "needs_phone_verification": false,
+              "normal_followers_count": 167,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852920578933420032/1745663470",
+              "profile_interstitial_type": "",
+              "statuses_count": 1226,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "بنده خدا و در پناه قرآنم"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1852920578933420032",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg1MjkyMDU3ODkzMzQyMDAzMg==",
           "result": {
-            "id": "VXNlcjoxODUyOTIwNTc4OTMzNDIwMDMy",
-            "core": {
-              "name": "عرفانی 🇮🇷",
-              "created_at": "Sun Nov 03 03:51:57 +0000 2024",
-              "screen_name": "Eli111357"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1916072335058128896/WEOl0i4s_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1852920578933420032",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1730605966220"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1MjkyMDU3ODkzMzQyMDAzMg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODUyOTIwNTc4OTMzNDIwMDMy",
-            "core": {
-              "name": "عرفانی 🇮🇷",
-              "created_at": "Sun Nov 03 03:51:57 +0000 2024",
-              "screen_name": "Eli111357"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1916072335058128896/WEOl0i4s_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "بنده خدا و در پناه قرآنم",
-              "media_count": 776,
-              "listed_count": 0,
-              "friends_count": 250,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1148,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 156,
-              "translator_type": "none",
-              "favourites_count": 2850,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852920578933420032/1745663470",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 156,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Nov 03 03:51:57 +0000 2024",
+              "name": "عرفانی 🇮🇷",
+              "screen_name": "Eli111357"
             },
+            "id": "VXNlcjoxODUyOTIwNTc4OTMzNDIwMDMy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1852920578933420032",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "بنده خدا و در پناه قرآنم"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1MjkyMDU3ODkzMzQyMDAzMg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
