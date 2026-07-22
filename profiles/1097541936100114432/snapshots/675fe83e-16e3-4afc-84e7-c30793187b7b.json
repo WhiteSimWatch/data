@@ -1,0 +1,195 @@
+{
+  "snapshotId": "675fe83e-16e3-4afc-84e7-c30793187b7b",
+  "twitterId": "1097541936100114432",
+  "scannedAt": "2026-07-22T12:51:25.073Z",
+  "fields": {
+    "username": "SolsMediaTw",
+    "displayName": "رسانه ثلث",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1097542068380020736/sn3kFHOU_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1097541936100114432/1615910146",
+    "bio": "رسانه جریان سوم",
+    "selfLocation": "تهران",
+    "accountBasedIn": "United Kingdom",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1097542068380020736/sn3kFHOU_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 18 17:02:43 +0000 2019",
+              "name": "رسانه ثلث",
+              "screen_name": "SolsMediaTw"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Third Stream Media"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDk3NTQxOTM2MTAwMTE0NDMy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "رسانه جریان سوم",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/SolsMedia",
+                      "expanded_url": "http://t.me/SolsMedia",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/DNAg0Oc4hV"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 106,
+              "follow_request_sent": false,
+              "followers_count": 2526,
+              "friends_count": 2,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 15,
+              "media_count": 501,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2526,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097541936100114432/1615910146",
+              "profile_interstitial_type": "",
+              "statuses_count": 538,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/DNAg0Oc4hV",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 579,
+                  "name": "Media & News"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1471573504843788298"
+            },
+            "profile_bio": {
+              "description": "رسانه جریان سوم"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1097541936100114432",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTA5NzU0MTkzNjEwMDExNDQzMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United Kingdom",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1550510908452"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1097542068380020736/sn3kFHOU_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Feb 18 17:02:43 +0000 2019",
+              "name": "رسانه ثلث",
+              "screen_name": "SolsMediaTw"
+            },
+            "id": "VXNlcjoxMDk3NTQxOTM2MTAwMTE0NDMy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1097541936100114432",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA5NzU0MTkzNjEwMDExNDQzMg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
