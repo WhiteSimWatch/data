@@ -1,7 +1,7 @@
 {
   "snapshotId": "6228b176-e2a1-4967-9f6a-58eae8f376ca",
   "twitterId": "1894132308174639106",
-  "scannedAt": "2026-06-06T06:36:42.523Z",
+  "scannedAt": "2026-07-22T03:26:13.792Z",
   "fields": {
     "username": "nazanihocini",
     "displayName": "نازنین حسینی",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1894134524683984896/7x46bUmh_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 24 21:09:28 +0000 2025",
+              "name": "نازنین حسینی",
+              "screen_name": "nazanihocini"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODk0MTMyMzA4MTc0NjM5MTA2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "یه دختر فعال😊\nدر زمینه فرهنگی😉\nبا کارهای جهادی و فرهنگی در کنار هم هستیم",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 3357,
+              "follow_request_sent": false,
+              "followers_count": 273,
+              "friends_count": 207,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 168,
+              "needs_phone_verification": false,
+              "normal_followers_count": 273,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894132308174639106/1740755778",
+              "profile_interstitial_type": "",
+              "statuses_count": 1268,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یه دختر فعال😊\nدر زمینه فرهنگی😉\nبا کارهای جهادی و فرهنگی در کنار هم هستیم"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1894132308174639106",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg5NDEzMjMwODE3NDYzOTEwNg==",
           "result": {
-            "id": "VXNlcjoxODk0MTMyMzA4MTc0NjM5MTA2",
-            "core": {
-              "name": "نازنین حسینی",
-              "created_at": "Mon Feb 24 21:09:28 +0000 2025",
-              "screen_name": "nazanihocini"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1894134524683984896/7x46bUmh_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1894132308174639106",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1740431385626"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg5NDEzMjMwODE3NDYzOTEwNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODk0MTMyMzA4MTc0NjM5MTA2",
-            "core": {
-              "name": "نازنین حسینی",
-              "created_at": "Mon Feb 24 21:09:28 +0000 2025",
-              "screen_name": "nazanihocini"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1894134524683984896/7x46bUmh_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "یه دختر فعال😊\nدر زمینه فرهنگی😉\nبا کارهای جهادی و فرهنگی در کنار هم هستیم",
-              "media_count": 156,
-              "listed_count": 0,
-              "friends_count": 191,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 1228,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 258,
-              "translator_type": "none",
-              "favourites_count": 3051,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894132308174639106/1740755778",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 258,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Feb 24 21:09:28 +0000 2025",
+              "name": "نازنین حسینی",
+              "screen_name": "nazanihocini"
             },
+            "id": "VXNlcjoxODk0MTMyMzA4MTc0NjM5MTA2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1894132308174639106",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "یه دختر فعال😊\nدر زمینه فرهنگی😉\nبا کارهای جهادی و فرهنگی در کنار هم هستیم"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg5NDEzMjMwODE3NDYzOTEwNg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
