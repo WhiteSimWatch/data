@@ -1,0 +1,159 @@
+{
+  "snapshotId": "e4e48468-acc1-40d5-86ee-afb1f89d24ec",
+  "twitterId": "2016448033945235456",
+  "scannedAt": "2026-07-22T13:36:14.618Z",
+  "fields": {
+    "username": "ShamimYas248949",
+    "displayName": "mojtaba pir",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2062450588625797120/l2Rae29u_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2016448033945235456/1769594260",
+    "bio": "سرباز",
+    "selfLocation": "Iğdır, Türkiye",
+    "accountBasedIn": "United States",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2062450588625797120/l2Rae29u_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jan 28 09:47:41 +0000 2026",
+              "name": "mojtaba pir",
+              "screen_name": "ShamimYas248949"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDE2NDQ4MDMzOTQ1MjM1NDU2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "سرباز",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 4362,
+              "follow_request_sent": false,
+              "followers_count": 220,
+              "friends_count": 821,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 242,
+              "needs_phone_verification": false,
+              "normal_followers_count": 220,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016448033945235456/1769594260",
+              "profile_interstitial_type": "",
+              "statuses_count": 5078,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iğdır, Türkiye"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "سرباز"
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2016448033945235456",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAxNjQ0ODAzMzk0NTIzNTQ1Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2062450588625797120/l2Rae29u_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jan 28 09:47:41 +0000 2026",
+              "name": "mojtaba pir",
+              "screen_name": "ShamimYas248949"
+            },
+            "id": "VXNlcjoyMDE2NDQ4MDMzOTQ1MjM1NDU2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2016448033945235456",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAxNjQ0ODAzMzk0NTIzNTQ1Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
