@@ -1,7 +1,7 @@
 {
   "snapshotId": "05057402-7bb9-4e59-855a-8f78dd3418f3",
   "twitterId": "895587380660514816",
-  "scannedAt": "2026-06-06T07:28:13.831Z",
+  "scannedAt": "2026-07-22T04:22:53.956Z",
   "fields": {
     "username": "SaZahiri",
     "displayName": "ساجده ظهیری 🎒",
@@ -15,155 +15,155 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1943072939290587136/7Ml5gcjG_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Aug 10 10:07:25 +0000 2017",
+              "name": "ساجده ظهیری 🎒",
+              "screen_name": "SaZahiri"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4OTU1ODczODA2NjA1MTQ4MTY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "کارشناس مدیریت فرهنگی هنری ؛دانشجوی دکترای ارتباطات",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "HarfBeMan.pw/@NzVzY3Q2VWtte…",
+                      "expanded_url": "https://HarfBeMan.pw/@NzVzY3Q2VWtteDRpcSszN2VWQ29mdz09",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/xemsHFn5tX"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 12387,
+              "follow_request_sent": false,
+              "followers_count": 799,
+              "friends_count": 1292,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 140,
+              "needs_phone_verification": false,
+              "normal_followers_count": 799,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/895587380660514816/1549379897",
+              "profile_interstitial_type": "",
+              "statuses_count": 3968,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/xemsHFn5tX",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "موجیم که اسودگی ما عدم ماست "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "کارشناس مدیریت فرهنگی هنری ؛دانشجوی دکترای ارتباطات"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "895587380660514816",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6ODk1NTg3MzgwNjYwNTE0ODE2",
           "result": {
-            "id": "VXNlcjo4OTU1ODczODA2NjA1MTQ4MTY=",
-            "core": {
-              "name": "ساجده ظهیری 🎒",
-              "created_at": "Thu Aug 10 10:07:25 +0000 2017",
-              "screen_name": "SaZahiri"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1943072939290587136/7Ml5gcjG_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "895587380660514816",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1502359747606"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODk1NTg3MzgwNjYwNTE0ODE2",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo4OTU1ODczODA2NjA1MTQ4MTY=",
-            "core": {
-              "name": "ساجده ظهیری 🎒",
-              "created_at": "Thu Aug 10 10:07:25 +0000 2017",
-              "screen_name": "SaZahiri"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1943072939290587136/7Ml5gcjG_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/xemsHFn5tX",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/xemsHFn5tX",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "HarfBeMan.pw/@NzVzY3Q2VWtte…",
-                      "expanded_url": "https://HarfBeMan.pw/@NzVzY3Q2VWtteDRpcSszN2VWQ29mdz09"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "کارشناس مدیریت فرهنگی هنری ؛دانشجوی دکترای ارتباطات",
-              "media_count": 140,
-              "listed_count": 2,
-              "friends_count": 1292,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 3968,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 796,
-              "translator_type": "none",
-              "favourites_count": 12407,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/895587380660514816/1549379897",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 796,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Aug 10 10:07:25 +0000 2017",
+              "name": "ساجده ظهیری 🎒",
+              "screen_name": "SaZahiri"
             },
+            "id": "VXNlcjo4OTU1ODczODA2NjA1MTQ4MTY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "895587380660514816",
-            "location": {
-              "location": "موجیم که اسودگی ما عدم ماست "
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "کارشناس مدیریت فرهنگی هنری ؛دانشجوی دکترای ارتباطات"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODk1NTg3MzgwNjYwNTE0ODE2",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
