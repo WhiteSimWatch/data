@@ -1,7 +1,7 @@
 {
   "snapshotId": "a5b28afe-0431-4fec-ac24-e9061c48522d",
   "twitterId": "1231233201290567682",
-  "scannedAt": "2026-06-06T22:11:45.236Z",
+  "scannedAt": "2026-07-22T12:44:57.907Z",
   "fields": {
     "username": "almushaf123",
     "displayName": "آيات القرآن",
@@ -15,179 +15,179 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2027581990388551682/kRRk5iWV_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Feb 22 15:04:15 +0000 2020",
+              "name": "آيات القرآن",
+              "screen_name": "almushaf123"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "250"
+            },
+            "id": "VXNlcjoxMjMxMjMzMjAxMjkwNTY3Njgy",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 80180,
+              "follow_request_sent": false,
+              "followers_count": 65656,
+              "friends_count": 15504,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 35,
+              "media_count": 27620,
+              "needs_phone_verification": false,
+              "normal_followers_count": 65656,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 98263,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 1,
+                "month": 1,
+                "visibility": "Public",
+                "year": 1990,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1009,
+                  "name": "Community"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1741841731828478188"
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1231233201290567682",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": true,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1783016082399"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTIzMTIzMzIwMTI5MDU2NzY4Mg==",
           "result": {
-            "id": "VXNlcjoxMjMxMjMzMjAxMjkwNTY3Njgy",
-            "core": {
-              "name": "آيات القرآن",
-              "created_at": "Sat Feb 22 15:04:15 +0000 2020",
-              "screen_name": "almushaf123"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2027581990388551682/kRRk5iWV_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1231233201290567682",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "4",
                 "last_changed_at_msec": "1702041247597"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIzMTIzMzIwMTI5MDU2NzY4Mg==",
-              "reason": {
-                "verified_since_msec": "1764693406015"
-              },
-              "is_identity_verified": true
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMjMxMjMzMjAxMjkwNTY3Njgy",
-            "core": {
-              "name": "آيات القرآن",
-              "created_at": "Sat Feb 22 15:04:15 +0000 2020",
-              "screen_name": "almushaf123"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2027581990388551682/kRRk5iWV_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 27140,
-              "listed_count": 34,
-              "friends_count": 15675,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 97210,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 65296,
-              "translator_type": "none",
-              "favourites_count": 78713,
-              "possibly_sensitive": false,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 65296,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Feb 22 15:04:15 +0000 2020",
+              "name": "آيات القرآن",
+              "screen_name": "almushaf123"
             },
+            "id": "VXNlcjoxMjMxMjMzMjAxMjkwNTY3Njgy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1231233201290567682",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
-            "professional": {
-              "rest_id": "1741841731828478188",
-              "category": [
-                {
-                  "id": 1009,
-                  "name": "Community",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "244",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIzMTIzMzIwMTI5MDU2NzY4Mg==",
+              "is_identity_verified": true,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
-                "verified_since_msec": "1764693406015"
-              },
-              "is_identity_verified": true
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "day": 1,
-                "year": 1990,
-                "month": 1,
-                "visibility": "Public",
-                "year_visibility": "Public"
+                "verified_since_msec": "1783016082399"
               }
-            },
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": true,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
