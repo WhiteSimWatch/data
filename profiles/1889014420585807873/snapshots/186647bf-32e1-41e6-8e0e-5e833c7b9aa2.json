@@ -1,7 +1,7 @@
 {
   "snapshotId": "186647bf-32e1-41e6-8e0e-5e833c7b9aa2",
   "twitterId": "1889014420585807873",
-  "scannedAt": "2026-06-06T06:24:03.007Z",
+  "scannedAt": "2026-07-22T03:13:05.099Z",
   "fields": {
     "username": "Khadim_Hussein1",
     "displayName": "سرباز ولی‌عصر🎒",
@@ -15,156 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2024430784195510272/b1HrFtkr_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 10 18:12:01 +0000 2025",
+              "name": "سرباز ولی‌عصر🎒",
+              "screen_name": "Khadim_Hussein1"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODg5MDE0NDIwNTg1ODA3ODcz",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "یــا عــلـی❤️‍🩹\nیه دهه هشتادی که گرفتار رسانه‌ معاند نشده 😮‍💨\n\nبیایید کنار هم کمی آگاه تر شویم",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6597,
+              "follow_request_sent": false,
+              "followers_count": 2349,
+              "friends_count": 2350,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 325,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2349,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2024775186738737577"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889014420585807873/1739297354",
+              "profile_interstitial_type": "",
+              "statuses_count": 2622,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یــا عــلـی❤️‍🩹\nیه دهه هشتادی که گرفتار رسانه‌ معاند نشده 😮‍💨\n\nبیایید کنار هم کمی آگاه تر شویم"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1889014420585807873",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg4OTAxNDQyMDU4NTgwNzg3Mw==",
           "result": {
-            "id": "VXNlcjoxODg5MDE0NDIwNTg1ODA3ODcz",
-            "core": {
-              "name": "سرباز ولی‌عصر🎒",
-              "created_at": "Mon Feb 10 18:12:01 +0000 2025",
-              "screen_name": "Khadim_Hussein1"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2024430784195510272/b1HrFtkr_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1889014420585807873",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1739211322119"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4OTAxNDQyMDU4NTgwNzg3Mw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODg5MDE0NDIwNTg1ODA3ODcz",
-            "core": {
-              "name": "سرباز ولی‌عصر🎒",
-              "created_at": "Mon Feb 10 18:12:01 +0000 2025",
-              "screen_name": "Khadim_Hussein1"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2024430784195510272/b1HrFtkr_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "یــا عــلـی❤️‍🩹\nیه دهه هشتادی که گرفتار رسانه‌ معاند نشده 😮‍💨\n\nبیایید کنار هم کمی آگاه تر شویم",
-              "media_count": 268,
-              "listed_count": 2,
-              "friends_count": 1867,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2144,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1869,
-              "translator_type": "none",
-              "favourites_count": 5081,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889014420585807873/1739297354",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2024775186738737577"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1869,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Feb 10 18:12:01 +0000 2025",
+              "name": "سرباز ولی‌عصر🎒",
+              "screen_name": "Khadim_Hussein1"
             },
+            "id": "VXNlcjoxODg5MDE0NDIwNTg1ODA3ODcz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1889014420585807873",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "یــا عــلـی❤️‍🩹\nیه دهه هشتادی که گرفتار رسانه‌ معاند نشده 😮‍💨\n\nبیایید کنار هم کمی آگاه تر شویم"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4OTAxNDQyMDU4NTgwNzg3Mw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Ya Ali ❤️‍🩹  \nAn 80s kid who hasn’t fallen into the trap of hostile media 😮‍💨  \n\nLet’s become a little more aware together",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
