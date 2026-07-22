@@ -1,7 +1,7 @@
 {
   "snapshotId": "309a510d-b444-49a2-a6f2-8cb6f59775d2",
   "twitterId": "1456879976200949760",
-  "scannedAt": "2026-06-06T07:42:05.410Z",
+  "scannedAt": "2026-07-22T14:41:02.250Z",
   "fields": {
     "username": "hatami_org",
     "displayName": "سرلشکر امیر حاتمی",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2032126399394320384/1DG3HMru_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Nov 06 07:04:01 +0000 2021",
+              "name": "سرلشکر امیر حاتمی",
+              "screen_name": "hatami_org"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDU2ODc5OTc2MjAwOTQ5NzYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "فرمانده کل ارتش جهموری اسلامی ایران           ‌\nCommander in Chief of the Army of the Islamic Republic of Iran",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 8,
+              "follow_request_sent": false,
+              "followers_count": 9892,
+              "friends_count": 13,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 53,
+              "media_count": 4,
+              "needs_phone_verification": false,
+              "normal_followers_count": 9892,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1456879976200949760/1775138224",
+              "profile_interstitial_type": "",
+              "statuses_count": 13,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فرمانده کل ارتش جهموری اسلامی ایران           ‌\nCommander in Chief of the Army of the Islamic Republic of Iran"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1456879976200949760",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTQ1Njg3OTk3NjIwMDk0OTc2MA==",
           "result": {
-            "id": "VXNlcjoxNDU2ODc5OTc2MjAwOTQ5NzYw",
-            "core": {
-              "name": "سرلشکر امیر حاتمی",
-              "created_at": "Sat Nov 06 07:04:01 +0000 2021",
-              "screen_name": "hatami_org"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2032126399394320384/1DG3HMru_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1456879976200949760",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1750238501434"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ1Njg3OTk3NjIwMDk0OTc2MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNDU2ODc5OTc2MjAwOTQ5NzYw",
-            "core": {
-              "name": "سرلشکر امیر حاتمی",
-              "created_at": "Sat Nov 06 07:04:01 +0000 2021",
-              "screen_name": "hatami_org"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2032126399394320384/1DG3HMru_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "فرمانده کل ارتش جهموری اسلامی ایران           ‌\nCommander in Chief of the Army of the Islamic Republic of Iran",
-              "media_count": 4,
-              "listed_count": 49,
-              "friends_count": 12,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 13,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 10029,
-              "translator_type": "none",
-              "favourites_count": 8,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1456879976200949760/1775138224",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 10029,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Nov 06 07:04:01 +0000 2021",
+              "name": "سرلشکر امیر حاتمی",
+              "screen_name": "hatami_org"
             },
+            "id": "VXNlcjoxNDU2ODc5OTc2MjAwOTQ5NzYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1456879976200949760",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "فرمانده کل ارتش جهموری اسلامی ایران           ‌\nCommander in Chief of the Army of the Islamic Republic of Iran"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ1Njg3OTk3NjIwMDk0OTc2MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
