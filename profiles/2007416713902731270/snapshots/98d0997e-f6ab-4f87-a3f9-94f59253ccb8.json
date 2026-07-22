@@ -1,7 +1,7 @@
 {
   "snapshotId": "98d0997e-f6ab-4f87-a3f9-94f59253ccb8",
   "twitterId": "2007416713902731270",
-  "scannedAt": "2026-06-06T21:36:12.095Z",
+  "scannedAt": "2026-07-22T12:33:22.105Z",
   "fields": {
     "username": "Parya1898463",
     "displayName": "Parya",
@@ -15,140 +15,140 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jan 03 11:40:34 +0000 2026",
+              "name": "Parya",
+              "screen_name": "Parya1898463"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDA3NDE2NzEzOTAyNzMxMjcw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": true,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 19,
+              "follow_request_sent": false,
+              "followers_count": 2,
+              "friends_count": 124,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 0,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2,
+              "notifications": false,
+              "possibly_sensitive": true,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 0,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2007416713902731270",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjAwNzQxNjcxMzkwMjczMTI3MA==",
           "result": {
-            "id": "VXNlcjoyMDA3NDE2NzEzOTAyNzMxMjcw",
-            "core": {
-              "name": "Parya",
-              "created_at": "Sat Jan 03 11:40:34 +0000 2026",
-              "screen_name": "Parya1898463"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
             },
+            "core": {
+              "created_at": "Sat Jan 03 11:40:34 +0000 2026",
+              "name": "Parya",
+              "screen_name": "Parya1898463"
+            },
+            "id": "VXNlcjoyMDA3NDE2NzEzOTAyNzMxMjcw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2007416713902731270",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "West Asia App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-              "account_based_in": "West Asia",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAwNzQxNjcxMzkwMjczMTI3MA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDA3NDE2NzEzOTAyNzMxMjcw",
-            "core": {
-              "name": "Parya",
-              "created_at": "Sat Jan 03 11:40:34 +0000 2026",
-              "screen_name": "Parya1898463"
-            },
-            "avatar": {
-              "image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 0,
-              "listed_count": 0,
-              "friends_count": 126,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 0,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2,
-              "translator_type": "none",
-              "favourites_count": 19,
-              "possibly_sensitive": true,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": true,
-              "normal_followers_count": 2,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2007416713902731270",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
