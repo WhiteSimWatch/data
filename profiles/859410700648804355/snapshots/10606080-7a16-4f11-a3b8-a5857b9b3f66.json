@@ -1,7 +1,7 @@
 {
   "snapshotId": "10606080-7a16-4f11-a3b8-a5857b9b3f66",
   "twitterId": "859410700648804355",
-  "scannedAt": "2026-06-07T05:53:39.211Z",
+  "scannedAt": "2026-07-23T04:52:00.882Z",
   "fields": {
     "username": "KhaleghiMinoo",
     "displayName": "(مینو خالقی) Minoo khaleghi",
@@ -15,144 +15,81 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6ODU5NDEwNzAwNjQ4ODA0MzU1",
-          "result": {
-            "id": "VXNlcjo4NTk0MTA3MDA2NDg4MDQzNTU=",
-            "core": {
-              "name": "(مینو خالقی) Minoo khaleghi",
-              "created_at": "Tue May 02 14:14:12 +0000 2017",
-              "screen_name": "KhaleghiMinoo"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2036153677132771328/fYH3_5an_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "859410700648804355",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODU5NDEwNzAwNjQ4ODA0MzU1",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjo4NTk0MTA3MDA2NDg4MDQzNTU=",
-            "core": {
-              "name": "(مینو خالقی) Minoo khaleghi",
-              "created_at": "Tue May 02 14:14:12 +0000 2017",
-              "screen_name": "KhaleghiMinoo"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2036153677132771328/fYH3_5an_normal.jpg"
             },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue May 02 14:14:12 +0000 2017",
+              "name": "(مینو خالقی) Minoo khaleghi",
+              "screen_name": "KhaleghiMinoo"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4NTk0MTA3MDA2NDg4MDQzNTU=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
             "legacy": {
-              "url": "",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Politician,Jurist,lawyer, Active in public diplomacy ⚖️ 🔗https://t.co/sXR943Nm89  اگر سر به سر تن به کشتن دهیم از آن به که کشور به دشمن دهیم",
               "entities": {
                 "description": {
                   "urls": [
                     {
-                      "url": "https://t.co/sXR943Nm89",
+                      "display_url": "Instagram.com/minookhaleghi_",
+                      "expanded_url": "http://Instagram.com/minookhaleghi_",
                       "indices": [
                         57,
                         80
                       ],
-                      "display_url": "Instagram.com/minookhaleghi_",
-                      "expanded_url": "http://Instagram.com/minookhaleghi_"
+                      "url": "https://t.co/sXR943Nm89"
                     }
                   ]
                 }
               },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Politician,Jurist,lawyer, Active in public diplomacy ⚖️ 🔗https://t.co/sXR943Nm89  اگر سر به سر تن به کشتن دهیم از آن به که کشور به دشمن دهیم",
-              "media_count": 264,
-              "listed_count": 10,
-              "friends_count": 284,
+              "fast_followers_count": 0,
+              "favourites_count": 2253,
+              "follow_request_sent": false,
+              "followers_count": 4272,
+              "friends_count": 266,
+              "has_custom_timelines": true,
               "is_translator": false,
+              "listed_count": 10,
+              "media_count": 264,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4272,
               "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 848,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 4287,
-              "translator_type": "none",
-              "favourites_count": 2251,
               "possibly_sensitive": false,
               "profile_banner_url": "https://pbs.twimg.com/profile_banners/859410700648804355/1744117264",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
+              "profile_interstitial_type": "",
+              "statuses_count": 848,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
               "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 4287,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+              "withheld_scope": ""
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "859410700648804355",
-            "location": {
-              "location": "IRAN❤️🤍💚"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Politician,Jurist,lawyer, Active in public diplomacy ⚖️ 🔗https://t.co/sXR943Nm89  اگر سر به سر تن به کشتن دهیم از آن به که کشور به دشمن دهیم"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 3,
@@ -161,13 +98,76 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "IRAN❤️🤍💚"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Politician,Jurist,lawyer, Active in public diplomacy ⚖️ 🔗https://t.co/sXR943Nm89  اگر سر به سر تن به کشتن دهیم از آن به که کشور به دشمن دهیم"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "859410700648804355",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODU5NDEwNzAwNjQ4ODA0MzU1",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
             "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2036153677132771328/fYH3_5an_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue May 02 14:14:12 +0000 2017",
+              "name": "(مینو خالقی) Minoo khaleghi",
+              "screen_name": "KhaleghiMinoo"
+            },
+            "id": "VXNlcjo4NTk0MTA3MDA2NDg4MDQzNTU=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "859410700648804355",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODU5NDEwNzAwNjQ4ODA0MzU1",
+              "is_identity_verified": false
             }
           }
         }
