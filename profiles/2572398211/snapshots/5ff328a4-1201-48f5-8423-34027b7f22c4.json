@@ -1,0 +1,160 @@
+{
+  "snapshotId": "5ff328a4-1201-48f5-8423-34027b7f22c4",
+  "twitterId": "2572398211",
+  "scannedAt": "2026-07-23T07:13:18.400Z",
+  "fields": {
+    "username": "Sowkut_d",
+    "displayName": "سکوت",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/749330406206533632/_hHLS4sG_normal.jpg",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2572398211/1775568229",
+    "bio": "سکوت خطرناکتر از حرفهای نیشدار است!",
+    "selfLocation": "",
+    "accountBasedIn": "United States",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/749330406206533632/_hHLS4sG_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jun 17 06:43:53 +0000 2014",
+              "name": "سکوت",
+              "screen_name": "Sowkut_d"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyNTcyMzk4MjEx",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "سکوت خطرناکتر از حرفهای نیشدار است!",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 80032,
+              "follow_request_sent": false,
+              "followers_count": 242,
+              "friends_count": 419,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 35,
+              "needs_phone_verification": false,
+              "normal_followers_count": 242,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2572398211/1775568229",
+              "profile_interstitial_type": "",
+              "statuses_count": 1731,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "سکوت خطرناکتر از حرفهای نیشدار است!"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2572398211",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjU3MjM5ODIxMQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1467488954778"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/749330406206533632/_hHLS4sG_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Jun 17 06:43:53 +0000 2014",
+              "name": "سکوت",
+              "screen_name": "Sowkut_d"
+            },
+            "id": "VXNlcjoyNTcyMzk4MjEx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2572398211",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjU3MjM5ODIxMQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
