@@ -1,7 +1,7 @@
 {
   "snapshotId": "d8520604-2201-4397-acd4-c877419bc006",
   "twitterId": "1564829294869749760",
-  "scannedAt": "2026-06-07T07:40:36.196Z",
+  "scannedAt": "2026-07-23T07:05:07.563Z",
   "fields": {
     "username": "aminhashemi0",
     "displayName": "محمد امین هاشمی",
@@ -15,169 +15,166 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2063228842274148352/9nNhIre7_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Aug 31 04:16:01 +0000 2022",
+              "name": "محمد امین هاشمی",
+              "screen_name": "aminhashemi0"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTY0ODI5Mjk0ODY5NzQ5NzYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "خبرنگار",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/aminhashemi10",
+                      "expanded_url": "http://www.instagram.com/aminhashemi10",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/SO7Mvh1KUd"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 10776,
+              "follow_request_sent": false,
+              "followers_count": 3237,
+              "friends_count": 3023,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 776,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3237,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564829294869749760/1778072390",
+              "profile_interstitial_type": "",
+              "statuses_count": 4333,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/SO7Mvh1KUd",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1564830180224401410"
+            },
+            "profile_bio": {
+              "description": "خبرنگار"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1564829294869749760",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU2NDgyOTI5NDg2OTc0OTc2MA==",
           "result": {
-            "id": "VXNlcjoxNTY0ODI5Mjk0ODY5NzQ5NzYw",
-            "core": {
-              "name": "محمد امین هاشمی",
-              "created_at": "Wed Aug 31 04:16:01 +0000 2022",
-              "screen_name": "aminhashemi0"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2063228842274148352/9nNhIre7_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1564829294869749760",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1708931610294"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU2NDgyOTI5NDg2OTc0OTc2MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTY0ODI5Mjk0ODY5NzQ5NzYw",
-            "core": {
-              "name": "محمد امین هاشمی",
-              "created_at": "Wed Aug 31 04:16:01 +0000 2022",
-              "screen_name": "aminhashemi0"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2063228842274148352/9nNhIre7_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/SO7Mvh1KUd",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/SO7Mvh1KUd",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "instagram.com/aminhashemi10",
-                      "expanded_url": "http://www.instagram.com/aminhashemi10"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "خبرنگار",
-              "media_count": 757,
-              "listed_count": 5,
-              "friends_count": 3035,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 4308,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3250,
-              "translator_type": "none",
-              "favourites_count": 10737,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564829294869749760/1778072390",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2039371811025248439"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3250,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Aug 31 04:16:01 +0000 2022",
+              "name": "محمد امین هاشمی",
+              "screen_name": "aminhashemi0"
             },
+            "id": "VXNlcjoxNTY0ODI5Mjk0ODY5NzQ5NzYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1564829294869749760",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "خبرنگار"
-            },
-            "professional": {
-              "rest_id": "1564830180224401410",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU2NDgyOTI5NDg2OTc0OTc2MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
