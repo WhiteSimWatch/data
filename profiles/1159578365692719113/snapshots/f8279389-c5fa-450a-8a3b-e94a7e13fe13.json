@@ -1,7 +1,7 @@
 {
   "snapshotId": "f8279389-c5fa-450a-8a3b-e94a7e13fe13",
   "twitterId": "1159578365692719113",
-  "scannedAt": "2026-06-07T08:02:57.662Z",
+  "scannedAt": "2026-07-23T07:37:11.941Z",
   "fields": {
     "username": "M_sadeqi1987",
     "displayName": "محمدرضا",
@@ -15,166 +15,166 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1919871132401893376/HrleHkz2_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Aug 08 21:33:21 +0000 2019",
+              "name": "محمدرضا",
+              "screen_name": "M_sadeqi1987"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTU5NTc4MzY1NjkyNzE5MTEz",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "منوچهر می‌گه: مرد باس بوی سیگار و عرق و عرق بده!",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/nanochats_bot?…",
+                      "expanded_url": "https://t.me/nanochats_bot?start=sec-cachijfbe",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Z44p8njCY9"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 283765,
+              "follow_request_sent": false,
+              "followers_count": 443,
+              "friends_count": 148,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 63,
+              "needs_phone_verification": false,
+              "normal_followers_count": 443,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1271499855517626368"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1159578365692719113/1651322452",
+              "profile_interstitial_type": "",
+              "statuses_count": 11689,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/Z44p8njCY9",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 3,
+                "month": 6,
+                "visibility": "Public",
+                "year": 1987,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "آنجا که مرد و مرگ هم‌ریشه‌ است"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "منوچهر می‌گه: مرد باس بوی سیگار و عرق و عرق بده!"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1159578365692719113",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTE1OTU3ODM2NTY5MjcxOTExMw==",
           "result": {
-            "id": "VXNlcjoxMTU5NTc4MzY1NjkyNzE5MTEz",
-            "core": {
-              "name": "محمدرضا",
-              "created_at": "Thu Aug 08 21:33:21 +0000 2019",
-              "screen_name": "M_sadeqi1987"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1919871132401893376/HrleHkz2_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1159578365692719113",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "5",
                 "last_changed_at_msec": "1739483787415"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE1OTU3ODM2NTY5MjcxOTExMw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMTU5NTc4MzY1NjkyNzE5MTEz",
-            "core": {
-              "name": "محمدرضا",
-              "created_at": "Thu Aug 08 21:33:21 +0000 2019",
-              "screen_name": "M_sadeqi1987"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1919871132401893376/HrleHkz2_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/Z44p8njCY9",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/Z44p8njCY9",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/nanochats_bot?…",
-                      "expanded_url": "https://t.me/nanochats_bot?start=sec-cachijfbe"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "منوچهر می‌گه: مرد باس بوی سیگار و عرق و عرق بده!",
-              "media_count": 63,
-              "listed_count": 0,
-              "friends_count": 150,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 11690,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 449,
-              "translator_type": "none",
-              "favourites_count": 288246,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1159578365692719113/1651322452",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1271499855517626368"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 449,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Aug 08 21:33:21 +0000 2019",
+              "name": "محمدرضا",
+              "screen_name": "M_sadeqi1987"
             },
+            "id": "VXNlcjoxMTU5NTc4MzY1NjkyNzE5MTEz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1159578365692719113",
-            "location": {
-              "location": "آنجا که مرد و مرگ هم‌ریشه‌ است"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "منوچهر می‌گه: مرد باس بوی سیگار و عرق و عرق بده!"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE1OTU3ODM2NTY5MjcxOTExMw==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "day": 3,
-                "year": 1987,
-                "month": 6,
-                "visibility": "Public",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
