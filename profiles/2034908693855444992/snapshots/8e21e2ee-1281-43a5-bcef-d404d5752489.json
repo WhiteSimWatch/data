@@ -1,7 +1,7 @@
 {
   "snapshotId": "8e21e2ee-1281-43a5-bcef-d404d5752489",
   "twitterId": "2034908693855444992",
-  "scannedAt": "2026-06-07T08:10:55.967Z",
+  "scannedAt": "2026-07-23T07:48:16.877Z",
   "fields": {
     "username": "Mkhamenei_urdu",
     "displayName": "آیت اللہ سید مجتبیٰ خامنہ ای",
@@ -15,153 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2034908876043374592/kIUpR_kR_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Mar 20 08:23:43 +0000 2026",
+              "name": "آیت اللہ سید مجتبیٰ خامنہ ای",
+              "screen_name": "Mkhamenei_urdu"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDM0OTA4NjkzODU1NDQ0OTky",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "رہبر انقلاب اسلامی آیت اللہ سید مجتبیٰ حسینی خامنہ ای کے بیانات اور خبروں کا آفیشل اکاؤنٹ",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 0,
+              "follow_request_sent": false,
+              "followers_count": 2815,
+              "friends_count": 12,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 3,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2815,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034908693855444992/1776510117",
+              "profile_interstitial_type": "",
+              "statuses_count": 245,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "رہبر انقلاب اسلامی آیت اللہ سید مجتبیٰ حسینی خامنہ ای کے بیانات اور خبروں کا آفیشل اکاؤنٹ"
+            },
+            "profile_description_language": "ur",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "2034908693855444992",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MjAzNDkwODY5Mzg1NTQ0NDk5Mg==",
           "result": {
-            "id": "VXNlcjoyMDM0OTA4NjkzODU1NDQ0OTky",
-            "core": {
-              "name": "آیت اللہ سید مجتبیٰ خامنہ ای",
-              "created_at": "Fri Mar 20 08:23:43 +0000 2026",
-              "screen_name": "Mkhamenei_urdu"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2034908876043374592/kIUpR_kR_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2034908693855444992",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1773995072090"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAzNDkwODY5Mzg1NTQ0NDk5Mg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyMDM0OTA4NjkzODU1NDQ0OTky",
-            "core": {
-              "name": "آیت اللہ سید مجتبیٰ خامنہ ای",
-              "created_at": "Fri Mar 20 08:23:43 +0000 2026",
-              "screen_name": "Mkhamenei_urdu"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2034908876043374592/kIUpR_kR_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "رہبر انقلاب اسلامی آیت اللہ سید مجتبیٰ حسینی خامنہ ای کے بیانات اور خبروں کا آفیشل اکاؤنٹ",
-              "media_count": 2,
-              "listed_count": 5,
-              "friends_count": 12,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 187,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2369,
-              "translator_type": "none",
-              "favourites_count": 0,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034908693855444992/1776510117",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2369,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Fri Mar 20 08:23:43 +0000 2026",
+              "name": "آیت اللہ سید مجتبیٰ خامنہ ای",
+              "screen_name": "Mkhamenei_urdu"
             },
+            "id": "VXNlcjoyMDM0OTA4NjkzODU1NDQ0OTky",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2034908693855444992",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "رہبر انقلاب اسلامی آیت اللہ سید مجتبیٰ حسینی خامنہ ای کے بیانات اور خبروں کا آفیشل اکاؤنٹ"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAzNDkwODY5Mzg1NTQ0NDk5Mg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "ur",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Official Account for the Statements and News of the Leader of the Islamic Revolution, Ayatollah Sayyid Mojtaba Hosseini Khamenei",
-                "source_language": "ur",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
