@@ -1,7 +1,7 @@
 {
   "snapshotId": "5309367d-378c-45ad-ab21-9a9a28020bb0",
   "twitterId": "4710481436",
-  "scannedAt": "2026-06-07T06:04:21.873Z",
+  "scannedAt": "2026-07-23T05:06:54.137Z",
   "fields": {
     "username": "razmandeh1367",
     "displayName": "محمدجواد محمدزاده",
@@ -15,149 +15,96 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6NDcxMDQ4MTQzNg==",
-          "result": {
-            "id": "VXNlcjo0NzEwNDgxNDM2",
-            "core": {
-              "name": "محمدجواد محمدزاده",
-              "created_at": "Mon Jan 04 21:33:25 +0000 2016",
-              "screen_name": "razmandeh1367"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1642302854424657921/rWMzo6Bp_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "4710481436",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "1",
-                "last_changed_at_msec": "1451943309981"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NDcxMDQ4MTQzNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjo0NzEwNDgxNDM2",
-            "core": {
-              "name": "محمدجواد محمدزاده",
-              "created_at": "Mon Jan 04 21:33:25 +0000 2016",
-              "screen_name": "razmandeh1367"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1642302854424657921/rWMzo6Bp_normal.jpg"
             },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jan 04 21:33:25 +0000 2016",
+              "name": "محمدجواد محمدزاده",
+              "screen_name": "razmandeh1367"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "You must strike falsehood so forcefully that truth is strengthened, falsehood is no longer nourished, and you must present truth in such a way that falsehoods cannot raise their heads and gather no fodder for their propaganda."
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo0NzEwNDgxNDM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
             "legacy": {
-              "url": "https://t.co/QT96N0mfcB",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "باید باطل را آنگونه بكوبى كه حق تقويت شود و باطل ديگر تغذيه نكند و حق را آنگونه مطرح كنى كه باطل‌ها سر بر ندارند و خوراك تبليغاتى براى خود جمع نكنند.",
               "entities": {
+                "description": {},
                 "url": {
                   "urls": [
                     {
-                      "url": "https://t.co/QT96N0mfcB",
+                      "display_url": "t.me/mj_mohammadzade",
+                      "expanded_url": "https://t.me/mj_mohammadzade",
                       "indices": [
                         0,
                         23
                       ],
-                      "display_url": "t.me/mj_mohammadzade",
-                      "expanded_url": "https://t.me/mj_mohammadzade"
+                      "url": "https://t.co/QT96N0mfcB"
                     }
                   ]
-                },
-                "description": {}
+                }
               },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "باید باطل را آنگونه بكوبى كه حق تقويت شود و باطل ديگر تغذيه نكند و حق را آنگونه مطرح كنى كه باطل‌ها سر بر ندارند و خوراك تبليغاتى براى خود جمع نكنند.",
-              "media_count": 5443,
-              "listed_count": 216,
-              "friends_count": 837,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 71996,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 47489,
-              "translator_type": "none",
-              "favourites_count": 396863,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/4710481436/1547904874",
-              "follow_request_sent": false,
               "fast_followers_count": 0,
+              "favourites_count": 399654,
+              "follow_request_sent": false,
+              "followers_count": 48275,
+              "friends_count": 843,
               "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 216,
+              "media_count": 5599,
+              "needs_phone_verification": false,
+              "normal_followers_count": 48275,
+              "notifications": false,
               "pinned_tweet_ids_str": [
                 "1152281565508059137"
               ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/4710481436/1547904874",
+              "profile_interstitial_type": "",
+              "statuses_count": 73255,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/QT96N0mfcB",
+              "utc_offset": 0,
+              "want_retweets": false,
               "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 47489,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+              "withheld_scope": ""
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "4710481436",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "باید باطل را آنگونه بكوبى كه حق تقويت شود و باطل ديگر تغذيه نكند و حق را آنگونه مطرح كنى كه باطل‌ها سر بر ندارند و خوراك تبليغاتى براى خود جمع نكنند."
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 6,
@@ -166,25 +113,78 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "باید باطل را آنگونه بكوبى كه حق تقويت شود و باطل ديگر تغذيه نكند و حق را آنگونه مطرح كنى كه باطل‌ها سر بر ندارند و خوراك تبليغاتى براى خود جمع نكنند."
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "You must strike falsehood so forcefully that truth is strengthened, falsehood is no longer nourished, and you must present truth in such a way that falsehoods cannot raise their heads and gather no fodder for their propaganda.",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "4710481436",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NDcxMDQ4MTQzNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1451943309981"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1642302854424657921/rWMzo6Bp_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jan 04 21:33:25 +0000 2016",
+              "name": "محمدجواد محمدزاده",
+              "screen_name": "razmandeh1367"
+            },
+            "id": "VXNlcjo0NzEwNDgxNDM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "4710481436",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NDcxMDQ4MTQzNg==",
+              "is_identity_verified": false
             }
           }
         }
