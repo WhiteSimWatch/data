@@ -1,7 +1,7 @@
 {
   "snapshotId": "4bfdef16-d1e6-4bda-8651-c4b30b18ed84",
   "twitterId": "1340377354124845058",
-  "scannedAt": "2026-06-07T06:23:26.103Z",
+  "scannedAt": "2026-07-23T05:31:19.980Z",
   "fields": {
     "username": "IranNuances",
     "displayName": "Iran Nuances",
@@ -15,166 +15,166 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1648705869016702977/hTl6gKvb_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Dec 19 19:24:26 +0000 2020",
+              "name": "Iran Nuances",
+              "screen_name": "IranNuances"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzQwMzc3MzU0MTI0ODQ1MDU4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Your go-to source for balanced, in-depth coverage of Iranian society, politics, culture, and thinking from within Iran.\n\nTelegram (Persian): https://t.co/SLaillWdFf",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/IranNuances",
+                      "expanded_url": "http://t.me/IranNuances",
+                      "indices": [
+                        141,
+                        164
+                      ],
+                      "url": "https://t.co/SLaillWdFf"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "irannuances.com",
+                      "expanded_url": "http://www.irannuances.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ks2gGtxqBR"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 6,
+              "follow_request_sent": false,
+              "followers_count": 29222,
+              "friends_count": 535,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 692,
+              "media_count": 8396,
+              "needs_phone_verification": false,
+              "normal_followers_count": 29222,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1340377354124845058/1684580923",
+              "profile_interstitial_type": "",
+              "statuses_count": 10401,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/ks2gGtxqBR",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Your go-to source for balanced, in-depth coverage of Iranian society, politics, culture, and thinking from within Iran.\n\nTelegram (Persian): https://t.co/SLaillWdFf"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1340377354124845058",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTM0MDM3NzM1NDEyNDg0NTA1OA==",
           "result": {
-            "id": "VXNlcjoxMzQwMzc3MzU0MTI0ODQ1MDU4",
-            "core": {
-              "name": "Iran Nuances",
-              "created_at": "Sat Dec 19 19:24:26 +0000 2020",
-              "screen_name": "IranNuances"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United Kingdom App Store",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1648705869016702977/hTl6gKvb_normal.jpg"
             },
+            "core": {
+              "created_at": "Sat Dec 19 19:24:26 +0000 2020",
+              "name": "Iran Nuances",
+              "screen_name": "IranNuances"
+            },
+            "id": "VXNlcjoxMzQwMzc3MzU0MTI0ODQ1MDU4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1340377354124845058",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "United Kingdom App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM0MDM3NzM1NDEyNDg0NTA1OA==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMzQwMzc3MzU0MTI0ODQ1MDU4",
-            "core": {
-              "name": "Iran Nuances",
-              "created_at": "Sat Dec 19 19:24:26 +0000 2020",
-              "screen_name": "IranNuances"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1648705869016702977/hTl6gKvb_normal.jpg"
-            },
-            "legacy": {
-              "url": "https://t.co/ks2gGtxqBR",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/ks2gGtxqBR",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "irannuances.com",
-                      "expanded_url": "http://www.irannuances.com"
-                    }
-                  ]
-                },
-                "description": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/SLaillWdFf",
-                      "indices": [
-                        141,
-                        164
-                      ],
-                      "display_url": "t.me/IranNuances",
-                      "expanded_url": "http://t.me/IranNuances"
-                    }
-                  ]
-                }
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Your go-to source for balanced, in-depth coverage of Iranian society, politics, culture, and thinking from within Iran.\n\nTelegram (Persian): https://t.co/SLaillWdFf",
-              "media_count": 8196,
-              "listed_count": 671,
-              "friends_count": 534,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 10096,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 28714,
-              "translator_type": "none",
-              "favourites_count": 6,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1340377354124845058/1684580923",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 28714,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1340377354124845058",
-            "location": {
-              "location": "Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Your go-to source for balanced, in-depth coverage of Iranian society, politics, culture, and thinking from within Iran.\n\nTelegram (Persian): https://t.co/SLaillWdFf"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
