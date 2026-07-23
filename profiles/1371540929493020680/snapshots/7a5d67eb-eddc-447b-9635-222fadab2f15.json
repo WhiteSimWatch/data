@@ -1,7 +1,7 @@
 {
   "snapshotId": "7a5d67eb-eddc-447b-9635-222fadab2f15",
   "twitterId": "1371540929493020680",
-  "scannedAt": "2026-06-07T04:29:17.321Z",
+  "scannedAt": "2026-07-23T03:03:46.874Z",
   "fields": {
     "username": "Janfaday_IRANam",
     "displayName": "قیصر ارجمند",
@@ -15,156 +15,156 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2036693585525952512/K2TmpqjR_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Mar 15 19:17:14 +0000 2021",
+              "name": "قیصر ارجمند",
+              "screen_name": "Janfaday_IRANam"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzcxNTQwOTI5NDkzMDIwNjgw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "علاقه‌مند به مسائل سیاسی/اهل مطالعه/مدرس دانشگاه",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 31651,
+              "follow_request_sent": false,
+              "followers_count": 1085,
+              "friends_count": 784,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 269,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1085,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1815098284123312553"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1371540929493020680/1775832818",
+              "profile_interstitial_type": "",
+              "statuses_count": 3229,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "چو ایران نباشد تن من مباد "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 15,
+                  "name": "Entertainment & Recreation"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1751936475849973920"
+            },
+            "profile_bio": {
+              "description": "علاقه‌مند به مسائل سیاسی/اهل مطالعه/مدرس دانشگاه"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1371540929493020680",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTM3MTU0MDkyOTQ5MzAyMDY4MA==",
           "result": {
-            "id": "VXNlcjoxMzcxNTQwOTI5NDkzMDIwNjgw",
-            "core": {
-              "name": "قیصر ارجمند",
-              "created_at": "Mon Mar 15 19:17:14 +0000 2021",
-              "screen_name": "Janfaday_IRANam"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2036693585525952512/K2TmpqjR_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1371540929493020680",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
               "username_changes": {
                 "count": "6",
                 "last_changed_at_msec": "1777541581709"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM3MTU0MDkyOTQ5MzAyMDY4MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMzcxNTQwOTI5NDkzMDIwNjgw",
-            "core": {
-              "name": "قیصر ارجمند",
-              "created_at": "Mon Mar 15 19:17:14 +0000 2021",
-              "screen_name": "Janfaday_IRANam"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2036693585525952512/K2TmpqjR_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "علاقه‌مند به مسائل سیاسی/اهل مطالعه/مدرس دانشگاه",
-              "media_count": 255,
-              "listed_count": 0,
-              "friends_count": 787,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 3163,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1096,
-              "translator_type": "none",
-              "favourites_count": 30280,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1371540929493020680/1775832818",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1815098284123312553"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1096,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Mar 15 19:17:14 +0000 2021",
+              "name": "قیصر ارجمند",
+              "screen_name": "Janfaday_IRANam"
             },
+            "id": "VXNlcjoxMzcxNTQwOTI5NDkzMDIwNjgw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1371540929493020680",
-            "location": {
-              "location": "چو ایران نباشد تن من مباد "
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "علاقه‌مند به مسائل سیاسی/اهل مطالعه/مدرس دانشگاه"
-            },
-            "professional": {
-              "rest_id": "1751936475849973920",
-              "category": [
-                {
-                  "id": 15,
-                  "name": "Entertainment & Recreation",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Business"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM3MTU0MDkyOTQ5MzAyMDY4MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
