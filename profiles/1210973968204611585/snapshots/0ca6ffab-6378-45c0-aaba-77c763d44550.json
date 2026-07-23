@@ -1,7 +1,7 @@
 {
   "snapshotId": "0ca6ffab-6378-45c0-aaba-77c763d44550",
   "twitterId": "1210973968204611585",
-  "scannedAt": "2026-06-07T08:07:42.661Z",
+  "scannedAt": "2026-07-23T07:44:08.570Z",
   "fields": {
     "username": "M_Abedii",
     "displayName": "‏ ‏ ⚖️ 𝕄.𝔸𝕓𝕖𝕕𝕚 🎒",
@@ -15,136 +15,72 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTIxMDk3Mzk2ODIwNDYxMTU4NQ==",
-          "result": {
-            "id": "VXNlcjoxMjEwOTczOTY4MjA0NjExNTg1",
-            "core": {
-              "name": "‏ ‏ ⚖️ 𝕄.𝔸𝕓𝕖𝕕𝕚 🎒",
-              "created_at": "Sat Dec 28 17:21:33 +0000 2019",
-              "screen_name": "M_Abedii"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2045633888584626176/jw6F4TZD_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1210973968204611585",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "7",
-                "last_changed_at_msec": "1774917461299"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIxMDk3Mzk2ODIwNDYxMTU4NQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxMjEwOTczOTY4MjA0NjExNTg1",
-            "core": {
-              "name": "‏ ‏ ⚖️ 𝕄.𝔸𝕓𝕖𝕕𝕚 🎒",
-              "created_at": "Sat Dec 28 17:21:33 +0000 2019",
-              "screen_name": "M_Abedii"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2045633888584626176/jw6F4TZD_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "﷽\n\n⚫️ السـلام علیــک یا فاطـمه الزهرا (س) \nLaw expert 📚 ⚖️\nHAPKIDO🥊 MMA🥋🤿Diver",
-              "media_count": 1935,
-              "listed_count": 1,
-              "friends_count": 4714,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 23747,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 6440,
-              "translator_type": "none",
-              "favourites_count": 28554,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1210973968204611585/1681494850",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1646944191224619029"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 6440,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Dec 28 17:21:33 +0000 2019",
+              "name": "‏ ‏ ⚖️ 𝕄.𝔸𝕓𝕖𝕕𝕚 🎒",
+              "screen_name": "M_Abedii"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1210973968204611585",
-            "location": {
-              "location": "دادا اصفهانی"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "﷽\n\n⚫️ السـلام علیــک یا فاطـمه الزهرا (س) \nLaw expert 📚 ⚖️\nHAPKIDO🥊 MMA🥋🤿Diver"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": true
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjEwOTczOTY4MjA0NjExNTg1",
+            "is_blue_verified": false,
             "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "﷽\n\n⚫️ السـلام علیــک یا فاطـمه الزهرا (س) \nLaw expert 📚 ⚖️\nHAPKIDO🥊 MMA🥋🤿Diver",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 28549,
+              "follow_request_sent": false,
+              "followers_count": 6421,
+              "friends_count": 4700,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 1956,
+              "needs_phone_verification": false,
+              "normal_followers_count": 6421,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1646944191224619029"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1210973968204611585/1681494850",
+              "profile_interstitial_type": "",
+              "statuses_count": 23845,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 26,
@@ -153,13 +89,77 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "دادا اصفهانی"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
             "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "﷽\n\n⚫️ السـلام علیــک یا فاطـمه الزهرا (س) \nLaw expert 📚 ⚖️\nHAPKIDO🥊 MMA🥋🤿Diver"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1210973968204611585",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIxMDk3Mzk2ODIwNDYxMTU4NQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "7",
+                "last_changed_at_msec": "1774917461299"
+              }
+            },
             "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2045633888584626176/jw6F4TZD_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Dec 28 17:21:33 +0000 2019",
+              "name": "‏ ‏ ⚖️ 𝕄.𝔸𝕓𝕖𝕕𝕚 🎒",
+              "screen_name": "M_Abedii"
+            },
+            "id": "VXNlcjoxMjEwOTczOTY4MjA0NjExNTg1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1210973968204611585",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIxMDk3Mzk2ODIwNDYxMTU4NQ==",
+              "is_identity_verified": false
             }
           }
         }
