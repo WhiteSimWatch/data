@@ -1,7 +1,7 @@
 {
   "snapshotId": "e23d1fca-69d1-4e9a-8ab6-f3a092f22e9f",
   "twitterId": "1382595663842717697",
-  "scannedAt": "2026-06-07T07:03:43.982Z",
+  "scannedAt": "2026-07-23T06:17:41.880Z",
   "fields": {
     "username": "hado_ir",
     "displayName": "هـادو ☫",
@@ -15,136 +15,72 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTM4MjU5NTY2Mzg0MjcxNzY5Nw==",
-          "result": {
-            "id": "VXNlcjoxMzgyNTk1NjYzODQyNzE3Njk3",
-            "core": {
-              "name": "هـادو ☫",
-              "created_at": "Thu Apr 15 07:26:32 +0000 2021",
-              "screen_name": "hado_ir"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2053554748817571840/G74Sp07S_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1382595663842717697",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "6",
-                "last_changed_at_msec": "1636232343057"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM4MjU5NTY2Mzg0MjcxNzY5Nw==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxMzgyNTk1NjYzODQyNzE3Njk3",
-            "core": {
-              "name": "هـادو ☫",
-              "created_at": "Thu Apr 15 07:26:32 +0000 2021",
-              "screen_name": "hado_ir"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2053554748817571840/G74Sp07S_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "عاشقانه است ، السَّلامُ عَلَيْكَ يَا بَقِيَّةَ اللَّهِ فِي أَرْضِهِ",
-              "media_count": 805,
-              "listed_count": 6,
-              "friends_count": 2501,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 20175,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2647,
-              "translator_type": "none",
-              "favourites_count": 51789,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1382595663842717697/1779480041",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1426603724282245128"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2647,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Apr 15 07:26:32 +0000 2021",
+              "name": "هـادو ☫",
+              "screen_name": "hado_ir"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1382595663842717697",
-            "location": {
-              "location": "ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "عاشقانه است ، السَّلامُ عَلَيْكَ يَا بَقِيَّةَ اللَّهِ فِي أَرْضِهِ"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": true
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzgyNTk1NjYzODQyNzE3Njk3",
+            "is_blue_verified": false,
             "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "عاشقانه است ، السَّلامُ عَلَيْكَ يَا بَقِيَّةَ اللَّهِ فِي أَرْضِهِ",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 52455,
+              "follow_request_sent": false,
+              "followers_count": 2646,
+              "friends_count": 2494,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 6,
+              "media_count": 808,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2646,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1426603724282245128"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1382595663842717697/1779480041",
+              "profile_interstitial_type": "",
+              "statuses_count": 20314,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 24,
@@ -153,14 +89,78 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "عاشقانه است ، السَّلامُ عَلَيْكَ يَا بَقِيَّةَ اللَّهِ فِي أَرْضِهِ"
+            },
             "profile_description_language": "ar",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1382595663842717697",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM4MjU5NTY2Mzg0MjcxNzY5Nw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "6",
+                "last_changed_at_msec": "1636232343057"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2053554748817571840/G74Sp07S_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Apr 15 07:26:32 +0000 2021",
+              "name": "هـادو ☫",
+              "screen_name": "hado_ir"
+            },
+            "id": "VXNlcjoxMzgyNTk1NjYzODQyNzE3Njk3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1382595663842717697",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM4MjU5NTY2Mzg0MjcxNzY5Nw==",
+              "is_identity_verified": false
             }
           }
         }
