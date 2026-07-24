@@ -1,7 +1,7 @@
 {
   "snapshotId": "b47b509b-9c5d-41b1-913c-6e513a3d26ac",
   "twitterId": "1718227389207953408",
-  "scannedAt": "2026-06-08T03:33:30.327Z",
+  "scannedAt": "2026-07-24T03:12:30.124Z",
   "fields": {
     "username": "_fatima_bnali",
     "displayName": "فاطمه ابن علی",
@@ -15,158 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1896471751141302272/rHlLuqjO_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Oct 28 11:26:19 +0000 2023",
+              "name": "فاطمه ابن علی",
+              "screen_name": "_fatima_bnali"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzE4MjI3Mzg5MjA3OTUzNDA4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "اکانت سوم یک مادر آرمان‌گرا با دغدغه فرهنگ و تربیت | #فلسطین 🇵🇸",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "ble.ir/awaken_ir/8124…",
+                      "expanded_url": "https://ble.ir/awaken_ir/8124689757889658596/1764148449764",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/xWb1OU8YXq"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 12505,
+              "follow_request_sent": false,
+              "followers_count": 781,
+              "friends_count": 394,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 3,
+              "media_count": 127,
+              "needs_phone_verification": false,
+              "normal_followers_count": 781,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2021296616649429083"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718227389207953408/1764620883",
+              "profile_interstitial_type": "",
+              "statuses_count": 4408,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/xWb1OU8YXq",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "اکانت سوم یک مادر آرمان‌گرا با دغدغه فرهنگ و تربیت | #فلسطین 🇵🇸"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1718227389207953408",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTcxODIyNzM4OTIwNzk1MzQwOA==",
           "result": {
-            "id": "VXNlcjoxNzE4MjI3Mzg5MjA3OTUzNDA4",
-            "core": {
-              "name": "فاطمه ابن علی",
-              "created_at": "Sat Oct 28 11:26:19 +0000 2023",
-              "screen_name": "_fatima_bnali"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1896471751141302272/rHlLuqjO_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1718227389207953408",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1744704134210"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcxODIyNzM4OTIwNzk1MzQwOA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNzE4MjI3Mzg5MjA3OTUzNDA4",
-            "core": {
-              "name": "فاطمه ابن علی",
-              "created_at": "Sat Oct 28 11:26:19 +0000 2023",
-              "screen_name": "_fatima_bnali"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1896471751141302272/rHlLuqjO_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/xWb1OU8YXq",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/xWb1OU8YXq",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "ble.ir/awaken_ir/8124…",
-                      "expanded_url": "https://ble.ir/awaken_ir/8124689757889658596/1764148449764"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "اکانت سوم یک مادر آرمان‌گرا با دغدغه فرهنگ و تربیت | #فلسطین 🇵🇸",
-              "media_count": 114,
-              "listed_count": 3,
-              "friends_count": 396,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 4132,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 782,
-              "translator_type": "none",
-              "favourites_count": 11469,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718227389207953408/1764620883",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2021296616649429083"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 782,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Oct 28 11:26:19 +0000 2023",
+              "name": "فاطمه ابن علی",
+              "screen_name": "_fatima_bnali"
             },
+            "id": "VXNlcjoxNzE4MjI3Mzg5MjA3OTUzNDA4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1718227389207953408",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "اکانت سوم یک مادر آرمان‌گرا با دغدغه فرهنگ و تربیت | #فلسطین 🇵🇸"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcxODIyNzM4OTIwNzk1MzQwOA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
