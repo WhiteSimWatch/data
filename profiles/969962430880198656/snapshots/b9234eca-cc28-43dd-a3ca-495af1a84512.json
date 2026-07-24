@@ -1,7 +1,7 @@
 {
   "snapshotId": "b9234eca-cc28-43dd-a3ca-495af1a84512",
   "twitterId": "969962430880198656",
-  "scannedAt": "2026-06-08T04:49:09.320Z",
+  "scannedAt": "2026-07-24T04:46:14.287Z",
   "fields": {
     "username": "M_Tolouvand",
     "displayName": "Mahdi Tolouvand | مهدی طلوع‌وند",
@@ -15,152 +15,152 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1490289581035597827/VSbNjwwo_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Mar 03 15:47:19 +0000 2018",
+              "name": "Mahdi Tolouvand | مهدی طلوع‌وند",
+              "screen_name": "M_Tolouvand"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5Njk5NjI0MzA4ODAxOTg2NTY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "خبرنگار دفاعی و امنیتی\nفرزند #تبریز؛ شهری با سه امام جمعه #شهید\n Journalist- Security & Defense Desk",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 29483,
+              "follow_request_sent": false,
+              "followers_count": 1164,
+              "friends_count": 832,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 7,
+              "media_count": 779,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1164,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/969962430880198656/1734279316",
+              "profile_interstitial_type": "",
+              "statuses_count": 4391,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1631947696691978240"
+            },
+            "profile_bio": {
+              "description": "خبرنگار دفاعی و امنیتی\nفرزند #تبریز؛ شهری با سه امام جمعه #شهید\n Journalist- Security & Defense Desk"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "969962430880198656",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTY5OTYyNDMwODgwMTk4NjU2",
           "result": {
-            "id": "VXNlcjo5Njk5NjI0MzA4ODAxOTg2NTY=",
-            "core": {
-              "name": "Mahdi Tolouvand | مهدی طلوع‌وند",
-              "created_at": "Sat Mar 03 15:47:19 +0000 2018",
-              "screen_name": "M_Tolouvand"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1490289581035597827/VSbNjwwo_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "969962430880198656",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1520092090185"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTY5OTYyNDMwODgwMTk4NjU2",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5Njk5NjI0MzA4ODAxOTg2NTY=",
-            "core": {
-              "name": "Mahdi Tolouvand | مهدی طلوع‌وند",
-              "created_at": "Sat Mar 03 15:47:19 +0000 2018",
-              "screen_name": "M_Tolouvand"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1490289581035597827/VSbNjwwo_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "خبرنگار دفاعی و امنیتی\nفرزند #تبریز؛ شهری با سه امام جمعه #شهید\n Journalist- Security & Defense Desk",
-              "media_count": 777,
-              "listed_count": 7,
-              "friends_count": 823,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 4384,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 1158,
-              "translator_type": "none",
-              "favourites_count": 29460,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/969962430880198656/1734279316",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1158,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Mar 03 15:47:19 +0000 2018",
+              "name": "Mahdi Tolouvand | مهدی طلوع‌وند",
+              "screen_name": "M_Tolouvand"
             },
+            "id": "VXNlcjo5Njk5NjI0MzA4ODAxOTg2NTY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "969962430880198656",
-            "location": {
-              "location": "تهران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "خبرنگار دفاعی و امنیتی\nفرزند #تبریز؛ شهری با سه امام جمعه #شهید\n Journalist- Security & Defense Desk"
-            },
-            "professional": {
-              "rest_id": "1631947696691978240",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTY5OTYyNDMwODgwMTk4NjU2",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
