@@ -1,7 +1,7 @@
 {
   "snapshotId": "0207a0de-0a61-4f2e-bcd8-02b4ee5e4e82",
   "twitterId": "1939690028667707392",
-  "scannedAt": "2026-06-08T04:13:41.454Z",
+  "scannedAt": "2026-07-24T04:05:42.190Z",
   "fields": {
     "username": "IranPress_eng",
     "displayName": "IranPress",
@@ -15,163 +15,160 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2010677858067218432/5anD7L7p_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jun 30 14:19:07 +0000 2025",
+              "name": "IranPress",
+              "screen_name": "IranPress_eng"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "1"
+            },
+            "id": "VXNlcjoxOTM5NjkwMDI4NjY3NzA3Mzky",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 203,
+              "follow_request_sent": false,
+              "followers_count": 819,
+              "friends_count": 2,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 14,
+              "media_count": 2548,
+              "needs_phone_verification": false,
+              "normal_followers_count": 819,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939690028667707392/1768214769",
+              "profile_interstitial_type": "",
+              "statuses_count": 3045,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1939690028667707392",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1779782045164"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTkzOTY5MDAyODY2NzcwNzM5Mg==",
           "result": {
-            "id": "VXNlcjoxOTM5NjkwMDI4NjY3NzA3Mzky",
-            "core": {
-              "name": "IranPress",
-              "created_at": "Mon Jun 30 14:19:07 +0000 2025",
-              "screen_name": "IranPress_eng"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2010677858067218432/5anD7L7p_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1939690028667707392",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1752390065497"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkzOTY5MDAyODY2NzcwNzM5Mg==",
-              "reason": {
-                "verified_since_msec": "1779782045164"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTM5NjkwMDI4NjY3NzA3Mzky",
-            "core": {
-              "name": "IranPress",
-              "created_at": "Mon Jun 30 14:19:07 +0000 2025",
-              "screen_name": "IranPress_eng"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2010677858067218432/5anD7L7p_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 1852,
-              "listed_count": 11,
-              "friends_count": 2,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2235,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 681,
-              "translator_type": "none",
-              "favourites_count": 51,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939690028667707392/1768214769",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2051295540411867392"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 681,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Jun 30 14:19:07 +0000 2025",
+              "name": "IranPress",
+              "screen_name": "IranPress_eng"
             },
+            "id": "VXNlcjoxOTM5NjkwMDI4NjY3NzA3Mzky",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1939690028667707392",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkzOTY5MDAyODY2NzcwNzM5Mg==",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1779782045164"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
