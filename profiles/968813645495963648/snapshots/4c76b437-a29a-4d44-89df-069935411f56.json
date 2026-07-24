@@ -1,7 +1,7 @@
 {
   "snapshotId": "4c76b437-a29a-4d44-89df-069935411f56",
   "twitterId": "968813645495963648",
-  "scannedAt": "2026-06-08T04:02:45.744Z",
+  "scannedAt": "2026-07-24T03:52:18.310Z",
   "fields": {
     "username": "MsalehSoltani",
     "displayName": "محمدصالح سلطانی",
@@ -15,158 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1920571042478559232/NTqZb6eN_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Feb 28 11:42:27 +0000 2018",
+              "name": "محمدصالح سلطانی",
+              "screen_name": "MsalehSoltani"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5Njg4MTM2NDU0OTU5NjM2NDg=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "| امیدوار، و منتظر |\n💍",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "sooremehr.ir/book/60043",
+                      "expanded_url": "https://sooremehr.ir/book/60043",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Cqhz4o5u3V"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 75590,
+              "follow_request_sent": false,
+              "followers_count": 1843,
+              "friends_count": 1145,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 12,
+              "media_count": 742,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1843,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1818146518366331077"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/968813645495963648/1519819152",
+              "profile_interstitial_type": "",
+              "statuses_count": 7159,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/Cqhz4o5u3V",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوریِ اسلامیِ ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "| امیدوار، و منتظر |\n💍"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "968813645495963648",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTY4ODEzNjQ1NDk1OTYzNjQ4",
           "result": {
-            "id": "VXNlcjo5Njg4MTM2NDU0OTU5NjM2NDg=",
-            "core": {
-              "name": "محمدصالح سلطانی",
-              "created_at": "Wed Feb 28 11:42:27 +0000 2018",
-              "screen_name": "MsalehSoltani"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1920571042478559232/NTqZb6eN_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "968813645495963648",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1519818685835"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTY4ODEzNjQ1NDk1OTYzNjQ4",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5Njg4MTM2NDU0OTU5NjM2NDg=",
-            "core": {
-              "name": "محمدصالح سلطانی",
-              "created_at": "Wed Feb 28 11:42:27 +0000 2018",
-              "screen_name": "MsalehSoltani"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1920571042478559232/NTqZb6eN_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/Cqhz4o5u3V",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/Cqhz4o5u3V",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "sooremehr.ir/book/60043",
-                      "expanded_url": "https://sooremehr.ir/book/60043"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "| امیدوار، و منتظر |\n💍",
-              "media_count": 739,
-              "listed_count": 12,
-              "friends_count": 1146,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 7138,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 1839,
-              "translator_type": "none",
-              "favourites_count": 75550,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/968813645495963648/1519819152",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1818146518366331077"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1839,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Feb 28 11:42:27 +0000 2018",
+              "name": "محمدصالح سلطانی",
+              "screen_name": "MsalehSoltani"
             },
+            "id": "VXNlcjo5Njg4MTM2NDU0OTU5NjM2NDg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "968813645495963648",
-            "location": {
-              "location": "جمهوریِ اسلامیِ ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "| امیدوار، و منتظر |\n💍"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTY4ODEzNjQ1NDk1OTYzNjQ4",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
