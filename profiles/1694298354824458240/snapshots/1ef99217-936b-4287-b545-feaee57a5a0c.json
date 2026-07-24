@@ -1,7 +1,7 @@
 {
   "snapshotId": "1ef99217-936b-4287-b545-feaee57a5a0c",
   "twitterId": "1694298354824458240",
-  "scannedAt": "2026-06-08T07:26:20.800Z",
+  "scannedAt": "2026-07-24T07:51:10.525Z",
   "fields": {
     "username": "puorganjiali",
     "displayName": "علی پورگنجی احمد آبادی",
@@ -15,178 +15,157 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1947365225541300224/4KGvAAbK_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Aug 23 10:40:01 +0000 2023",
+              "name": "علی پورگنجی احمد آبادی",
+              "screen_name": "puorganjiali"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjk0Mjk4MzU0ODI0NDU4MjQw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "تا پای جان پای ایران:(\n📌لینک توییتهام\nhttps://t.co/DwzfvUWdRU",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "X.com/search?q=from:…",
+                      "expanded_url": "http://X.com/search?q=from:@puorganjiali/exclude:replies",
+                      "indices": [
+                        38,
+                        61
+                      ],
+                      "url": "https://t.co/DwzfvUWdRU"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 31943,
+              "follow_request_sent": false,
+              "followers_count": 3172,
+              "friends_count": 3740,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 1279,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3172,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2054465865525989556"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694298354824458240/1713762138",
+              "profile_interstitial_type": "",
+              "statuses_count": 16463,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران/کرمان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "تا پای جان پای ایران:(\n📌لینک توییتهام\nhttps://t.co/DwzfvUWdRU"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1694298354824458240",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTY5NDI5ODM1NDgyNDQ1ODI0MA==",
           "result": {
-            "id": "VXNlcjoxNjk0Mjk4MzU0ODI0NDU4MjQw",
-            "core": {
-              "name": "علی پورگنجی احمد آبادی",
-              "created_at": "Wed Aug 23 10:40:01 +0000 2023",
-              "screen_name": "puorganjiali"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1947365225541300224/4KGvAAbK_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1694298354824458240",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1693769567923"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY5NDI5ODM1NDgyNDQ1ODI0MA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjk0Mjk4MzU0ODI0NDU4MjQw",
-            "core": {
-              "name": "علی پورگنجی احمد آبادی",
-              "created_at": "Wed Aug 23 10:40:01 +0000 2023",
-              "screen_name": "puorganjiali"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1947365225541300224/4KGvAAbK_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/DwzfvUWdRU",
-                      "indices": [
-                        38,
-                        61
-                      ],
-                      "display_url": "X.com/search?q=from:…",
-                      "expanded_url": "http://X.com/search?q=from:@puorganjiali/exclude:replies"
-                    }
-                  ]
-                }
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "تا پای جان پای ایران:(\n📌لینک توییتهام\nhttps://t.co/DwzfvUWdRU",
-              "media_count": 1272,
-              "listed_count": 2,
-              "friends_count": 3728,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 16175,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3177,
-              "translator_type": "none",
-              "favourites_count": 31425,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694298354824458240/1713762138",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2054465865525989556"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3177,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Aug 23 10:40:01 +0000 2023",
+              "name": "علی پورگنجی احمد آبادی",
+              "screen_name": "puorganjiali"
             },
+            "id": "VXNlcjoxNjk0Mjk4MzU0ODI0NDU4MjQw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1694298354824458240",
-            "location": {
-              "location": "جمهوری اسلامی ایران/کرمان"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "تا پای جان پای ایران:(\n📌لینک توییتهام\nhttps://t.co/DwzfvUWdRU"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY5NDI5ODM1NDgyNDQ1ODI0MA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/DwzfvUWdRU",
-                      "indices": [
-                        56,
-                        79
-                      ],
-                      "display_url": "X.com/search?q=from:…",
-                      "expanded_url": "http://X.com/search?q=from:@puorganjiali/exclude:replies"
-                    }
-                  ],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Until the end of my life, for Iran:(  \n📌My tweet link  \nhttps://t.co/DwzfvUWdRU",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
