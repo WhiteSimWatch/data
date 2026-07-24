@@ -1,7 +1,7 @@
 {
   "snapshotId": "fba0a2b6-d596-4283-9249-99949487b51f",
   "twitterId": "1675011902282379266",
-  "scannedAt": "2026-06-08T07:21:25.686Z",
+  "scannedAt": "2026-07-24T07:45:20.910Z",
   "fields": {
     "username": "MS939135",
     "displayName": "M Salehi",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1675011984893308928/9rZc0UV7_normal.png"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jul 01 05:22:31 +0000 2023",
+              "name": "M Salehi",
+              "screen_name": "MS939135"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjc1MDExOTAyMjgyMzc5MjY2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 13871,
+              "follow_request_sent": false,
+              "followers_count": 4,
+              "friends_count": 2,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 0,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "",
+              "profile_interstitial_type": "",
+              "statuses_count": 111,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1675011902282379266",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTY3NTAxMTkwMjI4MjM3OTI2Ng==",
           "result": {
-            "id": "VXNlcjoxNjc1MDExOTAyMjgyMzc5MjY2",
-            "core": {
-              "name": "M Salehi",
-              "created_at": "Sat Jul 01 05:22:31 +0000 2023",
-              "screen_name": "MS939135"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1675011984893308928/9rZc0UV7_normal.png"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1675011902282379266",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Web",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1688188973619"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY3NTAxMTkwMjI4MjM3OTI2Ng==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjc1MDExOTAyMjgyMzc5MjY2",
-            "core": {
-              "name": "M Salehi",
-              "created_at": "Sat Jul 01 05:22:31 +0000 2023",
-              "screen_name": "MS939135"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1675011984893308928/9rZc0UV7_normal.png"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 0,
-              "listed_count": 0,
-              "friends_count": 2,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 107,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 4,
-              "translator_type": "none",
-              "favourites_count": 12483,
-              "possibly_sensitive": false,
-              "profile_banner_url": "",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 4,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Jul 01 05:22:31 +0000 2023",
+              "name": "M Salehi",
+              "screen_name": "MS939135"
             },
+            "id": "VXNlcjoxNjc1MDExOTAyMjgyMzc5MjY2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1675011902282379266",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY3NTAxMTkwMjI4MjM3OTI2Ng==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
