@@ -1,7 +1,7 @@
 {
   "snapshotId": "76b51ab3-560f-4996-bf58-e625ea823f2e",
   "twitterId": "718763883914113024",
-  "scannedAt": "2026-06-08T03:41:13.698Z",
+  "scannedAt": "2026-07-24T03:22:16.382Z",
   "fields": {
     "username": "MSanaeifar",
     "displayName": "Mohadese Sanaeifar|محدثه سنایی‌فر",
@@ -15,136 +15,72 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6NzE4NzYzODgzOTE0MTEzMDI0",
-          "result": {
-            "id": "VXNlcjo3MTg3NjM4ODM5MTQxMTMwMjQ=",
-            "core": {
-              "name": "Mohadese Sanaeifar|محدثه سنایی‌فر",
-              "created_at": "Sat Apr 09 11:33:58 +0000 2016",
-              "screen_name": "MSanaeifar"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1912210143904702464/t-GyAMBB_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "718763883914113024",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "1",
-                "last_changed_at_msec": "1460201685746"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzE4NzYzODgzOTE0MTEzMDI0",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjo3MTg3NjM4ODM5MTQxMTMwMjQ=",
-            "core": {
-              "name": "Mohadese Sanaeifar|محدثه سنایی‌فر",
-              "created_at": "Sat Apr 09 11:33:58 +0000 2016",
-              "screen_name": "MSanaeifar"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1912210143904702464/t-GyAMBB_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "معروف به سَنا| روزنامه‌نگارِ سابق| کارشناس تولید محتوا| عاشقِ ایران| آنچه اینجا می‌نویسم شخصی ا‌ست و‌ دیدگاه هیچ رسانه یا نهادی را نمایندگی نمی‌کند",
-              "media_count": 353,
-              "listed_count": 16,
-              "friends_count": 411,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 5169,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 3040,
-              "translator_type": "none",
-              "favourites_count": 71105,
-              "possibly_sensitive": true,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/718763883914113024/1774529393",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "2016782135076803048"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3040,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Apr 09 11:33:58 +0000 2016",
+              "name": "Mohadese Sanaeifar|محدثه سنایی‌فر",
+              "screen_name": "MSanaeifar"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "718763883914113024",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "معروف به سَنا| روزنامه‌نگارِ سابق| کارشناس تولید محتوا| عاشقِ ایران| آنچه اینجا می‌نویسم شخصی ا‌ست و‌ دیدگاه هیچ رسانه یا نهادی را نمایندگی نمی‌کند"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": true
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3MTg3NjM4ODM5MTQxMTMwMjQ=",
+            "is_blue_verified": false,
             "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "معروف به سَنا| روزنامه‌نگارِ سابق| کارشناس تولید محتوا| عاشقِ ایران| آنچه اینجا می‌نویسم شخصی ا‌ست و‌ دیدگاه هیچ رسانه یا نهادی را نمایندگی نمی‌کند",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 71219,
+              "follow_request_sent": false,
+              "followers_count": 3030,
+              "friends_count": 412,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 16,
+              "media_count": 354,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3030,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2016782135076803048"
+              ],
+              "possibly_sensitive": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/718763883914113024/1774529393",
+              "profile_interstitial_type": "",
+              "statuses_count": 5178,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 28,
@@ -153,14 +89,78 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "معروف به سَنا| روزنامه‌نگارِ سابق| کارشناس تولید محتوا| عاشقِ ایران| آنچه اینجا می‌نویسم شخصی ا‌ست و‌ دیدگاه هیچ رسانه یا نهادی را نمایندگی نمی‌کند"
+            },
             "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "718763883914113024",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzE4NzYzODgzOTE0MTEzMDI0",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1460201685746"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1912210143904702464/t-GyAMBB_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Apr 09 11:33:58 +0000 2016",
+              "name": "Mohadese Sanaeifar|محدثه سنایی‌فر",
+              "screen_name": "MSanaeifar"
+            },
+            "id": "VXNlcjo3MTg3NjM4ODM5MTQxMTMwMjQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "718763883914113024",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzE4NzYzODgzOTE0MTEzMDI0",
+              "is_identity_verified": false
             }
           }
         }
