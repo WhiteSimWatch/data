@@ -1,7 +1,7 @@
 {
   "snapshotId": "b816354d-1341-46e1-ab4c-91db66d95c61",
   "twitterId": "1853525704144826368",
-  "scannedAt": "2026-06-08T06:57:14.873Z",
+  "scannedAt": "2026-07-24T07:22:45.556Z",
   "fields": {
     "username": "R_siiiin",
     "displayName": "🇮🇷ر_سین🇵🇸",
@@ -15,145 +15,145 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1855163313962823680/HztqZ2oy_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Nov 04 19:52:31 +0000 2024",
+              "name": "🇮🇷ر_سین🇵🇸",
+              "screen_name": "R_siiiin"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODUzNTI1NzA0MTQ0ODI2MzY4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "اکانت قبلی شهید وعده صادق شد.\nفعال فرهنگی_بین الملل /ارشد مکانیک",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 7366,
+              "follow_request_sent": false,
+              "followers_count": 2880,
+              "friends_count": 3256,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 512,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2880,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1912913785972498548"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853525704144826368/1733038087",
+              "profile_interstitial_type": "",
+              "statuses_count": 6166,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "اکانت قبلی شهید وعده صادق شد.\nفعال فرهنگی_بین الملل /ارشد مکانیک"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1853525704144826368",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg1MzUyNTcwNDE0NDgyNjM2OA==",
           "result": {
-            "id": "VXNlcjoxODUzNTI1NzA0MTQ0ODI2MzY4",
-            "core": {
-              "name": "🇮🇷ر_سین🇵🇸",
-              "created_at": "Mon Nov 04 19:52:31 +0000 2024",
-              "screen_name": "R_siiiin"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1855163313962823680/HztqZ2oy_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1853525704144826368",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1730750024531"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1MzUyNTcwNDE0NDgyNjM2OA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODUzNTI1NzA0MTQ0ODI2MzY4",
-            "core": {
-              "name": "🇮🇷ر_سین🇵🇸",
-              "created_at": "Mon Nov 04 19:52:31 +0000 2024",
-              "screen_name": "R_siiiin"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1855163313962823680/HztqZ2oy_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "اکانت قبلی شهید وعده صادق شد.\nفعال فرهنگی_بین الملل /ارشد مکانیک",
-              "media_count": 493,
-              "listed_count": 2,
-              "friends_count": 3419,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 6111,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2879,
-              "translator_type": "none",
-              "favourites_count": 7298,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853525704144826368/1733038087",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1912913785972498548"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2879,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Mon Nov 04 19:52:31 +0000 2024",
+              "name": "🇮🇷ر_سین🇵🇸",
+              "screen_name": "R_siiiin"
             },
+            "id": "VXNlcjoxODUzNTI1NzA0MTQ0ODI2MzY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1853525704144826368",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "اکانت قبلی شهید وعده صادق شد.\nفعال فرهنگی_بین الملل /ارشد مکانیک"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1MzUyNTcwNDE0NDgyNjM2OA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
