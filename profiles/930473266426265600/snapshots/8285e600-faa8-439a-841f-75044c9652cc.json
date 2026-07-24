@@ -1,7 +1,7 @@
 {
   "snapshotId": "8285e600-faa8-439a-841f-75044c9652cc",
   "twitterId": "930473266426265600",
-  "scannedAt": "2026-06-08T05:42:05.290Z",
+  "scannedAt": "2026-07-24T05:42:51.063Z",
   "fields": {
     "username": "salarii70",
     "displayName": "محمّدامین سالاری",
@@ -15,150 +15,150 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2043410138057637888/G3HAisIa_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Nov 14 16:31:28 +0000 2017",
+              "name": "محمّدامین سالاری",
+              "screen_name": "salarii70"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5MzA0NzMyNjY0MjYyNjU2MDA=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "انقلابی|جهادگر|خبرنگار پارلمانی",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 53178,
+              "follow_request_sent": false,
+              "followers_count": 3453,
+              "friends_count": 2889,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 1699,
+              "needs_phone_verification": false,
+              "normal_followers_count": 3453,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1612595523042816005"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/930473266426265600/1770893878",
+              "profile_interstitial_type": "",
+              "statuses_count": 24847,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1910146455534268897"
+            },
+            "profile_bio": {
+              "description": "انقلابی|جهادگر|خبرنگار پارلمانی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "930473266426265600",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTMwNDczMjY2NDI2MjY1NjAw",
           "result": {
-            "id": "VXNlcjo5MzA0NzMyNjY0MjYyNjU2MDA=",
-            "core": {
-              "name": "محمّدامین سالاری",
-              "created_at": "Tue Nov 14 16:31:28 +0000 2017",
-              "screen_name": "salarii70"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2043410138057637888/G3HAisIa_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "930473266426265600",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1565596322099"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTMwNDczMjY2NDI2MjY1NjAw",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5MzA0NzMyNjY0MjYyNjU2MDA=",
-            "core": {
-              "name": "محمّدامین سالاری",
-              "created_at": "Tue Nov 14 16:31:28 +0000 2017",
-              "screen_name": "salarii70"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2043410138057637888/G3HAisIa_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "انقلابی|جهادگر|خبرنگار پارلمانی",
-              "media_count": 1665,
-              "listed_count": 2,
-              "friends_count": 2880,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 24611,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 3438,
-              "translator_type": "none",
-              "favourites_count": 52252,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/930473266426265600/1770893878",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1612595523042816005"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 3438,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Tue Nov 14 16:31:28 +0000 2017",
+              "name": "محمّدامین سالاری",
+              "screen_name": "salarii70"
             },
+            "id": "VXNlcjo5MzA0NzMyNjY0MjYyNjU2MDA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "930473266426265600",
-            "location": {
-              "location": "ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "انقلابی|جهادگر|خبرنگار پارلمانی"
-            },
-            "professional": {
-              "rest_id": "1910146455534268897",
-              "category": [],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTMwNDczMjY2NDI2MjY1NjAw",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
