@@ -1,7 +1,7 @@
 {
   "snapshotId": "4d73a8c2-96e8-4e74-8a2f-f77b20c314b0",
   "twitterId": "939988647226609664",
-  "scannedAt": "2026-06-08T05:00:32.314Z",
+  "scannedAt": "2026-07-24T04:59:33.177Z",
   "fields": {
     "username": "Ali_Mozaffari_",
     "displayName": "علی مظفری",
@@ -15,142 +15,142 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1161587408430915585/8OsaF5t8_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Dec 10 22:42:12 +0000 2017",
+              "name": "علی مظفری",
+              "screen_name": "Ali_Mozaffari_"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5Mzk5ODg2NDcyMjY2MDk2NjQ=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Responsible for the Student Coordination Center of Islamic Azad University.\nPhD Student in International Relations",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1510,
+              "follow_request_sent": false,
+              "followers_count": 299,
+              "friends_count": 478,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 19,
+              "needs_phone_verification": false,
+              "normal_followers_count": 299,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/939988647226609664/1512950859",
+              "profile_interstitial_type": "",
+              "statuses_count": 111,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Responsible for the Student Coordination Center of Islamic Azad University.\nPhD Student in International Relations"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "939988647226609664",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6OTM5OTg4NjQ3MjI2NjA5NjY0",
           "result": {
-            "id": "VXNlcjo5Mzk5ODg2NDcyMjY2MDk2NjQ=",
-            "core": {
-              "name": "علی مظفری",
-              "created_at": "Sun Dec 10 22:42:12 +0000 2017",
-              "screen_name": "Ali_Mozaffari_"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1161587408430915585/8OsaF5t8_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "939988647226609664",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1621432423955"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTM5OTg4NjQ3MjI2NjA5NjY0",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo5Mzk5ODg2NDcyMjY2MDk2NjQ=",
-            "core": {
-              "name": "علی مظفری",
-              "created_at": "Sun Dec 10 22:42:12 +0000 2017",
-              "screen_name": "Ali_Mozaffari_"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1161587408430915585/8OsaF5t8_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "Responsible for the Student Coordination Center of Islamic Azad University.\nPhD Student in International Relations",
-              "media_count": 19,
-              "listed_count": 1,
-              "friends_count": 479,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 110,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 300,
-              "translator_type": "none",
-              "favourites_count": 1518,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/939988647226609664/1512950859",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 300,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Dec 10 22:42:12 +0000 2017",
+              "name": "علی مظفری",
+              "screen_name": "Ali_Mozaffari_"
             },
+            "id": "VXNlcjo5Mzk5ODg2NDcyMjY2MDk2NjQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "939988647226609664",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "Responsible for the Student Coordination Center of Islamic Azad University.\nPhD Student in International Relations"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTM5OTg4NjQ3MjI2NjA5NjY0",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "en",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
