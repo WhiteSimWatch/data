@@ -1,7 +1,7 @@
 {
   "snapshotId": "e89f01b8-502c-4198-aff3-2e93a5814975",
   "twitterId": "1213791867730415616",
-  "scannedAt": "2026-06-08T04:58:52.262Z",
+  "scannedAt": "2026-07-24T04:57:18.822Z",
   "fields": {
     "username": "Mahdinajafi_ir",
     "displayName": "Mahdi Najafi",
@@ -15,144 +15,69 @@
     "verified": false
   },
   "rawPayload": {
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTIxMzc5MTg2NzczMDQxNTYxNg==",
-          "result": {
-            "id": "VXNlcjoxMjEzNzkxODY3NzMwNDE1NjE2",
-            "core": {
-              "name": "Mahdi Najafi",
-              "created_at": "Sun Jan 05 11:58:41 +0000 2020",
-              "screen_name": "Mahdinajafi_ir"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1939001768316198912/QVsJvoei_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1213791867730415616",
-            "__typename": "User",
-            "verification": {
-              "verified": false
-            },
-            "about_profile": {
-              "source": "West Asia Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "West Asia",
-              "username_changes": {
-                "count": "2",
-                "last_changed_at_msec": "1619353622651"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIxMzc5MTg2NzczMDQxNTYxNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "id": "VXNlcjoxMjEzNzkxODY3NzMwNDE1NjE2",
-            "core": {
-              "name": "Mahdi Najafi",
-              "created_at": "Sun Jan 05 11:58:41 +0000 2020",
-              "screen_name": "Mahdinajafi_ir"
-            },
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1939001768316198912/QVsJvoei_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 161,
-              "listed_count": 5,
-              "friends_count": 282,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 417,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 226,
-              "translator_type": "none",
-              "favourites_count": 608,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1213791867730415616/1751128522",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 226,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jan 05 11:58:41 +0000 2020",
+              "name": "Mahdi Najafi",
+              "screen_name": "Mahdinajafi_ir"
             },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1213791867730415616",
-            "location": {
-              "location": "جمهوری اسلامی ایران"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
-            "professional": {
-              "rest_id": "1617360603504381952",
-              "category": [
-                {
-                  "id": 1009,
-                  "name": "Community",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
+            "creator_subscriptions_count": 0,
             "dm_permissions": {
               "can_dm": false
             },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
             "follow_request_sent": false,
-            "profile_image_shape": "Circle",
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
             "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjEzNzkxODY3NzMwNDE1NjE2",
+            "is_blue_verified": false,
             "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 609,
+              "follow_request_sent": false,
+              "followers_count": 225,
+              "friends_count": 280,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 5,
+              "media_count": 165,
+              "needs_phone_verification": false,
+              "normal_followers_count": 225,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1213791867730415616/1751128522",
+              "profile_interstitial_type": "",
+              "statuses_count": 421,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
             "legacy_extended_profile": {
               "birthdate": {
                 "day": 1,
@@ -161,14 +86,89 @@
                 "year_visibility": "Self"
               }
             },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
             "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1009,
+                  "name": "Community"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1617360603504381952"
+            },
+            "profile_bio": {
+              "description": ""
+            },
             "profile_description_language": "qst",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1213791867730415616",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIxMzc5MTg2NzczMDQxNTYxNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1619353622651"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1939001768316198912/QVsJvoei_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jan 05 11:58:41 +0000 2020",
+              "name": "Mahdi Najafi",
+              "screen_name": "Mahdinajafi_ir"
+            },
+            "id": "VXNlcjoxMjEzNzkxODY3NzMwNDE1NjE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1213791867730415616",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIxMzc5MTg2NzczMDQxNTYxNg==",
+              "is_identity_verified": false
             }
           }
         }
