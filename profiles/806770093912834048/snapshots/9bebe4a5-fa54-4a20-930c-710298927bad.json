@@ -1,7 +1,7 @@
 {
   "snapshotId": "9bebe4a5-fa54-4a20-930c-710298927bad",
   "twitterId": "806770093912834048",
-  "scannedAt": "2026-06-08T03:54:55.601Z",
+  "scannedAt": "2026-07-24T03:38:44.635Z",
   "fields": {
     "username": "jebhepaydari_ir",
     "displayName": "جبهه پایداری انقلاب اسلامی",
@@ -15,166 +15,155 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/815568335245103104/6DONysV-_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Dec 08 07:59:14 +0000 2016",
+              "name": "جبهه پایداری انقلاب اسلامی",
+              "screen_name": "jebhepaydari_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MDY3NzAwOTM5MTI4MzQwNDg=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "صفحه رسمی جبهه پایداری انقلاب اسلامی",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "jebhepaydari.ir",
+                      "expanded_url": "http://jebhepaydari.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ZWuUzHiM0O"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 44142,
+              "follow_request_sent": false,
+              "followers_count": 4622,
+              "friends_count": 71,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 32,
+              "media_count": 567,
+              "needs_phone_verification": false,
+              "normal_followers_count": 4622,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/806770093912834048/1529997714",
+              "profile_interstitial_type": "",
+              "statuses_count": 9051,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/ZWuUzHiM0O",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "صفحه رسمی جبهه پایداری انقلاب اسلامی"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "806770093912834048",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6ODA2NzcwMDkzOTEyODM0MDQ4",
           "result": {
-            "id": "VXNlcjo4MDY3NzAwOTM5MTI4MzQwNDg=",
-            "core": {
-              "name": "جبهه پایداری انقلاب اسلامی",
-              "created_at": "Thu Dec 08 07:59:14 +0000 2016",
-              "screen_name": "jebhepaydari_ir"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/815568335245103104/6DONysV-_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "806770093912834048",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1483290522775"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODA2NzcwMDkzOTEyODM0MDQ4",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjo4MDY3NzAwOTM5MTI4MzQwNDg=",
-            "core": {
-              "name": "جبهه پایداری انقلاب اسلامی",
-              "created_at": "Thu Dec 08 07:59:14 +0000 2016",
-              "screen_name": "jebhepaydari_ir"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/815568335245103104/6DONysV-_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/ZWuUzHiM0O",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/ZWuUzHiM0O",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "jebhepaydari.ir",
-                      "expanded_url": "http://jebhepaydari.ir"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "صفحه رسمی جبهه پایداری انقلاب اسلامی",
-              "media_count": 564,
-              "listed_count": 32,
-              "friends_count": 71,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 8915,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 4609,
-              "translator_type": "none",
-              "favourites_count": 43953,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/806770093912834048/1529997714",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 4609,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Thu Dec 08 07:59:14 +0000 2016",
+              "name": "جبهه پایداری انقلاب اسلامی",
+              "screen_name": "jebhepaydari_ir"
             },
+            "id": "VXNlcjo4MDY3NzAwOTM5MTI4MzQwNDg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "806770093912834048",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "صفحه رسمی جبهه پایداری انقلاب اسلامی"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODA2NzcwMDkzOTEyODM0MDQ4",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "Official Page of the Front of Islamic Revolution Stability",
-                "source_language": "fa",
-                "destination_language": "en"
-              },
-              "is_available": true
             }
           }
         }
