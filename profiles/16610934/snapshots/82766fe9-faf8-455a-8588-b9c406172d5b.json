@@ -1,7 +1,7 @@
 {
   "snapshotId": "82766fe9-faf8-455a-8588-b9c406172d5b",
   "twitterId": "16610934",
-  "scannedAt": "2026-06-08T03:58:04.918Z",
+  "scannedAt": "2026-07-24T03:46:53.187Z",
   "fields": {
     "username": "rooznameh",
     "displayName": "سید سجاد اصفهانی ⁦⁦🇮🇷⁩📖📰",
@@ -15,155 +15,155 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/88212116/IMG_1741_normal.JPG"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Oct 06 06:20:49 +0000 2008",
+              "name": "سید سجاد اصفهانی ⁦⁦🇮🇷⁩📖📰",
+              "screen_name": "rooznameh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjYxMDkzNA==",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "‏‏‏‏برای کرده و نکرده‌ گفته‌ و نگفته‌ حتی افکار و نیات در پیشگاه خداوند و وجدان مسئولیم ریتوییت و فیو که چیزی نیست| رسانه‌نگر| دانشجوی دکتری مدیریت رسانه",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 156551,
+              "follow_request_sent": false,
+              "followers_count": 5857,
+              "friends_count": 541,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 34,
+              "media_count": 552,
+              "needs_phone_verification": false,
+              "normal_followers_count": 5857,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "728695254082306048"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/16610934/1695576221",
+              "profile_interstitial_type": "",
+              "statuses_count": 28673,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1463062444591353857"
+            },
+            "profile_bio": {
+              "description": "‏‏‏‏برای کرده و نکرده‌ گفته‌ و نگفته‌ حتی افکار و نیات در پیشگاه خداوند و وجدان مسئولیم ریتوییت و فیو که چیزی نیست| رسانه‌نگر| دانشجوی دکتری مدیریت رسانه"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "16610934",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTY2MTA5MzQ=",
           "result": {
-            "id": "VXNlcjoxNjYxMDkzNA==",
-            "core": {
-              "name": "سید سجاد اصفهانی ⁦⁦🇮🇷⁩📖📰",
-              "created_at": "Mon Oct 06 06:20:49 +0000 2008",
-              "screen_name": "rooznameh"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/88212116/IMG_1741_normal.JPG"
             },
+            "core": {
+              "created_at": "Mon Oct 06 06:20:49 +0000 2008",
+              "name": "سید سجاد اصفهانی ⁦⁦🇮🇷⁩📖📰",
+              "screen_name": "rooznameh"
+            },
+            "id": "VXNlcjoxNjYxMDkzNA==",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "16610934",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY2MTA5MzQ=",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjYxMDkzNA==",
-            "core": {
-              "name": "سید سجاد اصفهانی ⁦⁦🇮🇷⁩📖📰",
-              "created_at": "Mon Oct 06 06:20:49 +0000 2008",
-              "screen_name": "rooznameh"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/88212116/IMG_1741_normal.JPG"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "‏‏‏‏برای کرده و نکرده‌ گفته‌ و نگفته‌ حتی افکار و نیات در پیشگاه خداوند و وجدان مسئولیم ریتوییت و فیو که چیزی نیست| رسانه‌نگر| دانشجوی دکتری مدیریت رسانه",
-              "media_count": 552,
-              "listed_count": 34,
-              "friends_count": 544,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 28675,
-              "withheld_scope": "",
-              "default_profile": false,
-              "followers_count": 5881,
-              "translator_type": "none",
-              "favourites_count": 156611,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/16610934/1695576221",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "728695254082306048"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 5881,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "16610934",
-            "location": {
-              "location": "tehran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "‏‏‏‏برای کرده و نکرده‌ گفته‌ و نگفته‌ حتی افکار و نیات در پیشگاه خداوند و وجدان مسئولیم ریتوییت و فیو که چیزی نیست| رسانه‌نگر| دانشجوی دکتری مدیریت رسانه"
-            },
-            "professional": {
-              "rest_id": "1463062444591353857",
-              "category": [
-                {
-                  "id": 955,
-                  "name": "Journalist",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
