@@ -1,7 +1,7 @@
 {
   "snapshotId": "9aaea10c-19a5-48c7-bcf5-84c292123a54",
   "twitterId": "1096852033951490048",
-  "scannedAt": "2026-06-08T05:29:31.313Z",
+  "scannedAt": "2026-07-24T05:30:04.675Z",
   "fields": {
     "username": "Mahdii_farahani",
     "displayName": "Mahdi",
@@ -15,144 +15,144 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1856608811748126720/3T2LDyfs_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Feb 16 19:21:18 +0000 2019",
+              "name": "Mahdi",
+              "screen_name": "Mahdii_farahani"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDk2ODUyMDMzOTUxNDkwMDQ4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 55127,
+              "follow_request_sent": false,
+              "followers_count": 921,
+              "friends_count": 943,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 8,
+              "media_count": 379,
+              "needs_phone_verification": false,
+              "normal_followers_count": 921,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1109918605444038657"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096852033951490048/1682715821",
+              "profile_interstitial_type": "",
+              "statuses_count": 9479,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1096852033951490048",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTA5Njg1MjAzMzk1MTQ5MDA0OA==",
           "result": {
-            "id": "VXNlcjoxMDk2ODUyMDMzOTUxNDkwMDQ4",
-            "core": {
-              "name": "Mahdi",
-              "created_at": "Sat Feb 16 19:21:18 +0000 2019",
-              "screen_name": "Mahdii_farahani"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1856608811748126720/3T2LDyfs_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1096852033951490048",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1752262330675"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA5Njg1MjAzMzk1MTQ5MDA0OA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxMDk2ODUyMDMzOTUxNDkwMDQ4",
-            "core": {
-              "name": "Mahdi",
-              "created_at": "Sat Feb 16 19:21:18 +0000 2019",
-              "screen_name": "Mahdii_farahani"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1856608811748126720/3T2LDyfs_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 377,
-              "listed_count": 7,
-              "friends_count": 943,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 9408,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 917,
-              "translator_type": "none",
-              "favourites_count": 54703,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096852033951490048/1682715821",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": true,
-              "pinned_tweet_ids_str": [
-                "1109918605444038657"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 917,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Feb 16 19:21:18 +0000 2019",
+              "name": "Mahdi",
+              "screen_name": "Mahdii_farahani"
             },
+            "id": "VXNlcjoxMDk2ODUyMDMzOTUxNDkwMDQ4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1096852033951490048",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA5Njg1MjAzMzk1MTQ5MDA0OA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
