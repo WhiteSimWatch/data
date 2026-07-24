@@ -1,7 +1,7 @@
 {
   "snapshotId": "8c096c11-547a-41aa-8745-77b757cc03a3",
   "twitterId": "1928857244424196096",
-  "scannedAt": "2026-06-08T05:26:25.421Z",
+  "scannedAt": "2026-07-24T05:26:20.579Z",
   "fields": {
     "username": "alireza_zand_ir",
     "displayName": "علیرضا زند",
@@ -15,144 +15,144 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1929598277399240704/12MoiP_S_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat May 31 16:53:14 +0000 2025",
+              "name": "علیرضا زند",
+              "screen_name": "alireza_zand_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTI4ODU3MjQ0NDI0MTk2MDk2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 16090,
+              "follow_request_sent": false,
+              "followers_count": 2379,
+              "friends_count": 1484,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 12,
+              "media_count": 978,
+              "needs_phone_verification": false,
+              "normal_followers_count": 2379,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1937565213013787066"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1928857244424196096/1748887071",
+              "profile_interstitial_type": "",
+              "statuses_count": 9335,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ""
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1928857244424196096",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTkyODg1NzI0NDQyNDE5NjA5Ng==",
           "result": {
-            "id": "VXNlcjoxOTI4ODU3MjQ0NDI0MTk2MDk2",
-            "core": {
-              "name": "علیرضا زند",
-              "created_at": "Sat May 31 16:53:14 +0000 2025",
-              "screen_name": "alireza_zand_ir"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1929598277399240704/12MoiP_S_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1928857244424196096",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "North America App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "North America App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1748710426046"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkyODg1NzI0NDQyNDE5NjA5Ng==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxOTI4ODU3MjQ0NDI0MTk2MDk2",
-            "core": {
-              "name": "علیرضا زند",
-              "created_at": "Sat May 31 16:53:14 +0000 2025",
-              "screen_name": "alireza_zand_ir"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1929598277399240704/12MoiP_S_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "",
-              "media_count": 868,
-              "listed_count": 9,
-              "friends_count": 1397,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 8608,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 2168,
-              "translator_type": "none",
-              "favourites_count": 15230,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1928857244424196096/1748887071",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1937565213013787066"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 2168,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat May 31 16:53:14 +0000 2025",
+              "name": "علیرضا زند",
+              "screen_name": "alireza_zand_ir"
             },
+            "id": "VXNlcjoxOTI4ODU3MjQ0NDI0MTk2MDk2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1928857244424196096",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": ""
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": false
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkyODg1NzI0NDQyNDE5NjA5Ng==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
