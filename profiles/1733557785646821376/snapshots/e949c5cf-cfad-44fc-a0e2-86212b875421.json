@@ -1,7 +1,7 @@
 {
   "snapshotId": "e949c5cf-cfad-44fc-a0e2-86212b875421",
   "twitterId": "1733557785646821376",
-  "scannedAt": "2026-06-09T04:13:13.774Z",
+  "scannedAt": "2026-07-25T07:18:49.950Z",
   "fields": {
     "username": "MhDookht",
     "displayName": "مـــــاه‌دُخــت🌙",
@@ -15,144 +15,144 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1877946201250709504/u0_qWuDg_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Dec 09 18:43:11 +0000 2023",
+              "name": "مـــــاه‌دُخــت🌙",
+              "screen_name": "MhDookht"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzMzNTU3Nzg1NjQ2ODIxMzc2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "🟥⬜️⟦☫⟧⬜️🟩\nIRI📍",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 5677,
+              "follow_request_sent": false,
+              "followers_count": 874,
+              "friends_count": 653,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 479,
+              "needs_phone_verification": false,
+              "normal_followers_count": 874,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1753317295689027650"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733557785646821376/1771223872",
+              "profile_interstitial_type": "",
+              "statuses_count": 3080,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "🟥⬜️⟦☫⟧⬜️🟩\nIRI📍"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1733557785646821376",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTczMzU1Nzc4NTY0NjgyMTM3Ng==",
           "result": {
-            "id": "VXNlcjoxNzMzNTU3Nzg1NjQ2ODIxMzc2",
-            "core": {
-              "name": "مـــــاه‌دُخــت🌙",
-              "created_at": "Sat Dec 09 18:43:11 +0000 2023",
-              "screen_name": "MhDookht"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1877946201250709504/u0_qWuDg_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1733557785646821376",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1706855936140"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTczMzU1Nzc4NTY0NjgyMTM3Ng==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNzMzNTU3Nzg1NjQ2ODIxMzc2",
-            "core": {
-              "name": "مـــــاه‌دُخــت🌙",
-              "created_at": "Sat Dec 09 18:43:11 +0000 2023",
-              "screen_name": "MhDookht"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1877946201250709504/u0_qWuDg_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "🟥⬜️⟦☫⟧⬜️🟩\nIRI📍",
-              "media_count": 452,
-              "listed_count": 0,
-              "friends_count": 654,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2976,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 857,
-              "translator_type": "none",
-              "favourites_count": 5494,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733557785646821376/1771223872",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1753317295689027650"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 857,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Dec 09 18:43:11 +0000 2023",
+              "name": "مـــــاه‌دُخــت🌙",
+              "screen_name": "MhDookht"
             },
+            "id": "VXNlcjoxNzMzNTU3Nzg1NjQ2ODIxMzc2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1733557785646821376",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "🟥⬜️⟦☫⟧⬜️🟩\nIRI📍"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTczMzU1Nzc4NTY0NjgyMTM3Ng==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
