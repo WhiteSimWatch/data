@@ -1,7 +1,7 @@
 {
   "snapshotId": "f86b4595-dbf9-4469-9dc1-8831926bfa07",
   "twitterId": "1563921816879566851",
-  "scannedAt": "2026-06-09T05:00:14.027Z",
+  "scannedAt": "2026-07-25T08:16:11.223Z",
   "fields": {
     "username": "yeganehalibaba",
     "displayName": "یــــگانـــه🎒",
@@ -15,154 +15,154 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2061547880016457729/bxOphJXO_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Aug 28 16:10:04 +0000 2022",
+              "name": "یــــگانـــه🎒",
+              "screen_name": "yeganehalibaba"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTYzOTIxODE2ODc5NTY2ODUx",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "یا كاشِفَ الْكَرْبِ عَنْ وَجْهِ الْحُسَیْنِ۱۳۳♥️ \nمعروف به اگورے پگورے🦦\nدهه هشتادے👾کمے خـبرنگـار 📸 کمے کامپیوتر 🖥️ انـدکےخـوش‌نگـار🖋️",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/khanomyebot",
+                      "expanded_url": "https://t.me/khanomyebot",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/UZDf1XAZkl"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 4286,
+              "follow_request_sent": false,
+              "followers_count": 1302,
+              "friends_count": 1296,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 90,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1302,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563921816879566851/1779614626",
+              "profile_interstitial_type": "",
+              "statuses_count": 2737,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/UZDf1XAZkl",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "دماوندم"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یا كاشِفَ الْكَرْبِ عَنْ وَجْهِ الْحُسَیْنِ۱۳۳♥️ \nمعروف به اگورے پگورے🦦\nدهه هشتادے👾کمے خـبرنگـار 📸 کمے کامپیوتر 🖥️ انـدکےخـوش‌نگـار🖋️"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1563921816879566851",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTU2MzkyMTgxNjg3OTU2Njg1MQ==",
           "result": {
-            "id": "VXNlcjoxNTYzOTIxODE2ODc5NTY2ODUx",
-            "core": {
-              "name": "یــــگانـــه🎒",
-              "created_at": "Sun Aug 28 16:10:04 +0000 2022",
-              "screen_name": "yeganehalibaba"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2061547880016457729/bxOphJXO_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1563921816879566851",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "United States App Store",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1661703133070"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU2MzkyMTgxNjg3OTU2Njg1MQ==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNTYzOTIxODE2ODc5NTY2ODUx",
-            "core": {
-              "name": "یــــگانـــه🎒",
-              "created_at": "Sun Aug 28 16:10:04 +0000 2022",
-              "screen_name": "yeganehalibaba"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2061547880016457729/bxOphJXO_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/UZDf1XAZkl",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/UZDf1XAZkl",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "t.me/khanomyebot",
-                      "expanded_url": "https://t.me/khanomyebot"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "یا كاشِفَ الْكَرْبِ عَنْ وَجْهِ الْحُسَیْنِ۱۳۳♥️ \nمعروف به اگورے پگورے🦦\nدهه هشتادے👾کمے خـبرنگـار 📸 کمے کامپیوتر 🖥️ انـدکےخـوش‌نگـار🖋️",
-              "media_count": 67,
-              "listed_count": 1,
-              "friends_count": 1232,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2322,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1212,
-              "translator_type": "none",
-              "favourites_count": 4032,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563921816879566851/1779614626",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1212,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Aug 28 16:10:04 +0000 2022",
+              "name": "یــــگانـــه🎒",
+              "screen_name": "yeganehalibaba"
             },
+            "id": "VXNlcjoxNTYzOTIxODE2ODc5NTY2ODUx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1563921816879566851",
-            "location": {
-              "location": "دماوندم"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "یا كاشِفَ الْكَرْبِ عَنْ وَجْهِ الْحُسَیْنِ۱۳۳♥️ \nمعروف به اگورے پگورے🦦\nدهه هشتادے👾کمے خـبرنگـار 📸 کمے کامپیوتر 🖥️ انـدکےخـوش‌نگـار🖋️"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU2MzkyMTgxNjg3OTU2Njg1MQ==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
