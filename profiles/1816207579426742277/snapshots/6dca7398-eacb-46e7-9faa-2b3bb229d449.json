@@ -1,7 +1,7 @@
 {
   "snapshotId": "6dca7398-eacb-46e7-9faa-2b3bb229d449",
   "twitterId": "1816207579426742277",
-  "scannedAt": "2026-06-08T18:32:33.477Z",
+  "scannedAt": "2026-07-25T05:04:35.342Z",
   "fields": {
     "username": "AmamyAsyh45106",
     "displayName": "یا خدا",
@@ -15,141 +15,141 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1846128707158634496/N47HI-8s_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jul 24 20:24:28 +0000 2024",
+              "name": "یا خدا",
+              "screen_name": "AmamyAsyh45106"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODE2MjA3NTc5NDI2NzQyMjc3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "ما اهل اینجا نیستیم برای همین است که قرار نداریم ..\nکجایی همه ی قرار زندگیم؟؟",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 506,
+              "follow_request_sent": false,
+              "followers_count": 558,
+              "friends_count": 608,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 1,
+              "media_count": 303,
+              "needs_phone_verification": false,
+              "normal_followers_count": 558,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816207579426742277/1728986357",
+              "profile_interstitial_type": "",
+              "statuses_count": 525,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ما اهل اینجا نیستیم برای همین است که قرار نداریم ..\nکجایی همه ی قرار زندگیم؟؟"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1816207579426742277",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTgxNjIwNzU3OTQyNjc0MjI3Nw==",
           "result": {
-            "id": "VXNlcjoxODE2MjA3NTc5NDI2NzQyMjc3",
-            "core": {
-              "name": "یا خدا",
-              "created_at": "Wed Jul 24 20:24:28 +0000 2024",
-              "screen_name": "AmamyAsyh45106"
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
             },
+            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1846128707158634496/N47HI-8s_normal.jpg"
             },
+            "core": {
+              "created_at": "Wed Jul 24 20:24:28 +0000 2024",
+              "name": "یا خدا",
+              "screen_name": "AmamyAsyh45106"
+            },
+            "id": "VXNlcjoxODE2MjA3NTc5NDI2NzQyMjc3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1816207579426742277",
-            "__typename": "User",
             "verification": {
               "verified": false
             },
-            "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "account_based_in": "Iran",
-              "username_changes": {
-                "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
-            },
-            "is_blue_verified": false,
             "verification_info": {
               "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgxNjIwNzU3OTQyNjc0MjI3Nw==",
               "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
-            "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODE2MjA3NTc5NDI2NzQyMjc3",
-            "core": {
-              "name": "یا خدا",
-              "created_at": "Wed Jul 24 20:24:28 +0000 2024",
-              "screen_name": "AmamyAsyh45106"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1846128707158634496/N47HI-8s_normal.jpg"
-            },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "ما اهل اینجا نیستیم برای همین است که قرار نداریم ..\nکجایی همه ی قرار زندگیم؟؟",
-              "media_count": 290,
-              "listed_count": 1,
-              "friends_count": 614,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 509,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 562,
-              "translator_type": "none",
-              "favourites_count": 491,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816207579426742277/1728986357",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 562,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1816207579426742277",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "ما اهل اینجا نیستیم برای همین است که قرار نداریم ..\nکجایی همه ی قرار زندگیم؟؟"
-            },
-            "verification": {
-              "verified": false
-            },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
