@@ -1,7 +1,7 @@
 {
   "snapshotId": "61b225b3-ea63-40ef-ab87-a2aaf27e716d",
   "twitterId": "1649796152793890816",
-  "scannedAt": "2026-06-09T04:33:55.125Z",
+  "scannedAt": "2026-07-25T07:42:44.323Z",
   "fields": {
     "username": "Irannow_",
     "displayName": "إيران الآن",
@@ -15,185 +15,185 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2020949647393800192/YBLLqiTm_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Apr 22 15:24:35 +0000 2023",
+              "name": "إيران الآن",
+              "screen_name": "Irannow_"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "ar",
+                "translation": "The Arab reference for understanding Iran as it truly is, exclusive information from the inside, accuracy and realism far from misinformation and propaganda. We don’t relay what they want you to see, but what is actually happening."
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "69"
+            },
+            "id": "VXNlcjoxNjQ5Nzk2MTUyNzkzODkwODE2",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "المرجع العربي لفهم إيران كما هي، معلومات حصرية من الداخل، دقة وواقعية بعيدًا عن التضليل والدعاية، لا ننقل ما يُراد لك أن تراه، بل ما يجري فعلًا.",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/iran.now_ar?ig…",
+                      "expanded_url": "https://www.instagram.com/iran.now_ar?igsh=MWF2NGdoZGU1dmc3Zg%3D%3D&utm_source=qr",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/xgm2vK0ENy"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1209,
+              "follow_request_sent": false,
+              "followers_count": 18539,
+              "friends_count": 0,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 103,
+              "media_count": 5492,
+              "needs_phone_verification": false,
+              "normal_followers_count": 18539,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649796152793890816/1770724407",
+              "profile_interstitial_type": "",
+              "statuses_count": 27979,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/xgm2vK0ENy",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "المرجع العربي لفهم إيران كما هي، معلومات حصرية من الداخل، دقة وواقعية بعيدًا عن التضليل والدعاية، لا ننقل ما يُراد لك أن تراه، بل ما يجري فعلًا."
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "1649796152793890816",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1782573640633"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTY0OTc5NjE1Mjc5Mzg5MDgxNg==",
           "result": {
-            "id": "VXNlcjoxNjQ5Nzk2MTUyNzkzODkwODE2",
-            "core": {
-              "name": "إيران الآن",
-              "created_at": "Sat Apr 22 15:24:35 +0000 2023",
-              "screen_name": "Irannow_"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2020949647393800192/YBLLqiTm_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1649796152793890816",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "West Asia App Store",
               "username_changes": {
                 "count": "2",
                 "last_changed_at_msec": "1770647053682"
-              },
-              "location_accurate": false,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY0OTc5NjE1Mjc5Mzg5MDgxNg==",
-              "reason": {
-                "verified_since_msec": "1779747657426"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxNjQ5Nzk2MTUyNzkzODkwODE2",
-            "core": {
-              "name": "إيران الآن",
-              "created_at": "Sat Apr 22 15:24:35 +0000 2023",
-              "screen_name": "Irannow_"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2020949647393800192/YBLLqiTm_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/xgm2vK0ENy",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/xgm2vK0ENy",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "instagram.com/iran.now_ar?ig…",
-                      "expanded_url": "https://www.instagram.com/iran.now_ar?igsh=MWF2NGdoZGU1dmc3Zg%3D%3D&utm_source=qr"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "المرجع العربي لفهم إيران كما هي، معلومات حصرية من الداخل، دقة وواقعية بعيدًا عن التضليل والدعاية، لا ننقل ما يُراد لك أن تراه، بل ما يجري فعلًا.",
-              "media_count": 4410,
-              "listed_count": 104,
-              "friends_count": 0,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 20532,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 18116,
-              "translator_type": "none",
-              "favourites_count": 1206,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649796152793890816/1770724407",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 18116,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sat Apr 22 15:24:35 +0000 2023",
+              "name": "إيران الآن",
+              "screen_name": "Irannow_"
             },
+            "id": "VXNlcjoxNjQ5Nzk2MTUyNzkzODkwODE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1649796152793890816",
-            "location": {
-              "location": ""
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "المرجع العربي لفهم إيران كما هي، معلومات حصرية من الداخل، دقة وواقعية بعيدًا عن التضليل والدعاية، لا ننقل ما يُراد لك أن تراه، بل ما يجري فعلًا."
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "highlights_info": {
-              "highlighted_tweets": "68",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY0OTc5NjE1Mjc5Mzg5MDgxNg==",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
-                "verified_since_msec": "1779747657426"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "ar",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "data": {
-                "entities": {
-                  "urls": [],
-                  "symbols": [],
-                  "hashtags": [],
-                  "user_mentions": []
-                },
-                "translation": "The Arabic reference for understanding Iran as it truly is, exclusive information from the inside, accuracy and realism far from misinformation and propaganda. We don’t relay what they want you to see, but what is actually happening.",
-                "source_language": "ar",
-                "destination_language": "en"
-              },
-              "is_available": true
+                "verified_since_msec": "1782573640633"
+              }
             }
           }
         }
