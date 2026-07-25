@@ -1,7 +1,7 @@
 {
   "snapshotId": "ff08257d-ef1a-4269-a0c1-abed626ea239",
   "twitterId": "2988909774",
-  "scannedAt": "2026-06-09T03:42:42.164Z",
+  "scannedAt": "2026-07-25T06:39:41.331Z",
   "fields": {
     "username": "alipour_ltd",
     "displayName": "Mehdi Alipour / مهدي عليپور",
@@ -15,175 +15,175 @@
     "verified": true
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1036713474762711040/JFzmcto4_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jan 18 19:38:29 +0000 2015",
+              "name": "Mehdi Alipour / مهدي عليپور",
+              "screen_name": "alipour_ltd"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyOTg4OTA5Nzc0",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "فعال اقتصادي ، عضو هيات نمايندگان اتاق بازرگاني ايران، Business, Economics, Investment & Entrepreneurship",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "alipour.ir",
+                      "expanded_url": "http://www.alipour.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/NDxVGdawS1"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 10395,
+              "follow_request_sent": false,
+              "followers_count": 5826,
+              "friends_count": 1454,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 24,
+              "media_count": 279,
+              "needs_phone_verification": false,
+              "normal_followers_count": 5826,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "1743947132699058640"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2988909774/1537645036",
+              "profile_interstitial_type": "",
+              "statuses_count": 2684,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/NDxVGdawS1",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فعال اقتصادي ، عضو هيات نمايندگان اتاق بازرگاني ايران، Business, Economics, Investment & Entrepreneurship"
+            },
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": true,
+            "rest_id": "2988909774",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1770381253936"
+              }
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6Mjk4ODkwOTc3NA==",
           "result": {
-            "id": "VXNlcjoyOTg4OTA5Nzc0",
-            "core": {
-              "name": "Mehdi Alipour / مهدي عليپور",
-              "created_at": "Sun Jan 18 19:38:29 +0000 2015",
-              "screen_name": "alipour_ltd"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1036713474762711040/JFzmcto4_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "2988909774",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "West Asia App Store",
-              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia App Store",
               "username_changes": {
                 "count": "0"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": true,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86Mjk4ODkwOTc3NA==",
-              "reason": {
-                "verified_since_msec": "1770381253936"
-              },
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoyOTg4OTA5Nzc0",
-            "core": {
-              "name": "Mehdi Alipour / مهدي عليپور",
-              "created_at": "Sun Jan 18 19:38:29 +0000 2015",
-              "screen_name": "alipour_ltd"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1036713474762711040/JFzmcto4_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/NDxVGdawS1",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/NDxVGdawS1",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "alipour.ir",
-                      "expanded_url": "http://www.alipour.ir"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "فعال اقتصادي ، عضو هيات نمايندگان اتاق بازرگاني ايران، Business, Economics, Investment & Entrepreneurship",
-              "media_count": 276,
-              "listed_count": 24,
-              "friends_count": 1454,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 2658,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 5825,
-              "translator_type": "none",
-              "favourites_count": 10223,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2988909774/1537645036",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "1743947132699058640"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 5825,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Jan 18 19:38:29 +0000 2015",
+              "name": "Mehdi Alipour / مهدي عليپور",
+              "screen_name": "alipour_ltd"
             },
+            "id": "VXNlcjoyOTg4OTA5Nzc0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "2988909774",
-            "location": {
-              "location": "Islamic Republic of Iran"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "فعال اقتصادي ، عضو هيات نمايندگان اتاق بازرگاني ايران، Business, Economics, Investment & Entrepreneurship"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": true
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": true,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86Mjk4ODkwOTc3NA==",
+              "is_identity_verified": false,
               "reason": {
-                "description": {
-                  "text": "This account is verified. Learn more",
-                  "entities": [
-                    {
-                      "ref": {
-                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
-                        "url_type": "ExternalUrl"
-                      },
-                      "to_index": 36,
-                      "from_index": 26
-                    }
-                  ]
-                },
                 "verified_since_msec": "1770381253936"
-              },
-              "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": true,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": false,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": false,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
+              }
             }
           }
         }
