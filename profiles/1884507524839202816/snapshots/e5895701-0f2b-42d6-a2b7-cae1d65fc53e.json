@@ -1,7 +1,7 @@
 {
   "snapshotId": "e5895701-0f2b-42d6-a2b7-cae1d65fc53e",
   "twitterId": "1884507524839202816",
-  "scannedAt": "2026-06-09T08:46:04.849Z",
+  "scannedAt": "2026-07-26T05:33:13.391Z",
   "fields": {
     "username": "abaniidokht",
     "displayName": "آبــان‌دُخـت☫/🎒",
@@ -15,158 +15,158 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2048878546203136000/XtpD0urB_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jan 29 07:43:20 +0000 2025",
+              "name": "آبــان‌دُخـت☫/🎒",
+              "screen_name": "abaniidokht"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODg0NTA3NTI0ODM5MjAyODE2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "وقتی می‌سپاری به خدا قشنگ‌تر پیش میره... \nمتولد پاییز‌و‌آبانم 🍂•راهم حسین(ع)❤️•خطم انقلاب",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "eitaa.com/zhivar00",
+                      "expanded_url": "https://eitaa.com/zhivar00",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/g1Q2CwDv0h"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 3802,
+              "follow_request_sent": false,
+              "followers_count": 1437,
+              "friends_count": 1392,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 0,
+              "media_count": 53,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1437,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2024818992708219377"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884507524839202816/1777325685",
+              "profile_interstitial_type": "",
+              "statuses_count": 849,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/g1Q2CwDv0h",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "lorestan.Borujerd"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "وقتی می‌سپاری به خدا قشنگ‌تر پیش میره... \nمتولد پاییز‌و‌آبانم 🍂•راهم حسین(ع)❤️•خطم انقلاب"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1884507524839202816",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg4NDUwNzUyNDgzOTIwMjgxNg==",
           "result": {
-            "id": "VXNlcjoxODg0NTA3NTI0ODM5MjAyODE2",
-            "core": {
-              "name": "آبــان‌دُخـت☫/🎒",
-              "created_at": "Wed Jan 29 07:43:20 +0000 2025",
-              "screen_name": "abaniidokht"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2048878546203136000/XtpD0urB_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1884507524839202816",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Iran Android App",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
               "username_changes": {
                 "count": "1",
                 "last_changed_at_msec": "1738136612162"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4NDUwNzUyNDgzOTIwMjgxNg==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODg0NTA3NTI0ODM5MjAyODE2",
-            "core": {
-              "name": "آبــان‌دُخـت☫/🎒",
-              "created_at": "Wed Jan 29 07:43:20 +0000 2025",
-              "screen_name": "abaniidokht"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2048878546203136000/XtpD0urB_normal.jpg"
             },
-            "legacy": {
-              "url": "https://t.co/g1Q2CwDv0h",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/g1Q2CwDv0h",
-                      "indices": [
-                        0,
-                        23
-                      ],
-                      "display_url": "eitaa.com/zhivar00",
-                      "expanded_url": "https://eitaa.com/zhivar00"
-                    }
-                  ]
-                },
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "وقتی می‌سپاری به خدا قشنگ‌تر پیش میره... \nمتولد پاییز‌و‌آبانم 🍂•راهم حسین(ع)❤️•خطم انقلاب",
-              "media_count": 50,
-              "listed_count": 0,
-              "friends_count": 1382,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 835,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1445,
-              "translator_type": "none",
-              "favourites_count": 3742,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884507524839202816/1777325685",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2024818992708219377"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1445,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Wed Jan 29 07:43:20 +0000 2025",
+              "name": "آبــان‌دُخـت☫/🎒",
+              "screen_name": "abaniidokht"
             },
+            "id": "VXNlcjoxODg0NTA3NTI0ODM5MjAyODE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1884507524839202816",
-            "location": {
-              "location": "lorestan.Borujerd"
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "وقتی می‌سپاری به خدا قشنگ‌تر پیش میره... \nمتولد پاییز‌و‌آبانم 🍂•راهم حسین(ع)❤️•خطم انقلاب"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4NDUwNzUyNDgzOTIwMjgxNg==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {},
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
