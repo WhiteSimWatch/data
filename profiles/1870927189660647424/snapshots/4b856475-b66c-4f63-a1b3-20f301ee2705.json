@@ -1,7 +1,7 @@
 {
   "snapshotId": "4b856475-b66c-4f63-a1b3-20f301ee2705",
   "twitterId": "1870927189660647424",
-  "scannedAt": "2026-06-09T07:02:57.871Z",
+  "scannedAt": "2026-07-26T03:30:44.985Z",
   "fields": {
     "username": "Mmad82v",
     "displayName": "𝑴𝒐𝒉𝒂𝒎𝒎𝒂𝒅 𝑷𝒂𝒌𝒊𝒛𝒆🎒",
@@ -15,164 +15,164 @@
     "verified": false
   },
   "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2000286711973105668/XxNAfW8R_normal.jpg"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Dec 22 20:20:52 +0000 2024",
+              "name": "𝑴𝒐𝒉𝒂𝒎𝒎𝒂𝒅 𝑷𝒂𝒌𝒊𝒛𝒆🎒",
+              "screen_name": "Mmad82v"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODcwOTI3MTg5NjYwNjQ3NDI0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "دانشجو مهندسی از نوع نرم افزار | دهه هشتادی | ساکن دیاری از جنوب خراسان",
+              "entities": {
+                "description": {}
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 47247,
+              "follow_request_sent": false,
+              "followers_count": 1929,
+              "friends_count": 2163,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 393,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1929,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2042650141723709513"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870927189660647424/1753609870",
+              "profile_interstitial_type": "",
+              "statuses_count": 12159,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 28,
+                "month": 11,
+                "visibility": "Public",
+                "year": 2003,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "همین قاین خودمون "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "parody_commentary_fan_label": "None",
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "2032593027173331056"
+            },
+            "profile_bio": {
+              "description": "دانشجو مهندسی از نوع نرم افزار | دهه هشتادی | ساکن دیاری از جنوب خراسان"
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_sort_enabled": false,
+            "rest_id": "1870927189660647424",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    },
     "about_account_query_raw": {
       "data": {
         "user_result_by_screen_name": {
           "id": "VXNlclJlc3VsdHM6MTg3MDkyNzE4OTY2MDY0NzQyNA==",
           "result": {
-            "id": "VXNlcjoxODcwOTI3MTg5NjYwNjQ3NDI0",
-            "core": {
-              "name": "𝑴𝒐𝒉𝒂𝒎𝒎𝒂𝒅 𝑷𝒂𝒌𝒊𝒛𝒆🎒",
-              "created_at": "Sun Dec 22 20:20:52 +0000 2024",
-              "screen_name": "Mmad82v"
-            },
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/2000286711973105668/XxNAfW8R_normal.jpg"
-            },
-            "privacy": {
-              "protected": false
-            },
-            "rest_id": "1870927189660647424",
             "__typename": "User",
-            "verification": {
-              "verified": false
-            },
             "about_profile": {
-              "source": "Web",
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
               "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
               "username_changes": {
                 "count": "3",
                 "last_changed_at_msec": "1766087590341"
-              },
-              "location_accurate": true,
-              "created_country_accurate": true
+              }
             },
-            "is_blue_verified": false,
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg3MDkyNzE4OTY2MDY0NzQyNA==",
-              "is_identity_verified": false
-            },
-            "profile_image_shape": "Circle",
             "affiliates_highlighted_label": {},
-            "identity_profile_labels_highlighted_label": {}
-          }
-        }
-      }
-    },
-    "user_by_screen_name_raw": {
-      "data": {
-        "user": {
-          "result": {
-            "id": "VXNlcjoxODcwOTI3MTg5NjYwNjQ3NDI0",
-            "core": {
-              "name": "𝑴𝒐𝒉𝒂𝒎𝒎𝒂𝒅 𝑷𝒂𝒌𝒊𝒛𝒆🎒",
-              "created_at": "Sun Dec 22 20:20:52 +0000 2024",
-              "screen_name": "Mmad82v"
-            },
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/2000286711973105668/XxNAfW8R_normal.jpg"
             },
-            "legacy": {
-              "url": "",
-              "entities": {
-                "description": {}
-              },
-              "time_zone": "",
-              "utc_offset": 0,
-              "description": "دانشجو مهندسی از نوع نرم افزار | دهه هشتادی | ساکن دیاری از جنوب خراسان",
-              "media_count": 391,
-              "listed_count": 2,
-              "friends_count": 2141,
-              "is_translator": false,
-              "notifications": false,
-              "want_retweets": false,
-              "statuses_count": 12144,
-              "withheld_scope": "",
-              "default_profile": true,
-              "followers_count": 1909,
-              "translator_type": "none",
-              "favourites_count": 46666,
-              "possibly_sensitive": false,
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870927189660647424/1753609870",
-              "follow_request_sent": false,
-              "fast_followers_count": 0,
-              "has_custom_timelines": false,
-              "pinned_tweet_ids_str": [
-                "2042650141723709513"
-              ],
-              "withheld_description": "",
-              "default_profile_image": false,
-              "normal_followers_count": 1909,
-              "needs_phone_verification": false,
-              "profile_interstitial_type": ""
+            "core": {
+              "created_at": "Sun Dec 22 20:20:52 +0000 2024",
+              "name": "𝑴𝒐𝒉𝒂𝒎𝒎𝒂𝒅 𝑷𝒂𝒌𝒊𝒛𝒆🎒",
+              "screen_name": "Mmad82v"
             },
+            "id": "VXNlcjoxODcwOTI3MTg5NjYwNjQ3NDI0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
             "privacy": {
               "protected": false
             },
+            "profile_image_shape": "Circle",
             "rest_id": "1870927189660647424",
-            "location": {
-              "location": "همین قاین خودمون "
-            },
-            "__typename": "User",
-            "profile_bio": {
-              "description": "دانشجو مهندسی از نوع نرم افزار | دهه هشتادی | ساکن دیاری از جنوب خراسان"
-            },
-            "professional": {
-              "rest_id": "2032593027173331056",
-              "category": [
-                {
-                  "id": 934,
-                  "name": "Social Media Influencer",
-                  "icon_name": "IconBriefcaseStroke"
-                }
-              ],
-              "professional_type": "Creator"
-            },
             "verification": {
               "verified": false
             },
-            "dm_permissions": {
-              "can_dm": true
-            },
-            "highlights_info": {
-              "highlighted_tweets": "0",
-              "can_highlight_tweets": false
-            },
-            "super_following": false,
-            "business_account": {},
-            "is_blue_verified": false,
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "super_followed_by": false,
             "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg3MDkyNzE4OTY2MDY0NzQyNA==",
               "is_identity_verified": false
-            },
-            "follow_request_sent": false,
-            "profile_image_shape": "Circle",
-            "has_graduated_access": true,
-            "profile_sort_enabled": false,
-            "super_follow_eligible": false,
-            "user_seed_tweet_count": 0,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "day": 28,
-                "year": 2003,
-                "month": 11,
-                "visibility": "Public",
-                "year_visibility": "Public"
-              }
-            },
-            "premium_gifting_eligible": true,
-            "creator_subscriptions_count": 0,
-            "parody_commentary_fan_label": "None",
-            "affiliates_highlighted_label": {},
-            "profile_description_language": "fa",
-            "has_hidden_subscriptions_on_profile": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
             }
           }
         }
