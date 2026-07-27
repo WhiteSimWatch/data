@@ -1,0 +1,160 @@
+{
+  "snapshotId": "2b305b28-e1c6-496e-bec4-8020d6cbea80",
+  "twitterId": "1807427469798178816",
+  "scannedAt": "2026-07-27T07:53:36.718Z",
+  "fields": {
+    "username": "hanieh_333",
+    "displayName": "•|حَنیٖن|•",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2078098118860529664/b0WfJE0K_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "خانه پدری",
+    "accountBasedIn": "Germany",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 53177
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2078098118860529664/b0WfJE0K_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1807427469798178816/1784292222"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jun 30 14:55:15 +0000 2024",
+              "name": "•|حَنیٖن|•",
+              "screen_name": "hanieh_333"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODA3NDI3NDY5Nzk4MTc4ODE2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "خانه پدری"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ای وای که تابوتت عمری سر دوشم بود /۳۳۳",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 491,
+              "following": 163
+            },
+            "rest_id": "1807427469798178816",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 33,
+              "tweets": 5688
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgwNzQyNzQ2OTc5ODE3ODgxNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1745317008233"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2078098118860529664/b0WfJE0K_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jun 30 14:55:15 +0000 2024",
+              "name": "•|حَنیٖن|•",
+              "screen_name": "hanieh_333"
+            },
+            "id": "VXNlcjoxODA3NDI3NDY5Nzk4MTc4ODE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1807427469798178816",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgwNzQyNzQ2OTc5ODE3ODgxNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
