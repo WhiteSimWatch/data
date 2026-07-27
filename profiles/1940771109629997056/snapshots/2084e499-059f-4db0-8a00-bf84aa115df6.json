@@ -1,0 +1,177 @@
+{
+  "snapshotId": "2084e499-059f-4db0-8a00-bf84aa115df6",
+  "twitterId": "1940771109629997056",
+  "scannedAt": "2026-07-27T07:51:30.588Z",
+  "fields": {
+    "username": "chiman_house",
+    "displayName": "Chiman_house🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2062835528613900288/EQsaeT7E_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 13224
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2062835528613900288/EQsaeT7E_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1940771109629997056/1751551283"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Jul 03 13:54:37 +0000 2025",
+              "name": "Chiman_house🎒",
+              "screen_name": "chiman_house"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTQwNzcxMTA5NjI5OTk3MDU2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1940777644678959397"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "زینب مهرنوش | درمانگر گیاهان",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/chiman_house?i…",
+                      "expanded_url": "https://www.instagram.com/chiman_house?igsh=eThyZzNycGg0OGdw&utm_source=qr",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Mo6rij2yMS"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 542,
+              "following": 44
+            },
+            "rest_id": "1940771109629997056",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 31,
+              "tweets": 564
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/Mo6rij2yMS"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk0MDc3MTEwOTYyOTk5NzA1Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1751551018075"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2062835528613900288/EQsaeT7E_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Jul 03 13:54:37 +0000 2025",
+              "name": "Chiman_house🎒",
+              "screen_name": "chiman_house"
+            },
+            "id": "VXNlcjoxOTQwNzcxMTA5NjI5OTk3MDU2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1940771109629997056",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk0MDc3MTEwOTYyOTk5NzA1Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
