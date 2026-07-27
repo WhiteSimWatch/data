@@ -1,0 +1,160 @@
+{
+  "snapshotId": "6f5e7a14-8dc9-4cf9-a5df-1c24f4a7f666",
+  "twitterId": "2034364583260123136",
+  "scannedAt": "2026-07-27T05:50:10.316Z",
+  "fields": {
+    "username": "KhatamCentral",
+    "displayName": "مقر خاتم الأنبياء المركزي",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2034367033958182912/JekVkk6J_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iraq Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2034367033958182912/JekVkk6J_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2034364583260123136/1773866506"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Mar 18 20:22:09 +0000 2026",
+              "name": "مقر خاتم الأنبياء المركزي",
+              "screen_name": "KhatamCentral"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDM0MzY0NTgzMjYwMTIzMTM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مقر خاتم الأنبياء المركزي | مقر القيادة القتاليَّة الموحدة للقوات المسلحة الإيرانية",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 4019,
+              "following": 8
+            },
+            "rest_id": "2034364583260123136",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1,
+              "tweets": 31
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAzNDM2NDU4MzI2MDEyMzEzNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iraq Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1773865545430"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2034367033958182912/JekVkk6J_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Mar 18 20:22:09 +0000 2026",
+              "name": "مقر خاتم الأنبياء المركزي",
+              "screen_name": "KhatamCentral"
+            },
+            "id": "VXNlcjoyMDM0MzY0NTgzMjYwMTIzMTM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2034364583260123136",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAzNDM2NDU4MzI2MDEyMzEzNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
