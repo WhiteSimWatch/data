@@ -1,0 +1,173 @@
+{
+  "snapshotId": "377d929b-4dfd-4b59-9b6d-0aa391b4ed66",
+  "twitterId": "1166291704485470208",
+  "scannedAt": "2026-07-27T06:53:03.832Z",
+  "fields": {
+    "username": "mesbah2019",
+    "displayName": "Mesbah 🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1427553151121567756/36_NIJz2_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 85275
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1427553151121567756/36_NIJz2_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1166291704485470208/1628518852"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Aug 27 10:09:59 +0000 2019",
+              "name": "Mesbah 🎒",
+              "screen_name": "mesbah2019"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTY2MjkxNzA0NDg1NDcwMjA4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Freelancer",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/mesbah_notes",
+                      "expanded_url": "https://t.me/mesbah_notes",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/3muRHKhuQQ"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 167,
+              "following": 154
+            },
+            "rest_id": "1166291704485470208",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 106,
+              "tweets": 1467
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/3muRHKhuQQ"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE2NjI5MTcwNDQ4NTQ3MDIwOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "4",
+                "last_changed_at_msec": "1639959583561"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1427553151121567756/36_NIJz2_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Aug 27 10:09:59 +0000 2019",
+              "name": "Mesbah 🎒",
+              "screen_name": "mesbah2019"
+            },
+            "id": "VXNlcjoxMTY2MjkxNzA0NDg1NDcwMjA4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1166291704485470208",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE2NjI5MTcwNDQ4NTQ3MDIwOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
