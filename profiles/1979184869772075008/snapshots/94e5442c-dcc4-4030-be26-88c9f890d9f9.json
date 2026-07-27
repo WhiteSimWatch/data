@@ -1,0 +1,162 @@
+{
+  "snapshotId": "94e5442c-dcc4-4030-be26-88c9f890d9f9",
+  "twitterId": "1979184869772075008",
+  "scannedAt": "2026-07-27T03:31:25.021Z",
+  "fields": {
+    "username": "jmnh436881",
+    "displayName": "جمانه",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2052086689447723012/a01kvT15_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 5748
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2052086689447723012/a01kvT15_normal.jpg"
+            },
+            "banner": {
+              "image_url": ""
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Oct 17 13:57:13 +0000 2025",
+              "name": "جمانه",
+              "screen_name": "jmnh436881"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTc5MTg0ODY5NzcyMDc1MDA4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2051305095636132101"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 11638,
+              "following": 10622
+            },
+            "rest_id": "1979184869772075008",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 126,
+              "tweets": 8307
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk3OTE4NDg2OTc3MjA3NTAwOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2052086689447723012/a01kvT15_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Oct 17 13:57:13 +0000 2025",
+              "name": "جمانه",
+              "screen_name": "jmnh436881"
+            },
+            "id": "VXNlcjoxOTc5MTg0ODY5NzcyMDc1MDA4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1979184869772075008",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk3OTE4NDg2OTc3MjA3NTAwOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
