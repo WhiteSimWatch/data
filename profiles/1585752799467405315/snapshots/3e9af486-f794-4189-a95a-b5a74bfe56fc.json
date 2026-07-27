@@ -1,0 +1,171 @@
+{
+  "snapshotId": "3e9af486-f794-4189-a95a-b5a74bfe56fc",
+  "twitterId": "1585752799467405315",
+  "scannedAt": "2026-07-27T07:12:22.144Z",
+  "fields": {
+    "username": "Maed_____k",
+    "displayName": "maed",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2075910932534816768/-_bTMXqx_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "iran,Gilun",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 50937
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2075910932534816768/-_bTMXqx_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1585752799467405315/1694066928"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Oct 27 21:58:42 +0000 2022",
+              "name": "maed",
+              "screen_name": "Maed_____k"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTg1NzUyNzk5NDY3NDA1MzE1",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 23,
+                "month": 2,
+                "visibility": "Public",
+                "year_visibility": "Self"
+              }
+            },
+            "location": {
+              "location": "iran,Gilun"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2001303299526373513"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "...و خدایی که در این نزدیکی ست♡",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1188,
+              "following": 502
+            },
+            "rest_id": "1585752799467405315",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 800,
+              "tweets": 17807
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU4NTc1Mjc5OTQ2NzQwNTMxNQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1666907985343"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2075910932534816768/-_bTMXqx_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Oct 27 21:58:42 +0000 2022",
+              "name": "maed",
+              "screen_name": "Maed_____k"
+            },
+            "id": "VXNlcjoxNTg1NzUyNzk5NDY3NDA1MzE1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1585752799467405315",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU4NTc1Mjc5OTQ2NzQwNTMxNQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
