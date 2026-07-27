@@ -1,0 +1,175 @@
+{
+  "snapshotId": "bde8ce8b-3cb3-4a67-b276-5b09d1a0d002",
+  "twitterId": "2025483481875447808",
+  "scannedAt": "2026-07-27T09:10:53.163Z",
+  "fields": {
+    "username": "straitofhormoz_",
+    "displayName": "تنگه هرمز",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044658880219611137/GcBPhzye_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "شاهراه انرژی جهان",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 23
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2044658880219611137/GcBPhzye_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2025483481875447808/1776351650"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Feb 22 08:11:21 +0000 2026",
+              "name": "تنگه هرمز",
+              "screen_name": "straitofhormoz_"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDI1NDgzNDgxODc1NDQ3ODA4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "شاهراه انرژی جهان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2044701661352890868"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 100,
+                  "name": "Marine Service Station"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "2044696381340729854"
+            },
+            "profile_bio": {
+              "description": "راوی تردد/برای دوستان باز و برای بقیه درحال بررسی مدارک وسامانه قطع است/عوارض دریافتی صرف نوسازی ابراه میشود/پرچم های مزاحم معطل میمانند",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 51,
+              "following": 89
+            },
+            "rest_id": "2025483481875447808",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 7,
+              "tweets": 20
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAyNTQ4MzQ4MTg3NTQ0NzgwOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1776319838195"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2044658880219611137/GcBPhzye_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Feb 22 08:11:21 +0000 2026",
+              "name": "تنگه هرمز",
+              "screen_name": "straitofhormoz_"
+            },
+            "id": "VXNlcjoyMDI1NDgzNDgxODc1NDQ3ODA4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2025483481875447808",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAyNTQ4MzQ4MTg3NTQ0NzgwOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
