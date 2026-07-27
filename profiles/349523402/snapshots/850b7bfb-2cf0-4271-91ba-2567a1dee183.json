@@ -1,0 +1,172 @@
+{
+  "snapshotId": "850b7bfb-2cf0-4271-91ba-2567a1dee183",
+  "twitterId": "349523402",
+  "scannedAt": "2026-07-27T05:05:07.562Z",
+  "fields": {
+    "username": "mehrnewsarabic",
+    "displayName": "وكالة مهر للأنباء",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1843040989281165312/5M_lO686_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran/Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 32237
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1843040989281165312/5M_lO686_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/349523402/1604833939"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Aug 06 07:02:11 +0000 2011",
+              "name": "وكالة مهر للأنباء",
+              "screen_name": "mehrnewsarabic"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjozNDk1MjM0MDI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran/Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Quick News from Iran - RTs not endorsement/ أخبار ايران والعالم العربي",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "ar.mehrnews.com",
+                      "expanded_url": "http://ar.mehrnews.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/igFEJ8wnYc"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "und",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 56462,
+              "following": 655
+            },
+            "rest_id": "349523402",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 16892,
+              "tweets": 81560
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/igFEJ8wnYc"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MzQ5NTIzNDAy",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1843040989281165312/5M_lO686_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Aug 06 07:02:11 +0000 2011",
+              "name": "وكالة مهر للأنباء",
+              "screen_name": "mehrnewsarabic"
+            },
+            "id": "VXNlcjozNDk1MjM0MDI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "349523402",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzQ5NTIzNDAy",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
