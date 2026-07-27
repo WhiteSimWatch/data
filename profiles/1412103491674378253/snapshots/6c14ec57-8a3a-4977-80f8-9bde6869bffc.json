@@ -1,0 +1,164 @@
+{
+  "snapshotId": "6c14ec57-8a3a-4977-80f8-9bde6869bffc",
+  "twitterId": "1412103491674378253",
+  "scannedAt": "2026-07-27T07:18:45.659Z",
+  "fields": {
+    "username": "barana4154",
+    "displayName": "زینب بانو",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1734657763127476224/ATOqlr37_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "IRAN",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 43007
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1734657763127476224/ATOqlr37_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1412103491674378253/1630575865"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jul 05 17:38:42 +0000 2021",
+              "name": "زینب بانو",
+              "screen_name": "barana4154"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDEyMTAzNDkxNjc0Mzc4MjUz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "IRAN"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1845732367169634371"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "وارث چادر مادر/اولین و آخرین تندیس عشقم حسین(ع)/عاشق رهبری/فالو=بک",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 9832,
+              "following": 9084
+            },
+            "rest_id": "1412103491674378253",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1500,
+              "tweets": 17285
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQxMjEwMzQ5MTY3NDM3ODI1Mw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1625518142553"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1734657763127476224/ATOqlr37_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jul 05 17:38:42 +0000 2021",
+              "name": "زینب بانو",
+              "screen_name": "barana4154"
+            },
+            "id": "VXNlcjoxNDEyMTAzNDkxNjc0Mzc4MjUz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1412103491674378253",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQxMjEwMzQ5MTY3NDM3ODI1Mw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
