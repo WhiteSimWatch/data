@@ -1,0 +1,179 @@
+{
+  "snapshotId": "ceef5fdb-0001-4a1f-8240-733a36d8f6b4",
+  "twitterId": "622495223",
+  "scannedAt": "2026-07-27T08:02:24.363Z",
+  "fields": {
+    "username": "naderitwt",
+    "displayName": "علی نادری",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1832530803965710336/gfFHO62-_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 10234
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1832530803965710336/gfFHO62-_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/622495223/1608978812"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jun 30 04:24:16 +0000 2012",
+              "name": "علی نادری",
+              "screen_name": "naderitwt"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Journalist, CEO of the Islamic Republic News Agency (IRNA) in the 13th government, and previously Director of Public Relations for the Judiciary during the tenure of Ayatollah Martyr Seyyed Ebrahim Raisi."
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo2MjI0OTUyMjM=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1796436906718437777"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1500187772086333453"
+            },
+            "profile_bio": {
+              "description": "روزنامه‌نگار، مدیرعامل خبرگزاری جمهوری اسلامی (ایرنا) در دولت سیزدهم و پیشترمدیر روابط عمومی قوه قضاییه در زمان ریاست آیت‌الله شهید سید ابراهیم رئیسی.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 33378,
+              "following": 1183
+            },
+            "rest_id": "622495223",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 780,
+              "tweets": 10135
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NjIyNDk1MjIz",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1832530803965710336/gfFHO62-_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jun 30 04:24:16 +0000 2012",
+              "name": "علی نادری",
+              "screen_name": "naderitwt"
+            },
+            "id": "VXNlcjo2MjI0OTUyMjM=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "622495223",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NjIyNDk1MjIz",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
