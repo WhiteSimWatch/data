@@ -1,0 +1,164 @@
+{
+  "snapshotId": "357fc7ec-bad4-4b3e-a7b2-b743b48021f2",
+  "twitterId": "1887584637993820161",
+  "scannedAt": "2026-07-27T08:09:20.250Z",
+  "fields": {
+    "username": "mohanna_1345",
+    "displayName": "گل نرگس می آید...🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1887588900203315200/sUdaYB6m_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "همین نزدیکی..",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 5001
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1887588900203315200/sUdaYB6m_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1887584637993820161/1738871050"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Feb 06 19:30:53 +0000 2025",
+              "name": "گل نرگس می آید...🎒",
+              "screen_name": "mohanna_1345"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODg3NTg0NjM3OTkzODIwMTYx",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "همین نزدیکی.."
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1962570181730832404"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "همنام مادر و متوسل به او..",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1368,
+              "following": 1978
+            },
+            "rest_id": "1887584637993820161",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 236,
+              "tweets": 2374
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg4NzU4NDYzNzk5MzgyMDE2MQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1738870519120"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1887588900203315200/sUdaYB6m_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Feb 06 19:30:53 +0000 2025",
+              "name": "گل نرگس می آید...🎒",
+              "screen_name": "mohanna_1345"
+            },
+            "id": "VXNlcjoxODg3NTg0NjM3OTkzODIwMTYx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1887584637993820161",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4NzU4NDYzNzk5MzgyMDE2MQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
