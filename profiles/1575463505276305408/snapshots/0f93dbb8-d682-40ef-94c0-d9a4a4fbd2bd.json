@@ -1,0 +1,168 @@
+{
+  "snapshotId": "0f93dbb8-d682-40ef-94c0-d9a4a4fbd2bd",
+  "twitterId": "1575463505276305408",
+  "scannedAt": "2026-07-27T08:27:11.899Z",
+  "fields": {
+    "username": "Bully_2004",
+    "displayName": "Mohammad",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2072602981690925056/o_t05PxV_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": " Send Me Location📍",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 12609
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2072602981690925056/o_t05PxV_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1575463505276305408/1771888466"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Sep 29 12:32:51 +0000 2022",
+              "name": "Mohammad",
+              "screen_name": "Bully_2004"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTc1NDYzNTA1Mjc2MzA1NDA4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 24,
+                "month": 4,
+                "visibility": "Public",
+                "year": 2004,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": " Send Me Location📍"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "«بکوشید تا در کارهای خیر از یکدیگر پیشی بگیرید(2:148)»",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3452,
+              "following": 3321
+            },
+            "rest_id": "1575463505276305408",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 753,
+              "tweets": 11892
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU3NTQ2MzUwNTI3NjMwNTQwOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "6",
+                "last_changed_at_msec": "1767744746583"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2072602981690925056/o_t05PxV_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Sep 29 12:32:51 +0000 2022",
+              "name": "Mohammad",
+              "screen_name": "Bully_2004"
+            },
+            "id": "VXNlcjoxNTc1NDYzNTA1Mjc2MzA1NDA4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1575463505276305408",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU3NTQ2MzUwNTI3NjMwNTQwOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
