@@ -1,0 +1,160 @@
+{
+  "snapshotId": "ed2cfe53-2c95-49ea-98fb-5e16f74ca9b0",
+  "twitterId": "829627156976242689",
+  "scannedAt": "2026-07-27T04:52:17.299Z",
+  "fields": {
+    "username": "Mima_kapa",
+    "displayName": "Minimal Freedom 🖤",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2076821668996198400/0HV49ewx_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": " Loading...",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "Europe App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 37199
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2076821668996198400/0HV49ewx_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/829627156976242689/1783987857"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Feb 09 09:45:02 +0000 2017",
+              "name": "Minimal Freedom 🖤",
+              "screen_name": "Mima_kapa"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4Mjk2MjcxNTY5NzYyNDI2ODk=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": " Loading..."
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ایرانم آرزوست... تا ابد #زن_زندگی_آزادی\nاکانت دوم @mima_kappa",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3182,
+              "following": 2216
+            },
+            "rest_id": "829627156976242689",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1514,
+              "tweets": 17765
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODI5NjI3MTU2OTc2MjQyNjg5",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Europe App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1486633643788"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2076821668996198400/0HV49ewx_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Feb 09 09:45:02 +0000 2017",
+              "name": "Minimal Freedom 🖤",
+              "screen_name": "Mima_kapa"
+            },
+            "id": "VXNlcjo4Mjk2MjcxNTY5NzYyNDI2ODk=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "829627156976242689",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODI5NjI3MTU2OTc2MjQyNjg5",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
