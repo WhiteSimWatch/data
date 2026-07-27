@@ -1,0 +1,177 @@
+{
+  "snapshotId": "02562353-7f9d-4974-88d2-ccf837f8c6cf",
+  "twitterId": "1578296674593685505",
+  "scannedAt": "2026-07-27T07:08:05.684Z",
+  "fields": {
+    "username": "rzghrbn",
+    "displayName": "داش رضا ☫🔻",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2043006568317239296/vPb_uIif_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "United States",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 4343
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2043006568317239296/vPb_uIif_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1578296674593685505/1752318815"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Oct 07 08:11:09 +0000 2022",
+              "name": "داش رضا ☫🔻",
+              "screen_name": "rzghrbn"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTc4Mjk2Njc0NTkzNjg1NTA1",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1596591395019509760"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خیلی حُسِینْ زحمت ما را کشیده است«نوکرخیلی‌حقیر‌اباعبدالله»",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/RZ1209",
+                      "expanded_url": "https://t.me/RZ1209",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/4UVolA0W81"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 280,
+              "following": 271
+            },
+            "rest_id": "1578296674593685505",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 284,
+              "tweets": 5216
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/4UVolA0W81"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU3ODI5NjY3NDU5MzY4NTUwNQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1665150984614"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2043006568317239296/vPb_uIif_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Oct 07 08:11:09 +0000 2022",
+              "name": "داش رضا ☫🔻",
+              "screen_name": "rzghrbn"
+            },
+            "id": "VXNlcjoxNTc4Mjk2Njc0NTkzNjg1NTA1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1578296674593685505",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU3ODI5NjY3NDU5MzY4NTUwNQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
