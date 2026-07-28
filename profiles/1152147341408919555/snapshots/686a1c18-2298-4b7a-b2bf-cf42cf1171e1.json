@@ -1,0 +1,201 @@
+{
+  "snapshotId": "686a1c18-2298-4b7a-b2bf-cf42cf1171e1",
+  "twitterId": "1152147341408919555",
+  "scannedAt": "2026-07-28T04:24:43.201Z",
+  "fields": {
+    "username": "mey3Amam",
+    "displayName": "Meysam",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1790112569769820160/B4dKhHr3_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 176157
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1790112569769820160/B4dKhHr3_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1152147341408919555/1699876329"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jul 19 09:25:06 +0000 2019",
+              "name": "Meysam",
+              "screen_name": "mey3Amam"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "A Generation X-er passionate about media, disgusted by both left and right"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "1"
+            },
+            "id": "VXNlcjoxMTUyMTQ3MzQxNDA4OTE5NTU1",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1498648564863488006"
+            },
+            "profile_bio": {
+              "description": "یک دهه شصتیِ علاقه‌مند به رسانه‌ی بیزار از چپ و راست",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 17947,
+              "following": 10642
+            },
+            "rest_id": "1152147341408919555",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 2994,
+              "tweets": 123557
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1729172088166"
+              }
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE1MjE0NzM0MTQwODkxOTU1NQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "4",
+                "last_changed_at_msec": "1727893737629"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1790112569769820160/B4dKhHr3_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jul 19 09:25:06 +0000 2019",
+              "name": "Meysam",
+              "screen_name": "mey3Amam"
+            },
+            "id": "VXNlcjoxMTUyMTQ3MzQxNDA4OTE5NTU1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1152147341408919555",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE1MjE0NzM0MTQwODkxOTU1NQ==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1729172088166"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
