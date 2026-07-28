@@ -1,0 +1,165 @@
+{
+  "snapshotId": "312db70e-04ab-41df-8f29-ad7bb274b71c",
+  "twitterId": "1361065826477101056",
+  "scannedAt": "2026-07-28T06:47:56.346Z",
+  "fields": {
+    "username": "komeilasadpour",
+    "displayName": "کُمیلَم",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2003075441481916416/Wz-Ts0Dd_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 9763
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2003075441481916416/Wz-Ts0Dd_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1361065826477101056/1766403838"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Feb 14 21:32:47 +0000 2021",
+              "name": "کُمیلَم",
+              "screen_name": "komeilasadpour"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzYxMDY1ODI2NDc3MTAxMDU2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1584957581872824320"
+            },
+            "profile_bio": {
+              "description": "یه پدر تازه کار علاقه‌مند به مارکتینگ و فروش\n که از تجربیاتم میگم🦦",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 7192,
+              "following": 2012
+            },
+            "rest_id": "1361065826477101056",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 168,
+              "tweets": 6324
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM2MTA2NTgyNjQ3NzEwMTA1Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1661074889729"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2003075441481916416/Wz-Ts0Dd_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Feb 14 21:32:47 +0000 2021",
+              "name": "کُمیلَم",
+              "screen_name": "komeilasadpour"
+            },
+            "id": "VXNlcjoxMzYxMDY1ODI2NDc3MTAxMDU2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1361065826477101056",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM2MTA2NTgyNjQ3NzEwMTA1Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
