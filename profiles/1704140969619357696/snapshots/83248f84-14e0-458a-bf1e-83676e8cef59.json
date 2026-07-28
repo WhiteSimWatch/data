@@ -1,0 +1,164 @@
+{
+  "snapshotId": "83248f84-14e0-458a-bf1e-83676e8cef59",
+  "twitterId": "1704140969619357696",
+  "scannedAt": "2026-07-28T06:41:39.900Z",
+  "fields": {
+    "username": "MQqiblawi",
+    "displayName": "☫ MQ ☫",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1956044725019951104/t5rGKMlC_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "North Africa",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2181
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1956044725019951104/t5rGKMlC_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1704140969619357696/1759320097"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Sep 19 14:30:52 +0000 2023",
+              "name": "☫ MQ ☫",
+              "screen_name": "MQqiblawi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzA0MTQwOTY5NjE5MzU3Njk2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1983081241638215876"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Freedom’s vanguard. Shield of the oppressed. Defying tyrants with unbroken truth. “Sayyid”.. Descendant of Ahlulbayt—46th generation through Imam al-Hassan(A.S)",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1400,
+              "following": 232
+            },
+            "rest_id": "1704140969619357696",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 36,
+              "tweets": 403
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTcwNDE0MDk2OTYxOTM1NzY5Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "North Africa",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1750562879602"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1956044725019951104/t5rGKMlC_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Sep 19 14:30:52 +0000 2023",
+              "name": "☫ MQ ☫",
+              "screen_name": "MQqiblawi"
+            },
+            "id": "VXNlcjoxNzA0MTQwOTY5NjE5MzU3Njk2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1704140969619357696",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcwNDE0MDk2OTYxOTM1NzY5Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
