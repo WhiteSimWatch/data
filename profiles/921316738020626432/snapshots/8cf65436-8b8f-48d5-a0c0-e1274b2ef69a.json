@@ -1,0 +1,171 @@
+{
+  "snapshotId": "8cf65436-8b8f-48d5-a0c0-e1274b2ef69a",
+  "twitterId": "921316738020626432",
+  "scannedAt": "2026-07-28T19:41:49.651Z",
+  "fields": {
+    "username": "jskojabadi",
+    "displayName": "جیم صاد",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1399578970362949634/S7N85IjC_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 55893
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1399578970362949634/S7N85IjC_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/921316738020626432/1598709806"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Oct 20 10:06:42 +0000 2017",
+              "name": "جیم صاد",
+              "screen_name": "jskojabadi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5MjEzMTY3MzgwMjA2MjY0MzI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 21,
+                "month": 7,
+                "visibility": "Public",
+                "year_visibility": "Self"
+              }
+            },
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1378197367669846016"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "کشاورز و معلم زاده، دانش آموخته فلسفه و حقوق عمومی، عدالت خواه، منتظر نبرد نهایی",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1145,
+              "following": 98
+            },
+            "rest_id": "921316738020626432",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 231,
+              "tweets": 25310
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTIxMzE2NzM4MDIwNjI2NDMy",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1508494164858"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1399578970362949634/S7N85IjC_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Oct 20 10:06:42 +0000 2017",
+              "name": "جیم صاد",
+              "screen_name": "jskojabadi"
+            },
+            "id": "VXNlcjo5MjEzMTY3MzgwMjA2MjY0MzI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "921316738020626432",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTIxMzE2NzM4MDIwNjI2NDMy",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
