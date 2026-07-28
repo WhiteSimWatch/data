@@ -1,0 +1,164 @@
+{
+  "snapshotId": "480707c5-5706-4c37-80c2-c84b57c1ddf4",
+  "twitterId": "949772212973854720",
+  "scannedAt": "2026-07-28T05:06:51.313Z",
+  "fields": {
+    "username": "ms_jahanbakhsh",
+    "displayName": "محمد صادق جهان بخش",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/952249492400754688/1wGOrcyv_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "اتوبان تهران - قزوین",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 61245
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/952249492400754688/1wGOrcyv_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/949772212973854720/1536817269"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jan 06 22:38:36 +0000 2018",
+              "name": "محمد صادق جهان بخش",
+              "screen_name": "ms_jahanbakhsh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5NDk3NzIyMTI5NzM4NTQ3MjA=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "اتوبان تهران - قزوین"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1143053184400809984"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "‏‏برادر، پسر، همسر؛ ‎‎#سواد_فضای_مجازی. یه آدم معمولی؛ معجونی از کمی دغدغه فرهنگی، کمی دغدغه غیر فرهنگی و دغدغه سیاسی به میزان لازم🇮🇷",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2115,
+              "following": 870
+            },
+            "rest_id": "949772212973854720",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 435,
+              "tweets": 6593
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTQ5NzcyMjEyOTczODU0NzIw",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1515278446874"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/952249492400754688/1wGOrcyv_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jan 06 22:38:36 +0000 2018",
+              "name": "محمد صادق جهان بخش",
+              "screen_name": "ms_jahanbakhsh"
+            },
+            "id": "VXNlcjo5NDk3NzIyMTI5NzM4NTQ3MjA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "949772212973854720",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTQ5NzcyMjEyOTczODU0NzIw",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
