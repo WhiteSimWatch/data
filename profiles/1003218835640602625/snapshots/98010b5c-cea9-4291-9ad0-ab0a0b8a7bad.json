@@ -1,0 +1,176 @@
+{
+  "snapshotId": "98010b5c-cea9-4291-9ad0-ab0a0b8a7bad",
+  "twitterId": "1003218835640602625",
+  "scannedAt": "2026-07-28T08:36:44.761Z",
+  "fields": {
+    "username": "parsaabdi1",
+    "displayName": "Reflecting Media (Parsa Abdi.official)",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1995560111448768512/8r6mD8Ua_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "IRAN",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 3128
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1995560111448768512/8r6mD8Ua_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1003218835640602625/1759705930"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jun 03 10:16:24 +0000 2018",
+              "name": "Reflecting Media (Parsa Abdi.official)",
+              "screen_name": "parsaabdi1"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDAzMjE4ODM1NjQwNjAyNjI1",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "IRAN"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2079589165679694003"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "I am not an intellectual...I simply do not fear the dark !\n\n***\n\nfree Artist,& Thinker\n\n***\n🇮🇷\n\n#LONG_LIVE_THE_ISLAMIC_REPUBLIC_OF_IRAN\n\n #Realpolotic",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "aparat.com/parsaabi",
+                      "expanded_url": "https://www.aparat.com/parsaabi",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/tMUNolC7H7"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 271,
+              "following": 1828
+            },
+            "rest_id": "1003218835640602625",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 177,
+              "tweets": 904
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/tMUNolC7H7"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTAwMzIxODgzNTY0MDYwMjYyNQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1995560111448768512/8r6mD8Ua_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jun 03 10:16:24 +0000 2018",
+              "name": "Reflecting Media (Parsa Abdi.official)",
+              "screen_name": "parsaabdi1"
+            },
+            "id": "VXNlcjoxMDAzMjE4ODM1NjQwNjAyNjI1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1003218835640602625",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTAwMzIxODgzNTY0MDYwMjYyNQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
