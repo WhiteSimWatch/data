@@ -1,0 +1,160 @@
+{
+  "snapshotId": "d63351d4-23f3-4235-b2a7-398a0b2db2ca",
+  "twitterId": "1683889432389201935",
+  "scannedAt": "2026-07-28T10:19:46.295Z",
+  "fields": {
+    "username": "baharnaranj45",
+    "displayName": "بهـــار نارنج",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1683895558342049796/yaTHBsZK_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Shiraz",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 33329
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1683895558342049796/yaTHBsZK_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1683889432389201935/1690306962"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jul 25 17:19:03 +0000 2023",
+              "name": "بهـــار نارنج",
+              "screen_name": "baharnaranj45"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjgzODg5NDMyMzg5MjAxOTM1",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Shiraz"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "بهار شیراز با عطر بهار نارنجش شناخته می شود...",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 648,
+              "following": 508
+            },
+            "rest_id": "1683889432389201935",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 925,
+              "tweets": 24206
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTY4Mzg4OTQzMjM4OTIwMTkzNQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1690305579677"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1683895558342049796/yaTHBsZK_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Jul 25 17:19:03 +0000 2023",
+              "name": "بهـــار نارنج",
+              "screen_name": "baharnaranj45"
+            },
+            "id": "VXNlcjoxNjgzODg5NDMyMzg5MjAxOTM1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1683889432389201935",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY4Mzg4OTQzMjM4OTIwMTkzNQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
