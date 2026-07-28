@@ -1,0 +1,159 @@
+{
+  "snapshotId": "3858b38b-4e74-4f82-8d97-67e0aaa14964",
+  "twitterId": "1479570715384991746",
+  "scannedAt": "2026-07-28T05:43:45.976Z",
+  "fields": {
+    "username": "MahdiyarSalark3",
+    "displayName": "mahdiyar",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1697192086703853568/y4l3Cwlx_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 7237
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1697192086703853568/y4l3Cwlx_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1479570715384991746/1648758961"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jan 07 21:48:57 +0000 2022",
+              "name": "mahdiyar",
+              "screen_name": "MahdiyarSalark3"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDc5NTcwNzE1Mzg0OTkxNzQ2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فعلا مشغول",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 95,
+              "following": 170
+            },
+            "rest_id": "1479570715384991746",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 15,
+              "tweets": 683
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ3OTU3MDcxNTM4NDk5MTc0Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1697192086703853568/y4l3Cwlx_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jan 07 21:48:57 +0000 2022",
+              "name": "mahdiyar",
+              "screen_name": "MahdiyarSalark3"
+            },
+            "id": "VXNlcjoxNDc5NTcwNzE1Mzg0OTkxNzQ2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1479570715384991746",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ3OTU3MDcxNTM4NDk5MTc0Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
