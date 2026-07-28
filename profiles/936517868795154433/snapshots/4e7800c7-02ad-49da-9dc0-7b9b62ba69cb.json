@@ -1,0 +1,172 @@
+{
+  "snapshotId": "4e7800c7-02ad-49da-9dc0-7b9b62ba69cb",
+  "twitterId": "936517868795154433",
+  "scannedAt": "2026-07-28T05:12:58.820Z",
+  "fields": {
+    "username": "h__abediiha",
+    "displayName": "Hesam",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1775158143888039936/VkrVfpRq_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2077
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1775158143888039936/VkrVfpRq_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/936517868795154433/1525880818"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Dec 01 08:50:34 +0000 2017",
+              "name": "Hesam",
+              "screen_name": "h__abediiha"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5MzY1MTc4Njg3OTUxNTQ0MzM=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 21,
+                "month": 6,
+                "visibility": "Public",
+                "year": 1993,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1082516421165240320"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "‏‏‏‏‏‏‏‏هم دعا کن گره از کار تو بگشاید عشق/ \nهم دعا کن گره تازه نیفزاید عشق",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 623,
+              "following": 746
+            },
+            "rest_id": "936517868795154433",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 84,
+              "tweets": 559
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTM2NTE3ODY4Nzk1MTU0NDMz",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1712065119600"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1775158143888039936/VkrVfpRq_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Dec 01 08:50:34 +0000 2017",
+              "name": "Hesam",
+              "screen_name": "h__abediiha"
+            },
+            "id": "VXNlcjo5MzY1MTc4Njg3OTUxNTQ0MzM=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "936517868795154433",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTM2NTE3ODY4Nzk1MTU0NDMz",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
