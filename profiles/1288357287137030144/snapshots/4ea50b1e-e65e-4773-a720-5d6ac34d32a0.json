@@ -1,0 +1,171 @@
+{
+  "snapshotId": "4ea50b1e-e65e-4773-a720-5d6ac34d32a0",
+  "twitterId": "1288357287137030144",
+  "scannedAt": "2026-07-28T03:38:42.899Z",
+  "fields": {
+    "username": "Fatmealm",
+    "displayName": "Fatemeh almasi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1752419853179158528/j5zQWAKl_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "France Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 851
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1752419853179158528/j5zQWAKl_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1288357287137030144/1679886066"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jul 29 06:15:14 +0000 2020",
+              "name": "Fatemeh almasi",
+              "screen_name": "Fatmealm"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjg4MzU3Mjg3MTM3MDMwMTQ0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 15,
+                  "name": "Entertainment & Recreation"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1612275625972174851"
+            },
+            "profile_bio": {
+              "description": "فقط حیدر امیرالمومنین است..\n\nگل آفتاب گردون🌻",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 399,
+              "following": 633
+            },
+            "rest_id": "1288357287137030144",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 17,
+              "tweets": 386
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI4ODM1NzI4NzEzNzAzMDE0NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "France Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1596004374291"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1752419853179158528/j5zQWAKl_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jul 29 06:15:14 +0000 2020",
+              "name": "Fatemeh almasi",
+              "screen_name": "Fatmealm"
+            },
+            "id": "VXNlcjoxMjg4MzU3Mjg3MTM3MDMwMTQ0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1288357287137030144",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI4ODM1NzI4NzEzNzAzMDE0NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
