@@ -1,0 +1,175 @@
+{
+  "snapshotId": "30f10069-07a7-4dd3-b9aa-12f89ef5e027",
+  "twitterId": "896686436791046144",
+  "scannedAt": "2026-07-28T05:25:46.688Z",
+  "fields": {
+    "username": "MahdokhtSalek",
+    "displayName": "🎒مهدخت سالک",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2006084883903365122/VPnA7s8S_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Netherlands",
+    "connectedVia": "Canada App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 132366
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2006084883903365122/VPnA7s8S_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/896686436791046144/1713047353"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Aug 13 10:54:40 +0000 2017",
+              "name": "🎒مهدخت سالک",
+              "screen_name": "MahdokhtSalek"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Sweet Mama of Small Home Appliances"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4OTY2ODY0MzY3OTEwNDYxNDQ=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1217047054880575488"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مامانِ مهربونِ لوازم خانگی کوچیک",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1088,
+              "following": 628
+            },
+            "rest_id": "896686436791046144",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 264,
+              "tweets": 26480
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODk2Njg2NDM2NzkxMDQ2MTQ0",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Netherlands",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Canada App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1680029117656"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2006084883903365122/VPnA7s8S_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Aug 13 10:54:40 +0000 2017",
+              "name": "🎒مهدخت سالک",
+              "screen_name": "MahdokhtSalek"
+            },
+            "id": "VXNlcjo4OTY2ODY0MzY3OTEwNDYxNDQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "896686436791046144",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODk2Njg2NDM2NzkxMDQ2MTQ0",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
