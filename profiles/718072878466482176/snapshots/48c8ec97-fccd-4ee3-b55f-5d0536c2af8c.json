@@ -1,0 +1,160 @@
+{
+  "snapshotId": "48c8ec97-fccd-4ee3-b55f-5d0536c2af8c",
+  "twitterId": "718072878466482176",
+  "scannedAt": "2026-07-28T04:37:55.109Z",
+  "fields": {
+    "username": "peyman_masoudi",
+    "displayName": "alamouti",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2017443760028667904/WyAKngUE_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "قزوین",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 4086
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2017443760028667904/WyAKngUE_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/718072878466482176/1608741473"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Apr 07 13:48:10 +0000 2016",
+              "name": "alamouti",
+              "screen_name": "peyman_masoudi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3MTgwNzI4Nzg0NjY0ODIxNzY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "قزوین"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "اردی‌بهشتی عاشق شهادت استقلالی عاشق زندگی در روستا",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 649,
+              "following": 1358
+            },
+            "rest_id": "718072878466482176",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 91,
+              "tweets": 2986
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzE4MDcyODc4NDY2NDgyMTc2",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1460037065918"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2017443760028667904/WyAKngUE_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Apr 07 13:48:10 +0000 2016",
+              "name": "alamouti",
+              "screen_name": "peyman_masoudi"
+            },
+            "id": "VXNlcjo3MTgwNzI4Nzg0NjY0ODIxNzY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "718072878466482176",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzE4MDcyODc4NDY2NDgyMTc2",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
