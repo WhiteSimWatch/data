@@ -1,0 +1,217 @@
+{
+  "snapshotId": "8f028651-f032-4873-8e17-928e9be8c6ed",
+  "twitterId": "891181428880187392",
+  "scannedAt": "2026-07-29T06:38:38.544Z",
+  "fields": {
+    "username": "RoknaPress",
+    "displayName": "رکنا",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1766717996926382080/POGrUmk5_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran, Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 712
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1766717996926382080/POGrUmk5_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/891181428880187392/1708776283"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jul 29 06:19:44 +0000 2017",
+              "name": "رکنا",
+              "screen_name": "RoknaPress"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [
+                    {
+                      "display_url": "t.me/rokna_news",
+                      "expanded_url": "https://t.me/rokna_news",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Hty5fUDrry"
+                    }
+                  ],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "https://t.co/Hty5fUDrry   ROKNA is not responsible for users' comments in any way."
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4OTExODE0Mjg4ODAxODczOTI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran, Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 580,
+                  "name": "Media & News Company"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1584805379766198273"
+            },
+            "profile_bio": {
+              "description": "https://t.co/Hty5fUDrry   صفحه رسمی پایگاه خبری و اطلاع رسانی رکنا در قبال نظرات کاربران هیچ گونه مسئولیتی ندارد",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/rokna_news",
+                      "expanded_url": "https://t.me/rokna_news",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Hty5fUDrry"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "rokna.net",
+                      "expanded_url": "https://www.rokna.net/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/J6hX7GM92h"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 5043,
+              "following": 14
+            },
+            "rest_id": "891181428880187392",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 19961,
+              "tweets": 24937
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/J6hX7GM92h"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODkxMTgxNDI4ODgwMTg3Mzky",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1501309293635"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1766717996926382080/POGrUmk5_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jul 29 06:19:44 +0000 2017",
+              "name": "رکنا",
+              "screen_name": "RoknaPress"
+            },
+            "id": "VXNlcjo4OTExODE0Mjg4ODAxODczOTI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "891181428880187392",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODkxMTgxNDI4ODgwMTg3Mzky",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
