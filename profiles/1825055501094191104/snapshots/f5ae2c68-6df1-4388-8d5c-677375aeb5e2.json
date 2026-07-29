@@ -1,0 +1,172 @@
+{
+  "snapshotId": "f5ae2c68-6df1-4388-8d5c-677375aeb5e2",
+  "twitterId": "1825055501094191104",
+  "scannedAt": "2026-07-29T06:29:35.399Z",
+  "fields": {
+    "username": "paknejad_ir",
+    "displayName": "محسن پاکنژاد",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1837762113126662145/ZUvgXL0G_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوری اسلامی ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 9
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1837762113126662145/ZUvgXL0G_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1825055501094191104/1726991605"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Aug 18 06:22:11 +0000 2024",
+              "name": "محسن پاکنژاد",
+              "screen_name": "paknejad_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODI1MDU1NTAxMDk0MTkxMTA0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "وزیر نفت جمهوری اسلامی ایران Minister of Petroleum of Islamic Republic of IRAN",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/paknejad_ir?ig…",
+                      "expanded_url": "https://www.instagram.com/paknejad_ir?igsh=MXAzdjFmNXg4eG10MQ==",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/fkkI3JJRpW"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2319,
+              "following": 4
+            },
+            "rest_id": "1825055501094191104",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 22,
+              "tweets": 36
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/fkkI3JJRpW"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgyNTA1NTUwMTA5NDE5MTEwNA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1723962229915"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1837762113126662145/ZUvgXL0G_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Aug 18 06:22:11 +0000 2024",
+              "name": "محسن پاکنژاد",
+              "screen_name": "paknejad_ir"
+            },
+            "id": "VXNlcjoxODI1MDU1NTAxMDk0MTkxMTA0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1825055501094191104",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgyNTA1NTUwMTA5NDE5MTEwNA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
