@@ -1,0 +1,164 @@
+{
+  "snapshotId": "6d5ccf7e-8fc1-464e-90dd-f5eb493753b0",
+  "twitterId": "1862507855686823936",
+  "scannedAt": "2026-07-29T09:27:32.393Z",
+  "fields": {
+    "username": "Bent_ahrar",
+    "displayName": "بنت الأحرار",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2081131388665761793/WfGeM6G0_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "إيران _ لبنان 🇱🇧",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 105491
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2081131388665761793/WfGeM6G0_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1862507855686823936/1785015670"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Nov 29 14:44:37 +0000 2024",
+              "name": "بنت الأحرار",
+              "screen_name": "Bent_ahrar"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODYyNTA3ODU1Njg2ODIzOTM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "إيران _ لبنان 🇱🇧"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2060466341019062332"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ناشطة إعلامية / نحن من ضربنا عمق الكيان وأسقطنا هيبة أمريكا\n(الخاص مهمل إلا للضرورة🚫)",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 5643,
+              "following": 3338
+            },
+            "rest_id": "1862507855686823936",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 2503,
+              "tweets": 9677
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg2MjUwNzg1NTY4NjgyMzkzNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1735139445630"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2081131388665761793/WfGeM6G0_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Nov 29 14:44:37 +0000 2024",
+              "name": "بنت الأحرار",
+              "screen_name": "Bent_ahrar"
+            },
+            "id": "VXNlcjoxODYyNTA3ODU1Njg2ODIzOTM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1862507855686823936",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg2MjUwNzg1NTY4NjgyMzkzNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
