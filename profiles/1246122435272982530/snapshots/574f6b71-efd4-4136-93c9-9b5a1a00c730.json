@@ -1,0 +1,176 @@
+{
+  "snapshotId": "574f6b71-efd4-4136-93c9-9b5a1a00c730",
+  "twitterId": "1246122435272982530",
+  "scannedAt": "2026-07-29T08:02:53.240Z",
+  "fields": {
+    "username": "Zarsolll",
+    "displayName": "زَر.سین",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1653436419216490499/ttcAihbP_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 25209
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1653436419216490499/ttcAihbP_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1246122435272982530/1683058377"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Apr 03 17:08:44 +0000 2020",
+              "name": "زَر.سین",
+              "screen_name": "Zarsolll"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjQ2MTIyNDM1MjcyOTgyNTMw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1877728207329267916"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ادبیات انگلیسی خوانده/همون معلم زبانی که صاحب پیج خفن زُلفاست😍✌🏻/ 💍🤍/https://t.co/X20WvX1qRx",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/zolfa.style?ig…",
+                      "expanded_url": "https://www.instagram.com/zolfa.style?igsh=cTh0d3Z4MWw5Z3ps",
+                      "indices": [
+                        69,
+                        92
+                      ],
+                      "url": "https://t.co/X20WvX1qRx"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 4144,
+              "following": 1251
+            },
+            "rest_id": "1246122435272982530",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 2152,
+              "tweets": 22856
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI0NjEyMjQzNTI3Mjk4MjUzMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1585935695616"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1653436419216490499/ttcAihbP_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Apr 03 17:08:44 +0000 2020",
+              "name": "زَر.سین",
+              "screen_name": "Zarsolll"
+            },
+            "id": "VXNlcjoxMjQ2MTIyNDM1MjcyOTgyNTMw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1246122435272982530",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI0NjEyMjQzNTI3Mjk4MjUzMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
