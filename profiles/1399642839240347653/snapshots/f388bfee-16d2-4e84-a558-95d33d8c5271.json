@@ -1,0 +1,194 @@
+{
+  "snapshotId": "f388bfee-16d2-4e84-a558-95d33d8c5271",
+  "twitterId": "1399642839240347653",
+  "scannedAt": "2026-07-29T19:40:46.788Z",
+  "fields": {
+    "username": "rezvan_naji",
+    "displayName": "رضوان ناجی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1939665299009085440/Depvaruu_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "شهر فیروزه‌ای",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 76010
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1939665299009085440/Depvaruu_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1399642839240347653/1747766929"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jun 01 08:24:40 +0000 2021",
+              "name": "رضوان ناجی",
+              "screen_name": "rezvan_naji"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Nursing student | I strive for hope and awakening. | I write about my experiences and compare what I see with the world…"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "21"
+            },
+            "id": "VXNlcjoxMzk5NjQyODM5MjQwMzQ3NjUz",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "شهر فیروزه‌ای"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2071615302383620500"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دانشجوی پرستاری | برای امید و بیداری تلاش می‌کنم. | تجربه‌هامو می‌نویسم و چیزی رو که می‌بینم با جهان مقایسه می‌کنم…",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 29409,
+              "following": 18311
+            },
+            "rest_id": "1399642839240347653",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 2550,
+              "tweets": 41078
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1757279306478"
+              }
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM5OTY0MjgzOTI0MDM0NzY1Mw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1747766979687"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1939665299009085440/Depvaruu_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Jun 01 08:24:40 +0000 2021",
+              "name": "رضوان ناجی",
+              "screen_name": "rezvan_naji"
+            },
+            "id": "VXNlcjoxMzk5NjQyODM5MjQwMzQ3NjUz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1399642839240347653",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM5OTY0MjgzOTI0MDM0NzY1Mw==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1757279306478"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
