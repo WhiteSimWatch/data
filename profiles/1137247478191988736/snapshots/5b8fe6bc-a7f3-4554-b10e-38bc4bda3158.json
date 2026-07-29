@@ -1,0 +1,178 @@
+{
+  "snapshotId": "5b8fe6bc-a7f3-4554-b10e-38bc4bda3158",
+  "twitterId": "1137247478191988736",
+  "scannedAt": "2026-07-29T04:16:08.485Z",
+  "fields": {
+    "username": "MohammadBeigi77",
+    "displayName": "MohammadBeigi🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041121481904590848/BkbjuZrZ_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 5526
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2041121481904590848/BkbjuZrZ_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1137247478191988736/1612280458"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jun 08 06:38:22 +0000 2019",
+              "name": "MohammadBeigi🎒",
+              "screen_name": "MohammadBeigi77"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTM3MjQ3NDc4MTkxOTg4NzM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 16,
+                "month": 1,
+                "visibility": "Public",
+                "year_visibility": "Followers"
+              }
+            },
+            "location": {
+              "location": "tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 933,
+                  "name": "Media Personality"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "2043727302899503557"
+            },
+            "profile_bio": {
+              "description": "زیر علمت امن ترین جای جهان است   چیزی که عیان است چه حاجت به بیان است",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 491,
+              "following": 797
+            },
+            "rest_id": "1137247478191988736",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 67,
+              "tweets": 1710
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTEzNzI0NzQ3ODE5MTk4ODczNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1560063810402"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2041121481904590848/BkbjuZrZ_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jun 08 06:38:22 +0000 2019",
+              "name": "MohammadBeigi🎒",
+              "screen_name": "MohammadBeigi77"
+            },
+            "id": "VXNlcjoxMTM3MjQ3NDc4MTkxOTg4NzM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1137247478191988736",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTEzNzI0NzQ3ODE5MTk4ODczNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
