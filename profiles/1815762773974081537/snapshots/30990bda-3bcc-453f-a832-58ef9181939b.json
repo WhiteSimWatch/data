@@ -1,0 +1,175 @@
+{
+  "snapshotId": "30990bda-3bcc-453f-a832-58ef9181939b",
+  "twitterId": "1815762773974081537",
+  "scannedAt": "2026-07-29T03:11:49.133Z",
+  "fields": {
+    "username": "sammr2234",
+    "displayName": "جهان آرا",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2066102744163729408/-J2JjIMD_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 5555
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2066102744163729408/-J2JjIMD_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1815762773974081537/1740428050"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jul 23 14:56:25 +0000 2024",
+              "name": "جهان آرا",
+              "screen_name": "sammr2234"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODE1NzYyNzczOTc0MDgxNTM3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2063873687950917874"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 144,
+                  "name": "Education"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1960099191117447181"
+            },
+            "profile_bio": {
+              "description": "🌺🌺🌺🌺یا مهدی ادرکنی🌺🌺🌺🌺\n\nروانشناس\n\n #حمایت_انقلابی\n\n #فالو_بک",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1611,
+              "following": 1640
+            },
+            "rest_id": "1815762773974081537",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 396,
+              "tweets": 2672
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgxNTc2Mjc3Mzk3NDA4MTUzNw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1722187128094"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2066102744163729408/-J2JjIMD_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Jul 23 14:56:25 +0000 2024",
+              "name": "جهان آرا",
+              "screen_name": "sammr2234"
+            },
+            "id": "VXNlcjoxODE1NzYyNzczOTc0MDgxNTM3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1815762773974081537",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgxNTc2Mjc3Mzk3NDA4MTUzNw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
