@@ -1,0 +1,175 @@
+{
+  "snapshotId": "bd32d6e4-0fb9-4910-9853-afc15b18c2a2",
+  "twitterId": "1132652864386555904",
+  "scannedAt": "2026-07-29T07:00:41.961Z",
+  "fields": {
+    "username": "Easternauburn",
+    "displayName": "شرقیِ بور",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2079643608995524608/I1A9bbPZ_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 101674
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2079643608995524608/I1A9bbPZ_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1132652864386555904/1784661104"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun May 26 14:21:01 +0000 2019",
+              "name": "شرقیِ بور",
+              "screen_name": "Easternauburn"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTMyNjUyODY0Mzg2NTU1OTA0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1511983190692540417"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1067,
+                  "name": "Researcher"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "2029849417801720298"
+            },
+            "profile_bio": {
+              "description": "‌‌Master of Communication Sciences👩🏻‍🎓\nCyberspace researcher👩🏻‍💻\nUT🎓",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2026,
+              "following": 1291
+            },
+            "rest_id": "1132652864386555904",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 151,
+              "tweets": 7423
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTEzMjY1Mjg2NDM4NjU1NTkwNA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1682500344140"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2079643608995524608/I1A9bbPZ_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun May 26 14:21:01 +0000 2019",
+              "name": "شرقیِ بور",
+              "screen_name": "Easternauburn"
+            },
+            "id": "VXNlcjoxMTMyNjUyODY0Mzg2NTU1OTA0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1132652864386555904",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTEzMjY1Mjg2NDM4NjU1NTkwNA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
