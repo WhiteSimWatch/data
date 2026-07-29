@@ -1,0 +1,159 @@
+{
+  "snapshotId": "6aec23c1-6df1-4676-9376-3defe08c0118",
+  "twitterId": "734567929",
+  "scannedAt": "2026-07-29T03:42:09.282Z",
+  "fields": {
+    "username": "hassanrastagar",
+    "displayName": "hassan roustami",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1887079645939404800/vS2Qc9rN_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "France",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 190
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1887079645939404800/vS2Qc9rN_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/734567929/1771053205"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Aug 03 09:36:41 +0000 2012",
+              "name": "hassan roustami",
+              "screen_name": "hassanrastagar"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3MzQ1Njc5Mjk=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "صحفي مختص في شؤون الشرق الأوسط- إيران (محافظة کيلان )\n\nإذا الشّعْبُ  يَوْمَاً  أرَادَ   الْحَيَـاةَ       فَلا  بُدَّ  أنْ  يَسْتَجِيبَ   القَـدَر",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 886,
+              "following": 1244
+            },
+            "rest_id": "734567929",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 807,
+              "tweets": 2210
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzM0NTY3OTI5",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "France",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Web",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1887079645939404800/vS2Qc9rN_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Aug 03 09:36:41 +0000 2012",
+              "name": "hassan roustami",
+              "screen_name": "hassanrastagar"
+            },
+            "id": "VXNlcjo3MzQ1Njc5Mjk=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "734567929",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzM0NTY3OTI5",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
