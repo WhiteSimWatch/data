@@ -1,0 +1,163 @@
+{
+  "snapshotId": "d1d5937a-3fce-45ca-ba63-eceb9fde7d6b",
+  "twitterId": "1452070591515742211",
+  "scannedAt": "2026-07-30T03:25:49.678Z",
+  "fields": {
+    "username": "Mahdi__jim",
+    "displayName": "Mahdi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2042004791706992640/tn4W0M6I_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": " ایران  ",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 14923
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2042004791706992640/tn4W0M6I_normal.jpg"
+            },
+            "banner": {
+              "image_url": ""
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Oct 24 00:33:23 +0000 2021",
+              "name": "Mahdi",
+              "screen_name": "Mahdi__jim"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDUyMDcwNTkxNTE1NzQyMjEx",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": " ایران  "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2042951974274896137"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2155,
+              "following": 12
+            },
+            "rest_id": "1452070591515742211",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 80,
+              "tweets": 13802
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ1MjA3MDU5MTUxNTc0MjIxMQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1775686741697"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2042004791706992640/tn4W0M6I_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Oct 24 00:33:23 +0000 2021",
+              "name": "Mahdi",
+              "screen_name": "Mahdi__jim"
+            },
+            "id": "VXNlcjoxNDUyMDcwNTkxNTE1NzQyMjEx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1452070591515742211",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ1MjA3MDU5MTUxNTc0MjIxMQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
