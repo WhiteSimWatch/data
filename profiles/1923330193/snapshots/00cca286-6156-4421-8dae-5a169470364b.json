@@ -1,0 +1,176 @@
+{
+  "snapshotId": "00cca286-6156-4421-8dae-5a169470364b",
+  "twitterId": "1923330193",
+  "scannedAt": "2026-07-30T04:16:01.435Z",
+  "fields": {
+    "username": "ABayatzanjani",
+    "displayName": "دفتر آقای اسدالله بیات‌زنجانی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/875840304322097153/BRPR-nbM_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Qom",
+    "accountBasedIn": "Netherlands",
+    "connectedVia": "United Arab Emirates App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 200
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/875840304322097153/BRPR-nbM_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1923330193/1689757890"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Oct 01 12:25:59 +0000 2013",
+              "name": "دفتر آقای اسدالله بیات‌زنجانی",
+              "screen_name": "ABayatzanjani"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTIzMzMwMTkz",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Qom"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2009193795691376838"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "صفحه رسمی دفتر آقای اسدالله بیات زنجانی/ مرجع تقلید شیعه",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "bayat.info",
+                      "expanded_url": "http://www.bayat.info",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/CdVlN2qGd4"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 4672,
+              "following": 0
+            },
+            "rest_id": "1923330193",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 796,
+              "tweets": 2418
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/CdVlN2qGd4"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkyMzMzMDE5Mw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Netherlands",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "United Arab Emirates App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/875840304322097153/BRPR-nbM_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Oct 01 12:25:59 +0000 2013",
+              "name": "دفتر آقای اسدالله بیات‌زنجانی",
+              "screen_name": "ABayatzanjani"
+            },
+            "id": "VXNlcjoxOTIzMzMwMTkz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1923330193",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkyMzMzMDE5Mw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
