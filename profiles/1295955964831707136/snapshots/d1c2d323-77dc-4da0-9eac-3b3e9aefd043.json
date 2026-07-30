@@ -1,0 +1,178 @@
+{
+  "snapshotId": "d1c2d323-77dc-4da0-9eac-3b3e9aefd043",
+  "twitterId": "1295955964831707136",
+  "scannedAt": "2026-07-30T06:27:33.117Z",
+  "fields": {
+    "username": "MrXLVII",
+    "displayName": "47",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1736776121910280192/GsGW7xoI_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Chart ",
+    "accountBasedIn": "Turkey",
+    "connectedVia": "Turkey Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 26080
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1736776121910280192/GsGW7xoI_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1295955964831707136/1775632455"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Aug 19 05:29:27 +0000 2020",
+              "name": "47",
+              "screen_name": "MrXLVII"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjk1OTU1OTY0ODMxNzA3MTM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 15,
+                "month": 12,
+                "visibility": "Public",
+                "year_visibility": "Self"
+              }
+            },
+            "location": {
+              "location": "Chart "
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1009,
+                  "name": "Community"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1574742217746440194"
+            },
+            "profile_bio": {
+              "description": "Full-time $NQ Trader\n| #ICT Student",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 473,
+              "following": 777
+            },
+            "rest_id": "1295955964831707136",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 176,
+              "tweets": 1785
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI5NTk1NTk2NDgzMTcwNzEzNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Turkey",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Turkey Android App",
+              "username_changes": {
+                "count": "4",
+                "last_changed_at_msec": "1742976921656"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1736776121910280192/GsGW7xoI_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Aug 19 05:29:27 +0000 2020",
+              "name": "47",
+              "screen_name": "MrXLVII"
+            },
+            "id": "VXNlcjoxMjk1OTU1OTY0ODMxNzA3MTM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1295955964831707136",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI5NTk1NTk2NDgzMTcwNzEzNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
