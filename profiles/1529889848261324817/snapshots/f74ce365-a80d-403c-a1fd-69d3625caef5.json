@@ -1,0 +1,160 @@
+{
+  "snapshotId": "f74ce365-a80d-403c-a1fd-69d3625caef5",
+  "twitterId": "1529889848261324817",
+  "scannedAt": "2026-07-30T04:48:53.895Z",
+  "fields": {
+    "username": "zenab_abaciyan",
+    "displayName": "خانم زینبa",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1792439515417583616/jZR54kdB_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Netherlands Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 45366
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1792439515417583616/jZR54kdB_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1529889848261324817/1716185907"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu May 26 18:19:14 +0000 2022",
+              "name": "خانم زینبa",
+              "screen_name": "zenab_abaciyan"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTI5ODg5ODQ4MjYxMzI0ODE3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خدایا یادم بده،یادم نره،یادت کنم...",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1907,
+              "following": 1012
+            },
+            "rest_id": "1529889848261324817",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 5726,
+              "tweets": 164740
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTUyOTg4OTg0ODI2MTMyNDgxNw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Netherlands Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1653589234637"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1792439515417583616/jZR54kdB_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu May 26 18:19:14 +0000 2022",
+              "name": "خانم زینبa",
+              "screen_name": "zenab_abaciyan"
+            },
+            "id": "VXNlcjoxNTI5ODg5ODQ4MjYxMzI0ODE3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1529889848261324817",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUyOTg4OTg0ODI2MTMyNDgxNw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
