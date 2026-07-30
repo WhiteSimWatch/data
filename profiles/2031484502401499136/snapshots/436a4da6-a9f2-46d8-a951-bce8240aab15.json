@@ -1,0 +1,163 @@
+{
+  "snapshotId": "436a4da6-a9f2-46d8-a951-bce8240aab15",
+  "twitterId": "2031484502401499136",
+  "scannedAt": "2026-07-30T09:25:49.334Z",
+  "fields": {
+    "username": "Emami_modir",
+    "displayName": "محمدمهدی امامی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2037121523740532737/NvdPt-Ea_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوری اسلامی ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 20
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2037121523740532737/NvdPt-Ea_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2031484502401499136/1775803739"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Mar 10 21:39:07 +0000 2026",
+              "name": "محمدمهدی امامی",
+              "screen_name": "Emami_modir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDMxNDg0NTAyNDAxNDk5MTM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2041776264491458573"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 0,
+              "following": 28
+            },
+            "rest_id": "2031484502401499136",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 6,
+              "tweets": 23
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAzMTQ4NDUwMjQwMTQ5OTEzNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1775407382498"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2037121523740532737/NvdPt-Ea_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Mar 10 21:39:07 +0000 2026",
+              "name": "محمدمهدی امامی",
+              "screen_name": "Emami_modir"
+            },
+            "id": "VXNlcjoyMDMxNDg0NTAyNDAxNDk5MTM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2031484502401499136",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAzMTQ4NDUwMjQwMTQ5OTEzNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
