@@ -1,0 +1,188 @@
+{
+  "snapshotId": "5f425d2b-0ac7-43b7-8564-6c14cedec8c7",
+  "twitterId": "838462272955695105",
+  "scannedAt": "2026-07-30T06:39:22.869Z",
+  "fields": {
+    "username": "namabantv",
+    "displayName": "نمابان",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1996825420423925760/KJwcbErr_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran, Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Australia App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 300
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1996825420423925760/KJwcbErr_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/838462272955695105/1764919765"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Mar 05 18:52:38 +0000 2017",
+              "name": "نمابان",
+              "screen_name": "namabantv"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4Mzg0NjIyNzI5NTU2OTUxMDU=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran, Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1134337792803254272"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 15,
+                  "name": "Entertainment & Recreation"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1996821546720240023"
+            },
+            "profile_bio": {
+              "description": "دنیات رو پلی کن",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "namaban.ir",
+                      "expanded_url": "http://www.namaban.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/d22SVtteMl"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 72,
+              "following": 10
+            },
+            "rest_id": "838462272955695105",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 97,
+              "tweets": 241
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/d22SVtteMl"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODM4NDYyMjcyOTU1Njk1MTA1",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Australia App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1764914419038"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1996825420423925760/KJwcbErr_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Mar 05 18:52:38 +0000 2017",
+              "name": "نمابان",
+              "screen_name": "namabantv"
+            },
+            "id": "VXNlcjo4Mzg0NjIyNzI5NTU2OTUxMDU=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "838462272955695105",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODM4NDYyMjcyOTU1Njk1MTA1",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
