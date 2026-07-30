@@ -1,0 +1,164 @@
+{
+  "snapshotId": "fbfd060f-bf87-44b8-8547-670ad450213c",
+  "twitterId": "1612044938643914760",
+  "scannedAt": "2026-07-30T22:04:37.320Z",
+  "fields": {
+    "username": "anese_eh",
+    "displayName": "آنِسه",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1849868525999095810/if66nDZ4_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوری اسلامی ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Egypt App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 69025
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1849868525999095810/if66nDZ4_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1612044938643914760/1761859597"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jan 08 11:14:42 +0000 2023",
+              "name": "آنِسه",
+              "screen_name": "anese_eh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjEyMDQ0OTM4NjQzOTE0NzYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1745069113657929731"
+              ]
+            },
+            "possibly_sensitive": true,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا | اِنقلابی اَسیر نَفسَش‌نیست..",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 4170,
+              "following": 3500
+            },
+            "rest_id": "1612044938643914760",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 354,
+              "tweets": 49468
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTYxMjA0NDkzODY0MzkxNDc2MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Egypt App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1673176521930"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1849868525999095810/if66nDZ4_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jan 08 11:14:42 +0000 2023",
+              "name": "آنِسه",
+              "screen_name": "anese_eh"
+            },
+            "id": "VXNlcjoxNjEyMDQ0OTM4NjQzOTE0NzYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1612044938643914760",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYxMjA0NDkzODY0MzkxNDc2MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
