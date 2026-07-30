@@ -1,0 +1,159 @@
+{
+  "snapshotId": "0986671d-e3a8-42eb-8e00-45ea0fc00913",
+  "twitterId": "1097182680603598848",
+  "scannedAt": "2026-07-30T09:19:31.646Z",
+  "fields": {
+    "username": "RezaSayadi_",
+    "displayName": "Reza Sayadi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2055596940126023680/jedomapK_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 3823
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2055596940126023680/jedomapK_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1097182680603598848/1587831235"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Feb 17 17:15:10 +0000 2019",
+              "name": "Reza Sayadi",
+              "screen_name": "RezaSayadi_"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDk3MTgyNjgwNjAzNTk4ODQ4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 114,
+              "following": 126
+            },
+            "rest_id": "1097182680603598848",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 25,
+              "tweets": 801
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTA5NzE4MjY4MDYwMzU5ODg0OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1620935864548"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2055596940126023680/jedomapK_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Feb 17 17:15:10 +0000 2019",
+              "name": "Reza Sayadi",
+              "screen_name": "RezaSayadi_"
+            },
+            "id": "VXNlcjoxMDk3MTgyNjgwNjAzNTk4ODQ4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1097182680603598848",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA5NzE4MjY4MDYwMzU5ODg0OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
