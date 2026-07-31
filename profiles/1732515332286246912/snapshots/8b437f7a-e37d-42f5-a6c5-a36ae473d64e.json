@@ -1,0 +1,177 @@
+{
+  "snapshotId": "8b437f7a-e37d-42f5-a6c5-a36ae473d64e",
+  "twitterId": "1732515332286246912",
+  "scannedAt": "2026-07-31T04:04:33.734Z",
+  "fields": {
+    "username": "hanieeh__dh",
+    "displayName": "هـــانیه",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1831400719229849600/fxeeRJUV_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "United States",
+    "accountBasedIn": "United States",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 35982
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1831400719229849600/fxeeRJUV_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1732515332286246912/1727698474"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Dec 06 21:40:43 +0000 2023",
+              "name": "هـــانیه",
+              "screen_name": "hanieeh__dh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzMyNTE1MzMyMjg2MjQ2OTEy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "United States"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1948321136409772106"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "حُبُّ الحُسَین هُوِیَتُنا",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/hanieh_dh?utm_…",
+                      "expanded_url": "https://www.instagram.com/hanieh_dh?utm_source=qr&igsh=MTB5djZxcHUwcGpi",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/gnXtEAlBpS"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3683,
+              "following": 3376
+            },
+            "rest_id": "1732515332286246912",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 972,
+              "tweets": 18907
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/gnXtEAlBpS"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTczMjUxNTMzMjI4NjI0NjkxMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1713727969062"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1831400719229849600/fxeeRJUV_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Dec 06 21:40:43 +0000 2023",
+              "name": "هـــانیه",
+              "screen_name": "hanieeh__dh"
+            },
+            "id": "VXNlcjoxNzMyNTE1MzMyMjg2MjQ2OTEy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1732515332286246912",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTczMjUxNTMzMjI4NjI0NjkxMg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
