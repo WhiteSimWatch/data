@@ -1,0 +1,171 @@
+{
+  "snapshotId": "70409ff4-41fe-4c39-9123-2dd8a49c5236",
+  "twitterId": "1449139220463996932",
+  "scannedAt": "2026-07-31T05:18:44.952Z",
+  "fields": {
+    "username": "Dr_pahlevan",
+    "displayName": "محمد پهلوان کاشی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1834273790613745664/icLPEmUD_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "مشهد",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Germany Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 52
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1834273790613745664/icLPEmUD_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1449139220463996932/1634339605"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Oct 15 22:25:15 +0000 2021",
+              "name": "محمد پهلوان کاشی",
+              "screen_name": "Dr_pahlevan"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDQ5MTM5MjIwNDYzOTk2OTMy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "مشهد"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 933,
+                  "name": "Media Personality"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1811729487421166019"
+            },
+            "profile_bio": {
+              "description": "افوض امری الی الله٫دندانپزشک٫متخصص درمان ریشه٫هیأت علمی دانشکده دندانپزشکی مشهد٫دبیر کل اسبق جامعه اسلامی دانشجویان٫مدیر روابط عمومی دانشگاه",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 61,
+              "following": 75
+            },
+            "rest_id": "1449139220463996932",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 13,
+              "tweets": 43
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ0OTEzOTIyMDQ2Mzk5NjkzMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Germany Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1634337159084"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1834273790613745664/icLPEmUD_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Oct 15 22:25:15 +0000 2021",
+              "name": "محمد پهلوان کاشی",
+              "screen_name": "Dr_pahlevan"
+            },
+            "id": "VXNlcjoxNDQ5MTM5MjIwNDYzOTk2OTMy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1449139220463996932",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ0OTEzOTIyMDQ2Mzk5NjkzMg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
