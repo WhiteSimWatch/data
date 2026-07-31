@@ -1,0 +1,182 @@
+{
+  "snapshotId": "b1284464-271d-4040-8043-08fa33b84baf",
+  "twitterId": "2629521287",
+  "scannedAt": "2026-07-31T04:53:26.974Z",
+  "fields": {
+    "username": "pegtum_",
+    "displayName": "پگتم",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2068711336909877248/hoh8kRUh_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran",
+    "accountBasedIn": "United Arab Emirates",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 24772
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2068711336909877248/hoh8kRUh_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2629521287/1590012065"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jun 21 21:16:38 +0000 2014",
+              "name": "پگتم",
+              "screen_name": "pegtum_"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyNjI5NTIxMjg3",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1463150154597416960"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1606435275634360323"
+            },
+            "profile_bio": {
+              "description": "just a smidge.",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/pegtum",
+                      "expanded_url": "http://instagram.com/pegtum",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/mbeZg6Vews"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 647,
+              "following": 204
+            },
+            "rest_id": "2629521287",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 109,
+              "tweets": 3761
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/mbeZg6Vews"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjYyOTUyMTI4Nw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United Arab Emirates",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "8",
+                "last_changed_at_msec": "1595351477913"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2068711336909877248/hoh8kRUh_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jun 21 21:16:38 +0000 2014",
+              "name": "پگتم",
+              "screen_name": "pegtum_"
+            },
+            "id": "VXNlcjoyNjI5NTIxMjg3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2629521287",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjYyOTUyMTI4Nw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
