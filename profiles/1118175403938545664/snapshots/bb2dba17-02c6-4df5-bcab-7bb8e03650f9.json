@@ -1,0 +1,175 @@
+{
+  "snapshotId": "bb2dba17-02c6-4df5-bcab-7bb8e03650f9",
+  "twitterId": "1118175403938545664",
+  "scannedAt": "2026-07-31T13:10:05.625Z",
+  "fields": {
+    "username": "haj_kian",
+    "displayName": "محمد کیانی خواه",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1926290437616111616/bOVuy4uy_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "شهرمن شهر قشنگ اصفهان",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 20121
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1926290437616111616/bOVuy4uy_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1118175403938545664/1704614991"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Apr 16 15:32:45 +0000 2019",
+              "name": "محمد کیانی خواه",
+              "screen_name": "haj_kian"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTE4MTc1NDAzOTM4NTQ1NjY0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "شهرمن شهر قشنگ اصفهان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1696803211485561152"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1017,
+                  "name": "Artist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1983426858088792246"
+            },
+            "profile_bio": {
+              "description": "🎙درحال خوردن خاک صحنه                                         \n         🥇خلاق ترین مجری جشنواره ملی سعدی ۱۴۰۱",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1834,
+              "following": 3582
+            },
+            "rest_id": "1118175403938545664",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 357,
+              "tweets": 8877
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTExODE3NTQwMzkzODU0NTY2NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "6",
+                "last_changed_at_msec": "1582806061620"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1926290437616111616/bOVuy4uy_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Apr 16 15:32:45 +0000 2019",
+              "name": "محمد کیانی خواه",
+              "screen_name": "haj_kian"
+            },
+            "id": "VXNlcjoxMTE4MTc1NDAzOTM4NTQ1NjY0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1118175403938545664",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTExODE3NTQwMzkzODU0NTY2NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
