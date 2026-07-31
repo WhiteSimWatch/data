@@ -1,0 +1,159 @@
+{
+  "snapshotId": "9d063e3c-1263-4604-bdd2-160ea3371a4c",
+  "twitterId": "1921614006898282496",
+  "scannedAt": "2026-07-31T13:58:24.974Z",
+  "fields": {
+    "username": "GKagazi77240",
+    "displayName": "🎒Gol Kagazi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1969444853722292224/oV1HEm5I_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "شیراز",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2505
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1969444853722292224/oV1HEm5I_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1921614006898282496/1747332473"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun May 11 17:13:56 +0000 2025",
+              "name": "🎒Gol Kagazi",
+              "screen_name": "GKagazi77240"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTIxNjE0MDA2ODk4MjgyNDk2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "شیراز"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فالو=فالو بک",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1402,
+              "following": 1516
+            },
+            "rest_id": "1921614006898282496",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 99,
+              "tweets": 2535
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkyMTYxNDAwNjg5ODI4MjQ5Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1969444853722292224/oV1HEm5I_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun May 11 17:13:56 +0000 2025",
+              "name": "🎒Gol Kagazi",
+              "screen_name": "GKagazi77240"
+            },
+            "id": "VXNlcjoxOTIxNjE0MDA2ODk4MjgyNDk2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1921614006898282496",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkyMTYxNDAwNjg5ODI4MjQ5Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
