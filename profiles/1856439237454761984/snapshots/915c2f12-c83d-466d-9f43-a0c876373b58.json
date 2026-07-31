@@ -1,0 +1,176 @@
+{
+  "snapshotId": "915c2f12-c83d-466d-9f43-a0c876373b58",
+  "twitterId": "1856439237454761984",
+  "scannedAt": "2026-07-31T04:08:45.187Z",
+  "fields": {
+    "username": "fa_ho3naa",
+    "displayName": "Fatemehosna",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2080031070117081088/pOSh08m__normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "طِهــرون",
+    "accountBasedIn": "Turkey",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 15341
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2080031070117081088/pOSh08m__normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1856439237454761984/1763833285"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Nov 12 20:50:06 +0000 2024",
+              "name": "Fatemehosna",
+              "screen_name": "fa_ho3naa"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODU2NDM5MjM3NDU0NzYxOTg0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "طِهــرون"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2007763087240368424"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "حُبّ عليٍّ هويّتي...🔗 https://t.co/SYgKygEg1P",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/malal118",
+                      "expanded_url": "https://t.me/malal118",
+                      "indices": [
+                        22,
+                        45
+                      ],
+                      "url": "https://t.co/SYgKygEg1P"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 699,
+              "following": 286
+            },
+            "rest_id": "1856439237454761984",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 84,
+              "tweets": 4894
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg1NjQzOTIzNzQ1NDc2MTk4NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Turkey",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1731444687280"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2080031070117081088/pOSh08m__normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Nov 12 20:50:06 +0000 2024",
+              "name": "Fatemehosna",
+              "screen_name": "fa_ho3naa"
+            },
+            "id": "VXNlcjoxODU2NDM5MjM3NDU0NzYxOTg0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1856439237454761984",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1NjQzOTIzNzQ1NDc2MTk4NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
