@@ -1,0 +1,177 @@
+{
+  "snapshotId": "2a04a14c-f322-4959-8f25-c501223ed274",
+  "twitterId": "1206971993582649350",
+  "scannedAt": "2026-07-31T03:56:48.859Z",
+  "fields": {
+    "username": "s_nasrollah113",
+    "displayName": "﮼صابر‌نصرالله ﮼",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1540244347484082177/vzLSEoaP_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 47745
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1540244347484082177/vzLSEoaP_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1206971993582649350/1684578784"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Dec 17 16:18:52 +0000 2019",
+              "name": "﮼صابر‌نصرالله ﮼",
+              "screen_name": "s_nasrollah113"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjA2OTcxOTkzNTgyNjQ5MzUw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1848826524620800497"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یقیناٌکُلهُ خیر🕊🤍",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/nasrollah113",
+                      "expanded_url": "https://t.me/nasrollah113",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/KIVH3Xi0dY"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 8582,
+              "following": 2621
+            },
+            "rest_id": "1206971993582649350",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 679,
+              "tweets": 5333
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/KIVH3Xi0dY"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIwNjk3MTk5MzU4MjY0OTM1MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1636022571294"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1540244347484082177/vzLSEoaP_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Dec 17 16:18:52 +0000 2019",
+              "name": "﮼صابر‌نصرالله ﮼",
+              "screen_name": "s_nasrollah113"
+            },
+            "id": "VXNlcjoxMjA2OTcxOTkzNTgyNjQ5MzUw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1206971993582649350",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIwNjk3MTk5MzU4MjY0OTM1MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
