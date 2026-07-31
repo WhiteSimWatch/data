@@ -1,0 +1,158 @@
+{
+  "snapshotId": "25c7c507-c42e-4390-b623-394a2b86d060",
+  "twitterId": "2060794101298081794",
+  "scannedAt": "2026-07-31T04:45:54.607Z",
+  "fields": {
+    "username": "alieuaz",
+    "displayName": "ali",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2062295323758739456/HptWCekR_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "United Kingdom",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 155
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2062295323758739456/HptWCekR_normal.jpg"
+            },
+            "banner": {
+              "image_url": ""
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat May 30 18:43:57 +0000 2026",
+              "name": "ali",
+              "screen_name": "alieuaz"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDYwNzk0MTAxMjk4MDgxNzk0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 16,
+              "following": 28
+            },
+            "rest_id": "2060794101298081794",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 34,
+              "tweets": 34
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA2MDc5NDEwMTI5ODA4MTc5NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United Kingdom",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2062295323758739456/HptWCekR_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat May 30 18:43:57 +0000 2026",
+              "name": "ali",
+              "screen_name": "alieuaz"
+            },
+            "id": "VXNlcjoyMDYwNzk0MTAxMjk4MDgxNzk0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2060794101298081794",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA2MDc5NDEwMTI5ODA4MTc5NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
