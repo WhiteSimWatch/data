@@ -1,0 +1,183 @@
+{
+  "snapshotId": "c0300f7c-1b60-499e-a83d-301fd0aa0f7e",
+  "twitterId": "1282352242989789185",
+  "scannedAt": "2026-07-31T03:16:35.580Z",
+  "fields": {
+    "username": "Persianserene1",
+    "displayName": "Persian Girl",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1982062620824817664/R7504uH4_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "United States",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 108860
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1982062620824817664/R7504uH4_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1282352242989789185/1754410803"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jul 12 16:33:15 +0000 2020",
+              "name": "Persian Girl",
+              "screen_name": "Persianserene1"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "11"
+            },
+            "id": "VXNlcjoxMjgyMzUyMjQyOTg5Nzg5MTg1",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2032108803693445173"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Living simply, thinking deeply with a Persian soul. Backup @persianserene2",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 44012,
+              "following": 810
+            },
+            "rest_id": "1282352242989789185",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 870,
+              "tweets": 5224
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1767465055775"
+              }
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI4MjM1MjI0Mjk4OTc4OTE4NQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "9",
+                "last_changed_at_msec": "1753578358935"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1982062620824817664/R7504uH4_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jul 12 16:33:15 +0000 2020",
+              "name": "Persian Girl",
+              "screen_name": "Persianserene1"
+            },
+            "id": "VXNlcjoxMjgyMzUyMjQyOTg5Nzg5MTg1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1282352242989789185",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI4MjM1MjI0Mjk4OTc4OTE4NQ==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1767465055775"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
