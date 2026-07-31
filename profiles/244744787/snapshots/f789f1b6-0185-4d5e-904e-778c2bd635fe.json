@@ -1,0 +1,158 @@
+{
+  "snapshotId": "f789f1b6-0185-4d5e-904e-778c2bd635fe",
+  "twitterId": "244744787",
+  "scannedAt": "2026-07-31T04:57:28.645Z",
+  "fields": {
+    "username": "miryousefi",
+    "displayName": "Alireza Miryousefi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1102634804179275776/qXbNiHHi_normal.png",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Armenia",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1723
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1102634804179275776/qXbNiHHi_normal.png"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/244744787/1612553689"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jan 30 01:36:25 +0000 2011",
+              "name": "Alireza Miryousefi",
+              "screen_name": "miryousefi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyNDQ3NDQ3ODc=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": true,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "DG for Foreign Media @IRIMFA_EN, PhD in political Sociology.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3911,
+              "following": 214
+            },
+            "rest_id": "244744787",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 501,
+              "tweets": 3159
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjQ0NzQ0Nzg3",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Armenia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1102634804179275776/qXbNiHHi_normal.png"
+            },
+            "core": {
+              "created_at": "Sun Jan 30 01:36:25 +0000 2011",
+              "name": "Alireza Miryousefi",
+              "screen_name": "miryousefi"
+            },
+            "id": "VXNlcjoyNDQ3NDQ3ODc=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "244744787",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjQ0NzQ0Nzg3",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
