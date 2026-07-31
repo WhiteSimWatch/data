@@ -1,0 +1,164 @@
+{
+  "snapshotId": "1824ee05-4873-4165-9c26-cbfad971311a",
+  "twitterId": "1757322090858815488",
+  "scannedAt": "2026-07-31T03:02:58.352Z",
+  "fields": {
+    "username": "LetUsJournal",
+    "displayName": "StefsNews",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1884952334607826944/hAK5kn_B_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Copenhagen, Denmark",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 15117
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1884952334607826944/hAK5kn_B_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1757322090858815488/1716453465"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Feb 13 08:33:52 +0000 2024",
+              "name": "StefsNews",
+              "screen_name": "LetUsJournal"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzU3MzIyMDkwODU4ODE1NDg4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Copenhagen, Denmark"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1850522670124736663"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Journalism is at the heart of what we know. We need scholars, political scientists, historians and eye witnesses to guide our awareness, insight and actions.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 436,
+              "following": 1219
+            },
+            "rest_id": "1757322090858815488",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 4135,
+              "tweets": 21416
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc1NzMyMjA5MDg1ODgxNTQ4OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "West Asia App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1707813470592"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1884952334607826944/hAK5kn_B_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Feb 13 08:33:52 +0000 2024",
+              "name": "StefsNews",
+              "screen_name": "LetUsJournal"
+            },
+            "id": "VXNlcjoxNzU3MzIyMDkwODU4ODE1NDg4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1757322090858815488",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc1NzMyMjA5MDg1ODgxNTQ4OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
