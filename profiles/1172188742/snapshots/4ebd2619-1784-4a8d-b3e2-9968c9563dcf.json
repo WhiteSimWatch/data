@@ -1,0 +1,175 @@
+{
+  "snapshotId": "4ebd2619-1784-4a8d-b3e2-9968c9563dcf",
+  "twitterId": "1172188742",
+  "scannedAt": "2026-07-31T05:58:07.854Z",
+  "fields": {
+    "username": "SaeeedMon",
+    "displayName": "سعيد مون",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1960028016609816578/A8fSOutK_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Persian Gulf ",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 54015
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1960028016609816578/A8fSOutK_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1172188742/1771174617"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Feb 12 14:46:46 +0000 2013",
+              "name": "سعيد مون",
+              "screen_name": "SaeeedMon"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTcyMTg4NzQy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Persian Gulf "
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2068669898025205989"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 432,
+                  "name": "Electrician"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1621583435495051264"
+            },
+            "profile_bio": {
+              "description": "یه سیاست زده استان فارسی، تبعید شده به هرمزگان 🥹. 👷‍♂️ تعمیرکار برق، کولرگازی و... \nعاشق ماهی هَوُر و دیونه عطر اینترلود امواج.\nو\n﴿إِنَّا مُنْتَقِمُونَ﴾✊🏻🚩",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3275,
+              "following": 3512
+            },
+            "rest_id": "1172188742",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3065,
+              "tweets": 19852
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE3MjE4ODc0Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "4",
+                "last_changed_at_msec": "1688022586282"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1960028016609816578/A8fSOutK_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Feb 12 14:46:46 +0000 2013",
+              "name": "سعيد مون",
+              "screen_name": "SaeeedMon"
+            },
+            "id": "VXNlcjoxMTcyMTg4NzQy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1172188742",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE3MjE4ODc0Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
