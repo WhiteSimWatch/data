@@ -1,0 +1,177 @@
+{
+  "snapshotId": "01464f46-9465-4e4b-90df-12019402061c",
+  "twitterId": "1817514091436785664",
+  "scannedAt": "2026-07-31T04:30:08.190Z",
+  "fields": {
+    "username": "fans_pezeshkian",
+    "displayName": "حامیان دکتر پزشکیان",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2038641588965175296/kdg4Xo9D_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "United States",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1305
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2038641588965175296/kdg4Xo9D_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1817514091436785664/1749977901"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jul 28 10:55:18 +0000 2024",
+              "name": "حامیان دکتر پزشکیان",
+              "screen_name": "fans_pezeshkian"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODE3NTE0MDkxNDM2Nzg1NjY0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2067741075616207050"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خاک میخوریم اما خاک نمی‌دهیم \n#تن_فدای_وطن",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/fans_pezeshkia…",
+                      "expanded_url": "https://www.instagram.com/fans_pezeshkian1403?igsh=b2Z2aThqcGM1bmE1",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/jikudV3sff"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 131,
+              "following": 165
+            },
+            "rest_id": "1817514091436785664",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 56,
+              "tweets": 1063
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/jikudV3sff"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgxNzUxNDA5MTQzNjc4NTY2NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1726220835093"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2038641588965175296/kdg4Xo9D_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jul 28 10:55:18 +0000 2024",
+              "name": "حامیان دکتر پزشکیان",
+              "screen_name": "fans_pezeshkian"
+            },
+            "id": "VXNlcjoxODE3NTE0MDkxNDM2Nzg1NjY0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1817514091436785664",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgxNzUxNDA5MTQzNjc4NTY2NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
