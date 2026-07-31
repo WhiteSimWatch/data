@@ -1,0 +1,178 @@
+{
+  "snapshotId": "0d03b6fd-68c3-47c1-8fb0-8a3fa8f2d91c",
+  "twitterId": "1231117389678497792",
+  "scannedAt": "2026-07-31T03:22:30.872Z",
+  "fields": {
+    "username": "khanome_yas",
+    "displayName": "خانم یاس🚩",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2066267189917675520/OBpobLcQ_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "خیابان پائیز، کوی مهر، پلاک ۲۵",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 237393
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2066267189917675520/OBpobLcQ_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1231117389678497792/1781471487"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Feb 22 07:24:12 +0000 2020",
+              "name": "خانم یاس🚩",
+              "screen_name": "khanome_yas"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "What remains but the hope of your coming...?!\nOur master"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjMxMTE3Mzg5Njc4NDk3Nzky",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 17,
+                "month": 10,
+                "visibility": "Public",
+                "year_visibility": "Self"
+              }
+            },
+            "location": {
+              "location": "خیابان پائیز، کوی مهر، پلاک ۲۵"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "چه می‌ماند جز اميد آمدنت...؟!\nصاحبنا",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 17557,
+              "following": 5687
+            },
+            "rest_id": "1231117389678497792",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 11286,
+              "tweets": 139044
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIzMTExNzM4OTY3ODQ5Nzc5Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "9",
+                "last_changed_at_msec": "1623480135780"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2066267189917675520/OBpobLcQ_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Feb 22 07:24:12 +0000 2020",
+              "name": "خانم یاس🚩",
+              "screen_name": "khanome_yas"
+            },
+            "id": "VXNlcjoxMjMxMTE3Mzg5Njc4NDk3Nzky",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1231117389678497792",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIzMTExNzM4OTY3ODQ5Nzc5Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
