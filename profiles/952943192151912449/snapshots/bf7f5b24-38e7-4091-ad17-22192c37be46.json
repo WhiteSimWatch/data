@@ -1,0 +1,172 @@
+{
+  "snapshotId": "bf7f5b24-38e7-4091-ad17-22192c37be46",
+  "twitterId": "952943192151912449",
+  "scannedAt": "2026-07-31T04:22:11.879Z",
+  "fields": {
+    "username": "mostafa_oveisi",
+    "displayName": "مصطفی اویسی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1793203978756403200/mk_CCWSo_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran - qom",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 137341
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1793203978756403200/mk_CCWSo_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/952943192151912449/1781441693"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jan 15 16:38:56 +0000 2018",
+              "name": "مصطفی اویسی",
+              "screen_name": "mostafa_oveisi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5NTI5NDMxOTIxNTE5MTI0NDk=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 25,
+                "month": 8,
+                "visibility": "Public",
+                "year": 1983,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "Islamic Republic of Iran - qom"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1433532549280714756"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "اهل رسانه‌ | طراح و گرافیست\n\nچو ایران نباشد تن من مباد ...",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 4687,
+              "following": 1316
+            },
+            "rest_id": "952943192151912449",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1429,
+              "tweets": 36263
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTUyOTQzMTkyMTUxOTEyNDQ5",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1588972096174"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1793203978756403200/mk_CCWSo_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jan 15 16:38:56 +0000 2018",
+              "name": "مصطفی اویسی",
+              "screen_name": "mostafa_oveisi"
+            },
+            "id": "VXNlcjo5NTI5NDMxOTIxNTE5MTI0NDk=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "952943192151912449",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTUyOTQzMTkyMTUxOTEyNDQ5",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
