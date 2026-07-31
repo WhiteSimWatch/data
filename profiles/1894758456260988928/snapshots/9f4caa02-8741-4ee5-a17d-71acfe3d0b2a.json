@@ -1,0 +1,160 @@
+{
+  "snapshotId": "9f4caa02-8741-4ee5-a17d-71acfe3d0b2a",
+  "twitterId": "1894758456260988928",
+  "scannedAt": "2026-07-31T06:46:44.427Z",
+  "fields": {
+    "username": "mohana_majed",
+    "displayName": "مهنا مجد",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1924366295740370944/nxJ7Yf6b_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوری اسلامی ایران",
+    "accountBasedIn": "United Kingdom",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1001
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1924366295740370944/nxJ7Yf6b_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1894758456260988928/1740581821"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Feb 26 14:36:46 +0000 2025",
+              "name": "مهنا مجد",
+              "screen_name": "mohana_majed"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODk0NzU4NDU2MjYwOTg4OTI4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "معلمی با عشق به علم و دانش، با قلبی پر از امید و انتظار ظهور، در پی گسترش محبت و آگاهی در جامعه. 🌼✨",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 482,
+              "following": 463
+            },
+            "rest_id": "1894758456260988928",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3,
+              "tweets": 11
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg5NDc1ODQ1NjI2MDk4ODkyOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United Kingdom",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1740580670128"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1924366295740370944/nxJ7Yf6b_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Feb 26 14:36:46 +0000 2025",
+              "name": "مهنا مجد",
+              "screen_name": "mohana_majed"
+            },
+            "id": "VXNlcjoxODk0NzU4NDU2MjYwOTg4OTI4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1894758456260988928",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg5NDc1ODQ1NjI2MDk4ODkyOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
