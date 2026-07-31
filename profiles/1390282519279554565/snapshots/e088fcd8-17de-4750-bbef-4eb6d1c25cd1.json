@@ -1,0 +1,177 @@
+{
+  "snapshotId": "e088fcd8-17de-4750-bbef-4eb6d1c25cd1",
+  "twitterId": "1390282519279554565",
+  "scannedAt": "2026-07-31T06:40:29.729Z",
+  "fields": {
+    "username": "ali_vahid_zade",
+    "displayName": "ali-Vahid-zadə",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1770480047876435968/JSSvjhIo_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Azerbaijan",
+    "accountBasedIn": "United States",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 8790
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1770480047876435968/JSSvjhIo_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1390282519279554565/1620307487"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu May 06 12:31:42 +0000 2021",
+              "name": "ali-Vahid-zadə",
+              "screen_name": "ali_vahid_zade"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzkwMjgyNTE5Mjc5NTU0NTY1",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Azerbaijan"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1609593067207540737"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یک پرستار معمولی/ #لیست_فالو_بک/ حمایت/فالو=بک💯( #آنفالویاب ) #حمایت_انقلابی",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/+STnI-WramRY1Z…",
+                      "expanded_url": "https://t.me/+STnI-WramRY1ZWU0",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/gSRSWIxzcw"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 17920,
+              "following": 17028
+            },
+            "rest_id": "1390282519279554565",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 422,
+              "tweets": 11554
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/gSRSWIxzcw"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM5MDI4MjUxOTI3OTU1NDU2NQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1647606960454"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1770480047876435968/JSSvjhIo_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu May 06 12:31:42 +0000 2021",
+              "name": "ali-Vahid-zadə",
+              "screen_name": "ali_vahid_zade"
+            },
+            "id": "VXNlcjoxMzkwMjgyNTE5Mjc5NTU0NTY1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1390282519279554565",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM5MDI4MjUxOTI3OTU1NDU2NQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
