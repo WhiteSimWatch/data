@@ -1,0 +1,164 @@
+{
+  "snapshotId": "433e09eb-f719-4db9-91d9-88437ee7a9ba",
+  "twitterId": "1402501454800293889",
+  "scannedAt": "2026-07-31T06:30:22.189Z",
+  "fields": {
+    "username": "zarebin0",
+    "displayName": "عبدخدا",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1791187179428864000/Jgrj1nB-_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "فقط حیدر امیرالمومنین است",
+    "accountBasedIn": "United States",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 90723
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1791187179428864000/Jgrj1nB-_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1402501454800293889/1770789007"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jun 09 05:43:14 +0000 2021",
+              "name": "عبدخدا",
+              "screen_name": "zarebin0"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDAyNTAxNDU0ODAwMjkzODg5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "فقط حیدر امیرالمومنین است"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1586793849858379776"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "کلام امیر(ع):\nانسان زير زبان خود پنهان است.\nپسرک گاه نویس",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 7813,
+              "following": 7393
+            },
+            "rest_id": "1402501454800293889",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1632,
+              "tweets": 19052
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQwMjUwMTQ1NDgwMDI5Mzg4OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "7",
+                "last_changed_at_msec": "1719310560617"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1791187179428864000/Jgrj1nB-_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jun 09 05:43:14 +0000 2021",
+              "name": "عبدخدا",
+              "screen_name": "zarebin0"
+            },
+            "id": "VXNlcjoxNDAyNTAxNDU0ODAwMjkzODg5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1402501454800293889",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQwMjUwMTQ1NDgwMDI5Mzg4OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
