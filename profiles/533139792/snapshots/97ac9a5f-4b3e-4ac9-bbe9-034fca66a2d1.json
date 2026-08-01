@@ -1,0 +1,171 @@
+{
+  "snapshotId": "97ac9a5f-4b3e-4ac9-bbe9-034fca66a2d1",
+  "twitterId": "533139792",
+  "scannedAt": "2026-08-01T07:13:30.558Z",
+  "fields": {
+    "username": "persianboy_00",
+    "displayName": "Dr. M.Reza Zamani",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1807386049905131520/Ixza43Ks_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 3836
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1807386049905131520/Ixza43Ks_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/533139792/1711316801"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Mar 22 11:27:10 +0000 2012",
+              "name": "Dr. M.Reza Zamani",
+              "screen_name": "persianboy_00"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo1MzMxMzk3OTI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 979,
+                  "name": "Podcast"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1898481298295161313"
+            },
+            "profile_bio": {
+              "description": "A",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "qst",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 905,
+              "following": 46
+            },
+            "rest_id": "533139792",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 57,
+              "tweets": 236
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NTMzMTM5Nzky",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1716612881909"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1807386049905131520/Ixza43Ks_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Mar 22 11:27:10 +0000 2012",
+              "name": "Dr. M.Reza Zamani",
+              "screen_name": "persianboy_00"
+            },
+            "id": "VXNlcjo1MzMxMzk3OTI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "533139792",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NTMzMTM5Nzky",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
