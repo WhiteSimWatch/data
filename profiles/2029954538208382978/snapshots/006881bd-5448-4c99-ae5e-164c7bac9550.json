@@ -1,0 +1,159 @@
+{
+  "snapshotId": "006881bd-5448-4c99-ae5e-164c7bac9550",
+  "twitterId": "2029954538208382978",
+  "scannedAt": "2026-08-01T08:51:42.575Z",
+  "fields": {
+    "username": "haj_k_m",
+    "displayName": "حاج ابراهیم",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2072327331377516544/sbFzvAQr_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 252
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2072327331377516544/sbFzvAQr_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2029954538208382978/1777109479"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Mar 06 16:17:45 +0000 2026",
+              "name": "حاج ابراهیم",
+              "screen_name": "haj_k_m"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDI5OTU0NTM4MjA4MzgyOTc4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "A free and dignified man \n\nسربازی منتظر...",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1121,
+              "following": 1936
+            },
+            "rest_id": "2029954538208382978",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 9,
+              "tweets": 96
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAyOTk1NDUzODIwODM4Mjk3OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1776848931210"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2072327331377516544/sbFzvAQr_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Mar 06 16:17:45 +0000 2026",
+              "name": "حاج ابراهیم",
+              "screen_name": "haj_k_m"
+            },
+            "id": "VXNlcjoyMDI5OTU0NTM4MjA4MzgyOTc4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2029954538208382978",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAyOTk1NDUzODIwODM4Mjk3OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
