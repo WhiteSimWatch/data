@@ -1,0 +1,163 @@
+{
+  "snapshotId": "36af5928-103f-4055-879d-e2b92f9e1a0b",
+  "twitterId": "1405836645983731712",
+  "scannedAt": "2026-08-01T07:05:58.220Z",
+  "fields": {
+    "username": "lrd_griffin",
+    "displayName": "Griffin ꕥ ❈",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1894848823819702274/5xZ0-NkY_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "ایران بزرگ",
+    "accountBasedIn": "United States",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 153483
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1894848823819702274/5xZ0-NkY_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1405836645983731712/1634114723"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jun 18 10:36:02 +0000 2021",
+              "name": "Griffin ꕥ ❈",
+              "screen_name": "lrd_griffin"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDA1ODM2NjQ1OTgzNzMxNzEy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "ایران بزرگ"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2026443691200565315"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ایرانگرا | عاشق (i wish i still was) | History must come alive",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 6491,
+              "following": 6473
+            },
+            "rest_id": "1405836645983731712",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 278,
+              "tweets": 6825
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQwNTgzNjY0NTk4MzczMTcxMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1727813156538"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1894848823819702274/5xZ0-NkY_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jun 18 10:36:02 +0000 2021",
+              "name": "Griffin ꕥ ❈",
+              "screen_name": "lrd_griffin"
+            },
+            "id": "VXNlcjoxNDA1ODM2NjQ1OTgzNzMxNzEy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1405836645983731712",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQwNTgzNjY0NTk4MzczMTcxMg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
