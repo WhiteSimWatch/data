@@ -1,0 +1,173 @@
+{
+  "snapshotId": "3bed1b39-370f-47f2-b4cb-6eb53c34f9cb",
+  "twitterId": "1291084741324812289",
+  "scannedAt": "2026-08-01T05:12:18.325Z",
+  "fields": {
+    "username": "Az7792",
+    "displayName": "Akbar Zarbi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2067260905205669889/bnOLtRps_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 4544
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2067260905205669889/bnOLtRps_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1291084741324812289/1781708442"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Aug 05 18:53:02 +0000 2020",
+              "name": "Akbar Zarbi",
+              "screen_name": "Az7792"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjkxMDg0NzQxMzI0ODEyMjg5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 18,
+                "month": 7,
+                "visibility": "Public",
+                "year": 1983,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Business",
+              "rest_id": "1504167563181318144"
+            },
+            "profile_bio": {
+              "description": "همین است و همین است و همین است\nفقط حیدر امیرالمؤمنین است.\n\nتنها راه نجات کشور=اطاعت از رهبری",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 322,
+              "following": 528
+            },
+            "rest_id": "1291084741324812289",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 175,
+              "tweets": 3782
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI5MTA4NDc0MTMyNDgxMjI4OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1596663064657"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2067260905205669889/bnOLtRps_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Aug 05 18:53:02 +0000 2020",
+              "name": "Akbar Zarbi",
+              "screen_name": "Az7792"
+            },
+            "id": "VXNlcjoxMjkxMDg0NzQxMzI0ODEyMjg5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1291084741324812289",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI5MTA4NDc0MTMyNDgxMjI4OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
