@@ -1,0 +1,163 @@
+{
+  "snapshotId": "fb8d27cc-3e41-4f1f-8a60-d316f7e58de2",
+  "twitterId": "758822893174165506",
+  "scannedAt": "2026-08-01T05:08:26.529Z",
+  "fields": {
+    "username": "nabatalkh",
+    "displayName": "Nabatalkh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1193987171235115008/dC_bpjR7_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوری اسلامی ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 9995
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1193987171235115008/dC_bpjR7_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/758822893174165506/1470480749"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jul 29 00:34:10 +0000 2016",
+              "name": "Nabatalkh",
+              "screen_name": "nabatalkh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3NTg4MjI4OTMxNzQxNjU1MDY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "932010244649246723"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "محمد علی نباتی (نباتلخ)\n‏‏‏‏مرغ باغ ملکوتم نیم از عالم خاک, چند روزی قفسی ساخته اند از بدنم; این هم یک قفس برای بودن و نه ماندن...",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3647,
+              "following": 2949
+            },
+            "rest_id": "758822893174165506",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 475,
+              "tweets": 2021
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzU4ODIyODkzMTc0MTY1NTA2",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1193987171235115008/dC_bpjR7_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jul 29 00:34:10 +0000 2016",
+              "name": "Nabatalkh",
+              "screen_name": "nabatalkh"
+            },
+            "id": "VXNlcjo3NTg4MjI4OTMxNzQxNjU1MDY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "758822893174165506",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzU4ODIyODkzMTc0MTY1NTA2",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
