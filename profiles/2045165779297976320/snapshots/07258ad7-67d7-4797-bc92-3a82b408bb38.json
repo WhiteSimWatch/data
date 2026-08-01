@@ -1,0 +1,160 @@
+{
+  "snapshotId": "07258ad7-67d7-4797-bc92-3a82b408bb38",
+  "twitterId": "2045165779297976320",
+  "scannedAt": "2026-08-01T05:49:07.534Z",
+  "fields": {
+    "username": "a_abdollahi_ir",
+    "displayName": "Ali Abdollahi | علی عبداللهی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2080679400672985088/NPZAlB-I_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 0
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2080679400672985088/NPZAlB-I_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2045165779297976320/1776441804"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Apr 17 15:42:03 +0000 2026",
+              "name": "Ali Abdollahi | علی عبداللهی",
+              "screen_name": "a_abdollahi_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": false,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQ1MTY1Nzc5Mjk3OTc2MzIw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فرمانده قرارگاه مرکزی خاتم‌الانبیاء",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1548,
+              "following": 15
+            },
+            "rest_id": "2045165779297976320",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 0,
+              "tweets": 10
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA0NTE2NTc3OTI5Nzk3NjMyMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1776440704898"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2080679400672985088/NPZAlB-I_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Apr 17 15:42:03 +0000 2026",
+              "name": "Ali Abdollahi | علی عبداللهی",
+              "screen_name": "a_abdollahi_ir"
+            },
+            "id": "VXNlcjoyMDQ1MTY1Nzc5Mjk3OTc2MzIw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2045165779297976320",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0NTE2NTc3OTI5Nzk3NjMyMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
