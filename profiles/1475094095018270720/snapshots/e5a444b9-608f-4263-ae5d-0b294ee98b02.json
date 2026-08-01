@@ -1,0 +1,181 @@
+{
+  "snapshotId": "e5a444b9-608f-4263-ae5d-0b294ee98b02",
+  "twitterId": "1475094095018270720",
+  "scannedAt": "2026-08-01T05:06:29.330Z",
+  "fields": {
+    "username": "AmalYasin22",
+    "displayName": "Amal Yasin",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1893746040886398976/MG1EEQmA_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Lebanon",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 50763
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1893746040886398976/MG1EEQmA_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1475094095018270720/1732010538"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Dec 26 13:20:38 +0000 2021",
+              "name": "Amal Yasin",
+              "screen_name": "AmalYasin22"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "7"
+            },
+            "id": "VXNlcjoxNDc1MDk0MDk1MDE4MjcwNzIw",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Lebanon"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1974562237051539697"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 11779,
+              "following": 2845
+            },
+            "rest_id": "1475094095018270720",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3540,
+              "tweets": 10048
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1784063521158"
+              }
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ3NTA5NDA5NTAxODI3MDcyMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1893746040886398976/MG1EEQmA_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Dec 26 13:20:38 +0000 2021",
+              "name": "Amal Yasin",
+              "screen_name": "AmalYasin22"
+            },
+            "id": "VXNlcjoxNDc1MDk0MDk1MDE4MjcwNzIw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1475094095018270720",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ3NTA5NDA5NTAxODI3MDcyMA==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1784063521158"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
