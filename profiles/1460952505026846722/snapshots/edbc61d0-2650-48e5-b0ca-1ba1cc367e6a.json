@@ -1,0 +1,176 @@
+{
+  "snapshotId": "edbc61d0-2650-48e5-b0ca-1ba1cc367e6a",
+  "twitterId": "1460952505026846722",
+  "scannedAt": "2026-08-01T07:21:38.742Z",
+  "fields": {
+    "username": "mamoshiha",
+    "displayName": "پرهامشونم",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2016479091923288064/B-b3QxzL_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Bahrain",
+    "connectedVia": "Turkey App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 13177
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2016479091923288064/B-b3QxzL_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1460952505026846722/1710726215"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Nov 17 12:47:03 +0000 2021",
+              "name": "پرهامشونم",
+              "screen_name": "mamoshiha"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDYwOTUyNTA1MDI2ODQ2NzIy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1799861397133934596"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ی کاربر ساده و بی ادعا",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/DIALOG_farsi1",
+                      "expanded_url": "https://t.me/DIALOG_farsi1",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/q5lSL9dMjX"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 11146,
+              "following": 7392
+            },
+            "rest_id": "1460952505026846722",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 587,
+              "tweets": 55821
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/q5lSL9dMjX"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ2MDk1MjUwNTAyNjg0NjcyMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Bahrain",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Turkey App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2016479091923288064/B-b3QxzL_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Nov 17 12:47:03 +0000 2021",
+              "name": "پرهامشونم",
+              "screen_name": "mamoshiha"
+            },
+            "id": "VXNlcjoxNDYwOTUyNTA1MDI2ODQ2NzIy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1460952505026846722",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ2MDk1MjUwNTAyNjg0NjcyMg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
