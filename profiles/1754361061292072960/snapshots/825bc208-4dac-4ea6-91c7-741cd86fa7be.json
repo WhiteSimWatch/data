@@ -1,0 +1,195 @@
+{
+  "snapshotId": "825bc208-4dac-4ea6-91c7-741cd86fa7be",
+  "twitterId": "1754361061292072960",
+  "scannedAt": "2026-08-01T07:09:44.746Z",
+  "fields": {
+    "username": "imshinealmas",
+    "displayName": "imshine.base.eth",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2047254430785900545/m_Zuwkq8_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Kurdistan, Erbil",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": false,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1609
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2047254430785900545/m_Zuwkq8_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1754361061292072960/1758397006"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 05 04:27:36 +0000 2024",
+              "name": "imshine.base.eth",
+              "screen_name": "imshinealmas"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "2"
+            },
+            "id": "VXNlcjoxNzU0MzYxMDYxMjkyMDcyOTYw",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Kurdistan, Erbil"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2004597370185810073"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "based global builder @base - kurd #001 |@base Ambassador | imshine.base.eth",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "warpcast.com/imshine",
+                      "expanded_url": "https://warpcast.com/imshine",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/iBNPMShjRb"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 220,
+              "following": 694
+            },
+            "rest_id": "1754361061292072960",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 69,
+              "tweets": 1092
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1772038291973"
+              }
+            },
+            "website": {
+              "url": "https://t.co/iBNPMShjRb"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc1NDM2MTA2MTI5MjA3Mjk2MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1707107348609"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2047254430785900545/m_Zuwkq8_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Feb 05 04:27:36 +0000 2024",
+              "name": "imshine.base.eth",
+              "screen_name": "imshinealmas"
+            },
+            "id": "VXNlcjoxNzU0MzYxMDYxMjkyMDcyOTYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1754361061292072960",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc1NDM2MTA2MTI5MjA3Mjk2MA==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1772038291973"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
