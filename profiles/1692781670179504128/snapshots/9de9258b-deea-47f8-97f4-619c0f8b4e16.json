@@ -1,0 +1,164 @@
+{
+  "snapshotId": "9de9258b-deea-47f8-97f4-619c0f8b4e16",
+  "twitterId": "1692781670179504128",
+  "scannedAt": "2026-08-01T08:41:35.962Z",
+  "fields": {
+    "username": "nazanin5019",
+    "displayName": "Nazanin",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2053736917879959552/0jFR2ZFy_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "France",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1822
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2053736917879959552/0jFR2ZFy_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1692781670179504128/1778484062"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Aug 19 06:13:14 +0000 2023",
+              "name": "Nazanin",
+              "screen_name": "nazanin5019"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjkyNzgxNjcwMTc5NTA0MTI4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1708554433276027263"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "میدونید‌ یکی از‌مثبت ‌ترین\nقسمت ‌زندگی‌مـا‌چیه!؟\nخدا‌مهر‌امام‌حسـین‌رو \nتو ‌دلمون‌ ‌انداخت \nحسین جـــانم:)🫀",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 917,
+              "following": 912
+            },
+            "rest_id": "1692781670179504128",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 56,
+              "tweets": 1039
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTY5Mjc4MTY3MDE3OTUwNDEyOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "France",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1752048190940"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2053736917879959552/0jFR2ZFy_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Aug 19 06:13:14 +0000 2023",
+              "name": "Nazanin",
+              "screen_name": "nazanin5019"
+            },
+            "id": "VXNlcjoxNjkyNzgxNjcwMTc5NTA0MTI4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1692781670179504128",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY5Mjc4MTY3MDE3OTUwNDEyOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
