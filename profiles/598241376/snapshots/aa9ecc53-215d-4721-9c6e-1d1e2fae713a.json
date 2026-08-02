@@ -1,0 +1,170 @@
+{
+  "snapshotId": "aa9ecc53-215d-4721-9c6e-1d1e2fae713a",
+  "twitterId": "598241376",
+  "scannedAt": "2026-08-02T06:31:16.657Z",
+  "fields": {
+    "username": "AliZaarei",
+    "displayName": "علی زارعی | Ali Zaarei🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041647955330134016/cmoSZhzI_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 33046
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2041647955330134016/cmoSZhzI_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/598241376/1775325797"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jun 03 08:44:07 +0000 2012",
+              "name": "علی زارعی | Ali Zaarei🎒",
+              "screen_name": "AliZaarei"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "The dust of the alley of dogs was yours, and yet again  \n                                                     \n         The ignorant ones practiced medicine: Did they prepare the remedy????"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo1OTgyNDEzNzY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "گرد و غبار کوی سگان تو بود و باز\n                                                     \n         کردند جاهلان طبابت دوا درست؟؟؟؟",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 642,
+              "following": 1656
+            },
+            "rest_id": "598241376",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 34,
+              "tweets": 8253
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NTk4MjQxMzc2",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2041647955330134016/cmoSZhzI_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jun 03 08:44:07 +0000 2012",
+              "name": "علی زارعی | Ali Zaarei🎒",
+              "screen_name": "AliZaarei"
+            },
+            "id": "VXNlcjo1OTgyNDEzNzY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "598241376",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NTk4MjQxMzc2",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
