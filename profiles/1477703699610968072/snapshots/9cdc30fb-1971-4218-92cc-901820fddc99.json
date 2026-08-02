@@ -1,0 +1,164 @@
+{
+  "snapshotId": "9cdc30fb-1971-4218-92cc-901820fddc99",
+  "twitterId": "1477703699610968072",
+  "scannedAt": "2026-08-02T03:58:00.352Z",
+  "fields": {
+    "username": "seyedeh7467",
+    "displayName": "seyedeh zeinab",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2053132965602070528/gzBnhF6u_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "خراسان ",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 93495
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2053132965602070528/gzBnhF6u_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1477703699610968072/1741141434"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jan 02 18:10:10 +0000 2022",
+              "name": "seyedeh zeinab",
+              "screen_name": "seyedeh7467"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDc3NzAzNjk5NjEwOTY4MDcy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "خراسان "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1857369771039220056"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "متولد فصلِ رویش🌱\n\nیک دهه هفتادیِ عاشق کتاب و کار فرهنگی",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2240,
+              "following": 1972
+            },
+            "rest_id": "1477703699610968072",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 2210,
+              "tweets": 11850
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ3NzcwMzY5OTYxMDk2ODA3Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1641147041281"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2053132965602070528/gzBnhF6u_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jan 02 18:10:10 +0000 2022",
+              "name": "seyedeh zeinab",
+              "screen_name": "seyedeh7467"
+            },
+            "id": "VXNlcjoxNDc3NzAzNjk5NjEwOTY4MDcy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1477703699610968072",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ3NzcwMzY5OTYxMDk2ODA3Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
