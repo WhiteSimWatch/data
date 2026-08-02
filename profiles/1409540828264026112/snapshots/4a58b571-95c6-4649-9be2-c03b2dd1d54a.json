@@ -1,0 +1,160 @@
+{
+  "snapshotId": "4a58b571-95c6-4649-9be2-c03b2dd1d54a",
+  "twitterId": "1409540828264026112",
+  "scannedAt": "2026-08-02T05:04:04.834Z",
+  "fields": {
+    "username": "marvi_sabbagh",
+    "displayName": "احمد مروی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1419426721250508800/20WHdTC-_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Iran.mashhad",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Netherlands Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 591
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1419426721250508800/20WHdTC-_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1409540828264026112/1776175627"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jun 28 15:55:09 +0000 2021",
+              "name": "احمد مروی",
+              "screen_name": "marvi_sabbagh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDA5NTQwODI4MjY0MDI2MTEy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran.mashhad"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "تولیت آستان قدس رضوی\nCustodian of Astan Quds Razavi\nامین العام و المتولي الشرعي للعتبة الرضویة المقدسة",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 782,
+              "following": 2
+            },
+            "rest_id": "1409540828264026112",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 13,
+              "tweets": 82
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQwOTU0MDgyODI2NDAyNjExMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Netherlands Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1624896382086"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1419426721250508800/20WHdTC-_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jun 28 15:55:09 +0000 2021",
+              "name": "احمد مروی",
+              "screen_name": "marvi_sabbagh"
+            },
+            "id": "VXNlcjoxNDA5NTQwODI4MjY0MDI2MTEy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1409540828264026112",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQwOTU0MDgyODI2NDAyNjExMg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
