@@ -1,0 +1,160 @@
+{
+  "snapshotId": "bc010f1c-75ea-4ed8-9a7e-af0d03ec1d3d",
+  "twitterId": "1416665651897319424",
+  "scannedAt": "2026-08-02T06:25:09.793Z",
+  "fields": {
+    "username": "shima84m",
+    "displayName": "شیما🟩☫🟥",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2062141631302709248/DO0oeifq_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "شیراز",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 35874
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2062141631302709248/DO0oeifq_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1416665651897319424/1778850716"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jul 18 07:46:51 +0000 2021",
+              "name": "شیما🟩☫🟥",
+              "screen_name": "shima84m"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDE2NjY1NjUxODk3MzE5NDI0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "شیراز"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "اهل نقاشی، موسیقی، شعر و بارون :)",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3761,
+              "following": 4815
+            },
+            "rest_id": "1416665651897319424",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1411,
+              "tweets": 9967
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQxNjY2NTY1MTg5NzMxOTQyNA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "4",
+                "last_changed_at_msec": "1759550913844"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2062141631302709248/DO0oeifq_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jul 18 07:46:51 +0000 2021",
+              "name": "شیما🟩☫🟥",
+              "screen_name": "shima84m"
+            },
+            "id": "VXNlcjoxNDE2NjY1NjUxODk3MzE5NDI0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1416665651897319424",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQxNjY2NTY1MTg5NzMxOTQyNA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
