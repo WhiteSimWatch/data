@@ -1,0 +1,164 @@
+{
+  "snapshotId": "b1d61434-ac8d-44e8-9d50-c89d90ed6c90",
+  "twitterId": "1532092868009107457",
+  "scannedAt": "2026-08-02T07:47:27.099Z",
+  "fields": {
+    "username": "sadatkhanoom14",
+    "displayName": "م. مرعشی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1936787427315617792/1c_FD_C6_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "khouzestan",
+    "accountBasedIn": "Europe",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 64958
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1936787427315617792/1c_FD_C6_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1532092868009107457/1683728518"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jun 01 20:14:00 +0000 2022",
+              "name": "م. مرعشی",
+              "screen_name": "sadatkhanoom14"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTMyMDkyODY4MDA5MTA3NDU3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "khouzestan"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1786500934891102402"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "لـر بختیاری، دهه هفتادی، ادیتور، فعال فرهنگی",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 7701,
+              "following": 6618
+            },
+            "rest_id": "1532092868009107457",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1016,
+              "tweets": 23660
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTUzMjA5Mjg2ODAwOTEwNzQ1Nw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1677086491805"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1936787427315617792/1c_FD_C6_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jun 01 20:14:00 +0000 2022",
+              "name": "م. مرعشی",
+              "screen_name": "sadatkhanoom14"
+            },
+            "id": "VXNlcjoxNTMyMDkyODY4MDA5MTA3NDU3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1532092868009107457",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUzMjA5Mjg2ODAwOTEwNzQ1Nw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
