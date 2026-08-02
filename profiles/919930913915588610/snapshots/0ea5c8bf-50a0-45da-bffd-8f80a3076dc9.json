@@ -1,0 +1,160 @@
+{
+  "snapshotId": "0ea5c8bf-50a0-45da-bffd-8f80a3076dc9",
+  "twitterId": "919930913915588610",
+  "scannedAt": "2026-08-02T04:45:51.287Z",
+  "fields": {
+    "username": "Hamedshams55",
+    "displayName": "حامد شمس",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1858124151405379584/3SYQjbGF_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تهران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 108201
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1858124151405379584/3SYQjbGF_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/919930913915588610/1572275608"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Oct 16 14:19:56 +0000 2017",
+              "name": "حامد شمس",
+              "screen_name": "Hamedshams55"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5MTk5MzA5MTM5MTU1ODg2MTA=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مدیر برند ،ارتباطات و مسوولیت اجتماعی صنایع پتروشیمی خلیج فارس",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 4649,
+              "following": 983
+            },
+            "rest_id": "919930913915588610",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 401,
+              "tweets": 4565
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTE5OTMwOTEzOTE1NTg4NjEw",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1508163794391"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1858124151405379584/3SYQjbGF_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Oct 16 14:19:56 +0000 2017",
+              "name": "حامد شمس",
+              "screen_name": "Hamedshams55"
+            },
+            "id": "VXNlcjo5MTk5MzA5MTM5MTU1ODg2MTA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "919930913915588610",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTE5OTMwOTEzOTE1NTg4NjEw",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
