@@ -1,0 +1,164 @@
+{
+  "snapshotId": "04cda857-bdf7-47d5-9013-03610f80f257",
+  "twitterId": "1874069062893920256",
+  "scannedAt": "2026-08-02T04:49:08.212Z",
+  "fields": {
+    "username": "bache_balaa",
+    "displayName": "بچهای بالا",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1874523445595103232/NpdC0ZYj_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "کنج منا",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 7165
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1874523445595103232/NpdC0ZYj_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1874069062893920256/1735756191"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Dec 31 12:24:33 +0000 2024",
+              "name": "بچهای بالا",
+              "screen_name": "bache_balaa"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODc0MDY5MDYyODkzOTIwMjU2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "کنج منا"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1887579588986798379"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فالو =بک تضمینی \n\nدختری از مهر ماه ، عاشق موسیقی ، روانشناس",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3154,
+              "following": 4073
+            },
+            "rest_id": "1874069062893920256",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 244,
+              "tweets": 5444
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg3NDA2OTA2Mjg5MzkyMDI1Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1735647898684"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1874523445595103232/NpdC0ZYj_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Dec 31 12:24:33 +0000 2024",
+              "name": "بچهای بالا",
+              "screen_name": "bache_balaa"
+            },
+            "id": "VXNlcjoxODc0MDY5MDYyODkzOTIwMjU2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1874069062893920256",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg3NDA2OTA2Mjg5MzkyMDI1Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
