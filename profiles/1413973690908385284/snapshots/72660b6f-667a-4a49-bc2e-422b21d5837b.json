@@ -1,0 +1,184 @@
+{
+  "snapshotId": "72660b6f-667a-4a49-bc2e-422b21d5837b",
+  "twitterId": "1413973690908385284",
+  "scannedAt": "2026-08-03T08:31:23.864Z",
+  "fields": {
+    "username": "arminwts",
+    "displayName": "Armin",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2060075304576552964/iWzJLSK5_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Fucking Tehran",
+    "accountBasedIn": "United States",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2003
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2060075304576552964/iWzJLSK5_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1413973690908385284/1784502797"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jul 10 21:29:47 +0000 2021",
+              "name": "Armin",
+              "screen_name": "arminwts"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDEzOTczNjkwOTA4Mzg1Mjg0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Fucking Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 552,
+                  "name": "Photographer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1828179288899699170"
+            },
+            "profile_bio": {
+              "description": "سرتاسر نمایش، ظاهرسازی و خالی از معنا",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/HarfBeManBOT?s…",
+                      "expanded_url": "https://t.me/HarfBeManBOT?start=Ch_At_armiinwts",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/tDqfPBBL9Y"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 43,
+              "following": 159
+            },
+            "rest_id": "1413973690908385284",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 170,
+              "tweets": 832
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/tDqfPBBL9Y"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQxMzk3MzY5MDkwODM4NTI4NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1625953321243"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2060075304576552964/iWzJLSK5_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jul 10 21:29:47 +0000 2021",
+              "name": "Armin",
+              "screen_name": "arminwts"
+            },
+            "id": "VXNlcjoxNDEzOTczNjkwOTA4Mzg1Mjg0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1413973690908385284",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQxMzk3MzY5MDkwODM4NTI4NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
