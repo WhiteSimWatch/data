@@ -1,0 +1,170 @@
+{
+  "snapshotId": "e29f3c61-8782-4c6d-a409-47d9ab2dbf37",
+  "twitterId": "2007007837822791680",
+  "scannedAt": "2026-08-03T04:53:25.322Z",
+  "fields": {
+    "username": "mehradxj",
+    "displayName": "Mahdi Jalali",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2030113443789852673/zXo283at_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Nigeria App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 265
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030113443789852673/zXo283at_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2007007837822791680/1772851749"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jan 02 08:35:54 +0000 2026",
+              "name": "Mahdi Jalali",
+              "screen_name": "mehradxj"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDA3MDA3ODM3ODIyNzkxNjgw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1042,
+                  "name": "Content Creator"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "2030112900992647298"
+            },
+            "profile_bio": {
+              "description": "Network Lover , Gamer , Streamer\nIn love with IRAN.... \nعلی الدنیا بعدک العفی....",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 16,
+              "following": 34
+            },
+            "rest_id": "2007007837822791680",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 12,
+              "tweets": 90
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAwNzAwNzgzNzgyMjc5MTY4MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Nigeria App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1767487546609"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030113443789852673/zXo283at_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jan 02 08:35:54 +0000 2026",
+              "name": "Mahdi Jalali",
+              "screen_name": "mehradxj"
+            },
+            "id": "VXNlcjoyMDA3MDA3ODM3ODIyNzkxNjgw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2007007837822791680",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAwNzAwNzgzNzgyMjc5MTY4MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
