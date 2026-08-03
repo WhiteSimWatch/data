@@ -1,0 +1,164 @@
+{
+  "snapshotId": "f3ebea69-3656-462a-b586-74f8f82d5dbc",
+  "twitterId": "2016409914608873472",
+  "scannedAt": "2026-08-03T03:31:02.057Z",
+  "fields": {
+    "username": "alireza___dabir",
+    "displayName": "علیرضا دبیر",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2016419780140404736/gKHKKr4B_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 18
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2016419780140404736/gKHKKr4B_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2016409914608873472/1769586914"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jan 28 07:16:43 +0000 2026",
+              "name": "علیرضا دبیر",
+              "screen_name": "alireza___dabir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDE2NDA5OTE0NjA4ODczNDcy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2016426839313363419"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Official account. Any other account using my name or identity is fake | President of the Islamic Republic of Iran Wrestling Federation",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3878,
+              "following": 3
+            },
+            "rest_id": "2016409914608873472",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 14,
+              "tweets": 24
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAxNjQwOTkxNDYwODg3MzQ3Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1769584748933"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2016419780140404736/gKHKKr4B_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jan 28 07:16:43 +0000 2026",
+              "name": "علیرضا دبیر",
+              "screen_name": "alireza___dabir"
+            },
+            "id": "VXNlcjoyMDE2NDA5OTE0NjA4ODczNDcy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2016409914608873472",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAxNjQwOTkxNDYwODg3MzQ3Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
