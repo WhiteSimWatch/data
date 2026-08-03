@@ -1,0 +1,159 @@
+{
+  "snapshotId": "f0c617d2-3db8-4a3f-9586-698d7629c6db",
+  "twitterId": "32823421",
+  "scannedAt": "2026-08-03T03:48:45.990Z",
+  "fields": {
+    "username": "naraghian",
+    "displayName": "محمد مهدی نراقیان",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1245639514359382018/hPKsH55X_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "I.R.IRAN, Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 311
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1245639514359382018/hPKsH55X_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/32823421/1585819696"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Apr 18 07:23:42 +0000 2009",
+              "name": "محمد مهدی نراقیان",
+              "screen_name": "naraghian"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjozMjgyMzQyMQ==",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "I.R.IRAN, Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "und",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 313,
+              "following": 132
+            },
+            "rest_id": "32823421",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 18,
+              "tweets": 61
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MzI4MjM0MjE=",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1245639514359382018/hPKsH55X_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Apr 18 07:23:42 +0000 2009",
+              "name": "محمد مهدی نراقیان",
+              "screen_name": "naraghian"
+            },
+            "id": "VXNlcjozMjgyMzQyMQ==",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "32823421",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzI4MjM0MjE=",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
