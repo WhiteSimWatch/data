@@ -1,0 +1,160 @@
+{
+  "snapshotId": "db609228-e31d-4935-b715-76d852e50820",
+  "twitterId": "1097032317057540097",
+  "scannedAt": "2026-08-03T08:47:32.008Z",
+  "fields": {
+    "username": "bijan_moghadam",
+    "displayName": "بیژن مقدم",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1101811863690502144/BRXqvtGi_normal.png",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 289
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1101811863690502144/BRXqvtGi_normal.png"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1097032317057540097/1550393810"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Feb 17 07:17:41 +0000 2019",
+              "name": "بیژن مقدم",
+              "screen_name": "bijan_moghadam"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDk3MDMyMzE3MDU3NTQwMDk3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مدیرمسئول سایت الف، مدیر مسئول سابق روزنامه جام جم ،روزنامه‌نگار و فعال رسانه‌ای",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 662,
+              "following": 201
+            },
+            "rest_id": "1097032317057540097",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 40,
+              "tweets": 93
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTA5NzAzMjMxNzA1NzU0MDA5Nw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1550388250123"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1101811863690502144/BRXqvtGi_normal.png"
+            },
+            "core": {
+              "created_at": "Sun Feb 17 07:17:41 +0000 2019",
+              "name": "بیژن مقدم",
+              "screen_name": "bijan_moghadam"
+            },
+            "id": "VXNlcjoxMDk3MDMyMzE3MDU3NTQwMDk3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1097032317057540097",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA5NzAzMjMxNzA1NzU0MDA5Nw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
