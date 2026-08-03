@@ -1,0 +1,185 @@
+{
+  "snapshotId": "5f57bcda-351a-4e46-81d6-bc94982b0b0e",
+  "twitterId": "1452767126683414529",
+  "scannedAt": "2026-08-03T08:33:28.055Z",
+  "fields": {
+    "username": "mm_haghdoost",
+    "displayName": "حق‌دوست",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2046463985097322496/9NInFjZY_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Bulgaria",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 12108
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2046463985097322496/9NInFjZY_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1452767126683414529/1776750115"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Oct 25 22:41:08 +0000 2021",
+              "name": "حق‌دوست",
+              "screen_name": "mm_haghdoost"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDUyNzY3MTI2NjgzNDE0NTI5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 24,
+                "month": 4,
+                "visibility": "Public",
+                "year": 2003,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1971014495796695135"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "باید زندگی کنیم حاجی!",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/mm_haghdoost",
+                      "expanded_url": "http://t.me/mm_haghdoost",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/88xpTBLeCb"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 277,
+              "following": 91
+            },
+            "rest_id": "1452767126683414529",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 118,
+              "tweets": 1880
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/88xpTBLeCb"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ1Mjc2NzEyNjY4MzQxNDUyOQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Bulgaria",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "5",
+                "last_changed_at_msec": "1640150661722"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2046463985097322496/9NInFjZY_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Oct 25 22:41:08 +0000 2021",
+              "name": "حق‌دوست",
+              "screen_name": "mm_haghdoost"
+            },
+            "id": "VXNlcjoxNDUyNzY3MTI2NjgzNDE0NTI5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1452767126683414529",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ1Mjc2NzEyNjY4MzQxNDUyOQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
