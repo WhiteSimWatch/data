@@ -1,0 +1,164 @@
+{
+  "snapshotId": "dfa722d9-3698-46b6-b714-3fa72381a0ab",
+  "twitterId": "1220529582660628480",
+  "scannedAt": "2026-08-03T04:15:26.507Z",
+  "fields": {
+    "username": "mohamadhoseinzr",
+    "displayName": "mohamadhosein",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2019828786078879744/pYcdcXnt_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "طهران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 340
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2019828786078879744/pYcdcXnt_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1220529582660628480/1770399033"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jan 24 02:11:52 +0000 2020",
+              "name": "mohamadhosein",
+              "screen_name": "mohamadhoseinzr"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjIwNTI5NTgyNjYwNjI4NDgw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "طهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1349991444816257024"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "اللّٰهُمَّ فَاجْعَلْ نَفْسِي مُطْمَئِنَّةً بِقَدَرِكَ. ✌🏻",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 188,
+              "following": 358
+            },
+            "rest_id": "1220529582660628480",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 5,
+              "tweets": 79
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIyMDUyOTU4MjY2MDYyODQ4MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1677612242478"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2019828786078879744/pYcdcXnt_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jan 24 02:11:52 +0000 2020",
+              "name": "mohamadhosein",
+              "screen_name": "mohamadhoseinzr"
+            },
+            "id": "VXNlcjoxMjIwNTI5NTgyNjYwNjI4NDgw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1220529582660628480",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIyMDUyOTU4MjY2MDYyODQ4MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
