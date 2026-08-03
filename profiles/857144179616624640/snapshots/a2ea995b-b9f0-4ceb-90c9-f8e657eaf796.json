@@ -1,0 +1,160 @@
+{
+  "snapshotId": "a2ea995b-b9f0-4ceb-90c9-f8e657eaf796",
+  "twitterId": "857144179616624640",
+  "scannedAt": "2026-08-03T08:45:35.826Z",
+  "fields": {
+    "username": "mehrpur65",
+    "displayName": "میثم مهرپور",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1634095447500288000/zMC43BUT_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 15271
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1634095447500288000/zMC43BUT_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/857144179616624640/1769954581"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Apr 26 08:07:52 +0000 2017",
+              "name": "میثم مهرپور",
+              "screen_name": "mehrpur65"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4NTcxNDQxNzk2MTY2MjQ2NDA=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "أَمیرِی حُسَیْنٌ وَ نِعْمَ الاَْمیرُ",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 803,
+              "following": 304
+            },
+            "rest_id": "857144179616624640",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 91,
+              "tweets": 951
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODU3MTQ0MTc5NjE2NjI0NjQw",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1493194169052"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1634095447500288000/zMC43BUT_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Apr 26 08:07:52 +0000 2017",
+              "name": "میثم مهرپور",
+              "screen_name": "mehrpur65"
+            },
+            "id": "VXNlcjo4NTcxNDQxNzk2MTY2MjQ2NDA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "857144179616624640",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODU3MTQ0MTc5NjE2NjI0NjQw",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
