@@ -1,0 +1,164 @@
+{
+  "snapshotId": "d9e5d04f-4066-47b1-9f03-05bbda7d9f8e",
+  "twitterId": "1993774053140893697",
+  "scannedAt": "2026-08-03T06:17:51.881Z",
+  "fields": {
+    "username": "Arianpakdell",
+    "displayName": "☫ آریان ☫",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1993774484214472704/oF59xzl5_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "سرزمین عشق",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1846
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1993774484214472704/oF59xzl5_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1993774053140893697/1764188532"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Nov 26 20:10:05 +0000 2025",
+              "name": "☫ آریان ☫",
+              "screen_name": "Arianpakdell"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTkzNzc0MDUzMTQwODkzNjk3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "سرزمین عشق"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2023758572417675620"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دانش آموخته فلسفه اسلامی💥عاشق سه چیز امامم، رهبرم، وطنم💛",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 362,
+              "following": 280
+            },
+            "rest_id": "1993774053140893697",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 228,
+              "tweets": 1268
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk5Mzc3NDA1MzE0MDg5MzY5Nw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1764187955432"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1993774484214472704/oF59xzl5_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Nov 26 20:10:05 +0000 2025",
+              "name": "☫ آریان ☫",
+              "screen_name": "Arianpakdell"
+            },
+            "id": "VXNlcjoxOTkzNzc0MDUzMTQwODkzNjk3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1993774053140893697",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk5Mzc3NDA1MzE0MDg5MzY5Nw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
