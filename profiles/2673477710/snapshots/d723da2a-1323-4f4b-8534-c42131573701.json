@@ -1,0 +1,160 @@
+{
+  "snapshotId": "d723da2a-1323-4f4b-8534-c42131573701",
+  "twitterId": "2673477710",
+  "scannedAt": "2026-08-03T08:51:43.896Z",
+  "fields": {
+    "username": "Akbarnasrollahi",
+    "displayName": "اکبر نصراللهی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1094660665938194432/dMDS4tV2_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "IRAN-TEHRAN",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2196
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1094660665938194432/dMDS4tV2_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2673477710/1549822533"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jul 23 11:13:16 +0000 2014",
+              "name": "اکبر نصراللهی",
+              "screen_name": "Akbarnasrollahi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyNjczNDc3NzEw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "IRAN-TEHRAN"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دکتری مدیریت رسانه،\nتمرکز مطالعاتی:پوشش خبری ، مدیریت بحران،  فضای مجازی و ارتباطات سیاسی \nکتاب ها: راهنمای پوشش خبری ، مدیریت بحران ، اصول خبرنویسی و...",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1688,
+              "following": 525
+            },
+            "rest_id": "2673477710",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 227,
+              "tweets": 680
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjY3MzQ3NzcxMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1699292932814"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1094660665938194432/dMDS4tV2_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jul 23 11:13:16 +0000 2014",
+              "name": "اکبر نصراللهی",
+              "screen_name": "Akbarnasrollahi"
+            },
+            "id": "VXNlcjoyNjczNDc3NzEw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2673477710",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjY3MzQ3NzcxMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
