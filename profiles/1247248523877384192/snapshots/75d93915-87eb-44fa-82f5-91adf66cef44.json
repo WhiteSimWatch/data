@@ -1,0 +1,165 @@
+{
+  "snapshotId": "75d93915-87eb-44fa-82f5-91adf66cef44",
+  "twitterId": "1247248523877384192",
+  "scannedAt": "2026-08-03T07:05:30.769Z",
+  "fields": {
+    "username": "gumnam__313",
+    "displayName": "GOMNAM",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1709967257944600582/8p-cT2qU_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 16895
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1709967257944600582/8p-cT2qU_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1247248523877384192/1640892644"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Apr 06 19:43:38 +0000 2020",
+              "name": "GOMNAM",
+              "screen_name": "gumnam__313"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjQ3MjQ4NTIzODc3Mzg0MTky",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1476630628489744395"
+            },
+            "profile_bio": {
+              "description": "| اَللّهُمَّ عَجِّل لِوَلیِّکَ الفَرَج | \n فردا ظهور است اگر بپاخیزیم ▪︎\n...The Promised Saviour...",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1351,
+              "following": 1187
+            },
+            "rest_id": "1247248523877384192",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 223,
+              "tweets": 2132
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI0NzI0ODUyMzg3NzM4NDE5Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "5",
+                "last_changed_at_msec": "1641452286677"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1709967257944600582/8p-cT2qU_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Apr 06 19:43:38 +0000 2020",
+              "name": "GOMNAM",
+              "screen_name": "gumnam__313"
+            },
+            "id": "VXNlcjoxMjQ3MjQ4NTIzODc3Mzg0MTky",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1247248523877384192",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI0NzI0ODUyMzg3NzM4NDE5Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
