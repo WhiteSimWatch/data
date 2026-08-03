@@ -1,0 +1,164 @@
+{
+  "snapshotId": "74483c81-a8fa-430f-a897-69f3c153743c",
+  "twitterId": "1628898065762467842",
+  "scannedAt": "2026-08-03T06:54:52.634Z",
+  "fields": {
+    "username": "sarbazemestan0",
+    "displayName": "❄️sarbaz zemestan❄️",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1968699564690423808/dqyYJ2wC_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 5438
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1968699564690423808/dqyYJ2wC_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1628898065762467842/1681298149"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Feb 23 23:22:38 +0000 2023",
+              "name": "❄️sarbaz zemestan❄️",
+              "screen_name": "sarbazemestan0"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjI4ODk4MDY1NzYyNDY3ODQy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2067238861915222135"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خیابان زمستان،کوچه اسفند ،پلاک ۸ 🌨️\nسرباز زمستان 🌨️❄️\nفعال رسانه ای و صدای ایران ❤️🔊",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1390,
+              "following": 1939
+            },
+            "rest_id": "1628898065762467842",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1697,
+              "tweets": 3187
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTYyODg5ODA2NTc2MjQ2Nzg0Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1758209390648"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1968699564690423808/dqyYJ2wC_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Feb 23 23:22:38 +0000 2023",
+              "name": "❄️sarbaz zemestan❄️",
+              "screen_name": "sarbazemestan0"
+            },
+            "id": "VXNlcjoxNjI4ODk4MDY1NzYyNDY3ODQy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1628898065762467842",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYyODg5ODA2NTc2MjQ2Nzg0Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
