@@ -1,0 +1,177 @@
+{
+  "snapshotId": "a37b1fe1-668a-4925-a27d-f14f3aeb9b9d",
+  "twitterId": "1913211040264847360",
+  "scannedAt": "2026-08-03T05:41:31.234Z",
+  "fields": {
+    "username": "banokharaghani",
+    "displayName": "خانم خرقانی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1945127214841815040/YqqJ1Ena_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "قزوین",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 16282
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1945127214841815040/YqqJ1Ena_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1913211040264847360/1752654757"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Apr 18 12:41:03 +0000 2025",
+              "name": "خانم خرقانی",
+              "screen_name": "banokharaghani"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTEzMjExMDQwMjY0ODQ3MzYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "قزوین"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1944773693973897315"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "👩‍💻 دیپلم کامپیوتر\n🏡 عاشق خونه، زندگی و هنر خانه‌داری\n🍳 با عشق می‌پزم، با سلیقه می‌چینم",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/kharaghan77i",
+                      "expanded_url": "http://www.instagram.com/kharaghan77i",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/TXVH9n5fu7"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 766,
+              "following": 691
+            },
+            "rest_id": "1913211040264847360",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 577,
+              "tweets": 5752
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/TXVH9n5fu7"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkxMzIxMTA0MDI2NDg0NzM2MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1752480172779"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1945127214841815040/YqqJ1Ena_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Apr 18 12:41:03 +0000 2025",
+              "name": "خانم خرقانی",
+              "screen_name": "banokharaghani"
+            },
+            "id": "VXNlcjoxOTEzMjExMDQwMjY0ODQ3MzYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1913211040264847360",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkxMzIxMTA0MDI2NDg0NzM2MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
