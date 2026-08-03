@@ -1,0 +1,170 @@
+{
+  "snapshotId": "33b08324-f510-4e93-b206-86c4a7dd6078",
+  "twitterId": "802490698612215808",
+  "scannedAt": "2026-08-03T09:36:50.895Z",
+  "fields": {
+    "username": "hamid_reza_e",
+    "displayName": "Hamidreza",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1740964110605377536/qxgNxCO7_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تهران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 44049
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1740964110605377536/qxgNxCO7_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/802490698612215808/1772796517"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Nov 26 12:34:26 +0000 2016",
+              "name": "Hamidreza",
+              "screen_name": "hamid_reza_e"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MDI0OTA2OTg2MTIyMTU4MDg=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 580,
+                  "name": "Media & News Company"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1468648872549527561"
+            },
+            "profile_bio": {
+              "description": "سیاست برای ما نتیجه دیانت است\nFor us, politics is the result of religion",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 197,
+              "following": 207
+            },
+            "rest_id": "802490698612215808",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 42,
+              "tweets": 2800
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODAyNDkwNjk4NjEyMjE1ODA4",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1480163761246"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1740964110605377536/qxgNxCO7_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Nov 26 12:34:26 +0000 2016",
+              "name": "Hamidreza",
+              "screen_name": "hamid_reza_e"
+            },
+            "id": "VXNlcjo4MDI0OTA2OTg2MTIyMTU4MDg=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "802490698612215808",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODAyNDkwNjk4NjEyMjE1ODA4",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
