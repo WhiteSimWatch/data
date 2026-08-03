@@ -1,0 +1,160 @@
+{
+  "snapshotId": "a8eb391e-6be9-431b-a907-10cc50d7abbc",
+  "twitterId": "759277086720786432",
+  "scannedAt": "2026-08-03T08:53:56.322Z",
+  "fields": {
+    "username": "ali_rastgar81",
+    "displayName": "Ali.rastgar",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1278682103668932608/dMjTt7cj_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": " Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2024
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1278682103668932608/dMjTt7cj_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/759277086720786432/1593696545"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jul 30 06:38:58 +0000 2016",
+              "name": "Ali.rastgar",
+              "screen_name": "ali_rastgar81"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3NTkyNzcwODY3MjA3ODY0MzI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": " Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "‏یک ژورنالیست سینماگر؛ آدمی که فکر می کند کسی آن بالا او‌ را دوست دارد",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 197,
+              "following": 244
+            },
+            "rest_id": "759277086720786432",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 104,
+              "tweets": 200
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzU5Mjc3MDg2NzIwNzg2NDMy",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1469860827800"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1278682103668932608/dMjTt7cj_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jul 30 06:38:58 +0000 2016",
+              "name": "Ali.rastgar",
+              "screen_name": "ali_rastgar81"
+            },
+            "id": "VXNlcjo3NTkyNzcwODY3MjA3ODY0MzI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "759277086720786432",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzU5Mjc3MDg2NzIwNzg2NDMy",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
