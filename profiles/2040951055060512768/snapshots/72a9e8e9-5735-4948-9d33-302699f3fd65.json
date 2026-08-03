@@ -1,0 +1,173 @@
+{
+  "snapshotId": "72a9e8e9-5735-4948-9d33-302699f3fd65",
+  "twitterId": "2040951055060512768",
+  "scannedAt": "2026-08-03T06:05:41.949Z",
+  "fields": {
+    "username": "bilakh007",
+    "displayName": "حوصله ندارم",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2040953747036151808/pccIw_aW_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iraq Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 173
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2040953747036151808/pccIw_aW_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2040951055060512768/1775436267"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Apr 06 00:34:26 +0000 2026",
+              "name": "حوصله ندارم",
+              "screen_name": "bilakh007"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQwOTUxMDU1MDYwNTEyNzY4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "عضو ارشد انجمن کصخلیه",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "telegram.me/TeIeCommentBot…",
+                      "expanded_url": "https://telegram.me/TeIeCommentBot?start=sc-204026-XvOEnEF",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/hyl2giqffN"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 24,
+              "following": 155
+            },
+            "rest_id": "2040951055060512768",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 0,
+              "tweets": 6
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/hyl2giqffN"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA0MDk1MTA1NTA2MDUxMjc2OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iraq Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1775435726090"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2040953747036151808/pccIw_aW_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Apr 06 00:34:26 +0000 2026",
+              "name": "حوصله ندارم",
+              "screen_name": "bilakh007"
+            },
+            "id": "VXNlcjoyMDQwOTUxMDU1MDYwNTEyNzY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2040951055060512768",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0MDk1MTA1NTA2MDUxMjc2OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
