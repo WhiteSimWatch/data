@@ -1,0 +1,175 @@
+{
+  "snapshotId": "705be15f-7de8-451d-96f8-3a15a259e719",
+  "twitterId": "1943605906408681472",
+  "scannedAt": "2026-08-03T06:28:02.288Z",
+  "fields": {
+    "username": "fotros_118",
+    "displayName": "fotros🕊",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2058666992798978048/JIwi7AfV_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "وسط دنیا ",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1098
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2058666992798978048/JIwi7AfV_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1943605906408681472/1779867358"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jul 11 09:39:29 +0000 2025",
+              "name": "fotros🕊",
+              "screen_name": "fotros_118"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTQzNjA1OTA2NDA4NjgxNDcy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "وسط دنیا "
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2060635173566193819"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1957689898976366605"
+            },
+            "profile_bio": {
+              "description": "✍️ تولید محتوا با عشق\n☕ قهوه + ایده = محتوای تازه",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 696,
+              "following": 1843
+            },
+            "rest_id": "1943605906408681472",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 94,
+              "tweets": 701
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk0MzYwNTkwNjQwODY4MTQ3Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1757491935453"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2058666992798978048/JIwi7AfV_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jul 11 09:39:29 +0000 2025",
+              "name": "fotros🕊",
+              "screen_name": "fotros_118"
+            },
+            "id": "VXNlcjoxOTQzNjA1OTA2NDA4NjgxNDcy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1943605906408681472",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk0MzYwNTkwNjQwODY4MTQ3Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
