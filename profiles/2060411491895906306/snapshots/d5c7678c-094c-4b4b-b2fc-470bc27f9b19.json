@@ -1,0 +1,159 @@
+{
+  "snapshotId": "d5c7678c-094c-4b4b-b2fc-470bc27f9b19",
+  "twitterId": "2060411491895906306",
+  "scannedAt": "2026-08-03T07:21:03.908Z",
+  "fields": {
+    "username": "sara_alvi2000",
+    "displayName": "sara.alv",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2060412193225515010/3l04cHvu_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "نجف مولا ",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 47
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2060412193225515010/3l04cHvu_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2060411491895906306/1780249874"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri May 29 17:24:11 +0000 2026",
+              "name": "sara.alv",
+              "screen_name": "sara_alvi2000"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDYwNDExNDkxODk1OTA2MzA2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "نجف مولا "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یا رب گواه باش که مولای ما علی‌ست🍇\n\n📸💻📝",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 7,
+              "following": 17
+            },
+            "rest_id": "2060411491895906306",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 33,
+              "tweets": 118
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA2MDQxMTQ5MTg5NTkwNjMwNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2060412193225515010/3l04cHvu_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri May 29 17:24:11 +0000 2026",
+              "name": "sara.alv",
+              "screen_name": "sara_alvi2000"
+            },
+            "id": "VXNlcjoyMDYwNDExNDkxODk1OTA2MzA2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2060411491895906306",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA2MDQxMTQ5MTg5NTkwNjMwNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
