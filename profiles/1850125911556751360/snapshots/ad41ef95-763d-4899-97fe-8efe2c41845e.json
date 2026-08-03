@@ -1,0 +1,190 @@
+{
+  "snapshotId": "ad41ef95-763d-4899-97fe-8efe2c41845e",
+  "twitterId": "1850125911556751360",
+  "scannedAt": "2026-08-03T03:54:39.224Z",
+  "fields": {
+    "username": "mohammadqomi_ar",
+    "displayName": "محمد القمي",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1850165731683622912/DzEpqDwv_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 375
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1850165731683622912/DzEpqDwv_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1850125911556751360/1729948955"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Oct 26 10:44:01 +0000 2024",
+              "name": "محمد القمي",
+              "screen_name": "mohammadqomi_ar"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "ar",
+                "translation": "Servant of the Quran in the \"Quranic Cultural Development Council\"  \nServant of the \"Renaissance of Authentic Islamic Propagation\" in the Islamic Republic of Iran"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": true,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODUwMTI1OTExNTU2NzUxMzYw",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خادم القرآن في «مجلس تنمية الثقافة القرآنية»\nخادم «نهضة تبليغ الإسلام الأصيل» في جمهورية إيران الإسلامية",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 640,
+              "following": 57
+            },
+            "rest_id": "1850125911556751360",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 93,
+              "tweets": 261
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1783939140785"
+              }
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg1MDEyNTkxMTU1Njc1MTM2MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1729939463062"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1850165731683622912/DzEpqDwv_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Oct 26 10:44:01 +0000 2024",
+              "name": "محمد القمي",
+              "screen_name": "mohammadqomi_ar"
+            },
+            "id": "VXNlcjoxODUwMTI1OTExNTU2NzUxMzYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1850125911556751360",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1MDEyNTkxMTU1Njc1MTM2MA==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1783939140785"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
