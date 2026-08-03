@@ -1,0 +1,170 @@
+{
+  "snapshotId": "926bc1f0-53e6-4006-80e4-1bd7eca7a91f",
+  "twitterId": "1388220414309060608",
+  "scannedAt": "2026-08-03T19:22:58.435Z",
+  "fields": {
+    "username": "biaghaz",
+    "displayName": "بی آغاز",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1897328549981310976/wItC-RLN_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "west Asia",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 68148
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1897328549981310976/wItC-RLN_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1388220414309060608/1619819449"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Apr 30 19:55:37 +0000 2021",
+              "name": "بی آغاز",
+              "screen_name": "biaghaz"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzg4MjIwNDE0MzA5MDYwNjA4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "west Asia"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "Commentary",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 548,
+                  "name": "Laundromat"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1487502723234906115"
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1408,
+              "following": 5527
+            },
+            "rest_id": "1388220414309060608",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1913,
+              "tweets": 49302
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM4ODIyMDQxNDMwOTA2MDYwOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1619819781545"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1897328549981310976/wItC-RLN_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Apr 30 19:55:37 +0000 2021",
+              "name": "بی آغاز",
+              "screen_name": "biaghaz"
+            },
+            "id": "VXNlcjoxMzg4MjIwNDE0MzA5MDYwNjA4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1388220414309060608",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM4ODIyMDQxNDMwOTA2MDYwOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
