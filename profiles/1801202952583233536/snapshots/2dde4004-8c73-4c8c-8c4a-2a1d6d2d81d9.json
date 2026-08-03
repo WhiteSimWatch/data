@@ -1,0 +1,160 @@
+{
+  "snapshotId": "2dde4004-8c73-4c8c-8c4a-2a1d6d2d81d9",
+  "twitterId": "1801202952583233536",
+  "scannedAt": "2026-08-03T08:43:39.424Z",
+  "fields": {
+    "username": "Golch_re",
+    "displayName": "Golchehreh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2082095806924886017/63E77I5h_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "اینجا",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 12958
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2082095806924886017/63E77I5h_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1801202952583233536/1784711002"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Jun 13 10:40:43 +0000 2024",
+              "name": "Golchehreh",
+              "screen_name": "Golch_re"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODAxMjAyOTUyNTgzMjMzNTM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "اینجا"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مطالعه‌‌ی شناخت ذهن و رفتار انسان‌ها",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1186,
+              "following": 209
+            },
+            "rest_id": "1801202952583233536",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3,
+              "tweets": 1488
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgwMTIwMjk1MjU4MzIzMzUzNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1778054253196"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2082095806924886017/63E77I5h_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Jun 13 10:40:43 +0000 2024",
+              "name": "Golchehreh",
+              "screen_name": "Golch_re"
+            },
+            "id": "VXNlcjoxODAxMjAyOTUyNTgzMjMzNTM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1801202952583233536",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgwMTIwMjk1MjU4MzIzMzUzNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
