@@ -1,0 +1,168 @@
+{
+  "snapshotId": "3ca2fb70-e27c-4e8d-9b7c-1c6d7c044c1a",
+  "twitterId": "1294168652808421376",
+  "scannedAt": "2026-08-04T05:16:29.104Z",
+  "fields": {
+    "username": "VisitIran3",
+    "displayName": "Visit Iran",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1925135844387487744/DJm-Nv1P_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 17696
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1925135844387487744/DJm-Nv1P_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1294168652808421376/1771999833"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Aug 14 07:07:19 +0000 2020",
+              "name": "Visit Iran",
+              "screen_name": "VisitIran3"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjk0MTY4NjUyODA4NDIxMzc2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1525103567945596930"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1549832464163536905"
+            },
+            "profile_bio": {
+              "description": "Visit Iran, At Least Once in Your Lifetime.\n#ایران\n#ıran #eýran #Իրան #ირანი #ইরান #эрон #иран #іран #eron #ιράν #irán #irão #irã #이란 #伊朗 #イラン #อิห",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 17014,
+              "following": 9719
+            },
+            "rest_id": "1294168652808421376",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 2191,
+              "tweets": 3071
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI5NDE2ODY1MjgwODQyMTM3Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Web",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1925135844387487744/DJm-Nv1P_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Aug 14 07:07:19 +0000 2020",
+              "name": "Visit Iran",
+              "screen_name": "VisitIran3"
+            },
+            "id": "VXNlcjoxMjk0MTY4NjUyODA4NDIxMzc2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1294168652808421376",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI5NDE2ODY1MjgwODQyMTM3Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
