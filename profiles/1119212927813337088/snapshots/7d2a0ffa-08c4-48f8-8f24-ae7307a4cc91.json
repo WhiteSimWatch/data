@@ -1,0 +1,178 @@
+{
+  "snapshotId": "7d2a0ffa-08c4-48f8-8f24-ae7307a4cc91",
+  "twitterId": "1119212927813337088",
+  "scannedAt": "2026-08-04T04:05:08.445Z",
+  "fields": {
+    "username": "sabajournal_ir",
+    "displayName": "ماهنامه صبا",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2058163127846400000/eO22EkpJ_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "وابسته به مجموعه رسانه‌ای صبا",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 81
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2058163127846400000/eO22EkpJ_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1119212927813337088/1779539212"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Apr 19 12:15:30 +0000 2019",
+              "name": "ماهنامه صبا",
+              "screen_name": "sabajournal_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTE5MjEyOTI3ODEzMzM3MDg4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "وابسته به مجموعه رسانه‌ای صبا"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Business",
+              "rest_id": "2027006560300580870"
+            },
+            "profile_bio": {
+              "description": "ماهنامه سینما و تلویزیون",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "mahnamehsaba.com",
+                      "expanded_url": "http://www.mahnamehsaba.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/baXg5ka3HA"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 191,
+              "following": 6
+            },
+            "rest_id": "1119212927813337088",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1561,
+              "tweets": 1712
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/baXg5ka3HA"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTExOTIxMjkyNzgxMzMzNzA4OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1762601555831"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2058163127846400000/eO22EkpJ_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Apr 19 12:15:30 +0000 2019",
+              "name": "ماهنامه صبا",
+              "screen_name": "sabajournal_ir"
+            },
+            "id": "VXNlcjoxMTE5MjEyOTI3ODEzMzM3MDg4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1119212927813337088",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTExOTIxMjkyNzgxMzMzNzA4OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
