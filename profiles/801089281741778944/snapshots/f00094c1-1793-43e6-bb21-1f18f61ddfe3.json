@@ -1,0 +1,160 @@
+{
+  "snapshotId": "f00094c1-1793-43e6-bb21-1f18f61ddfe3",
+  "twitterId": "801089281741778944",
+  "scannedAt": "2026-08-04T12:50:54.294Z",
+  "fields": {
+    "username": "Montazermgh",
+    "displayName": "Mostafa montazer",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1590988868018380800/wKP6NgwO_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 60091
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1590988868018380800/wKP6NgwO_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/801089281741778944/1686851985"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Nov 22 15:45:43 +0000 2016",
+              "name": "Mostafa montazer",
+              "screen_name": "Montazermgh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MDEwODkyODE3NDE3Nzg5NDQ=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دکترای جامعه شناسی\nتحلیل سیاسی و اجتماعی",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 393,
+              "following": 315
+            },
+            "rest_id": "801089281741778944",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 32,
+              "tweets": 4947
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODAxMDg5MjgxNzQxNzc4OTQ0",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1479829660069"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1590988868018380800/wKP6NgwO_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Nov 22 15:45:43 +0000 2016",
+              "name": "Mostafa montazer",
+              "screen_name": "Montazermgh"
+            },
+            "id": "VXNlcjo4MDEwODkyODE3NDE3Nzg5NDQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "801089281741778944",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODAxMDg5MjgxNzQxNzc4OTQ0",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
