@@ -1,0 +1,175 @@
+{
+  "snapshotId": "45628c1f-506c-4b2d-bc85-46da3960c718",
+  "twitterId": "1697942467708899328",
+  "scannedAt": "2026-08-04T03:04:35.953Z",
+  "fields": {
+    "username": "asal134993",
+    "displayName": "نَبآت",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2077505671478562816/DnbQdvO__normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "مثلث برمودا",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 40995
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2077505671478562816/DnbQdvO__normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1697942467708899328/1778686331"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Sep 02 12:00:19 +0000 2023",
+              "name": "نَبآت",
+              "screen_name": "asal134993"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjk3OTQyNDY3NzA4ODk5MzI4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "مثلث برمودا"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1746705386617348233"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "https://t.co/VbECrKylKn",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/BChatBot?start…",
+                      "expanded_url": "https://t.me/BChatBot?start=sc-2c92b0bc0a",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/VbECrKylKn"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "zxx",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2614,
+              "following": 3230
+            },
+            "rest_id": "1697942467708899328",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 548,
+              "tweets": 12745
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTY5Nzk0MjQ2NzcwODg5OTMyOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2077505671478562816/DnbQdvO__normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Sep 02 12:00:19 +0000 2023",
+              "name": "نَبآت",
+              "screen_name": "asal134993"
+            },
+            "id": "VXNlcjoxNjk3OTQyNDY3NzA4ODk5MzI4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1697942467708899328",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY5Nzk0MjQ2NzcwODg5OTMyOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
