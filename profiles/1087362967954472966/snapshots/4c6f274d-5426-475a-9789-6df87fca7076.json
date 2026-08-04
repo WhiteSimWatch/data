@@ -1,0 +1,181 @@
+{
+  "snapshotId": "4c6f274d-5426-475a-9789-6df87fca7076",
+  "twitterId": "1087362967954472966",
+  "scannedAt": "2026-08-04T10:27:36.805Z",
+  "fields": {
+    "username": "Abolbanin",
+    "displayName": "محسن عموئی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2072960239578566656/uO7UV6aA_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "پایتخت ایران عزیزِ ما",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 70886
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2072960239578566656/uO7UV6aA_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1087362967954472966/1696661917"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jan 21 14:55:08 +0000 2019",
+              "name": "محسن عموئی",
+              "screen_name": "Abolbanin"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDg3MzYyOTY3OTU0NDcyOTY2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "visibility": "Following",
+                "year": 1982,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "پایتخت ایران عزیزِ ما"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1342097214429155328"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1060,
+                  "name": "Civil engineer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1461265733942394887"
+            },
+            "profile_bio": {
+              "description": "دهه شصتیِ عمران خوانده، اميدوار به آينده #ايران_قوی،  #پدرِ_پسران💙",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 5175,
+              "following": 3973
+            },
+            "rest_id": "1087362967954472966",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 193,
+              "tweets": 7338
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTA4NzM2Mjk2Nzk1NDQ3Mjk2Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "4",
+                "last_changed_at_msec": "1642247061290"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2072960239578566656/uO7UV6aA_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jan 21 14:55:08 +0000 2019",
+              "name": "محسن عموئی",
+              "screen_name": "Abolbanin"
+            },
+            "id": "VXNlcjoxMDg3MzYyOTY3OTU0NDcyOTY2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1087362967954472966",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA4NzM2Mjk2Nzk1NDQ3Mjk2Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
