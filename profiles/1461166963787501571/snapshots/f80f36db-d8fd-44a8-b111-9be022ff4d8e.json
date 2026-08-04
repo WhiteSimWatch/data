@@ -1,0 +1,164 @@
+{
+  "snapshotId": "f80f36db-d8fd-44a8-b111-9be022ff4d8e",
+  "twitterId": "1461166963787501571",
+  "scannedAt": "2026-08-04T03:55:13.667Z",
+  "fields": {
+    "username": "yar_sirjany",
+    "displayName": "یار سیرجانی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1654053095859421186/C-MgpbzO_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوری اسلامی ایران ",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 142555
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1654053095859421186/C-MgpbzO_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1461166963787501571/1683192094"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Nov 18 02:59:04 +0000 2021",
+              "name": "یار سیرجانی",
+              "screen_name": "yar_sirjany"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDYxMTY2OTYzNzg3NTAxNTcx",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران "
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1906690135464259933"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خدایا چنان کن سرانجام کار \nکه تو خشنود باشی و ما رستگار",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 8092,
+              "following": 7955
+            },
+            "rest_id": "1461166963787501571",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 957,
+              "tweets": 64641
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ2MTE2Njk2Mzc4NzUwMTU3MQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "North America Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1719124174964"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1654053095859421186/C-MgpbzO_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Nov 18 02:59:04 +0000 2021",
+              "name": "یار سیرجانی",
+              "screen_name": "yar_sirjany"
+            },
+            "id": "VXNlcjoxNDYxMTY2OTYzNzg3NTAxNTcx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1461166963787501571",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ2MTE2Njk2Mzc4NzUwMTU3MQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
