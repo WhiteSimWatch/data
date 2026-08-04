@@ -1,0 +1,175 @@
+{
+  "snapshotId": "5544137c-2a2c-4e60-b43b-a7744b55bd94",
+  "twitterId": "1567972660881022976",
+  "scannedAt": "2026-08-04T05:13:59.574Z",
+  "fields": {
+    "username": "IranAsIran",
+    "displayName": "Iran as Iran",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1890730181570048000/fEtoXgHb_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Land of Colors",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 9667
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1890730181570048000/fEtoXgHb_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1567972660881022976/1704745129"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Sep 08 20:27:29 +0000 2022",
+              "name": "Iran as Iran",
+              "screen_name": "IranAsIran"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTY3OTcyNjYwODgxMDIyOTc2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Land of Colors"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1960069736966017492"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 880,
+                  "name": "Travel & Transportation"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1877344037906125095"
+            },
+            "profile_bio": {
+              "description": "🕵🏻Seeking adventure? Iran awaits!😉\nEvery corner of this🌝land holds a story🫱🏾‍🫲🏻 Join us & discover Iran firsthand.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 7955,
+              "following": 6
+            },
+            "rest_id": "1567972660881022976",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3174,
+              "tweets": 4382
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU2Nzk3MjY2MDg4MTAyMjk3Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "8",
+                "last_changed_at_msec": "1704798807842"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1890730181570048000/fEtoXgHb_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Sep 08 20:27:29 +0000 2022",
+              "name": "Iran as Iran",
+              "screen_name": "IranAsIran"
+            },
+            "id": "VXNlcjoxNTY3OTcyNjYwODgxMDIyOTc2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1567972660881022976",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU2Nzk3MjY2MDg4MTAyMjk3Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
