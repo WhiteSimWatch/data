@@ -1,0 +1,175 @@
+{
+  "snapshotId": "1baa3bd3-dc28-4d46-8f05-b9a06f339d8a",
+  "twitterId": "3922611917",
+  "scannedAt": "2026-08-04T05:28:06.018Z",
+  "fields": {
+    "username": "DrAliDabbagh",
+    "displayName": "alidabbagh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1920813418124120064/S9u4Pq7l_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran, Iran",
+    "accountBasedIn": "Turkey",
+    "connectedVia": "Turkey App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2432
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1920813418124120064/S9u4Pq7l_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/3922611917/1523703763"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Oct 10 23:29:46 +0000 2015",
+              "name": "alidabbagh",
+              "screen_name": "DrAliDabbagh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjozOTIyNjExOTE3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran, Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1019181995635695616"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 144,
+                  "name": "Education"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1654622964837498882"
+            },
+            "profile_bio": {
+              "description": "علی دباغ، پزشك، استاد دانشكده پزشكي؛ عضو پيوسته فرهنگستان علوم پزشكي؛ بزرگترین آرزویم سربلندي ايران ودغدغه ام ارتقای نظام سلامت ايران",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 314,
+              "following": 1306
+            },
+            "rest_id": "3922611917",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 98,
+              "tweets": 375
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MzkyMjYxMTkxNw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Turkey",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Turkey App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1523703955881"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1920813418124120064/S9u4Pq7l_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Oct 10 23:29:46 +0000 2015",
+              "name": "alidabbagh",
+              "screen_name": "DrAliDabbagh"
+            },
+            "id": "VXNlcjozOTIyNjExOTE3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "3922611917",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzkyMjYxMTkxNw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
