@@ -1,0 +1,169 @@
+{
+  "snapshotId": "b1f4b6da-0484-4db3-8b7a-00605f32a7e6",
+  "twitterId": "1642798336280260609",
+  "scannedAt": "2026-08-05T04:57:52.312Z",
+  "fields": {
+    "username": "saeebrad",
+    "displayName": "سائب",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1642799918271152128/IH-YwLkc_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "۱:۲۰",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2776
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1642799918271152128/IH-YwLkc_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1642798336280260609/1680513884"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Apr 03 07:57:37 +0000 2023",
+              "name": "سائب",
+              "screen_name": "saeebrad"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjQyNzk4MzM2MjgwMjYwNjA5",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "۱:۲۰"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2051746249011786086"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1643003548207046661"
+            },
+            "profile_bio": {
+              "description": "ذوب در ولایت،پا در رکاب تا شهادت",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 477,
+              "following": 493
+            },
+            "rest_id": "1642798336280260609",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 48,
+              "tweets": 2652
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTY0Mjc5ODMzNjI4MDI2MDYwOQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1680508791219"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1642799918271152128/IH-YwLkc_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Apr 03 07:57:37 +0000 2023",
+              "name": "سائب",
+              "screen_name": "saeebrad"
+            },
+            "id": "VXNlcjoxNjQyNzk4MzM2MjgwMjYwNjA5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1642798336280260609",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY0Mjc5ODMzNjI4MDI2MDYwOQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
