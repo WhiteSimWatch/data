@@ -1,0 +1,195 @@
+{
+  "snapshotId": "18f46cff-2658-4f79-934f-f58ac2969a3a",
+  "twitterId": "202525081",
+  "scannedAt": "2026-08-05T03:39:30.025Z",
+  "fields": {
+    "username": "umyaznemo",
+    "displayName": "Rania",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1925808902731337728/e42t2a5-_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 214911
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1925808902731337728/e42t2a5-_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/202525081/1626748701"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Oct 14 06:58:18 +0000 2010",
+              "name": "Rania",
+              "screen_name": "umyaznemo"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "13"
+            },
+            "id": "VXNlcjoyMDI1MjUwODE=",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1638439348151504896"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Religion, race, & ethnicity don't mean a thing to me. Humanity does! Irrevocably anti Zionist, anti Israel. 🇵🇸🇵🇸 #FreePalestine. On Bluesky @umyaznemo",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "bsky.app/profile/umyazn…",
+                      "expanded_url": "https://bsky.app/profile/umyaznemo.bsky.social",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/WWFVMX3Dvh"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 116644,
+              "following": 1017
+            },
+            "rest_id": "202525081",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 12960,
+              "tweets": 73831
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1698049835727"
+              }
+            },
+            "website": {
+              "url": "https://t.co/WWFVMX3Dvh"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAyNTI1MDgx",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1925808902731337728/e42t2a5-_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Oct 14 06:58:18 +0000 2010",
+              "name": "Rania",
+              "screen_name": "umyaznemo"
+            },
+            "id": "VXNlcjoyMDI1MjUwODE=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "202525081",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAyNTI1MDgx",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1698049835727"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
