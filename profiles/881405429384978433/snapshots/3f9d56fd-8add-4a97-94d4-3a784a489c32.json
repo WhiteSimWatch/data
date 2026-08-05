@@ -1,0 +1,175 @@
+{
+  "snapshotId": "3f9d56fd-8add-4a97-94d4-3a784a489c32",
+  "twitterId": "881405429384978433",
+  "scannedAt": "2026-08-05T04:39:57.318Z",
+  "fields": {
+    "username": "frhdmlk",
+    "displayName": "Farhad Malek",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1993157745357332480/UGeQdTaf_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "درویشان را همه جا منزل است",
+    "accountBasedIn": "United States",
+    "connectedVia": "United Arab Emirates App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 17919
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1993157745357332480/UGeQdTaf_normal.jpg"
+            },
+            "banner": {
+              "image_url": ""
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jul 02 06:53:24 +0000 2017",
+              "name": "Farhad Malek",
+              "screen_name": "frhdmlk"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4ODE0MDU0MjkzODQ5Nzg0MzM=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "درویشان را همه جا منزل است"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1540587843118157824"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 933,
+                  "name": "Media Personality"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1538944541415428098"
+            },
+            "profile_bio": {
+              "description": "حساس روی غلط املایی،\nصفر تا صد یه ثانیه:)\nکلا حرفهای اینجام هم به کسی ربطی نداره",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 396,
+              "following": 483
+            },
+            "rest_id": "881405429384978433",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 177,
+              "tweets": 2815
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODgxNDA1NDI5Mzg0OTc4NDMz",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United Arab Emirates App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1498978515150"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1993157745357332480/UGeQdTaf_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jul 02 06:53:24 +0000 2017",
+              "name": "Farhad Malek",
+              "screen_name": "frhdmlk"
+            },
+            "id": "VXNlcjo4ODE0MDU0MjkzODQ5Nzg0MzM=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "881405429384978433",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODgxNDA1NDI5Mzg0OTc4NDMz",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
