@@ -1,0 +1,164 @@
+{
+  "snapshotId": "c69f2a8c-d9a7-4697-a902-6e51cd8cd926",
+  "twitterId": "1560877789234008064",
+  "scannedAt": "2026-08-05T10:11:56.273Z",
+  "fields": {
+    "username": "SDavood314M",
+    "displayName": "سید داود موسوی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2028131377632194560/0cOxXzLd_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "عالم همه ملک اوست ",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 670
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2028131377632194560/0cOxXzLd_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1560877789234008064/1675893128"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Aug 20 06:34:45 +0000 2022",
+              "name": "سید داود موسوی",
+              "screen_name": "SDavood314M"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTYwODc3Nzg5MjM0MDA4MDY0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "عالم همه ملک اوست "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1658063261353365505"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "DAVOOD313MUSAVI@\n اکانت قبلی فارسیم بسته شد یه همتی بکنید دوستان خودم رو پیدا کنم",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1264,
+              "following": 3196
+            },
+            "rest_id": "1560877789234008064",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 492,
+              "tweets": 1258
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU2MDg3Nzc4OTIzNDAwODA2NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1661235019602"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2028131377632194560/0cOxXzLd_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Aug 20 06:34:45 +0000 2022",
+              "name": "سید داود موسوی",
+              "screen_name": "SDavood314M"
+            },
+            "id": "VXNlcjoxNTYwODc3Nzg5MjM0MDA4MDY0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1560877789234008064",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU2MDg3Nzc4OTIzNDAwODA2NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
