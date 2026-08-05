@@ -1,0 +1,177 @@
+{
+  "snapshotId": "1e94663f-7036-4d21-83e4-5e93cfa3955e",
+  "twitterId": "1912929552663285760",
+  "scannedAt": "2026-08-05T06:46:32.728Z",
+  "fields": {
+    "username": "MhmdHolmes",
+    "displayName": "Mhmd Holmes 🏴",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1962587114899415040/be2I1GA9_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "IRAN",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 31559
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1962587114899415040/be2I1GA9_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1912929552663285760/1774475928"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Apr 17 18:03:23 +0000 2025",
+              "name": "Mhmd Holmes 🏴",
+              "screen_name": "MhmdHolmes"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTEyOTI5NTUyNjYzMjg1NzYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "IRAN"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1922741850034639325"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "The Game Is On |☫| Editor & Researcher",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/Mhmd_holmes",
+                      "expanded_url": "https://t.me/Mhmd_holmes",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/j4vm2p4HYI"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2695,
+              "following": 801
+            },
+            "rest_id": "1912929552663285760",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 398,
+              "tweets": 1202
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/j4vm2p4HYI"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkxMjkyOTU1MjY2MzI4NTc2MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1744913155561"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1962587114899415040/be2I1GA9_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Apr 17 18:03:23 +0000 2025",
+              "name": "Mhmd Holmes 🏴",
+              "screen_name": "MhmdHolmes"
+            },
+            "id": "VXNlcjoxOTEyOTI5NTUyNjYzMjg1NzYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1912929552663285760",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkxMjkyOTU1MjY2MzI4NTc2MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
