@@ -1,0 +1,175 @@
+{
+  "snapshotId": "8207af3a-8443-455b-8476-f588961e45e3",
+  "twitterId": "818155538571788290",
+  "scannedAt": "2026-08-05T18:10:47.805Z",
+  "fields": {
+    "username": "amir_i_ho",
+    "displayName": "حاج امیر",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1808166101203009536/CcOaR-PQ_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iraq Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 31038
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1808166101203009536/CcOaR-PQ_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/818155538571788290/1515103199"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jan 08 18:00:55 +0000 2017",
+              "name": "حاج امیر",
+              "screen_name": "amir_i_ho"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MTgxNTU1Mzg1NzE3ODgyOTA=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1536227840538058753"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1480446674820546562"
+            },
+            "profile_bio": {
+              "description": "فیک نیستم، ناشناس‌ام.\n🇮🇷🇮🇶🇱🇧🇵🇸",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3341,
+              "following": 2281
+            },
+            "rest_id": "818155538571788290",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 224,
+              "tweets": 19268
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODE4MTU1NTM4NTcxNzg4Mjkw",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iraq Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1483898543874"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1808166101203009536/CcOaR-PQ_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jan 08 18:00:55 +0000 2017",
+              "name": "حاج امیر",
+              "screen_name": "amir_i_ho"
+            },
+            "id": "VXNlcjo4MTgxNTU1Mzg1NzE3ODgyOTA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "818155538571788290",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODE4MTU1NTM4NTcxNzg4Mjkw",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
