@@ -1,0 +1,160 @@
+{
+  "snapshotId": "10f0c0bb-c173-4e44-a688-c7e3378795e6",
+  "twitterId": "2041354394609090560",
+  "scannedAt": "2026-08-05T07:33:14.261Z",
+  "fields": {
+    "username": "seyed__emad1",
+    "displayName": "عِماد🚩",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041528898572468224/kg7y0Tbc_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "انقلاب",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 83
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2041528898572468224/kg7y0Tbc_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2041354394609090560/1775532046"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Apr 07 03:17:28 +0000 2026",
+              "name": "عِماد🚩",
+              "screen_name": "seyed__emad1"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQxMzU0Mzk0NjA5MDkwNTYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "انقلاب"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "عماد هستم، اکانت جدید/ در میانه‌ی جنگ عقیق را با حدید جایگزین کردیم/ احذروا الموت الطبیعی ولا تموتوا الّا بین زخات الرصاص",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1145,
+              "following": 124
+            },
+            "rest_id": "2041354394609090560",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 15,
+              "tweets": 234
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA0MTM1NDM5NDYwOTA5MDU2MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1775541537807"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2041528898572468224/kg7y0Tbc_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Apr 07 03:17:28 +0000 2026",
+              "name": "عِماد🚩",
+              "screen_name": "seyed__emad1"
+            },
+            "id": "VXNlcjoyMDQxMzU0Mzk0NjA5MDkwNTYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2041354394609090560",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0MTM1NDM5NDYwOTA5MDU2MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
