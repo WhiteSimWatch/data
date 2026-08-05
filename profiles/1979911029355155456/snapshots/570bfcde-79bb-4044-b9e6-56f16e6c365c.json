@@ -1,0 +1,173 @@
+{
+  "snapshotId": "570bfcde-79bb-4044-b9e6-56f16e6c365c",
+  "twitterId": "1979911029355155456",
+  "scannedAt": "2026-08-05T04:25:34.494Z",
+  "fields": {
+    "username": "nimagonabadi",
+    "displayName": "نیما گنابادی 🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1979915005513351170/SXb6nFb3_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "طهران",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 4774
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1979915005513351170/SXb6nFb3_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1979911029355155456/1774978881"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Oct 19 14:02:40 +0000 2025",
+              "name": "نیما گنابادی 🎒",
+              "screen_name": "nimagonabadi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTc5OTExMDI5MzU1MTU1NDU2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "طهران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دهه هشتادی|طراح و ادیتور\n\nدر تن اگر جانی هم هست آن هم به قربان او",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/nima.gonabadi?…",
+                      "expanded_url": "https://www.instagram.com/nima.gonabadi?igsh=MThzYXlneGliZTBrOQ==",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/RFCgghG1wo"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 333,
+              "following": 800
+            },
+            "rest_id": "1979911029355155456",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 135,
+              "tweets": 1638
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/RFCgghG1wo"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk3OTkxMTAyOTM1NTE1NTQ1Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1760882577056"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1979915005513351170/SXb6nFb3_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Oct 19 14:02:40 +0000 2025",
+              "name": "نیما گنابادی 🎒",
+              "screen_name": "nimagonabadi"
+            },
+            "id": "VXNlcjoxOTc5OTExMDI5MzU1MTU1NDU2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1979911029355155456",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk3OTkxMTAyOTM1NTE1NTQ1Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
