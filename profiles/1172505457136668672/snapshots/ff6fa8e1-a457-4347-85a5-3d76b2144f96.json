@@ -1,0 +1,195 @@
+{
+  "snapshotId": "ff6fa8e1-a457-4347-85a5-3d76b2144f96",
+  "twitterId": "1172505457136668672",
+  "scannedAt": "2026-08-05T08:46:09.528Z",
+  "fields": {
+    "username": "Aryan66110",
+    "displayName": "Aryan_66110",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1478271892733640706/1dRDrIjL_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "iran_tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1595
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1478271892733640706/1dRDrIjL_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1172505457136668672/1578118604"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Sep 13 13:41:19 +0000 2019",
+              "name": "Aryan_66110",
+              "screen_name": "Aryan66110"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTcyNTA1NDU3MTM2NjY4Njcy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 1,
+                "month": 1,
+                "visibility": "Public",
+                "year": 1985,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "iran_tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1806249405294444881"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1002,
+                  "name": "Professional Sports Team"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1478268449960837123"
+            },
+            "profile_bio": {
+              "description": "حَسْبِيَ اللَّهُ,یَا زِینَبَ الکُبریَ\n𝓘𝓵𝓸𝓿𝓮 𝓰𝓸𝓭\n𝟔𝟗.𝟏𝟑𝟑.𝟏𝟒\n𝓜𝓪𝓭𝓪𝓻𝓪𝓶.𝓱𝓪𝓶𝓼𝓪𝓻𝓪𝓶💍𝓭𝓸𝓴𝓱𝓽𝓪𝓻𝓪𝓷𝓪𝓶\n𝓚𝔂𝓸𝓴𝓾𝓼𝓱𝓲𝓷 𝓴𝓪𝓻𝓪𝓽𝓮",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/aryan_khalili1…",
+                      "expanded_url": "http://instagram.com/aryan_khalili110",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/9RQk9HyxCE"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 965,
+              "following": 3263
+            },
+            "rest_id": "1172505457136668672",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1576,
+              "tweets": 2921
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/9RQk9HyxCE"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE3MjUwNTQ1NzEzNjY2ODY3Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1568383097326"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1478271892733640706/1dRDrIjL_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Sep 13 13:41:19 +0000 2019",
+              "name": "Aryan_66110",
+              "screen_name": "Aryan66110"
+            },
+            "id": "VXNlcjoxMTcyNTA1NDU3MTM2NjY4Njcy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1172505457136668672",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE3MjUwNTQ1NzEzNjY2ODY3Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
