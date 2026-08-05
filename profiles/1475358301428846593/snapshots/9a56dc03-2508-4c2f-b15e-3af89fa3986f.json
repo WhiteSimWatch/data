@@ -1,0 +1,159 @@
+{
+  "snapshotId": "9a56dc03-2508-4c2f-b15e-3af89fa3986f",
+  "twitterId": "1475358301428846593",
+  "scannedAt": "2026-08-05T18:59:08.359Z",
+  "fields": {
+    "username": "PeaceHug_313",
+    "displayName": "بیگانه 🏁",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1476560413638725642/alKSeI7a_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "لرستان",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 821
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1476560413638725642/alKSeI7a_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1475358301428846593/1640874425"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Dec 27 06:50:12 +0000 2021",
+              "name": "بیگانه 🏁",
+              "screen_name": "PeaceHug_313"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDc1MzU4MzAxNDI4ODQ2NTkz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "لرستان"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 288,
+              "following": 6
+            },
+            "rest_id": "1475358301428846593",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 11,
+              "tweets": 1252
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ3NTM1ODMwMTQyODg0NjU5Mw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1640874511822"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1476560413638725642/alKSeI7a_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Dec 27 06:50:12 +0000 2021",
+              "name": "بیگانه 🏁",
+              "screen_name": "PeaceHug_313"
+            },
+            "id": "VXNlcjoxNDc1MzU4MzAxNDI4ODQ2NTkz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1475358301428846593",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ3NTM1ODMwMTQyODg0NjU5Mw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
