@@ -1,0 +1,175 @@
+{
+  "snapshotId": "3d59250f-fa89-42ef-a88a-eee964c79e60",
+  "twitterId": "1792503630353829888",
+  "scannedAt": "2026-08-05T04:49:53.478Z",
+  "fields": {
+    "username": "ahan_koob",
+    "displayName": "محمد آهن‌کوب",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2019806688996368386/6GxMtyIy_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "طِهْرونْ",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 32650
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2019806688996368386/6GxMtyIy_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1792503630353829888/1716791206"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon May 20 10:32:39 +0000 2024",
+              "name": "محمد آهن‌کوب",
+              "screen_name": "ahan_koob"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "ar",
+                "translation": "International Law Reader ⚖️"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzkyNTAzNjMwMzUzODI5ODg4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "طِهْرونْ"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2022659071170519277"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "حقوق بين الملل خوانده ⚖️",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1747,
+              "following": 939
+            },
+            "rest_id": "1792503630353829888",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 156,
+              "tweets": 1313
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc5MjUwMzYzMDM1MzgyOTg4OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "7",
+                "last_changed_at_msec": "1772034105500"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2019806688996368386/6GxMtyIy_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon May 20 10:32:39 +0000 2024",
+              "name": "محمد آهن‌کوب",
+              "screen_name": "ahan_koob"
+            },
+            "id": "VXNlcjoxNzkyNTAzNjMwMzUzODI5ODg4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1792503630353829888",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc5MjUwMzYzMDM1MzgyOTg4OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
