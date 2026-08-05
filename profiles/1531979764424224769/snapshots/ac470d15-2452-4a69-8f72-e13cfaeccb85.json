@@ -1,0 +1,159 @@
+{
+  "snapshotId": "ac470d15-2452-4a69-8f72-e13cfaeccb85",
+  "twitterId": "1531979764424224769",
+  "scannedAt": "2026-08-05T08:39:33.402Z",
+  "fields": {
+    "username": "s_hanyh",
+    "displayName": "حانیه سعیدی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1531979858502459396/rXnRXIpH_normal.png",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 4791
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1531979858502459396/rXnRXIpH_normal.png"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1531979764424224769/1729847551"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jun 01 12:43:55 +0000 2022",
+              "name": "حانیه سعیدی",
+              "screen_name": "s_hanyh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTMxOTc5NzY0NDI0MjI0NzY5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "من یک ایرانی هستم",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 500,
+              "following": 773
+            },
+            "rest_id": "1531979764424224769",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 337,
+              "tweets": 6242
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTUzMTk3OTc2NDQyNDIyNDc2OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1531979858502459396/rXnRXIpH_normal.png"
+            },
+            "core": {
+              "created_at": "Wed Jun 01 12:43:55 +0000 2022",
+              "name": "حانیه سعیدی",
+              "screen_name": "s_hanyh"
+            },
+            "id": "VXNlcjoxNTMxOTc5NzY0NDI0MjI0NzY5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1531979764424224769",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUzMTk3OTc2NDQyNDIyNDc2OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
