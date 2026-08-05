@@ -1,0 +1,176 @@
+{
+  "snapshotId": "c29064e9-4b96-4218-aea7-204661ceeaee",
+  "twitterId": "1523012714892775440",
+  "scannedAt": "2026-08-05T08:15:16.903Z",
+  "fields": {
+    "username": "Saberin_ir",
+    "displayName": "صابرین نیوز",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2038793760197259264/JW-ZCXpQ_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوری اسلامی ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iraq Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 653
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2038793760197259264/JW-ZCXpQ_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1523012714892775440/1740110061"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat May 07 18:51:52 +0000 2022",
+              "name": "صابرین نیوز",
+              "screen_name": "Saberin_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTIzMDEyNzE0ODkyNzc1NDQw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1913017025259061577"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "T.Me/Saberin_ir",
+                      "expanded_url": "http://T.Me/Saberin_ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/QLGjCnziil"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2115,
+              "following": 1014
+            },
+            "rest_id": "1523012714892775440",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 868,
+              "tweets": 1483
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/QLGjCnziil"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTUyMzAxMjcxNDg5Mjc3NTQ0MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iraq Android App",
+              "username_changes": {
+                "count": "8",
+                "last_changed_at_msec": "1761253589063"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2038793760197259264/JW-ZCXpQ_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat May 07 18:51:52 +0000 2022",
+              "name": "صابرین نیوز",
+              "screen_name": "Saberin_ir"
+            },
+            "id": "VXNlcjoxNTIzMDEyNzE0ODkyNzc1NDQw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1523012714892775440",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUyMzAxMjcxNDg5Mjc3NTQ0MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
