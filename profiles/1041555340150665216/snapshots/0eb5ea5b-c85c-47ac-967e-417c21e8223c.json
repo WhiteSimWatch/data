@@ -1,0 +1,164 @@
+{
+  "snapshotId": "0eb5ea5b-c85c-47ac-967e-417c21e8223c",
+  "twitterId": "1041555340150665216",
+  "scannedAt": "2026-08-05T09:22:21.499Z",
+  "fields": {
+    "username": "Agha_mbz2",
+    "displayName": "آقا محمدحسین",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2030922974661115905/pQHeftSI_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Montréal, Québec",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 6353
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030922974661115905/pQHeftSI_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1041555340150665216/1769757829"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Sep 17 05:11:59 +0000 2018",
+              "name": "آقا محمدحسین",
+              "screen_name": "Agha_mbz2"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDQxNTU1MzQwMTUwNjY1MjE2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Montréal, Québec"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1216241836349624321"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "#سرباز_وطن\n مامور به وظیفه ایم، نه نتیجه\nهمه رو دوسدارم، مگه اینکه خلافش ثابت بشه🌺",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 5815,
+              "following": 5681
+            },
+            "rest_id": "1041555340150665216",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 601,
+              "tweets": 3004
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTA0MTU1NTM0MDE1MDY2NTIxNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1556276108188"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030922974661115905/pQHeftSI_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Sep 17 05:11:59 +0000 2018",
+              "name": "آقا محمدحسین",
+              "screen_name": "Agha_mbz2"
+            },
+            "id": "VXNlcjoxMDQxNTU1MzQwMTUwNjY1MjE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1041555340150665216",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA0MTU1NTM0MDE1MDY2NTIxNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
