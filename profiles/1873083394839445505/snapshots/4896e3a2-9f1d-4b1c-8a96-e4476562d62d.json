@@ -1,0 +1,171 @@
+{
+  "snapshotId": "4896e3a2-9f1d-4b1c-8a96-e4476562d62d",
+  "twitterId": "1873083394839445505",
+  "scannedAt": "2026-08-05T07:16:41.266Z",
+  "fields": {
+    "username": "Nayerazmnajafi",
+    "displayName": "🎒آرزو",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1895721307678838784/tu2J2Bav_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "ایران جان",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 9414
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1895721307678838784/tu2J2Bav_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1873083394839445505/1740809630"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Dec 28 19:09:45 +0000 2024",
+              "name": "🎒آرزو",
+              "screen_name": "Nayerazmnajafi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODczMDgzMzk0ODM5NDQ1NTA1",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 15,
+                "month": 4,
+                "visibility": "Public",
+                "year_visibility": "Self"
+              }
+            },
+            "location": {
+              "location": "ایران جان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2050600462336897160"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "کارشناس شیمی و معلمم🧕\n ارشد علوم تربیتی دارم\n و در حوزه های فرهنگی از جمله حوزه زن فعالیت می کنم\nعاشق طبیعت و کارهای هنری",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 360,
+              "following": 667
+            },
+            "rest_id": "1873083394839445505",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 152,
+              "tweets": 1081
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg3MzA4MzM5NDgzOTQ0NTUwNQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1735413138633"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1895721307678838784/tu2J2Bav_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Dec 28 19:09:45 +0000 2024",
+              "name": "🎒آرزو",
+              "screen_name": "Nayerazmnajafi"
+            },
+            "id": "VXNlcjoxODczMDgzMzk0ODM5NDQ1NTA1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1873083394839445505",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg3MzA4MzM5NDgzOTQ0NTUwNQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
