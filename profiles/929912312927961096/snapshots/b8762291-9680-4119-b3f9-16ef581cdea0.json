@@ -1,0 +1,160 @@
+{
+  "snapshotId": "b8762291-9680-4119-b3f9-16ef581cdea0",
+  "twitterId": "929912312927961096",
+  "scannedAt": "2026-08-05T05:42:19.416Z",
+  "fields": {
+    "username": "mazhab_jafari",
+    "displayName": "محمدهادی مذهب‌جعفری | MH.MJ",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1574374329273524224/oJtw87x7_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تمدن نو",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2743
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1574374329273524224/oJtw87x7_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/929912312927961096/1610952577"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Nov 13 03:22:27 +0000 2017",
+              "name": "محمدهادی مذهب‌جعفری | MH.MJ",
+              "screen_name": "mazhab_jafari"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5Mjk5MTIzMTI5Mjc5NjEwOTY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تمدن نو"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "I am alive, and I write about everything related to it.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 464,
+              "following": 2
+            },
+            "rest_id": "929912312927961096",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 84,
+              "tweets": 1213
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTI5OTEyMzEyOTI3OTYxMDk2",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1510543436063"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1574374329273524224/oJtw87x7_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Nov 13 03:22:27 +0000 2017",
+              "name": "محمدهادی مذهب‌جعفری | MH.MJ",
+              "screen_name": "mazhab_jafari"
+            },
+            "id": "VXNlcjo5Mjk5MTIzMTI5Mjc5NjEwOTY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "929912312927961096",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTI5OTEyMzEyOTI3OTYxMDk2",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
