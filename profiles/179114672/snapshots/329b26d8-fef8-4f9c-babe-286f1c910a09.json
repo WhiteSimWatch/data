@@ -1,0 +1,193 @@
+{
+  "snapshotId": "329b26d8-fef8-4f9c-babe-286f1c910a09",
+  "twitterId": "179114672",
+  "scannedAt": "2026-08-05T07:35:21.493Z",
+  "fields": {
+    "username": "borjeminoo",
+    "displayName": "عباسعلی محمدابادی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1896951749061066752/4gzikUdj_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 4378
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1896951749061066752/4gzikUdj_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/179114672/1606726348"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Aug 16 15:03:29 +0000 2010",
+              "name": "عباسعلی محمدابادی",
+              "screen_name": "borjeminoo"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzkxMTQ2NzI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "visibility": "MutualFollow",
+                "year": 1977,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "950385291222749185"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 483,
+                  "name": "Lawyer & Law Firm"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1627666280432955392"
+            },
+            "profile_bio": {
+              "description": "یک آی تی من علاقه‌مند به عکاسی و مستند سازی",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/borjeminoo",
+                      "expanded_url": "http://www.instagram.com/borjeminoo",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/v9D2Zkt733"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 484,
+              "following": 507
+            },
+            "rest_id": "179114672",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 23,
+              "tweets": 1471
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/v9D2Zkt733"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc5MTE0Njcy",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1896951749061066752/4gzikUdj_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Aug 16 15:03:29 +0000 2010",
+              "name": "عباسعلی محمدابادی",
+              "screen_name": "borjeminoo"
+            },
+            "id": "VXNlcjoxNzkxMTQ2NzI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "179114672",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc5MTE0Njcy",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
