@@ -1,0 +1,164 @@
+{
+  "snapshotId": "de0f7d03-f160-4658-b789-1fccf5421b23",
+  "twitterId": "1142389338971541504",
+  "scannedAt": "2026-08-06T04:41:58.317Z",
+  "fields": {
+    "username": "tayebsaeidi",
+    "displayName": "جُمْهوُري‌خوٰاهْ",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041252519335383040/Lt1zcuJF_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوری اسلامی ایران 🇮🇷",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 41639
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2041252519335383040/Lt1zcuJF_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1142389338971541504/1693772383"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jun 22 11:10:17 +0000 2019",
+              "name": "جُمْهوُري‌خوٰاهْ",
+              "screen_name": "tayebsaeidi"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTQyMzg5MzM4OTcxNTQxNTA0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران 🇮🇷"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1457066964648595456"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "در جمهوری، مردم منشا همه تحولات هستند.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 11064,
+              "following": 3269
+            },
+            "rest_id": "1142389338971541504",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 2200,
+              "tweets": 36288
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE0MjM4OTMzODk3MTU0MTUwNA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "14",
+                "last_changed_at_msec": "1709531709581"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2041252519335383040/Lt1zcuJF_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jun 22 11:10:17 +0000 2019",
+              "name": "جُمْهوُري‌خوٰاهْ",
+              "screen_name": "tayebsaeidi"
+            },
+            "id": "VXNlcjoxMTQyMzg5MzM4OTcxNTQxNTA0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1142389338971541504",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE0MjM4OTMzODk3MTU0MTUwNA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
