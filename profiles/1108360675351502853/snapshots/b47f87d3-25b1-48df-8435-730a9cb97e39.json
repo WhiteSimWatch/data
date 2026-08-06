@@ -1,0 +1,188 @@
+{
+  "snapshotId": "b47f87d3-25b1-48df-8435-730a9cb97e39",
+  "twitterId": "1108360675351502853",
+  "scannedAt": "2026-08-06T03:39:39.773Z",
+  "fields": {
+    "username": "smhaydary",
+    "displayName": "سید محمد حیدری",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1996533723450212352/ElUkr5FV_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": " اسلام",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 52083
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1996533723450212352/ElUkr5FV_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1108360675351502853/1578840141"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Mar 20 13:32:32 +0000 2019",
+              "name": "سید محمد حیدری",
+              "screen_name": "smhaydary"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTA4MzYwNjc1MzUxNTAyODUz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": " اسلام"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2072311117313978487"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 144,
+                  "name": "Education"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1742539507621109786"
+            },
+            "profile_bio": {
+              "description": "فإن حسبك الله|\n\nرسول الله ص: أتقى الناس من قال الحق فيما له وعليه|\n\nامام کاظم ع: تواضع للحق تكن أعقل الناس: در برابر حق سر فرود بیاور عاقلترین مردم خواهی بود",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/smhaydary",
+                      "expanded_url": "https://t.me/smhaydary",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/LeTXhi0zHh"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 812,
+              "following": 334
+            },
+            "rest_id": "1108360675351502853",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 283,
+              "tweets": 14429
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/LeTXhi0zHh"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTEwODM2MDY3NTM1MTUwMjg1Mw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1553092274790"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1996533723450212352/ElUkr5FV_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Mar 20 13:32:32 +0000 2019",
+              "name": "سید محمد حیدری",
+              "screen_name": "smhaydary"
+            },
+            "id": "VXNlcjoxMTA4MzYwNjc1MzUxNTAyODUz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1108360675351502853",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTEwODM2MDY3NTM1MTUwMjg1Mw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
