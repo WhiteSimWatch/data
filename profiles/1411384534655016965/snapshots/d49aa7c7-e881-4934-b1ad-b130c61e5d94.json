@@ -1,0 +1,183 @@
+{
+  "snapshotId": "d49aa7c7-e881-4934-b1ad-b130c61e5d94",
+  "twitterId": "1411384534655016965",
+  "scannedAt": "2026-08-06T08:25:17.092Z",
+  "fields": {
+    "username": "drkamranlawyer",
+    "displayName": "kamran khavandgar",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1722188966374346752/Ppp4lm2R_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 275932
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1722188966374346752/Ppp4lm2R_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1411384534655016965/1749898894"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jul 03 18:01:58 +0000 2021",
+              "name": "kamran khavandgar",
+              "screen_name": "drkamranlawyer"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDExMzg0NTM0NjU1MDE2OTY1",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1496819380931473419"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "تاریخ ما را با مواضعمان قضاوت خواهد کرد نه با نمازها و‌ روزه هایمان!",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 14771,
+              "following": 738
+            },
+            "rest_id": "1411384534655016965",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 2168,
+              "tweets": 75859
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1764531678143"
+              }
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQxMTM4NDUzNDY1NTAxNjk2NQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1632892142644"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1722188966374346752/Ppp4lm2R_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jul 03 18:01:58 +0000 2021",
+              "name": "kamran khavandgar",
+              "screen_name": "drkamranlawyer"
+            },
+            "id": "VXNlcjoxNDExMzg0NTM0NjU1MDE2OTY1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1411384534655016965",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQxMTM4NDUzNDY1NTAxNjk2NQ==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1764531678143"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
