@@ -1,0 +1,176 @@
+{
+  "snapshotId": "46de1f61-e12b-47bd-b36b-a0a3aa40c013",
+  "twitterId": "92730317",
+  "scannedAt": "2026-08-06T08:58:47.915Z",
+  "fields": {
+    "username": "ALWEFAQ",
+    "displayName": "Alwefaq Society",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1731644939543486465/dqExtxta_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Bahrain",
+    "accountBasedIn": "Lebanon",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 312
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1731644939543486465/dqExtxta_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/92730317/1621333253"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Nov 26 10:47:00 +0000 2009",
+              "name": "Alwefaq Society",
+              "screen_name": "ALWEFAQ"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5MjczMDMxNw==",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Bahrain"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1489289649147330569"
+            },
+            "profile_bio": {
+              "description": "Alwefaq National Islamic Society - جمعية الوفاق الوطني الإسلامية",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "shorturl.at/gVyKH",
+                      "expanded_url": "https://shorturl.at/gVyKH",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ASQPG34LMG"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 225514,
+              "following": 62
+            },
+            "rest_id": "92730317",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 59050,
+              "tweets": 143730
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/ASQPG34LMG"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTI3MzAzMTc=",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Lebanon",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1731644939543486465/dqExtxta_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Nov 26 10:47:00 +0000 2009",
+              "name": "Alwefaq Society",
+              "screen_name": "ALWEFAQ"
+            },
+            "id": "VXNlcjo5MjczMDMxNw==",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "92730317",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTI3MzAzMTc=",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
