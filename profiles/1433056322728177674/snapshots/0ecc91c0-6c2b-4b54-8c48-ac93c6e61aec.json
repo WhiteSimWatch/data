@@ -1,0 +1,170 @@
+{
+  "snapshotId": "0ecc91c0-6c2b-4b54-8c48-ac93c6e61aec",
+  "twitterId": "1433056322728177674",
+  "scannedAt": "2026-08-06T08:56:57.206Z",
+  "fields": {
+    "username": "Hawra12703381",
+    "displayName": "Hawra",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2017696276972752896/oxwdbRRz_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": " البحرين و العراق و ايران ",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 48776
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2017696276972752896/oxwdbRRz_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1433056322728177674/1691934660"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Sep 01 13:17:24 +0000 2021",
+              "name": "Hawra",
+              "screen_name": "Hawra12703381"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDMzMDU2MzIyNzI4MTc3Njc0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": " البحرين و العراق و ايران "
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 933,
+                  "name": "Media Personality"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1586040236404051968"
+            },
+            "profile_bio": {
+              "description": "《 يا هو يا من لا هو الّا هو 》",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 5856,
+              "following": 6838
+            },
+            "rest_id": "1433056322728177674",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 6370,
+              "tweets": 16099
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQzMzA1NjMyMjcyODE3NzY3NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2017696276972752896/oxwdbRRz_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Sep 01 13:17:24 +0000 2021",
+              "name": "Hawra",
+              "screen_name": "Hawra12703381"
+            },
+            "id": "VXNlcjoxNDMzMDU2MzIyNzI4MTc3Njc0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1433056322728177674",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQzMzA1NjMyMjcyODE3NzY3NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
