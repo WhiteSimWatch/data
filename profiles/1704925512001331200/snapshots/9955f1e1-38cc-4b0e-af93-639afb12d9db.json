@@ -1,0 +1,164 @@
+{
+  "snapshotId": "9955f1e1-38cc-4b0e-af93-639afb12d9db",
+  "twitterId": "1704925512001331200",
+  "scannedAt": "2026-08-06T09:36:36.393Z",
+  "fields": {
+    "username": "miss_shokufeh",
+    "displayName": "شکوفه",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1704925875655835648/J_D81N_3_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوری اسلامی ایران/هفتکل",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 16933
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1704925875655835648/J_D81N_3_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1704925512001331200/1714210843"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Sep 21 18:28:29 +0000 2023",
+              "name": "شکوفه",
+              "screen_name": "miss_shokufeh"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzA0OTI1NTEyMDAxMzMxMjAw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران/هفتکل"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1783872041579315517"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "سرباز ولایت|کارشناسی مهندسی شیمی|علاقه مند به مطالعه|مدافع چادر|طلبه جهادی|هنرمند🖌",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1079,
+              "following": 484
+            },
+            "rest_id": "1704925512001331200",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 2666,
+              "tweets": 12534
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTcwNDkyNTUxMjAwMTMzMTIwMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1695321025479"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1704925875655835648/J_D81N_3_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Sep 21 18:28:29 +0000 2023",
+              "name": "شکوفه",
+              "screen_name": "miss_shokufeh"
+            },
+            "id": "VXNlcjoxNzA0OTI1NTEyMDAxMzMxMjAw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1704925512001331200",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcwNDkyNTUxMjAwMTMzMTIwMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
