@@ -1,0 +1,165 @@
+{
+  "snapshotId": "78691ce4-b108-4b87-8d82-3d397facfc7d",
+  "twitterId": "1160248458936115200",
+  "scannedAt": "2026-08-06T12:15:17.674Z",
+  "fields": {
+    "username": "ali688149",
+    "displayName": "ایستاده درغبار",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1687163643400503319/BgHGarPz_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "وطنم کربلاست",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 21460
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1687163643400503319/BgHGarPz_normal.jpg"
+            },
+            "banner": {
+              "image_url": ""
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Aug 10 17:56:03 +0000 2019",
+              "name": "ایستاده درغبار",
+              "screen_name": "ali688149"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTYwMjQ4NDU4OTM2MTE1MjAw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "وطنم کربلاست"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1509812286239694849"
+            },
+            "profile_bio": {
+              "description": "Am",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "und",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1983,
+              "following": 2715
+            },
+            "rest_id": "1160248458936115200",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 348,
+              "tweets": 646
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE2MDI0ODQ1ODkzNjExNTIwMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1576410639345"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1687163643400503319/BgHGarPz_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Aug 10 17:56:03 +0000 2019",
+              "name": "ایستاده درغبار",
+              "screen_name": "ali688149"
+            },
+            "id": "VXNlcjoxMTYwMjQ4NDU4OTM2MTE1MjAw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1160248458936115200",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE2MDI0ODQ1ODkzNjExNTIwMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
