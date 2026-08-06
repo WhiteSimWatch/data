@@ -1,0 +1,176 @@
+{
+  "snapshotId": "80df940d-7477-4701-8ce4-a8f0c39021fe",
+  "twitterId": "1652957561161764866",
+  "scannedAt": "2026-08-06T07:09:44.639Z",
+  "fields": {
+    "username": "mahdi_a_80",
+    "displayName": "mahdi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2040404970890280960/KdFZ_QZh_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوری اسلامی ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 965
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2040404970890280960/KdFZ_QZh_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1652957561161764866/1775302973"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon May 01 08:46:21 +0000 2023",
+              "name": "mahdi",
+              "screen_name": "mahdi_a_80"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjUyOTU3NTYxMTYxNzY0ODY2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1932698244993401063"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Teacher |Muslim, Shia |Islamic Republic of Iran🇮🇷 |Soldier of Khomeini and Khamenei's ideals",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/mahdi_abdollah…",
+                      "expanded_url": "http://www.instagram.com/mahdi_abdollahi_80",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/UWKQa1FbwG"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 700,
+              "following": 705
+            },
+            "rest_id": "1652957561161764866",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 323,
+              "tweets": 916
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/UWKQa1FbwG"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTY1Mjk1NzU2MTE2MTc2NDg2Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1682930903278"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2040404970890280960/KdFZ_QZh_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon May 01 08:46:21 +0000 2023",
+              "name": "mahdi",
+              "screen_name": "mahdi_a_80"
+            },
+            "id": "VXNlcjoxNjUyOTU3NTYxMTYxNzY0ODY2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1652957561161764866",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY1Mjk1NzU2MTE2MTc2NDg2Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
