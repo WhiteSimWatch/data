@@ -1,0 +1,160 @@
+{
+  "snapshotId": "14023abd-b6d0-436c-805b-281630c4fbb1",
+  "twitterId": "1856407728664817664",
+  "scannedAt": "2026-08-06T06:57:42.394Z",
+  "fields": {
+    "username": "se_sadatmir",
+    "displayName": "میران",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1922314252653629440/FzqNPwQk_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 9152
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1922314252653629440/FzqNPwQk_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1856407728664817664/1781732045"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Nov 12 18:44:43 +0000 2024",
+              "name": "میران",
+              "screen_name": "se_sadatmir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODU2NDA3NzI4NjY0ODE3NjY0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "قدرت واقعی از آگاهی میاد نه از سکوت 🧕\nتاریخ همیشه در حال تکرار هست ولی ما از اون درس عبرت نمی گیریم 🟥 ☫ 🟩\nچون اهل مطالعه تاریخ نیستیم📚🌍",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 577,
+              "following": 581
+            },
+            "rest_id": "1856407728664817664",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 269,
+              "tweets": 9520
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg1NjQwNzcyODY2NDgxNzY2NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1731437146241"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1922314252653629440/FzqNPwQk_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Nov 12 18:44:43 +0000 2024",
+              "name": "میران",
+              "screen_name": "se_sadatmir"
+            },
+            "id": "VXNlcjoxODU2NDA3NzI4NjY0ODE3NjY0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1856407728664817664",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1NjQwNzcyODY2NDgxNzY2NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
