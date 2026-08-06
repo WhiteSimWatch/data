@@ -1,0 +1,175 @@
+{
+  "snapshotId": "e0744e49-7edc-4852-b85b-15ffc3bbec2b",
+  "twitterId": "1156873516865773568",
+  "scannedAt": "2026-08-06T09:02:41.778Z",
+  "fields": {
+    "username": "Essayphil1",
+    "displayName": "جیزز",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1810226815241203712/_cOmgLUm_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "دامگه حادثه",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 272628
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1810226815241203712/_cOmgLUm_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1156873516865773568/1742392654"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Aug 01 10:25:14 +0000 2019",
+              "name": "جیزز",
+              "screen_name": "Essayphil1"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "fa",
+                "translation": "Hate and Aggression Blogger / Official Member of the Price-Hike School / Tehran-based and Authentic"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTU2ODczNTE2ODY1NzczNTY4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "دامگه حادثه"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2079190809652412494"
+              ]
+            },
+            "possibly_sensitive": true,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "بلاگر حوزه نفرت و پرخاش / عضو رسمی مکتب گران‌کن / تهرانی و اصیل",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": "sensitive_media"
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2493,
+              "following": 565
+            },
+            "rest_id": "1156873516865773568",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 2567,
+              "tweets": 46473
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE1Njg3MzUxNjg2NTc3MzU2OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1663880369189"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1810226815241203712/_cOmgLUm_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Aug 01 10:25:14 +0000 2019",
+              "name": "جیزز",
+              "screen_name": "Essayphil1"
+            },
+            "id": "VXNlcjoxMTU2ODczNTE2ODY1NzczNTY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1156873516865773568",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE1Njg3MzUxNjg2NTc3MzU2OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
