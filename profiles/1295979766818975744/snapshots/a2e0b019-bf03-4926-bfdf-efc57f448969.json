@@ -1,0 +1,165 @@
+{
+  "snapshotId": "a2e0b019-bf03-4926-bfdf-efc57f448969",
+  "twitterId": "1295979766818975744",
+  "scannedAt": "2026-08-06T07:35:06.706Z",
+  "fields": {
+    "username": "Mimsadat7",
+    "displayName": "دختر حوا",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2029198968983527425/Jwdxg8ds_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "ناکجاآباد",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 17298
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2029198968983527425/Jwdxg8ds_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1295979766818975744/1716237859"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Aug 19 07:04:28 +0000 2020",
+              "name": "دختر حوا",
+              "screen_name": "Mimsadat7"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjk1OTc5NzY2ODE4OTc1NzQ0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "ناکجاآباد"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1925260808591753663"
+            },
+            "profile_bio": {
+              "description": "گوشه عزلت ز صحبت ها مرا بیزار کرد.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 813,
+              "following": 812
+            },
+            "rest_id": "1295979766818975744",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 185,
+              "tweets": 8612
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI5NTk3OTc2NjgxODk3NTc0NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "5",
+                "last_changed_at_msec": "1666819266172"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2029198968983527425/Jwdxg8ds_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Aug 19 07:04:28 +0000 2020",
+              "name": "دختر حوا",
+              "screen_name": "Mimsadat7"
+            },
+            "id": "VXNlcjoxMjk1OTc5NzY2ODE4OTc1NzQ0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1295979766818975744",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI5NTk3OTc2NjgxODk3NTc0NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
