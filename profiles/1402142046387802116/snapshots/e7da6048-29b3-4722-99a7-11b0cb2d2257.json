@@ -1,0 +1,164 @@
+{
+  "snapshotId": "e7da6048-29b3-4722-99a7-11b0cb2d2257",
+  "twitterId": "1402142046387802116",
+  "scannedAt": "2026-08-06T04:04:56.085Z",
+  "fields": {
+    "username": "h_ABBASIFAR",
+    "displayName": "حسین‌عباسی‌فر",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2047838108461551616/2coHEjQL_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iraq Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 92790
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2047838108461551616/2coHEjQL_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1402142046387802116/1737243622"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jun 08 05:55:04 +0000 2021",
+              "name": "حسین‌عباسی‌فر",
+              "screen_name": "h_ABBASIFAR"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": false,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDAyMTQyMDQ2Mzg3ODAyMTE2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1478239343290597376"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ورود لیبرال ممنوع",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 10863,
+              "following": 2081
+            },
+            "rest_id": "1402142046387802116",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 7226,
+              "tweets": 95759
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQwMjE0MjA0NjM4NzgwMjExNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iraq Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1623272864594"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2047838108461551616/2coHEjQL_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Jun 08 05:55:04 +0000 2021",
+              "name": "حسین‌عباسی‌فر",
+              "screen_name": "h_ABBASIFAR"
+            },
+            "id": "VXNlcjoxNDAyMTQyMDQ2Mzg3ODAyMTE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1402142046387802116",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQwMjE0MjA0NjM4NzgwMjExNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
