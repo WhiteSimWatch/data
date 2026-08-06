@@ -1,0 +1,176 @@
+{
+  "snapshotId": "06231702-d6c8-4278-8454-d22003062aef",
+  "twitterId": "1802080398005940224",
+  "scannedAt": "2026-08-06T03:35:39.591Z",
+  "fields": {
+    "username": "narghaf",
+    "displayName": "نرگث",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2065790634531667968/jo2cEQXB_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Netherlands",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2696
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2065790634531667968/jo2cEQXB_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1802080398005940224/1777399141"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jun 15 20:47:31 +0000 2024",
+              "name": "نرگث",
+              "screen_name": "narghaf"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODAyMDgwMzk4MDA1OTQwMjI0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2028296352057143604"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "بُگذر\n\nhttps://t.co/YIB1zDpKuh",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/nargth",
+                      "expanded_url": "https://t.me/nargth",
+                      "indices": [
+                        7,
+                        30
+                      ],
+                      "url": "https://t.co/YIB1zDpKuh"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 129,
+              "following": 114
+            },
+            "rest_id": "1802080398005940224",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 34,
+              "tweets": 942
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgwMjA4MDM5ODAwNTk0MDIyNA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Netherlands",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1718484479602"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2065790634531667968/jo2cEQXB_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jun 15 20:47:31 +0000 2024",
+              "name": "نرگث",
+              "screen_name": "narghaf"
+            },
+            "id": "VXNlcjoxODAyMDgwMzk4MDA1OTQwMjI0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1802080398005940224",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgwMjA4MDM5ODAwNTk0MDIyNA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
