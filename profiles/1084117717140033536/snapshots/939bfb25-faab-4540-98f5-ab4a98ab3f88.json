@@ -15,79 +15,118 @@
     "verified": false
   },
   "rawPayload": {
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTA4NDExNzcxNzE0MDAzMzUzNg==",
+          "result": {
+            "id": "VXNlcjoxMDg0MTE3NzE3MTQwMDMzNTM2",
+            "core": {
+              "name": "حاج حسین",
+              "created_at": "Sat Jan 12 15:59:40 +0000 2019",
+              "screen_name": "hossein_sh20"
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1084120899484348420/dQbxZEGe_normal.jpg"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "rest_id": "1084117717140033536",
+            "__typename": "User",
+            "verification": {
+              "verified": false
+            },
+            "about_profile": {
+              "source": "Iran Android App",
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "account_based_in": "Iran",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1547309754852"
+              },
+              "location_accurate": true,
+              "created_country_accurate": true
+            },
+            "is_blue_verified": false,
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA4NDExNzcxNzE0MDAzMzUzNg==",
+              "is_identity_verified": false
+            },
+            "profile_image_shape": "Circle",
+            "affiliates_highlighted_label": {},
+            "identity_profile_labels_highlighted_label": {}
+          }
+        }
+      }
+    },
     "user_by_screen_name_raw": {
       "data": {
         "user": {
           "result": {
-            "__typename": "User",
-            "action_counts": {
-              "favorites_count": 517
+            "id": "VXNlcjoxMDg0MTE3NzE3MTQwMDMzNTM2",
+            "core": {
+              "name": "حاج حسین",
+              "created_at": "Sat Jan 12 15:59:40 +0000 2019",
+              "screen_name": "hossein_sh20"
             },
-            "affiliates_highlighted_label": {},
             "avatar": {
               "image_url": "https://pbs.twimg.com/profile_images/1084120899484348420/dQbxZEGe_normal.jpg"
             },
             "banner": {
               "image_url": "https://pbs.twimg.com/profile_banners/1084117717140033536/1582480581"
             },
-            "business_account": {},
-            "core": {
-              "created_at": "Sat Jan 12 15:59:40 +0000 2019",
-              "name": "حاج حسین",
-              "screen_name": "hossein_sh20"
+            "privacy": {
+              "protected": false
             },
-            "creator_subscriptions_count": 0,
-            "dm_permissions": {
-              "can_dm": false
-            },
-            "follow_request_sent": false,
-            "grok_translated_bio_with_availability": {
-              "is_available": false
-            },
-            "has_graduated_access": true,
-            "has_hidden_subscriptions_on_profile": false,
-            "highlights_info": {
-              "can_highlight_tweets": false,
-              "highlighted_tweets": "0"
-            },
-            "id": "VXNlcjoxMDg0MTE3NzE3MTQwMDMzNTM2",
-            "is_blue_verified": false,
-            "is_profile_translatable": true,
-            "legacy_extended_profile": {
-              "birthdate": {
-                "visibility": "MutualFollow",
-                "year": 1996,
-                "year_visibility": "Public"
-              }
+            "rest_id": "1084117717140033536",
+            "website": {
+              "url": ""
             },
             "location": {
               "location": ""
             },
-            "media_permissions": {
-              "can_media_tag": true
-            },
-            "notifications_settings": {
-              "notifications_enabled": false
-            },
-            "parody_commentary_fan_label": "None",
-            "pinned_items": {},
-            "possibly_sensitive": false,
-            "premium_gifting_eligible": true,
-            "privacy": {
-              "protected": false
-            },
+            "__typename": "User",
             "profile_bio": {
-              "description": "«تنها در برابر خالق طوفان‌هاست که سر خم میکنیم.»",
               "entities": {
                 "description": {}
-              }
+              },
+              "description": "«تنها در برابر خالق طوفان‌هاست که سر خم میکنیم.»"
             },
-            "profile_description_language": "fa",
-            "profile_image_shape": "Circle",
+            "pinned_items": {},
+            "tweet_counts": {
+              "tweets": 74,
+              "media_tweets": 11
+            },
+            "verification": {
+              "verified": false
+            },
+            "action_counts": {
+              "favorites_count": 517
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "highlights_info": {
+              "highlighted_tweets": "0",
+              "can_highlight_tweets": false
+            },
+            "super_following": false,
+            "business_account": {},
+            "is_blue_verified": false,
             "profile_metadata": {
               "profile_interstitial_type": ""
             },
-            "profile_sort_enabled": false,
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "super_followed_by": false,
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "possibly_sensitive": false,
+            "follow_request_sent": false,
+            "profile_image_shape": "Circle",
             "profile_translation": {
               "translator_type": "none"
             },
@@ -95,68 +134,29 @@
               "followers": 54,
               "following": 60
             },
-            "rest_id": "1084117717140033536",
+            "has_graduated_access": true,
+            "profile_sort_enabled": false,
             "super_follow_eligible": false,
-            "super_followed_by": false,
-            "super_following": false,
-            "tweet_counts": {
-              "media_tweets": 11,
-              "tweets": 74
-            },
             "user_seed_tweet_count": 0,
-            "verification": {
-              "verified": false
+            "notifications_settings": {
+              "notifications_enabled": false
             },
-            "verification_info": {
-              "is_identity_verified": false
-            },
-            "website": {
-              "url": ""
-            }
-          }
-        }
-      }
-    },
-    "about_account_query_raw": {
-      "data": {
-        "user_result_by_screen_name": {
-          "id": "VXNlclJlc3VsdHM6MTA4NDExNzcxNzE0MDAzMzUzNg==",
-          "result": {
-            "__typename": "User",
-            "about_profile": {
-              "account_based_in": "Iran",
-              "created_country_accurate": true,
-              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
-              "location_accurate": true,
-              "source": "Iran Android App",
-              "username_changes": {
-                "count": "1",
-                "last_changed_at_msec": "1547309754852"
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "year": 1996,
+                "visibility": "MutualFollow",
+                "year_visibility": "Public"
               }
             },
+            "premium_gifting_eligible": true,
+            "creator_subscriptions_count": 0,
+            "parody_commentary_fan_label": "None",
             "affiliates_highlighted_label": {},
-            "avatar": {
-              "image_url": "https://pbs.twimg.com/profile_images/1084120899484348420/dQbxZEGe_normal.jpg"
-            },
-            "core": {
-              "created_at": "Sat Jan 12 15:59:40 +0000 2019",
-              "name": "حاج حسین",
-              "screen_name": "hossein_sh20"
-            },
-            "id": "VXNlcjoxMDg0MTE3NzE3MTQwMDMzNTM2",
-            "identity_profile_labels_highlighted_label": {},
-            "is_blue_verified": false,
-            "privacy": {
-              "protected": false
-            },
-            "profile_image_shape": "Circle",
-            "rest_id": "1084117717140033536",
-            "verification": {
-              "verified": false
-            },
-            "verification_info": {
-              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA4NDExNzcxNzE0MDAzMzUzNg==",
-              "is_identity_verified": false
+            "profile_description_language": "fa",
+            "has_hidden_subscriptions_on_profile": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
             }
           }
         }
