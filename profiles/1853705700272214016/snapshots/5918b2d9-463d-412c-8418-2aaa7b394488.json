@@ -1,0 +1,160 @@
+{
+  "snapshotId": "5918b2d9-463d-412c-8418-2aaa7b394488",
+  "twitterId": "1853705700272214016",
+  "scannedAt": "2026-08-07T03:49:25.393Z",
+  "fields": {
+    "username": "shomah_23",
+    "displayName": "شُومَه",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1853708786038349824/NabI8Rsb_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "زیر آسمون خدا",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 17334
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1853708786038349824/NabI8Rsb_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1853705700272214016/1730793601"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Nov 05 07:51:18 +0000 2024",
+              "name": "شُومَه",
+              "screen_name": "shomah_23"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODUzNzA1NzAwMjcyMjE0MDE2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "زیر آسمون خدا"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "صَتا غم اَر نهادِن مینه جونُم🌾 نِهِنگِ غـم اَیَر زِیدِن بُهُـونُم🌾  شَو و روز ایکنُم شُرگِ خدانه🌘 دِلُم شاده و ایگُم لُر زَبوونُم🌘",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 317,
+              "following": 363
+            },
+            "rest_id": "1853705700272214016",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 569,
+              "tweets": 10532
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg1MzcwNTcwMDI3MjIxNDAxNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1730793473339"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1853708786038349824/NabI8Rsb_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Nov 05 07:51:18 +0000 2024",
+              "name": "شُومَه",
+              "screen_name": "shomah_23"
+            },
+            "id": "VXNlcjoxODUzNzA1NzAwMjcyMjE0MDE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1853705700272214016",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg1MzcwNTcwMDI3MjIxNDAxNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
