@@ -1,0 +1,163 @@
+{
+  "snapshotId": "f79738d1-46ef-4b7d-9762-48a6913252d1",
+  "twitterId": "513478434",
+  "scannedAt": "2026-08-07T04:13:16.598Z",
+  "fields": {
+    "username": "SamanMovahed",
+    "displayName": "SamanMovahedirad",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1950553459146539008/A8o70BsL_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Kashan - Iran",
+    "accountBasedIn": "Netherlands",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 56068
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1950553459146539008/A8o70BsL_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/513478434/1718090832"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Mar 03 18:56:12 +0000 2012",
+              "name": "SamanMovahedirad",
+              "screen_name": "SamanMovahed"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo1MTM0Nzg0MzQ=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Kashan - Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1044288284875206658"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Journalist - RTs not endorsements|خدای آئین‌های بیهوده|زن، زندگی، آزادی|#YNWA",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 4979,
+              "following": 595
+            },
+            "rest_id": "513478434",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3037,
+              "tweets": 30321
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NTEzNDc4NDM0",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Netherlands",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1480357790948"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1950553459146539008/A8o70BsL_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Mar 03 18:56:12 +0000 2012",
+              "name": "SamanMovahedirad",
+              "screen_name": "SamanMovahed"
+            },
+            "id": "VXNlcjo1MTM0Nzg0MzQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "513478434",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NTEzNDc4NDM0",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
