@@ -1,0 +1,164 @@
+{
+  "snapshotId": "8f8e9b77-e630-479c-b373-5ae52fbb5423",
+  "twitterId": "1569198966973112320",
+  "scannedAt": "2026-08-07T03:12:57.588Z",
+  "fields": {
+    "username": "khass2024",
+    "displayName": "آقای خاص🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1647648670102216705/sIRiW-yy_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 55538
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1647648670102216705/sIRiW-yy_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1569198966973112320/1662968111"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Sep 12 05:39:41 +0000 2022",
+              "name": "آقای خاص🎒",
+              "screen_name": "khass2024"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTY5MTk4OTY2OTczMTEyMzIw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1786502101230637181"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فعال فرهنگی ،عاشق ولایت ،فوتبالی هواداردوآتیشه پرسپولیس",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3560,
+              "following": 3315
+            },
+            "rest_id": "1569198966973112320",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1788,
+              "tweets": 22394
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTU2OTE5ODk2Njk3MzExMjMyMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1707222027985"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1647648670102216705/sIRiW-yy_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Sep 12 05:39:41 +0000 2022",
+              "name": "آقای خاص🎒",
+              "screen_name": "khass2024"
+            },
+            "id": "VXNlcjoxNTY5MTk4OTY2OTczMTEyMzIw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1569198966973112320",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTU2OTE5ODk2Njk3MzExMjMyMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
