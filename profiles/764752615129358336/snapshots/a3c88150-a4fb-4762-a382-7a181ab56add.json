@@ -1,0 +1,164 @@
+{
+  "snapshotId": "a3c88150-a4fb-4762-a382-7a181ab56add",
+  "twitterId": "764752615129358336",
+  "scannedAt": "2026-08-07T09:05:04.529Z",
+  "fields": {
+    "username": "shirazi_yasaman",
+    "displayName": "ياسمن صادق شيرازي",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1090324295367229441/kERXoEHc_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تهران، ايران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 39922
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1090324295367229441/kERXoEHc_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/764752615129358336/1636304165"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Aug 14 09:16:46 +0000 2016",
+              "name": "ياسمن صادق شيرازي",
+              "screen_name": "shirazi_yasaman"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3NjQ3NTI2MTUxMjkzNTgzMzY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران، ايران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1958072972540830014"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خبرنگار Journalist، دانش‌آموخته روزنامه‌نگاری علامه. نظرات شخصی خودم را می‌نویسم مسئولیتی بابت کامنت‌ها و نظرات دیگران ندارم",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2603,
+              "following": 673
+            },
+            "rest_id": "764752615129358336",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 126,
+              "tweets": 1969
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzY0NzUyNjE1MTI5MzU4MzM2",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1471166270734"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1090324295367229441/kERXoEHc_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Aug 14 09:16:46 +0000 2016",
+              "name": "ياسمن صادق شيرازي",
+              "screen_name": "shirazi_yasaman"
+            },
+            "id": "VXNlcjo3NjQ3NTI2MTUxMjkzNTgzMzY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "764752615129358336",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzY0NzUyNjE1MTI5MzU4MzM2",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
