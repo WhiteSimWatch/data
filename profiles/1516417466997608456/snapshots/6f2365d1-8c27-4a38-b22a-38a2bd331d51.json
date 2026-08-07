@@ -1,0 +1,163 @@
+{
+  "snapshotId": "6f2365d1-8c27-4a38-b22a-38a2bd331d51",
+  "twitterId": "1516417466997608456",
+  "scannedAt": "2026-08-07T05:42:50.612Z",
+  "fields": {
+    "username": "asman01342405",
+    "displayName": "آسمان",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1809950097515700224/TLmP8KNS_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "کرمان جمهوری اسلامی ایران ",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 325223
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1809950097515700224/TLmP8KNS_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1516417466997608456/1734550140"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Apr 19 14:04:51 +0000 2022",
+              "name": "آسمان",
+              "screen_name": "asman01342405"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTE2NDE3NDY2OTk3NjA4NDU2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "کرمان جمهوری اسلامی ایران "
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1997945910496751790"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "سادگی خودم از هر نقابی قشنگتره",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 4941,
+              "following": 4220
+            },
+            "rest_id": "1516417466997608456",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1124,
+              "tweets": 44185
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTUxNjQxNzQ2Njk5NzYwODQ1Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1809950097515700224/TLmP8KNS_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Apr 19 14:04:51 +0000 2022",
+              "name": "آسمان",
+              "screen_name": "asman01342405"
+            },
+            "id": "VXNlcjoxNTE2NDE3NDY2OTk3NjA4NDU2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1516417466997608456",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUxNjQxNzQ2Njk5NzYwODQ1Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
