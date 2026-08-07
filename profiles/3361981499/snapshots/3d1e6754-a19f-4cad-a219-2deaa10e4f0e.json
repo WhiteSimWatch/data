@@ -1,0 +1,172 @@
+{
+  "snapshotId": "3d1e6754-a19f-4cad-a219-2deaa10e4f0e",
+  "twitterId": "3361981499",
+  "scannedAt": "2026-08-07T07:07:08.606Z",
+  "fields": {
+    "username": "hanaka_tashima",
+    "displayName": "Farnaz Mehregan",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/703535864719282178/ptzwG1hT_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 59
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/703535864719282178/ptzwG1hT_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/3361981499/1456570963"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jul 06 07:05:49 +0000 2015",
+              "name": "Farnaz Mehregan",
+              "screen_name": "hanaka_tashima"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjozMzYxOTgxNDk5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "‏چه سود نیکی را  هنگام که نیکان سرکوب می شوند؟...\nچه سود آزادی را  هنگام که آزاد مردان ، دربند می زینند؟.......",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "facebook.com/farnaz.mehregan",
+                      "expanded_url": "https://www.facebook.com/farnaz.mehregan",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ICdb8rMGNb"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 120,
+              "following": 1434
+            },
+            "rest_id": "3361981499",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 11,
+              "tweets": 264
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/ICdb8rMGNb"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MzM2MTk4MTQ5OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/703535864719282178/ptzwG1hT_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jul 06 07:05:49 +0000 2015",
+              "name": "Farnaz Mehregan",
+              "screen_name": "hanaka_tashima"
+            },
+            "id": "VXNlcjozMzYxOTgxNDk5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "3361981499",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzM2MTk4MTQ5OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
