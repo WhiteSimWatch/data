@@ -1,0 +1,160 @@
+{
+  "snapshotId": "6729e604-46a6-4f0b-83b1-f12c465ce6eb",
+  "twitterId": "818142884515946496",
+  "scannedAt": "2026-08-07T04:17:02.006Z",
+  "fields": {
+    "username": "mamalhdk",
+    "displayName": "مملی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/994291232334602240/wiB2Jd4R_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "United States",
+    "accountBasedIn": "Germany",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 7476
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/994291232334602240/wiB2Jd4R_normal.jpg"
+            },
+            "banner": {
+              "image_url": ""
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jan 08 17:10:38 +0000 2017",
+              "name": "مملی",
+              "screen_name": "mamalhdk"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MTgxNDI4ODQ1MTU5NDY0OTY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "United States"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یه کاری نکن یه کاری کنم ؛ هر کاری کنی نتونی کاریش کنی !!",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 28,
+              "following": 261
+            },
+            "rest_id": "818142884515946496",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1,
+              "tweets": 71
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODE4MTQyODg0NTE1OTQ2NDk2",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1483895496933"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/994291232334602240/wiB2Jd4R_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jan 08 17:10:38 +0000 2017",
+              "name": "مملی",
+              "screen_name": "mamalhdk"
+            },
+            "id": "VXNlcjo4MTgxNDI4ODQ1MTU5NDY0OTY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "818142884515946496",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODE4MTQyODg0NTE1OTQ2NDk2",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
