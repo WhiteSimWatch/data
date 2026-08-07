@@ -1,0 +1,160 @@
+{
+  "snapshotId": "359f82d8-7eaa-4830-aed9-1e2fb64ea62f",
+  "twitterId": "1387498804530843652",
+  "scannedAt": "2026-08-07T08:38:04.738Z",
+  "fields": {
+    "username": "Mahda_zsr",
+    "displayName": "مھدا~",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1643041690452631552/GXOiAXqc_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Europe",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 274170
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1643041690452631552/GXOiAXqc_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1387498804530843652/1783167164"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Apr 28 20:08:02 +0000 2021",
+              "name": "مھدا~",
+              "screen_name": "Mahda_zsr"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzg3NDk4ODA0NTMwODQzNjUy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "شیعه‌علی‌بن‌ابی‌طالب، گذرا به سکوت، ایران",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3701,
+              "following": 2630
+            },
+            "rest_id": "1387498804530843652",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 144,
+              "tweets": 23052
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM4NzQ5ODgwNDUzMDg0MzY1Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "19",
+                "last_changed_at_msec": "1783167829064"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1643041690452631552/GXOiAXqc_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Apr 28 20:08:02 +0000 2021",
+              "name": "مھدا~",
+              "screen_name": "Mahda_zsr"
+            },
+            "id": "VXNlcjoxMzg3NDk4ODA0NTMwODQzNjUy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1387498804530843652",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM4NzQ5ODgwNDUzMDg0MzY1Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
