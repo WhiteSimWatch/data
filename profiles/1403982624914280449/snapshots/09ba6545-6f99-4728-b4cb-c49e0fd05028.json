@@ -1,0 +1,169 @@
+{
+  "snapshotId": "09ba6545-6f99-4728-b4cb-c49e0fd05028",
+  "twitterId": "1403982624914280449",
+  "scannedAt": "2026-08-07T03:05:06.631Z",
+  "fields": {
+    "username": "Reza_sheykhii",
+    "displayName": "فرزند روح اله",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1487886015318609920/baVR3DoH_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "کربلای ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 26429
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1487886015318609920/baVR3DoH_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1403982624914280449/1725558315"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jun 13 07:49:00 +0000 2021",
+              "name": "فرزند روح اله",
+              "screen_name": "Reza_sheykhii"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDAzOTgyNjI0OTE0MjgwNDQ5",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "کربلای ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1831706147071352902"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1487903281800257537"
+            },
+            "profile_bio": {
+              "description": "خاک شهیدان عشق، گر بشکافی هنوز، آید از آن کشتگان، زمزمه ی دوست، دوست... کمی خودمون باشیم \n\nفالو=بک *به مرور بک میدم*",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 4280,
+              "following": 3567
+            },
+            "rest_id": "1403982624914280449",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 408,
+              "tweets": 8349
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQwMzk4MjYyNDkxNDI4MDQ0OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1641216189234"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1487886015318609920/baVR3DoH_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jun 13 07:49:00 +0000 2021",
+              "name": "فرزند روح اله",
+              "screen_name": "Reza_sheykhii"
+            },
+            "id": "VXNlcjoxNDAzOTgyNjI0OTE0MjgwNDQ5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1403982624914280449",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQwMzk4MjYyNDkxNDI4MDQ0OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
