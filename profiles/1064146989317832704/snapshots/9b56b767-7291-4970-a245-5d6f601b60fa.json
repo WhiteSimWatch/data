@@ -1,0 +1,182 @@
+{
+  "snapshotId": "9b56b767-7291-4970-a245-5d6f601b60fa",
+  "twitterId": "1064146989317832704",
+  "scannedAt": "2026-08-07T07:15:11.938Z",
+  "fields": {
+    "username": "reza_orang",
+    "displayName": "reza orang",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1064571698240999425/_P-ElWoz_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تهران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1805
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1064571698240999425/_P-ElWoz_normal.jpg"
+            },
+            "banner": {
+              "image_url": ""
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Nov 18 13:23:07 +0000 2018",
+              "name": "reza orang",
+              "screen_name": "reza_orang"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDY0MTQ2OTg5MzE3ODMyNzA0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1620216823818993666"
+            },
+            "profile_bio": {
+              "description": "سید رضا اورنگ.فیلمنامه نویس،روزنامه نگار،کارگردان،تهیه کننده ،شاعر،طنزپرداز \nو مدرس سینما\nSeyed Reza Aurang. Screenwriter, journalist, director, producer, poet,",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "artcafe.ir",
+                      "expanded_url": "http://artcafe.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/RdmJ7D25nZ"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1304,
+              "following": 1420
+            },
+            "rest_id": "1064146989317832704",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3040,
+              "tweets": 5799
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/RdmJ7D25nZ"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTA2NDE0Njk4OTMxNzgzMjcwNA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1064571698240999425/_P-ElWoz_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Nov 18 13:23:07 +0000 2018",
+              "name": "reza orang",
+              "screen_name": "reza_orang"
+            },
+            "id": "VXNlcjoxMDY0MTQ2OTg5MzE3ODMyNzA0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1064146989317832704",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA2NDE0Njk4OTMxNzgzMjcwNA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
