@@ -1,0 +1,159 @@
+{
+  "snapshotId": "b368e8c8-01bd-4902-95c6-6f6c921530cb",
+  "twitterId": "2038626704994848768",
+  "scannedAt": "2026-08-08T04:55:40.296Z",
+  "fields": {
+    "username": "AmirMAHDI121160",
+    "displayName": "AmirMAHDI",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2038629141206245376/T9Yy6OX5_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 19
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2038629141206245376/T9Yy6OX5_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2038626704994848768/1774955604"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Mar 30 14:38:14 +0000 2026",
+              "name": "AmirMAHDI",
+              "screen_name": "AmirMAHDI121160"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDM4NjI2NzA0OTk0ODQ4NzY4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Political & social commentary focused on justice, transparency, and truth.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 9,
+              "following": 41
+            },
+            "rest_id": "2038626704994848768",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 7,
+              "tweets": 31
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAzODYyNjcwNDk5NDg0ODc2OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2038629141206245376/T9Yy6OX5_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Mar 30 14:38:14 +0000 2026",
+              "name": "AmirMAHDI",
+              "screen_name": "AmirMAHDI121160"
+            },
+            "id": "VXNlcjoyMDM4NjI2NzA0OTk0ODQ4NzY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2038626704994848768",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAzODYyNjcwNDk5NDg0ODc2OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
