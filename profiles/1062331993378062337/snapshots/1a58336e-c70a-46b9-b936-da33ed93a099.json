@@ -1,0 +1,164 @@
+{
+  "snapshotId": "1a58336e-c70a-46b9-b936-da33ed93a099",
+  "twitterId": "1062331993378062337",
+  "scannedAt": "2026-08-08T03:46:57.380Z",
+  "fields": {
+    "username": "mosannef_",
+    "displayName": "سید عباس",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1409616350805315611/VxH8dage_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "سلیمانیة",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 23607
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1409616350805315611/VxH8dage_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1062331993378062337/1587601669"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Nov 13 13:10:59 +0000 2018",
+              "name": "سید عباس",
+              "screen_name": "mosannef_"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDYyMzMxOTkzMzc4MDYyMzM3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "سلیمانیة"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1390734060289413132"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "‏‏‏‏‏‏‏من خاک کف پای سگ کوی همانم،                                               \nکو خاک کف پای سگ کوی تو باشد.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 139,
+              "following": 294
+            },
+            "rest_id": "1062331993378062337",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 55,
+              "tweets": 1752
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTA2MjMzMTk5MzM3ODA2MjMzNw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1557857388388"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1409616350805315611/VxH8dage_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Nov 13 13:10:59 +0000 2018",
+              "name": "سید عباس",
+              "screen_name": "mosannef_"
+            },
+            "id": "VXNlcjoxMDYyMzMxOTkzMzc4MDYyMzM3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1062331993378062337",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA2MjMzMTk5MzM3ODA2MjMzNw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
