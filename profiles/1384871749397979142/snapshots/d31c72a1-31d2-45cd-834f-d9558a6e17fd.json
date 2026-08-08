@@ -1,0 +1,160 @@
+{
+  "snapshotId": "d31c72a1-31d2-45cd-834f-d9558a6e17fd",
+  "twitterId": "1384871749397979142",
+  "scannedAt": "2026-08-08T05:06:46.644Z",
+  "fields": {
+    "username": "Iranm22",
+    "displayName": "زن تنهای شب و روز",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2040725509978378240/uymQcI8X_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "نیستم.",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Germany Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 11789
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2040725509978378240/uymQcI8X_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1384871749397979142/1775381853"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Apr 21 14:09:06 +0000 2021",
+              "name": "زن تنهای شب و روز",
+              "screen_name": "Iranm22"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzg0ODcxNzQ5Mzk3OTc5MTQy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "نیستم."
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "تا اطلاع ثانوی اکانت رو از صاحب اصلیش اجاره کردم.\nایران را سخت و بی‌حساب دوست داشتن محکومیت من است.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 692,
+              "following": 789
+            },
+            "rest_id": "1384871749397979142",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 625,
+              "tweets": 7999
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM4NDg3MTc0OTM5Nzk3OTE0Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Germany Android App",
+              "username_changes": {
+                "count": "5",
+                "last_changed_at_msec": "1775382367690"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2040725509978378240/uymQcI8X_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Apr 21 14:09:06 +0000 2021",
+              "name": "زن تنهای شب و روز",
+              "screen_name": "Iranm22"
+            },
+            "id": "VXNlcjoxMzg0ODcxNzQ5Mzk3OTc5MTQy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1384871749397979142",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM4NDg3MTc0OTM5Nzk3OTE0Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
