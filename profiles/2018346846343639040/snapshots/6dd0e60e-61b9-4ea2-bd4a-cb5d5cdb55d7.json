@@ -1,0 +1,158 @@
+{
+  "snapshotId": "6dd0e60e-61b9-4ea2-bd4a-cb5d5cdb55d7",
+  "twitterId": "2018346846343639040",
+  "scannedAt": "2026-08-08T06:25:28.463Z",
+  "fields": {
+    "username": "MRouhani4165",
+    "displayName": "Milad Rouhani",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2018751617319809024/CFa4tWfT_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 5391
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2018751617319809024/CFa4tWfT_normal.jpg"
+            },
+            "banner": {
+              "image_url": ""
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 02 15:34:04 +0000 2026",
+              "name": "Milad Rouhani",
+              "screen_name": "MRouhani4165"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDE4MzQ2ODQ2MzQzNjM5MDQw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 267,
+              "following": 347
+            },
+            "rest_id": "2018346846343639040",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 396,
+              "tweets": 5939
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAxODM0Njg0NjM0MzYzOTA0MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2018751617319809024/CFa4tWfT_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Feb 02 15:34:04 +0000 2026",
+              "name": "Milad Rouhani",
+              "screen_name": "MRouhani4165"
+            },
+            "id": "VXNlcjoyMDE4MzQ2ODQ2MzQzNjM5MDQw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2018346846343639040",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAxODM0Njg0NjM0MzYzOTA0MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
