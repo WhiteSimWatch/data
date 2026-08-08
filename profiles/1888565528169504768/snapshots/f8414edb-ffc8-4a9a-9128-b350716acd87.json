@@ -1,0 +1,228 @@
+{
+  "snapshotId": "f8414edb-ffc8-4a9a-9128-b350716acd87",
+  "twitterId": "1888565528169504768",
+  "scannedAt": "2026-08-08T03:36:42.537Z",
+  "fields": {
+    "username": "Avash_media",
+    "displayName": "آوش | Avash",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2020812013027614720/evIjuisG_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 300
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2020812013027614720/evIjuisG_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1888565528169504768/1746263340"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Feb 09 12:28:15 +0000 2025",
+              "name": "آوش | Avash",
+              "screen_name": "Avash_media"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "5"
+            },
+            "id": "VXNlcjoxODg4NTY1NTI4MTY5NTA0NzY4",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2083089687044825453"
+              ]
+            },
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 580,
+                  "name": "Media & News Company"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1906641017274560572"
+            },
+            "profile_bio": {
+              "description": "آوش؛ رسانه نسل نو\nhttps://t.co/TZGliAqlS3 \nhttps://t.co/5JewQSr66D",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/avash_media",
+                      "expanded_url": "https://t.me/avash_media",
+                      "indices": [
+                        18,
+                        41
+                      ],
+                      "url": "https://t.co/TZGliAqlS3"
+                    },
+                    {
+                      "display_url": "youtube.com/@avash_media",
+                      "expanded_url": "https://www.youtube.com/@avash_media",
+                      "indices": [
+                        43,
+                        66
+                      ],
+                      "url": "https://t.co/5JewQSr66D"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "avash.ir",
+                      "expanded_url": "https://avash.ir/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/cnsk7pUt08"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 6132,
+              "following": 10
+            },
+            "rest_id": "1888565528169504768",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3556,
+              "tweets": 6065
+            },
+            "user_seed_tweet_count": 3,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1784712598958"
+              }
+            },
+            "website": {
+              "url": "https://t.co/cnsk7pUt08"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg4ODU2NTUyODE2OTUwNDc2OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1739104147782"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2020812013027614720/evIjuisG_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Feb 09 12:28:15 +0000 2025",
+              "name": "آوش | Avash",
+              "screen_name": "Avash_media"
+            },
+            "id": "VXNlcjoxODg4NTY1NTI4MTY5NTA0NzY4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1888565528169504768",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4ODU2NTUyODE2OTUwNDc2OA==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1784712598958"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
