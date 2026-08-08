@@ -1,0 +1,168 @@
+{
+  "snapshotId": "82c88ee3-d793-4c5b-b8b0-0586cf24c028",
+  "twitterId": "713034705231355904",
+  "scannedAt": "2026-08-08T05:18:33.396Z",
+  "fields": {
+    "username": "yarmohammadi_ir",
+    "displayName": "محمدرضا یارمحمدی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1994371426959372288/ZzN-U60A_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 52
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1994371426959372288/ZzN-U60A_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/713034705231355904/1748726654"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Mar 24 16:08:16 +0000 2016",
+              "name": "محمدرضا یارمحمدی",
+              "screen_name": "yarmohammadi_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3MTMwMzQ3MDUyMzEzNTU5MDQ=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 13,
+                "month": 3,
+                "visibility": "Public",
+                "year": 2001,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "premium_gifting_eligible": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "🟢⚪🔴 پاینده ایران 🌱",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 31,
+              "following": 10
+            },
+            "rest_id": "713034705231355904",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 5,
+              "tweets": 20
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzEzMDM0NzA1MjMxMzU1OTA0",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1495353013219"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1994371426959372288/ZzN-U60A_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Mar 24 16:08:16 +0000 2016",
+              "name": "محمدرضا یارمحمدی",
+              "screen_name": "yarmohammadi_ir"
+            },
+            "id": "VXNlcjo3MTMwMzQ3MDUyMzEzNTU5MDQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "713034705231355904",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzEzMDM0NzA1MjMxMzU1OTA0",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
