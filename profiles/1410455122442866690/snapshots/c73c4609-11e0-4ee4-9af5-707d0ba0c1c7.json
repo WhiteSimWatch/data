@@ -1,0 +1,168 @@
+{
+  "snapshotId": "c73c4609-11e0-4ee4-9af5-707d0ba0c1c7",
+  "twitterId": "1410455122442866690",
+  "scannedAt": "2026-10-17T21:08:54.424Z",
+  "fields": {
+    "username": "empireoflies_ir",
+    "displayName": "امپراتوری دروغ 📡",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1410462476903276545/0iibubOL_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 25862
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1410462476903276545/0iibubOL_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1410455122442866690/1625299125"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Jul 01 04:28:15 +0000 2021",
+              "name": "امپراتوری دروغ 📡",
+              "screen_name": "empireoflies_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDEwNDU1MTIyNDQyODY2Njkw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/empireoflies_i…",
+                      "expanded_url": "https://www.instagram.com/empireoflies_ir/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/HK2rw5tvdB"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1679,
+              "following": 1727
+            },
+            "rest_id": "1410455122442866690",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 352,
+              "tweets": 838
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/HK2rw5tvdB"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQxMDQ1NTEyMjQ0Mjg2NjY5MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1625113856850"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1410462476903276545/0iibubOL_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Jul 01 04:28:15 +0000 2021",
+              "name": "امپراتوری دروغ 📡",
+              "screen_name": "empireoflies_ir"
+            },
+            "id": "VXNlcjoxNDEwNDU1MTIyNDQyODY2Njkw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1410455122442866690",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQxMDQ1NTEyMjQ0Mjg2NjY5MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
