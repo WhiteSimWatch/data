@@ -1,0 +1,167 @@
+{
+  "snapshotId": "919bcc73-bfd4-49ed-a3b5-af91a791c4a0",
+  "twitterId": "1839009831463825411",
+  "scannedAt": "2026-10-17T19:16:17.646Z",
+  "fields": {
+    "username": "313_Gomnam_",
+    "displayName": "فرزندی از ایل بختیار",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2078112003978305536/Sc6HlY8a_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 14369
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2078112003978305536/Sc6HlY8a_normal.jpg"
+            },
+            "banner": {
+              "image_url": ""
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Sep 25 18:31:39 +0000 2024",
+              "name": "فرزندی از ایل بختیار",
+              "screen_name": "313_Gomnam_"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODM5MDA5ODMxNDYzODI1NDEx",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 15,
+                  "name": "Entertainment & Recreation"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1840073482639421894"
+            },
+            "profile_bio": {
+              "description": "فرزندی از ایل بختیاری\nعاشق خانواده\nسخت کوش\n...\n\n🇮🇷",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 454,
+              "following": 452
+            },
+            "rest_id": "1839009831463825411",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 181,
+              "tweets": 12308
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgzOTAwOTgzMTQ2MzgyNTQxMQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1727289279782"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2078112003978305536/Sc6HlY8a_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Sep 25 18:31:39 +0000 2024",
+              "name": "فرزندی از ایل بختیار",
+              "screen_name": "313_Gomnam_"
+            },
+            "id": "VXNlcjoxODM5MDA5ODMxNDYzODI1NDEx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1839009831463825411",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgzOTAwOTgzMTQ2MzgyNTQxMQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
