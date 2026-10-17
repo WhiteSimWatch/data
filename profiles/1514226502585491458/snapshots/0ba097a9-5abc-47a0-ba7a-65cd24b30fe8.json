@@ -1,0 +1,156 @@
+{
+  "snapshotId": "0ba097a9-5abc-47a0-ba7a-65cd24b30fe8",
+  "twitterId": "1514226502585491458",
+  "scannedAt": "2026-10-17T21:03:07.546Z",
+  "fields": {
+    "username": "peterleo67",
+    "displayName": "Leo Peter",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1936014533987897344/FUYe2QiE_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Dubai, United Arab Emirates",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "Africa Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 163
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1936014533987897344/FUYe2QiE_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1514226502585491458/1750416809"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Apr 13 13:00:31 +0000 2022",
+              "name": "Leo Peter",
+              "screen_name": "peterleo67"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTE0MjI2NTAyNTg1NDkxNDU4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Dubai, United Arab Emirates"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Allah is the Greatest",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 637,
+              "following": 4260
+            },
+            "rest_id": "1514226502585491458",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3,
+              "tweets": 5
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTUxNDIyNjUwMjU4NTQ5MTQ1OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Africa Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1751082377219"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1936014533987897344/FUYe2QiE_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Apr 13 13:00:31 +0000 2022",
+              "name": "Leo Peter",
+              "screen_name": "peterleo67"
+            },
+            "id": "VXNlcjoxNTE0MjI2NTAyNTg1NDkxNDU4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1514226502585491458",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUxNDIyNjUwMjU4NTQ5MTQ1OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
