@@ -1,0 +1,167 @@
+{
+  "snapshotId": "3333c10e-9d86-4d8a-89f1-2da9e8d2378f",
+  "twitterId": "2024085081380519936",
+  "scannedAt": "2026-10-18T06:59:21.902Z",
+  "fields": {
+    "username": "1Tabasoom",
+    "displayName": "Tabasoom 1",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2024086079221956609/6k38wKka_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2621
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2024086079221956609/6k38wKka_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2024085081380519936/1773266656"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Feb 18 11:34:46 +0000 2026",
+              "name": "Tabasoom 1",
+              "screen_name": "1Tabasoom"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDI0MDg1MDgxMzgwNTE5OTM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 144,
+                  "name": "Education"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "2024087114804285750"
+            },
+            "profile_bio": {
+              "description": "دغدغه مند فضای رسانه📱💻📚🖊️",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 140,
+              "following": 145
+            },
+            "rest_id": "2024085081380519936",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 368,
+              "tweets": 1502
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAyNDA4NTA4MTM4MDUxOTkzNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1771414509058"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2024086079221956609/6k38wKka_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Feb 18 11:34:46 +0000 2026",
+              "name": "Tabasoom 1",
+              "screen_name": "1Tabasoom"
+            },
+            "id": "VXNlcjoyMDI0MDg1MDgxMzgwNTE5OTM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2024085081380519936",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAyNDA4NTA4MTM4MDUxOTkzNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
