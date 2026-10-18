@@ -1,0 +1,172 @@
+{
+  "snapshotId": "265dafbe-61b1-4101-aefc-5d3467ca40f1",
+  "twitterId": "2043819568250937344",
+  "scannedAt": "2026-10-18T09:37:12.281Z",
+  "fields": {
+    "username": "DARYA6381",
+    "displayName": "DARYA|دریــــــــا",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2089123177691549696/1sHITBrs_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "لرستان",
+    "accountBasedIn": "United States",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 15944
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2089123177691549696/1sHITBrs_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2043819568250937344/1778221667"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Apr 13 22:32:37 +0000 2026",
+              "name": "DARYA|دریــــــــا",
+              "screen_name": "DARYA6381"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQzODE5NTY4MjUwOTM3MzQ0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "لرستان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2095816211237920958"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "زندگى يه بازيه. منم براى برد بازى ميكنم.\n                  صَــــــبــــ𝐬𝐚𝐛𝐫ـــــر.\nhttps://t.co/nBC9iFoovA\n‌‌‌",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/daryakhanomlak…",
+                      "expanded_url": "https://www.instagram.com/daryakhanomlak?igsh=bDMzcjBjNTRsbnh2",
+                      "indices": [
+                        84,
+                        107
+                      ],
+                      "url": "https://t.co/nBC9iFoovA"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2209,
+              "following": 3159
+            },
+            "rest_id": "2043819568250937344",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 116,
+              "tweets": 18608
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA0MzgxOTU2ODI1MDkzNzM0NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1776127411696"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2089123177691549696/1sHITBrs_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Apr 13 22:32:37 +0000 2026",
+              "name": "DARYA|دریــــــــا",
+              "screen_name": "DARYA6381"
+            },
+            "id": "VXNlcjoyMDQzODE5NTY4MjUwOTM3MzQ0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2043819568250937344",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0MzgxOTU2ODI1MDkzNzM0NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
