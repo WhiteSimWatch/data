@@ -1,0 +1,160 @@
+{
+  "snapshotId": "27af71be-abeb-466d-be7f-90146fad5d97",
+  "twitterId": "2018245560898351104",
+  "scannedAt": "2026-10-18T13:11:12.128Z",
+  "fields": {
+    "username": "Sepehr405",
+    "displayName": "Sepehr🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2019763530283761665/9UVzCQ9U_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "United States",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2179
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2019763530283761665/9UVzCQ9U_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2018245560898351104/1774810048"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 02 08:50:32 +0000 2026",
+              "name": "Sepehr🎒",
+              "screen_name": "Sepehr405"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDE4MjQ1NTYwODk4MzUxMTA0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2041470076298400221"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "من، کتاب و ت‍‌ـو ..",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 271,
+              "following": 277
+            },
+            "rest_id": "2018245560898351104",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 41,
+              "tweets": 172
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAxODI0NTU2MDg5ODM1MTEwNA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1770022884079"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2019763530283761665/9UVzCQ9U_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Feb 02 08:50:32 +0000 2026",
+              "name": "Sepehr🎒",
+              "screen_name": "Sepehr405"
+            },
+            "id": "VXNlcjoyMDE4MjQ1NTYwODk4MzUxMTA0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2018245560898351104",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAxODI0NTU2MDg5ODM1MTEwNA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
