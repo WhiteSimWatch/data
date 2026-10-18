@@ -1,0 +1,167 @@
+{
+  "snapshotId": "93eb5d61-204d-466b-80bc-f1984a3f2da9",
+  "twitterId": "971823693964783617",
+  "scannedAt": "2026-10-18T00:12:04.246Z",
+  "fields": {
+    "username": "alibagheri1345",
+    "displayName": "علی باقری",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1961054358163910656/DM3pPXXP_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تهران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1544
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1961054358163910656/DM3pPXXP_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/971823693964783617/1520536816"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Mar 08 19:03:19 +0000 2018",
+              "name": "علی باقری",
+              "screen_name": "alibagheri1345"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5NzE4MjM2OTM5NjQ3ODM2MTc=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1009,
+                  "name": "Community"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1547220598111506432"
+            },
+            "profile_bio": {
+              "description": "فعال سیاسی اصلاح‌‌گر. مدیرکل سیاسی وزارت کشور دولت اصلاحات. عضو سابق شورای مرکزی دفتر تحکیم وحدت، سازمان مجاهدین انقلاب و حزب توسعه ملی. دبیرکل حزب عهد ایران",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 4904,
+              "following": 706
+            },
+            "rest_id": "971823693964783617",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 212,
+              "tweets": 1069
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTcxODIzNjkzOTY0NzgzNjE3",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1520590306801"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1961054358163910656/DM3pPXXP_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Mar 08 19:03:19 +0000 2018",
+              "name": "علی باقری",
+              "screen_name": "alibagheri1345"
+            },
+            "id": "VXNlcjo5NzE4MjM2OTM5NjQ3ODM2MTc=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "971823693964783617",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTcxODIzNjkzOTY0NzgzNjE3",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
