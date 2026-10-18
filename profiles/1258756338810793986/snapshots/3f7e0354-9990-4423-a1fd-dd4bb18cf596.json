@@ -1,0 +1,159 @@
+{
+  "snapshotId": "3f7e0354-9990-4423-a1fd-dd4bb18cf596",
+  "twitterId": "1258756338810793986",
+  "scannedAt": "2026-10-18T15:48:02.643Z",
+  "fields": {
+    "username": "AraniRasoul",
+    "displayName": "رسول آرانی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1493196607202164737/GVgI6W-8_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "نزدیک جمکران",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 52977
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1493196607202164737/GVgI6W-8_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1258756338810793986/1590330231"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri May 08 13:51:28 +0000 2020",
+              "name": "رسول آرانی",
+              "screen_name": "AraniRasoul"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjU4NzU2MzM4ODEwNzkzOTg2",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "نزدیک جمکران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1847361553638601182"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "همسر و پدر، عاشق هنر، از دیار دارالشهدا، دانشجوی علم سیاست",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 468,
+              "following": 438
+            },
+            "rest_id": "1258756338810793986",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 990,
+              "tweets": 10950
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI1ODc1NjMzODgxMDc5Mzk4Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1493196607202164737/GVgI6W-8_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri May 08 13:51:28 +0000 2020",
+              "name": "رسول آرانی",
+              "screen_name": "AraniRasoul"
+            },
+            "id": "VXNlcjoxMjU4NzU2MzM4ODEwNzkzOTg2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1258756338810793986",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI1ODc1NjMzODgxMDc5Mzk4Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
