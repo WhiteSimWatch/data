@@ -1,0 +1,223 @@
+{
+  "snapshotId": "37c3b7db-6611-4968-9552-3477a717867b",
+  "twitterId": "1311224065890410496",
+  "scannedAt": "2026-10-18T02:19:40.700Z",
+  "fields": {
+    "username": "Hanzpal2",
+    "displayName": "Hanzala",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1338519598400942081/LReO9vE5_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia App Store",
+    "locatedCountryAccurate": false,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 60359
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1338519598400942081/LReO9vE5_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1311224065890410496/1741101132"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Sep 30 08:39:31 +0000 2020",
+              "name": "Hanzala",
+              "screen_name": "Hanzpal2"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        47,
+                        57
+                      ],
+                      "text": "شبه_محايد"
+                    }
+                  ],
+                  "symbols": [],
+                  "urls": [
+                    {
+                      "display_url": "t.me/hanzpal20",
+                      "expanded_url": "https://t.me/hanzpal20",
+                      "indices": [
+                        61,
+                        84
+                      ],
+                      "url": "https://t.co/wUBUZEFqjc"
+                    }
+                  ],
+                  "user_mentions": []
+                },
+                "source_language": "ar",
+                "translation": "Interested in Palestine and regional issues.  \n#شبه_محايد  \n\nhttps://t.co/wUBUZEFqjc  \n\nMy channel on Telegram"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "2"
+            },
+            "id": "VXNlcjoxMzExMjI0MDY1ODkwNDEwNDk2",
+            "is_blue_verified": true,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2030655225304871203"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مهتم بفلسطين وقضايا المنطقة.\n#شبه_محايد\n\nhttps://t.co/wUBUZEFqjc\n\nقناتي علي التلغرام",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/hanzpal20",
+                      "expanded_url": "https://t.me/hanzpal20",
+                      "indices": [
+                        41,
+                        64
+                      ],
+                      "url": "https://t.co/wUBUZEFqjc"
+                    }
+                  ]
+                }
+              },
+              "withheld_in_countries": [
+                "AE"
+              ]
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 278731,
+              "following": 857
+            },
+            "rest_id": "1311224065890410496",
+            "super_follow_eligible": true,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 20781,
+              "tweets": 102489
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1765347027072"
+              }
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTMxMTIyNDA2NTg5MDQxMDQ5Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "West Asia App Store",
+              "username_changes": {
+                "count": "6",
+                "last_changed_at_msec": "1634043750569"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1338519598400942081/LReO9vE5_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Sep 30 08:39:31 +0000 2020",
+              "name": "Hanzala",
+              "screen_name": "Hanzpal2"
+            },
+            "id": "VXNlcjoxMzExMjI0MDY1ODkwNDEwNDk2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1311224065890410496",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMxMTIyNDA2NTg5MDQxMDQ5Ng==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1765347027072"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
