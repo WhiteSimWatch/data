@@ -1,0 +1,160 @@
+{
+  "snapshotId": "7c94bcbb-f2cb-4b57-ba0f-c486a5e01680",
+  "twitterId": "1688556606353711104",
+  "scannedAt": "2026-10-18T18:11:51.371Z",
+  "fields": {
+    "username": "mmdikenabood",
+    "displayName": "🎒ممدی که نبود ببینه",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1788223562089709568/Knl0fot8_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "North America",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2381
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1788223562089709568/Knl0fot8_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1688556606353711104/1746344449"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Aug 07 14:24:20 +0000 2023",
+              "name": "🎒ممدی که نبود ببینه",
+              "screen_name": "mmdikenabood"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjg4NTU2NjA2MzUzNzExMTA0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1928439343317684704"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ممدی که نبود ببینه…و چه چیزها که ندید. دلتنگی‌هایش را اینجا می‌نویسد.\nاز شرقی ترین بخش جنوب خراسان ، تا قلب نورانی نوای هل من ناصر ...",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 210,
+              "following": 303
+            },
+            "rest_id": "1688556606353711104",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 41,
+              "tweets": 1479
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTY4ODU1NjYwNjM1MzcxMTEwNA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "North America",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1691418504891"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1788223562089709568/Knl0fot8_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Aug 07 14:24:20 +0000 2023",
+              "name": "🎒ممدی که نبود ببینه",
+              "screen_name": "mmdikenabood"
+            },
+            "id": "VXNlcjoxNjg4NTU2NjA2MzUzNzExMTA0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1688556606353711104",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY4ODU1NjYwNjM1MzcxMTEwNA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
