@@ -1,0 +1,156 @@
+{
+  "snapshotId": "04a891f5-e70b-4f43-b183-e152a002f3c0",
+  "twitterId": "2043213952172150784",
+  "scannedAt": "2026-10-18T18:18:36.216Z",
+  "fields": {
+    "username": "m_ostad4148",
+    "displayName": "میم.استاد 🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2059631781603938305/5ecCGl3F_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 3031
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2059631781603938305/5ecCGl3F_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2043213952172150784/1779889461"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Apr 12 06:26:01 +0000 2026",
+              "name": "میم.استاد 🎒",
+              "screen_name": "m_ostad4148"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQzMjEzOTUyMTcyMTUwNzg0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "🎓 دانش‌آموخته‌ی علوم تربیتی\n📖 رهسپار مسیر طلبگی\n🖋️ سرباز کوچک تبلیغ\n🧡 با دلی گره‌خورده به دنیای بچه‌ها\n⏳ در حال تمرینِ صبرِ زینبی…",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 70,
+              "following": 58
+            },
+            "rest_id": "2043213952172150784",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 191,
+              "tweets": 533
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA0MzIxMzk1MjE3MjE1MDc4NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1775975286812"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2059631781603938305/5ecCGl3F_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Apr 12 06:26:01 +0000 2026",
+              "name": "میم.استاد 🎒",
+              "screen_name": "m_ostad4148"
+            },
+            "id": "VXNlcjoyMDQzMjEzOTUyMTcyMTUwNzg0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2043213952172150784",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0MzIxMzk1MjE3MjE1MDc4NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
