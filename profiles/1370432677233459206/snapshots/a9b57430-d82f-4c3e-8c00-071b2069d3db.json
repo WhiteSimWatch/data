@@ -1,0 +1,156 @@
+{
+  "snapshotId": "a9b57430-d82f-4c3e-8c00-071b2069d3db",
+  "twitterId": "1370432677233459206",
+  "scannedAt": "2026-10-19T10:49:31.325Z",
+  "fields": {
+    "username": "110aliazari",
+    "displayName": "ali azari",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1370433348590534661/PBoUyXFj_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Romania",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 5280
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1370433348590534661/PBoUyXFj_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1370432677233459206/1615571918"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Mar 12 17:53:14 +0000 2021",
+              "name": "ali azari",
+              "screen_name": "110aliazari"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzcwNDMyNjc3MjMzNDU5MjA2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "فرزندی از فرزندان این آب و خاک مقدس با آرزو اعتلاء وطن",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 286,
+              "following": 186
+            },
+            "rest_id": "1370432677233459206",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 165,
+              "tweets": 15661
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM3MDQzMjY3NzIzMzQ1OTIwNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Romania",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Web",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1625564869878"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1370433348590534661/PBoUyXFj_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Mar 12 17:53:14 +0000 2021",
+              "name": "ali azari",
+              "screen_name": "110aliazari"
+            },
+            "id": "VXNlcjoxMzcwNDMyNjc3MjMzNDU5MjA2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1370432677233459206",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM3MDQzMjY3NzIzMzQ1OTIwNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
