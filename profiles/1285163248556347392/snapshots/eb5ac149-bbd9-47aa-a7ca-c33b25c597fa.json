@@ -1,0 +1,167 @@
+{
+  "snapshotId": "eb5ac149-bbd9-47aa-a7ca-c33b25c597fa",
+  "twitterId": "1285163248556347392",
+  "scannedAt": "2026-10-19T16:27:13.109Z",
+  "fields": {
+    "username": "golestanoffcial",
+    "displayName": "golestanofficial",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1285164132317233152/F-nVFovb_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 12076
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1285164132317233152/F-nVFovb_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1285163248556347392/1680357690"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jul 20 10:43:20 +0000 2020",
+              "name": "golestanofficial",
+              "screen_name": "golestanoffcial"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjg1MTYzMjQ4NTU2MzQ3Mzky",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 933,
+                  "name": "Media Personality"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1460993517216489479"
+            },
+            "profile_bio": {
+              "description": "‏‏گلستانیم",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2038,
+              "following": 941
+            },
+            "rest_id": "1285163248556347392",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 490,
+              "tweets": 4526
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI4NTE2MzI0ODU1NjM0NzM5Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1595242898082"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1285164132317233152/F-nVFovb_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jul 20 10:43:20 +0000 2020",
+              "name": "golestanofficial",
+              "screen_name": "golestanoffcial"
+            },
+            "id": "VXNlcjoxMjg1MTYzMjQ4NTU2MzQ3Mzky",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1285163248556347392",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI4NTE2MzI0ODU1NjM0NzM5Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
