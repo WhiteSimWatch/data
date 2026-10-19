@@ -1,0 +1,156 @@
+{
+  "snapshotId": "f60b237b-6489-4780-a7cb-b98d7638b0ed",
+  "twitterId": "1600244788015632387",
+  "scannedAt": "2026-10-19T08:22:50.800Z",
+  "fields": {
+    "username": "shimabhrami",
+    "displayName": "Shima Bahrami",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2026227049640370176/TBnifMgC_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Europe",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 97933
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2026227049640370176/TBnifMgC_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1600244788015632387/1791208857"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Dec 06 21:44:38 +0000 2022",
+              "name": "Shima Bahrami",
+              "screen_name": "shimabhrami"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjAwMjQ0Nzg4MDE1NjMyMzg3",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "| #Minab",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "qht",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 5898,
+              "following": 4257
+            },
+            "rest_id": "1600244788015632387",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 200,
+              "tweets": 2909
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTYwMDI0NDc4ODAxNTYzMjM4Nw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "12",
+                "last_changed_at_msec": "1781547116451"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2026227049640370176/TBnifMgC_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Dec 06 21:44:38 +0000 2022",
+              "name": "Shima Bahrami",
+              "screen_name": "shimabhrami"
+            },
+            "id": "VXNlcjoxNjAwMjQ0Nzg4MDE1NjMyMzg3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1600244788015632387",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYwMDI0NDc4ODAxNTYzMjM4Nw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
