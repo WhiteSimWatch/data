@@ -1,0 +1,160 @@
+{
+  "snapshotId": "60996c8a-a324-4cfe-a01a-ccf8cf79d940",
+  "twitterId": "1833820841534009344",
+  "scannedAt": "2026-10-19T16:12:04.723Z",
+  "fields": {
+    "username": "mehrabx20",
+    "displayName": "Mehrab",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1833836674482155520/drSo4H-m_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "İstanbul, Türkiye",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 3228
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1833836674482155520/drSo4H-m_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1833820841534009344/1726055732"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Sep 11 10:52:44 +0000 2024",
+              "name": "Mehrab",
+              "screen_name": "mehrabx20"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODMzODIwODQxNTM0MDA5MzQ0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "İstanbul, Türkiye"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1833837832864969010"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": ".",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "qst",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 996,
+              "following": 1057
+            },
+            "rest_id": "1833820841534009344",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 61,
+              "tweets": 1475
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgzMzgyMDg0MTUzNDAwOTM0NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1726052039320"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1833836674482155520/drSo4H-m_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Sep 11 10:52:44 +0000 2024",
+              "name": "Mehrab",
+              "screen_name": "mehrabx20"
+            },
+            "id": "VXNlcjoxODMzODIwODQxNTM0MDA5MzQ0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1833820841534009344",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgzMzgyMDg0MTUzNDAwOTM0NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
