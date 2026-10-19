@@ -1,0 +1,160 @@
+{
+  "snapshotId": "8d8b2082-ad5d-41ec-bf34-76b0f05424ed",
+  "twitterId": "1838809567716585472",
+  "scannedAt": "2026-10-19T16:05:20.733Z",
+  "fields": {
+    "username": "FaezehGholamii",
+    "displayName": "Faezeh Gholami",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1838816749845647360/ygi8j-Of_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "همین حوالی",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2492
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1838816749845647360/ygi8j-Of_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1838809567716585472/1751525424"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Sep 25 05:16:05 +0000 2024",
+              "name": "Faezeh Gholami",
+              "screen_name": "FaezehGholamii"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODM4ODA5NTY3NzE2NTg1NDcy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "همین حوالی"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2029695344968134957"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "چو خدا بود پناهت چه خطر بود ز راهت✨️🌱                   دانشجو رشته آموزش و پرورش ابتدایی📚-فعال رسانه،فرهنگی،اجتماعی\n💢فالوبک",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 454,
+              "following": 462
+            },
+            "rest_id": "1838809567716585472",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 38,
+              "tweets": 478
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgzODgwOTU2NzcxNjU4NTQ3Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1727241408896"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1838816749845647360/ygi8j-Of_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Sep 25 05:16:05 +0000 2024",
+              "name": "Faezeh Gholami",
+              "screen_name": "FaezehGholamii"
+            },
+            "id": "VXNlcjoxODM4ODA5NTY3NzE2NTg1NDcy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1838809567716585472",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgzODgwOTU2NzcxNjU4NTQ3Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
