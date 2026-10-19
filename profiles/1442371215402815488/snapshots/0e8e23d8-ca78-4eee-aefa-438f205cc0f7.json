@@ -1,0 +1,171 @@
+{
+  "snapshotId": "0e8e23d8-ca78-4eee-aefa-438f205cc0f7",
+  "twitterId": "1442371215402815488",
+  "scannedAt": "2026-10-19T15:19:06.335Z",
+  "fields": {
+    "username": "javadl5",
+    "displayName": "Sniper",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1647143191114555392/4miGs-4O_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 37667
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1647143191114555392/4miGs-4O_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1442371215402815488/1633124317"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Sep 27 06:11:37 +0000 2021",
+              "name": "Sniper",
+              "screen_name": "javadl5"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDQyMzcxMjE1NDAyODE1NDg4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1457057201416200198"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "برسد کاش همین حین،همین جا، فی الفور \n\nبرسد از  ره و حالِ  دلِ ما خوب شود.\n\nاللهم عجل الولیک الفرج❤️\n  \nhttps://t.co/loJpj86fGL",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "x.com/YaZahra_726?t=…",
+                      "expanded_url": "https://x.com/YaZahra_726?t=QTYDsEAPsWRKION2NcnFDA&s=09",
+                      "indices": [
+                        103,
+                        126
+                      ],
+                      "url": "https://t.co/loJpj86fGL"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3575,
+              "following": 3043
+            },
+            "rest_id": "1442371215402815488",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1193,
+              "tweets": 15843
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ0MjM3MTIxNTQwMjgxNTQ4OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1647143191114555392/4miGs-4O_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Sep 27 06:11:37 +0000 2021",
+              "name": "Sniper",
+              "screen_name": "javadl5"
+            },
+            "id": "VXNlcjoxNDQyMzcxMjE1NDAyODE1NDg4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1442371215402815488",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ0MjM3MTIxNTQwMjgxNTQ4OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
