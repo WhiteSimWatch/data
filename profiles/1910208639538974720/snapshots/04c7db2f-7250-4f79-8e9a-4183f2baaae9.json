@@ -1,0 +1,155 @@
+{
+  "snapshotId": "04c7db2f-7250-4f79-8e9a-4183f2baaae9",
+  "twitterId": "1910208639538974720",
+  "scannedAt": "2026-10-19T15:27:09.172Z",
+  "fields": {
+    "username": "HashemporM4215",
+    "displayName": "maryam hashempor",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2061424932781723648/X1upFc2Q_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2720
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2061424932781723648/X1upFc2Q_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1910208639538974720/1780214769"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Apr 10 05:54:33 +0000 2025",
+              "name": "maryam hashempor",
+              "screen_name": "HashemporM4215"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTEwMjA4NjM5NTM4OTc0NzIw",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "زندگى يه بازيه، من براى برد بازى ميكنم",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 142,
+              "following": 162
+            },
+            "rest_id": "1910208639538974720",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 574,
+              "tweets": 1590
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkxMDIwODYzOTUzODk3NDcyMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2061424932781723648/X1upFc2Q_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Apr 10 05:54:33 +0000 2025",
+              "name": "maryam hashempor",
+              "screen_name": "HashemporM4215"
+            },
+            "id": "VXNlcjoxOTEwMjA4NjM5NTM4OTc0NzIw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1910208639538974720",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkxMDIwODYzOTUzODk3NDcyMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
