@@ -1,0 +1,155 @@
+{
+  "snapshotId": "395e48a0-a7eb-41dd-93d3-f6211fc0e910",
+  "twitterId": "1989561049423777794",
+  "scannedAt": "2026-10-19T16:18:42.472Z",
+  "fields": {
+    "username": "MSnaiper154",
+    "displayName": "snaiper",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1989924741281386496/3-WKExZn_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "گلستان",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1511
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1989924741281386496/3-WKExZn_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1989561049423777794/1763269396"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Nov 15 05:08:58 +0000 2025",
+              "name": "snaiper",
+              "screen_name": "MSnaiper154"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTg5NTYxMDQ5NDIzNzc3Nzk0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "گلستان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "آماده غافلگیری و از بین بردن دشمن",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 333,
+              "following": 793
+            },
+            "rest_id": "1989561049423777794",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1,
+              "tweets": 842
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk4OTU2MTA0OTQyMzc3Nzc5NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1989924741281386496/3-WKExZn_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Nov 15 05:08:58 +0000 2025",
+              "name": "snaiper",
+              "screen_name": "MSnaiper154"
+            },
+            "id": "VXNlcjoxOTg5NTYxMDQ5NDIzNzc3Nzk0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1989561049423777794",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk4OTU2MTA0OTQyMzc3Nzc5NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
