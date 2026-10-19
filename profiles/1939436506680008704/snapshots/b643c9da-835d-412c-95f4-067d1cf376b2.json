@@ -1,0 +1,166 @@
+{
+  "snapshotId": "b643c9da-835d-412c-95f4-067d1cf376b2",
+  "twitterId": "1939436506680008704",
+  "scannedAt": "2026-10-19T08:44:59.164Z",
+  "fields": {
+    "username": "Hesamod96",
+    "displayName": "حــســـام",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2073342100733636608/x8G47H5x_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 28651
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2073342100733636608/x8G47H5x_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1939436506680008704/1751458383"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jun 29 21:31:26 +0000 2025",
+              "name": "حــســـام",
+              "screen_name": "Hesamod96"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTM5NDM2NTA2NjgwMDA4NzA0",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "visibility": "Self",
+                "year": 1996,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1956480662401073308"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "چو درد در تو نبیند، که را دوا بکند!",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1379,
+              "following": 1327
+            },
+            "rest_id": "1939436506680008704",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 230,
+              "tweets": 3020
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkzOTQzNjUwNjY4MDAwODcwNA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "4",
+                "last_changed_at_msec": "1751476293293"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2073342100733636608/x8G47H5x_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jun 29 21:31:26 +0000 2025",
+              "name": "حــســـام",
+              "screen_name": "Hesamod96"
+            },
+            "id": "VXNlcjoxOTM5NDM2NTA2NjgwMDA4NzA0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1939436506680008704",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkzOTQzNjUwNjY4MDAwODcwNA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
