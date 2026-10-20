@@ -1,0 +1,156 @@
+{
+  "snapshotId": "c7d62622-93f5-4ff1-ab98-6850911aa3e6",
+  "twitterId": "2043997804679331840",
+  "scannedAt": "2026-10-20T10:00:13.620Z",
+  "fields": {
+    "username": "SedPanahi",
+    "displayName": "Sed Ali Panahi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2054855812686675968/sCRmFC6M_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Teheran",
+    "accountBasedIn": "United Kingdom",
+    "connectedVia": "Germany App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 681
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2054855812686675968/sCRmFC6M_normal.jpg"
+            },
+            "banner": {
+              "image_url": ""
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Apr 14 10:21:43 +0000 2026",
+              "name": "Sed Ali Panahi",
+              "screen_name": "SedPanahi"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDQzOTk3ODA0Njc5MzMxODQw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Teheran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "گیاه پزشک 🪴",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 106,
+              "following": 219
+            },
+            "rest_id": "2043997804679331840",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 256,
+              "tweets": 258
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA0Mzk5NzgwNDY3OTMzMTg0MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United Kingdom",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Germany App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1776352728148"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2054855812686675968/sCRmFC6M_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Apr 14 10:21:43 +0000 2026",
+              "name": "Sed Ali Panahi",
+              "screen_name": "SedPanahi"
+            },
+            "id": "VXNlcjoyMDQzOTk3ODA0Njc5MzMxODQw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2043997804679331840",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA0Mzk5NzgwNDY3OTMzMTg0MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
