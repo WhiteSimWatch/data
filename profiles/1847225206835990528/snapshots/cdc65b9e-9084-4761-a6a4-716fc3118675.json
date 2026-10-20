@@ -1,0 +1,172 @@
+{
+  "snapshotId": "cdc65b9e-9084-4761-a6a4-716fc3118675",
+  "twitterId": "1847225206835990528",
+  "scannedAt": "2026-10-20T03:07:47.101Z",
+  "fields": {
+    "username": "ABUALAHRAR_",
+    "displayName": "ابوالاحرار ☫︎",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1847236141625356288/73FjzlGT_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "IRAN ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 10616
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1847236141625356288/73FjzlGT_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1847225206835990528/1729493706"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Oct 18 10:36:56 +0000 2024",
+              "name": "ابوالاحرار ☫︎",
+              "screen_name": "ABUALAHRAR_"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODQ3MjI1MjA2ODM1OTkwNTI4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "IRAN ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2099224111369052192"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "﷽\n\n@ABUALAHRAR_",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "ABUALAHRAR.COM",
+                      "expanded_url": "http://WWW.ABUALAHRAR.COM",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/bb7WmDECxJ"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1522,
+              "following": 2087
+            },
+            "rest_id": "1847225206835990528",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 495,
+              "tweets": 11349
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/bb7WmDECxJ"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg0NzIyNTIwNjgzNTk5MDUyOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1729247932884"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1847236141625356288/73FjzlGT_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Oct 18 10:36:56 +0000 2024",
+              "name": "ابوالاحرار ☫︎",
+              "screen_name": "ABUALAHRAR_"
+            },
+            "id": "VXNlcjoxODQ3MjI1MjA2ODM1OTkwNTI4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1847225206835990528",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg0NzIyNTIwNjgzNTk5MDUyOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
