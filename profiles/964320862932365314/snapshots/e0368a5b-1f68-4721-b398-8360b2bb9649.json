@@ -1,0 +1,179 @@
+{
+  "snapshotId": "e0368a5b-1f68-4721-b398-8360b2bb9649",
+  "twitterId": "964320862932365314",
+  "scannedAt": "2026-10-20T08:27:06.758Z",
+  "fields": {
+    "username": "MeisamZohurian",
+    "displayName": "میثم ظهوریان",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2087629937872424960/y__cUivV_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "مشهد",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Turkey App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 5229
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2087629937872424960/y__cUivV_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/964320862932365314/1790757130"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Feb 16 02:09:44 +0000 2018",
+              "name": "میثم ظهوریان",
+              "screen_name": "MeisamZohurian"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "1"
+            },
+            "id": "VXNlcjo5NjQzMjA4NjI5MzIzNjUzMTQ=",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "مشهد"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2022331502235636170"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "نماینده مردم مشهد و کلات در مجلس شورای اسلامی/ عضو هیأت رییسه و نایب رییس کمیسیون اقتصادی مجلس/پژوهشگر سیاستگذاری عمومی",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 10566,
+              "following": 135
+            },
+            "rest_id": "964320862932365314",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 591,
+              "tweets": 3065
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1778395869908"
+              }
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTY0MzIwODYyOTMyMzY1MzE0",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Turkey App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1518747051401"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2087629937872424960/y__cUivV_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Feb 16 02:09:44 +0000 2018",
+              "name": "میثم ظهوریان",
+              "screen_name": "MeisamZohurian"
+            },
+            "id": "VXNlcjo5NjQzMjA4NjI5MzIzNjUzMTQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "964320862932365314",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTY0MzIwODYyOTMyMzY1MzE0",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1778395869908"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
