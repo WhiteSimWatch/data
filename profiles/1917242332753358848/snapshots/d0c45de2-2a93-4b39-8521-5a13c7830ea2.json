@@ -1,0 +1,173 @@
+{
+  "snapshotId": "d0c45de2-2a93-4b39-8521-5a13c7830ea2",
+  "twitterId": "1917242332753358848",
+  "scannedAt": "2026-10-20T03:58:29.572Z",
+  "fields": {
+    "username": "MasoudSa8800",
+    "displayName": "محمدمسعود صادقی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1986851468935139328/satFMHaE_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تهران",
+    "accountBasedIn": "Kazakhstan",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 13764
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1986851468935139328/satFMHaE_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1917242332753358848/1762537277"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Apr 29 15:39:50 +0000 2025",
+              "name": "محمدمسعود صادقی",
+              "screen_name": "MasoudSa8800"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTE3MjQyMzMyNzUzMzU4ODQ4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1957751784111501649"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دوباره تلاش کن اما اینبار با تکیه به خداوند/\nپدر یه خانواده پنج نفره🌱",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "x.com/search?q=from:…",
+                      "expanded_url": "https://x.com/search?q=from:@MasoudSa8800/exclude:replies",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/6fGd2jRFKY"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3754,
+              "following": 3881
+            },
+            "rest_id": "1917242332753358848",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 28,
+              "tweets": 15980
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/6fGd2jRFKY"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkxNzI0MjMzMjc1MzM1ODg0OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Kazakhstan",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1762537347888"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1986851468935139328/satFMHaE_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Apr 29 15:39:50 +0000 2025",
+              "name": "محمدمسعود صادقی",
+              "screen_name": "MasoudSa8800"
+            },
+            "id": "VXNlcjoxOTE3MjQyMzMyNzUzMzU4ODQ4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1917242332753358848",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkxNzI0MjMzMjc1MzM1ODg0OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
