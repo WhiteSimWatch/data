@@ -1,0 +1,160 @@
+{
+  "snapshotId": "5860ab73-2eab-4c93-adbb-bc3c977ad87f",
+  "twitterId": "1611789991658622978",
+  "scannedAt": "2026-10-20T15:38:14.838Z",
+  "fields": {
+    "username": "Dani_rase",
+    "displayName": "🇮🇷Danielo🇮🇷",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1611809536863608833/yFgFnYlB_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Citizen shahmirzad, Live Sari",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 15313
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1611809536863608833/yFgFnYlB_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1611789991658622978/1689778745"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jan 07 18:21:23 +0000 2023",
+              "name": "🇮🇷Danielo🇮🇷",
+              "screen_name": "Dani_rase"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjExNzg5OTkxNjU4NjIyOTc4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Citizen shahmirzad, Live Sari"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1772508637140779070"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "کارشناس علوم دامی، ارشد تغذیه دام، کارشناس باغات مرکبات، ناظر جوجه کشی.\nانقلابی.\nنوکر زائرای اربعینی امام حسین.\nمجهز به آنفالویاب😎",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 5292,
+              "following": 5352
+            },
+            "rest_id": "1611789991658622978",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 419,
+              "tweets": 5243
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTYxMTc4OTk5MTY1ODYyMjk3OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1673115823174"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1611809536863608833/yFgFnYlB_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jan 07 18:21:23 +0000 2023",
+              "name": "🇮🇷Danielo🇮🇷",
+              "screen_name": "Dani_rase"
+            },
+            "id": "VXNlcjoxNjExNzg5OTkxNjU4NjIyOTc4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1611789991658622978",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYxMTc4OTk5MTY1ODYyMjk3OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
