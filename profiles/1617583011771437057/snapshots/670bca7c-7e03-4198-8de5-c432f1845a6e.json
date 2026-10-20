@@ -1,0 +1,156 @@
+{
+  "snapshotId": "670bca7c-7e03-4198-8de5-c432f1845a6e",
+  "twitterId": "1617583011771437057",
+  "scannedAt": "2026-10-20T05:52:18.583Z",
+  "fields": {
+    "username": "AtashMeshel",
+    "displayName": "روهان",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1647027637364178945/SAJc6s0O_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Switzerland",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 846
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1647027637364178945/SAJc6s0O_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1617583011771437057/1679939669"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jan 23 18:00:38 +0000 2023",
+              "name": "روهان",
+              "screen_name": "AtashMeshel"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjE3NTgzMDExNzcxNDM3MDU3",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Switzerland"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "شهرِ یاران بود و خاکِ مهربانان این دیار\n\nمهربانی کِی سر آمد شهریاران را چه شد؟",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 125,
+              "following": 206
+            },
+            "rest_id": "1617583011771437057",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 109,
+              "tweets": 2037
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTYxNzU4MzAxMTc3MTQzNzA1Nw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1674497203723"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1647027637364178945/SAJc6s0O_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jan 23 18:00:38 +0000 2023",
+              "name": "روهان",
+              "screen_name": "AtashMeshel"
+            },
+            "id": "VXNlcjoxNjE3NTgzMDExNzcxNDM3MDU3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1617583011771437057",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYxNzU4MzAxMTc3MTQzNzA1Nw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
