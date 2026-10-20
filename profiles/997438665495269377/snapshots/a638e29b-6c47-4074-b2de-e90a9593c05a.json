@@ -1,0 +1,160 @@
+{
+  "snapshotId": "a638e29b-6c47-4074-b2de-e90a9593c05a",
+  "twitterId": "997438665495269377",
+  "scannedAt": "2026-10-20T04:46:58.210Z",
+  "fields": {
+    "username": "eb_foroughi",
+    "displayName": "ابراهیم فروغی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1288076436809699330/AKsYMTGS_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "همین حوالی",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 4071
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1288076436809699330/AKsYMTGS_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/997438665495269377/1595936328"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri May 18 11:28:04 +0000 2018",
+              "name": "ابراهیم فروغی",
+              "screen_name": "eb_foroughi"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": false,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5OTc0Mzg2NjU0OTUyNjkzNzc=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "همین حوالی"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1051156687384645632"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "‏‏‏‏‏روزها فکر من این است و همه شب سخنم\nکه چرا غافل از احوال دل خویشتنم",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 597,
+              "following": 1692
+            },
+            "rest_id": "997438665495269377",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 58,
+              "tweets": 3889
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTk3NDM4NjY1NDk1MjY5Mzc3",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1595936915883"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1288076436809699330/AKsYMTGS_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri May 18 11:28:04 +0000 2018",
+              "name": "ابراهیم فروغی",
+              "screen_name": "eb_foroughi"
+            },
+            "id": "VXNlcjo5OTc0Mzg2NjU0OTUyNjkzNzc=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "997438665495269377",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTk3NDM4NjY1NDk1MjY5Mzc3",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
