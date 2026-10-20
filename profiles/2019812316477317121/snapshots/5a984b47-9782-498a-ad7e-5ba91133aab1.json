@@ -1,0 +1,159 @@
+{
+  "snapshotId": "5a984b47-9782-498a-ad7e-5ba91133aab1",
+  "twitterId": "2019812316477317121",
+  "scannedAt": "2026-10-20T16:58:22.685Z",
+  "fields": {
+    "username": "busry499849",
+    "displayName": "بُشری",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2022401642147254274/DlsJa7HY_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Lebanon",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1381
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2022401642147254274/DlsJa7HY_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2019812316477317121/1771012537"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Feb 06 16:36:24 +0000 2026",
+              "name": "بُشری",
+              "screen_name": "busry499849"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDE5ODEyMzE2NDc3MzE3MTIx",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Lebanon"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2081126666294738990"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "سَأَحْبُکَ حَتَّی یَتَوَقَّفَ قَلْبِی عَنِ النَّبْضِ💛🇱🇧",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 425,
+              "following": 435
+            },
+            "rest_id": "2019812316477317121",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 141,
+              "tweets": 434
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAxOTgxMjMxNjQ3NzMxNzEyMQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2022401642147254274/DlsJa7HY_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Feb 06 16:36:24 +0000 2026",
+              "name": "بُشری",
+              "screen_name": "busry499849"
+            },
+            "id": "VXNlcjoyMDE5ODEyMzE2NDc3MzE3MTIx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2019812316477317121",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAxOTgxMjMxNjQ3NzMxNzEyMQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
