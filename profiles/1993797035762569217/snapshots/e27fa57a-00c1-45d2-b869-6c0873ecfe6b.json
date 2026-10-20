@@ -1,0 +1,156 @@
+{
+  "snapshotId": "e27fa57a-00c1-45d2-b869-6c0873ecfe6b",
+  "twitterId": "1993797035762569217",
+  "scannedAt": "2026-10-20T08:33:26.932Z",
+  "fields": {
+    "username": "karimisabamahdi",
+    "displayName": "Mahdi Karimisaba",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1993798430485819392/GNIfeZii_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1631
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1993798430485819392/GNIfeZii_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1993797035762569217/1775679641"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Nov 26 21:40:47 +0000 2025",
+              "name": "Mahdi Karimisaba",
+              "screen_name": "karimisabamahdi"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTkzNzk3MDM1NzYyNTY5MjE3",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "سردبیر خبر irib tv اکانت اصلی جدید",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 88,
+              "following": 285
+            },
+            "rest_id": "1993797035762569217",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 138,
+              "tweets": 572
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk5Mzc5NzAzNTc2MjU2OTIxNw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1765609431757"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1993798430485819392/GNIfeZii_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Nov 26 21:40:47 +0000 2025",
+              "name": "Mahdi Karimisaba",
+              "screen_name": "karimisabamahdi"
+            },
+            "id": "VXNlcjoxOTkzNzk3MDM1NzYyNTY5MjE3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1993797035762569217",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk5Mzc5NzAzNTc2MjU2OTIxNw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
