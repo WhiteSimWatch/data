@@ -1,0 +1,172 @@
+{
+  "snapshotId": "7fee7452-e9f6-4015-a234-2d9fed6d0695",
+  "twitterId": "1319222038473658369",
+  "scannedAt": "2026-10-20T05:14:21.296Z",
+  "fields": {
+    "username": "Shahideh14",
+    "displayName": "ش مسلمی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2033103144326983680/Ko0Gdz4R_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوری اسلامی ایران",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 70003
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2033103144326983680/Ko0Gdz4R_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1319222038473658369/1647296021"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Oct 22 10:20:54 +0000 2020",
+              "name": "ش مسلمی",
+              "screen_name": "Shahideh14"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzE5MjIyMDM4NDczNjU4MzY5",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1791516184048730251"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "کارشناس علوم تربیتی_قدری گوینده ومجری_متاهل\nاینستاگرام\nshahideh204   فالو=بک  آنفالو=آنفالو\nلینک توییتهامhttps://t.co/TeedwbaZCe",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "twitter.com/search?q=from%…",
+                      "expanded_url": "https://twitter.com/search?q=from%3A%40@shahideh14%2Fe",
+                      "indices": [
+                        105,
+                        128
+                      ],
+                      "url": "https://t.co/TeedwbaZCe"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 4542,
+              "following": 4405
+            },
+            "rest_id": "1319222038473658369",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1028,
+              "tweets": 10327
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTMxOTIyMjAzODQ3MzY1ODM2OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1717053469464"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2033103144326983680/Ko0Gdz4R_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Oct 22 10:20:54 +0000 2020",
+              "name": "ش مسلمی",
+              "screen_name": "Shahideh14"
+            },
+            "id": "VXNlcjoxMzE5MjIyMDM4NDczNjU4MzY5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1319222038473658369",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMxOTIyMjAzODQ3MzY1ODM2OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
