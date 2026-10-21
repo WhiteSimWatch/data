@@ -1,0 +1,172 @@
+{
+  "snapshotId": "328956aa-73a3-440e-8369-80f88d9592be",
+  "twitterId": "1972983419203129344",
+  "scannedAt": "2026-10-21T16:35:44.518Z",
+  "fields": {
+    "username": "HosnaTeri3917",
+    "displayName": "ALI San",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1974887647869849600/yBbXULGp_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Persian",
+    "accountBasedIn": "France",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 35061
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1974887647869849600/yBbXULGp_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1972983419203129344/1759390662"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Sep 30 11:15:42 +0000 2025",
+              "name": "ALI San",
+              "screen_name": "HosnaTeri3917"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTcyOTgzNDE5MjAzMTI5MzQ0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Persian"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1990743847924904185"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "هر که گوید او منم او من نشد/خوشه ی او لایق خرمن نشد\nمن مشو از من بشو تا من شوی/خوشه شو تا لایق خرمن شوي",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "x.com/HosnaTeri3917",
+                      "expanded_url": "https://x.com/HosnaTeri3917",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/igoYVxpG3a"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 809,
+              "following": 779
+            },
+            "rest_id": "1972983419203129344",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 111,
+              "tweets": 1805
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/igoYVxpG3a"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk3Mjk4MzQxOTIwMzEyOTM0NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "France",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1974887647869849600/yBbXULGp_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Sep 30 11:15:42 +0000 2025",
+              "name": "ALI San",
+              "screen_name": "HosnaTeri3917"
+            },
+            "id": "VXNlcjoxOTcyOTgzNDE5MjAzMTI5MzQ0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1972983419203129344",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk3Mjk4MzQxOTIwMzEyOTM0NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
