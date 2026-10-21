@@ -1,0 +1,160 @@
+{
+  "snapshotId": "442217fa-ac65-4a21-9e8b-071207c7157f",
+  "twitterId": "1718591304672657408",
+  "scannedAt": "2026-10-21T11:33:40.637Z",
+  "fields": {
+    "username": "maryam_shakib17",
+    "displayName": "مریم شکیب . اکانت جدید",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1844683171863965699/B-wgRYZO_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "همین حوالی",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 21608
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1844683171863965699/B-wgRYZO_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1718591304672657408/1728641714"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Oct 29 11:31:25 +0000 2023",
+              "name": "مریم شکیب . اکانت جدید",
+              "screen_name": "maryam_shakib17"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzE4NTkxMzA0NjcyNjU3NDA4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "همین حوالی"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1858874542283698409"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مامان یه نوجون دهه هشتادی\n- مثلا کتابخون :)\n- دوتا اکانت قبل به جرم آزادی بیان ساسپند شدن",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 408,
+              "following": 545
+            },
+            "rest_id": "1718591304672657408",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 227,
+              "tweets": 5296
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTcxODU5MTMwNDY3MjY1NzQwOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1728641991295"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1844683171863965699/B-wgRYZO_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Oct 29 11:31:25 +0000 2023",
+              "name": "مریم شکیب . اکانت جدید",
+              "screen_name": "maryam_shakib17"
+            },
+            "id": "VXNlcjoxNzE4NTkxMzA0NjcyNjU3NDA4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1718591304672657408",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcxODU5MTMwNDY3MjY1NzQwOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
