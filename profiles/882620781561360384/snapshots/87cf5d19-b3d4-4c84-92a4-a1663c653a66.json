@@ -1,0 +1,173 @@
+{
+  "snapshotId": "87cf5d19-b3d4-4c84-92a4-a1663c653a66",
+  "twitterId": "882620781561360384",
+  "scannedAt": "2026-10-21T18:59:05.989Z",
+  "fields": {
+    "username": "amirreza_abz",
+    "displayName": "امیررضا عباس زاده",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2071401251036921856/cvecT0je_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Iran (Tabriz & Tehran)",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 13521
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2071401251036921856/cvecT0je_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/882620781561360384/1628013130"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jul 05 15:22:47 +0000 2017",
+              "name": "امیررضا عباس زاده",
+              "screen_name": "amirreza_abz"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4ODI2MjA3ODE1NjEzNjAzODQ=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran (Tabriz & Tehran)"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1695241545018908685"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "متأهل متعهد | پژوهشگر دیپلماسی رسانه ای | در رفت و آمد بین تبریز و تهران | مدیر موسسه رسانه‌ای شهریار",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/tahlilfarhangi…",
+                      "expanded_url": "https://t.me/tahlilfarhangi_az",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/SYnBqt8VKT"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 703,
+              "following": 729
+            },
+            "rest_id": "882620781561360384",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 231,
+              "tweets": 2834
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/SYnBqt8VKT"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODgyNjIwNzgxNTYxMzYwMzg0",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1628324898110"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2071401251036921856/cvecT0je_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jul 05 15:22:47 +0000 2017",
+              "name": "امیررضا عباس زاده",
+              "screen_name": "amirreza_abz"
+            },
+            "id": "VXNlcjo4ODI2MjA3ODE1NjEzNjAzODQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "882620781561360384",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODgyNjIwNzgxNTYxMzYwMzg0",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
