@@ -1,0 +1,156 @@
+{
+  "snapshotId": "ba3a043f-62e9-44bd-8b24-2d18b1de75f6",
+  "twitterId": "1393173938193240069",
+  "scannedAt": "2026-10-21T18:36:45.068Z",
+  "fields": {
+    "username": "rstkhyz7520",
+    "displayName": "رستاخیز",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2035835354385887232/PDDq70Qi_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "France",
+    "connectedVia": "Iraq Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 4599
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2035835354385887232/PDDq70Qi_normal.jpg"
+            },
+            "banner": {
+              "image_url": ""
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri May 14 11:59:01 +0000 2021",
+              "name": "رستاخیز",
+              "screen_name": "rstkhyz7520"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzkzMTczOTM4MTkzMjQwMDY5",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "باولایت تاشهادت",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1014,
+              "following": 191
+            },
+            "rest_id": "1393173938193240069",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1003,
+              "tweets": 2336
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM5MzE3MzkzODE5MzI0MDA2OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "France",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iraq Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1621160832965"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2035835354385887232/PDDq70Qi_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri May 14 11:59:01 +0000 2021",
+              "name": "رستاخیز",
+              "screen_name": "rstkhyz7520"
+            },
+            "id": "VXNlcjoxMzkzMTczOTM4MTkzMjQwMDY5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1393173938193240069",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM5MzE3MzkzODE5MzI0MDA2OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
