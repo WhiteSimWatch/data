@@ -1,0 +1,168 @@
+{
+  "snapshotId": "26af4922-86ac-45fc-b8d6-463d335e6701",
+  "twitterId": "2616130820",
+  "scannedAt": "2026-10-21T07:39:00.221Z",
+  "fields": {
+    "username": "hehrami",
+    "displayName": "Houman Ehrami",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/487527335415914496/vj5Hm6j8_normal.jpeg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 83
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/487527335415914496/vj5Hm6j8_normal.jpeg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2616130820/1722940591"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Jul 10 20:50:34 +0000 2014",
+              "name": "Houman Ehrami",
+              "screen_name": "hehrami"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyNjE2MTMwODIw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Often a Teacher, Always a Student",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "ehrami.ir",
+                      "expanded_url": "http://ehrami.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/uKKjAMes8f"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 26,
+              "following": 155
+            },
+            "rest_id": "2616130820",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1,
+              "tweets": 23
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/uKKjAMes8f"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjYxNjEzMDgyMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/487527335415914496/vj5Hm6j8_normal.jpeg"
+            },
+            "core": {
+              "created_at": "Thu Jul 10 20:50:34 +0000 2014",
+              "name": "Houman Ehrami",
+              "screen_name": "hehrami"
+            },
+            "id": "VXNlcjoyNjE2MTMwODIw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2616130820",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjYxNjEzMDgyMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
