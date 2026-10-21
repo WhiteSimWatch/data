@@ -1,0 +1,156 @@
+{
+  "snapshotId": "abc3aa66-236a-4003-b2a4-88807f307b08",
+  "twitterId": "1894811093412851713",
+  "scannedAt": "2026-10-21T20:02:27.049Z",
+  "fields": {
+    "username": "seyed8169",
+    "displayName": "سید بلوچ",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1894812177699098624/p2Opnv6p_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "بلوچستان.سراوان",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 692
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1894812177699098624/p2Opnv6p_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1894811093412851713/1740593552"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Feb 26 18:05:52 +0000 2025",
+              "name": "سید بلوچ",
+              "screen_name": "seyed8169"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODk0ODExMDkzNDEyODUxNzEz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "بلوچستان.سراوان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "سیدی از مکران از جنس آفتاب \nعاشق رهبری و وطن،سرباز امام خامنه ای",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 870,
+              "following": 1854
+            },
+            "rest_id": "1894811093412851713",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 80,
+              "tweets": 2286
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg5NDgxMTA5MzQxMjg1MTcxMw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1740593207185"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1894812177699098624/p2Opnv6p_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Feb 26 18:05:52 +0000 2025",
+              "name": "سید بلوچ",
+              "screen_name": "seyed8169"
+            },
+            "id": "VXNlcjoxODk0ODExMDkzNDEyODUxNzEz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1894811093412851713",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg5NDgxMTA5MzQxMjg1MTcxMw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
