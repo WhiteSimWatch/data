@@ -1,0 +1,160 @@
+{
+  "snapshotId": "ab44b9dd-03e4-4283-bb62-291306c5a0a4",
+  "twitterId": "1190901729237381121",
+  "scannedAt": "2026-10-21T17:26:02.451Z",
+  "fields": {
+    "username": "p_a_r_s_t_o_o",
+    "displayName": "پرستو",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1651514827032993796/xdNqJJaZ_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 11866
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1651514827032993796/xdNqJJaZ_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1190901729237381121/1619978240"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Nov 03 08:01:45 +0000 2019",
+              "name": "پرستو",
+              "screen_name": "p_a_r_s_t_o_o"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTkwOTAxNzI5MjM3MzgxMTIx",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2043182122857296307"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "*الهی و ربی من لی غیرک*\nنَجاةٌ مِنکَ یا سَیِّدُالکَریم نَجِّنی وَ خَلِّصنی بِحَقِ «بِسمِ اللهِ الرَحمنِ الرَّحِیم»",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1340,
+              "following": 1581
+            },
+            "rest_id": "1190901729237381121",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 335,
+              "tweets": 5788
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE5MDkwMTcyOTIzNzM4MTEyMQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1573102133237"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1651514827032993796/xdNqJJaZ_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Nov 03 08:01:45 +0000 2019",
+              "name": "پرستو",
+              "screen_name": "p_a_r_s_t_o_o"
+            },
+            "id": "VXNlcjoxMTkwOTAxNzI5MjM3MzgxMTIx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1190901729237381121",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE5MDkwMTcyOTIzNzM4MTEyMQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
