@@ -1,0 +1,164 @@
+{
+  "snapshotId": "f8dfeb70-003e-472a-93df-98a0e8b98f68",
+  "twitterId": "995327190697902081",
+  "scannedAt": "2026-10-21T04:54:08.326Z",
+  "fields": {
+    "username": "iammohmed_",
+    "displayName": "🎒S.Mohsen Mousavi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2050862109945442304/Wa3v1VSN_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "في عهد نصرالله",
+    "accountBasedIn": "North America",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 34288
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2050862109945442304/Wa3v1VSN_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/995327190697902081/1685222459"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat May 12 15:37:49 +0000 2018",
+              "name": "🎒S.Mohsen Mousavi",
+              "screen_name": "iammohmed_"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5OTUzMjcxOTA2OTc5MDIwODE=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "في عهد نصرالله"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1600268744067948544"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1591139123678658561"
+            },
+            "profile_bio": {
+              "description": "🕋🥋🏂🛵📿 🇮🇷 🇱🇧 🇵🇸 ( F..k Israel )",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 468,
+              "following": 316
+            },
+            "rest_id": "995327190697902081",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 98,
+              "tweets": 6282
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTk1MzI3MTkwNjk3OTAyMDgx",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "North America",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1629311609443"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2050862109945442304/Wa3v1VSN_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat May 12 15:37:49 +0000 2018",
+              "name": "🎒S.Mohsen Mousavi",
+              "screen_name": "iammohmed_"
+            },
+            "id": "VXNlcjo5OTUzMjcxOTA2OTc5MDIwODE=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "995327190697902081",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTk1MzI3MTkwNjk3OTAyMDgx",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
