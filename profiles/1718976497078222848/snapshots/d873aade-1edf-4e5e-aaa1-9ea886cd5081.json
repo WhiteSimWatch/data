@@ -1,0 +1,173 @@
+{
+  "snapshotId": "d873aade-1edf-4e5e-aaa1-9ea886cd5081",
+  "twitterId": "1718976497078222848",
+  "scannedAt": "2026-10-21T11:46:14.352Z",
+  "fields": {
+    "username": "CharsooFarhang",
+    "displayName": "Charsoo Farhang",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1786678973197377536/jgg61nIO_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 49
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1786678973197377536/jgg61nIO_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1718976497078222848/1714909153"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Oct 30 13:02:07 +0000 2023",
+              "name": "Charsoo Farhang",
+              "screen_name": "CharsooFarhang"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzE4OTc2NDk3MDc4MjIyODQ4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1786685075720929435"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "اینجا رسانه فرهنگی روزنامه فرهیختگان است",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "farhikhtegandaily.com",
+                      "expanded_url": "https://farhikhtegandaily.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/1eqdwrpYlR"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 100,
+              "following": 17
+            },
+            "rest_id": "1718976497078222848",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 168,
+              "tweets": 314
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/1eqdwrpYlR"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTcxODk3NjQ5NzA3ODIyMjg0OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1714812423471"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1786678973197377536/jgg61nIO_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Oct 30 13:02:07 +0000 2023",
+              "name": "Charsoo Farhang",
+              "screen_name": "CharsooFarhang"
+            },
+            "id": "VXNlcjoxNzE4OTc2NDk3MDc4MjIyODQ4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1718976497078222848",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcxODk3NjQ5NzA3ODIyMjg0OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
