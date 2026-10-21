@@ -1,0 +1,167 @@
+{
+  "snapshotId": "9e4c186f-6dfc-4b75-99b4-92036acb77c3",
+  "twitterId": "790498897382834176",
+  "scannedAt": "2026-10-21T14:49:58.957Z",
+  "fields": {
+    "username": "radionaft",
+    "displayName": "صنعت نفت آبادان",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1813920182483505152/haQjM3T1_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 89
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1813920182483505152/haQjM3T1_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/790498897382834176/1721307217"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Oct 24 10:23:18 +0000 2016",
+              "name": "صنعت نفت آبادان",
+              "screen_name": "radionaft"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3OTA0OTg4OTczODI4MzQxNzY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 933,
+                  "name": "Media Personality"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1813881873417826322"
+            },
+            "profile_bio": {
+              "description": "اخبار صنعت نفت",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 743,
+              "following": 936
+            },
+            "rest_id": "790498897382834176",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3,
+              "tweets": 29
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzkwNDk4ODk3MzgyODM0MTc2",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1477304684145"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1813920182483505152/haQjM3T1_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Oct 24 10:23:18 +0000 2016",
+              "name": "صنعت نفت آبادان",
+              "screen_name": "radionaft"
+            },
+            "id": "VXNlcjo3OTA0OTg4OTczODI4MzQxNzY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "790498897382834176",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzkwNDk4ODk3MzgyODM0MTc2",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
