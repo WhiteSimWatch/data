@@ -1,0 +1,178 @@
+{
+  "snapshotId": "63db3ad7-c2d7-4850-97a9-e800fc838213",
+  "twitterId": "1043540894044033024",
+  "scannedAt": "2026-10-21T14:10:00.828Z",
+  "fields": {
+    "username": "Nasrin_88",
+    "displayName": "Nasrin🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1474441048336252929/mKiEu8QO_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تهران",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 174084
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1474441048336252929/mKiEu8QO_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1043540894044033024/1772638094"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Sep 22 16:41:51 +0000 2018",
+              "name": "Nasrin🎒",
+              "screen_name": "Nasrin_88"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMDQzNTQwODk0MDQ0MDMzMDI0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1302308400907407362"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Business",
+              "rest_id": "1472319029721378816"
+            },
+            "profile_bio": {
+              "description": "که زندگی دوسه نخ کام است و عمرسرفه ی کوتاهی...\n...‌\nمن عشق را به نام تو آغاز کردم❤️💍..",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "twitter.com/search?q=from:…",
+                      "expanded_url": "https://twitter.com/search?q=from:@Nasrin_88/exclude:replies",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/aNWjdHYON3"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 28139,
+              "following": 1333
+            },
+            "rest_id": "1043540894044033024",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 278,
+              "tweets": 154199
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/aNWjdHYON3"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTA0MzU0MDg5NDA0NDAzMzAyNA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "10",
+                "last_changed_at_msec": "1607375791762"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1474441048336252929/mKiEu8QO_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Sep 22 16:41:51 +0000 2018",
+              "name": "Nasrin🎒",
+              "screen_name": "Nasrin_88"
+            },
+            "id": "VXNlcjoxMDQzNTQwODk0MDQ0MDMzMDI0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1043540894044033024",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTA0MzU0MDg5NDA0NDAzMzAyNA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
