@@ -1,0 +1,155 @@
+{
+  "snapshotId": "da854860-04c0-4c5e-bdc1-01969158cac5",
+  "twitterId": "1749199133003382784",
+  "scannedAt": "2026-10-21T18:30:27.680Z",
+  "fields": {
+    "username": "ayoob_sabe85263",
+    "displayName": "@SABER",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2112703919272980480/-LU9Rnjo_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "سایه ساران",
+    "accountBasedIn": "North America",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 59750
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2112703919272980480/-LU9Rnjo_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1749199133003382784/1760967034"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jan 21 22:39:40 +0000 2024",
+              "name": "@SABER",
+              "screen_name": "ayoob_sabe85263"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzQ5MTk5MTMzMDAzMzgyNzg0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "سایه ساران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "در نبود تو ، حال  و روز ام بارانیست.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1806,
+              "following": 1813
+            },
+            "rest_id": "1749199133003382784",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 2614,
+              "tweets": 24051
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc0OTE5OTEzMzAwMzM4Mjc4NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "North America",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2112703919272980480/-LU9Rnjo_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jan 21 22:39:40 +0000 2024",
+              "name": "@SABER",
+              "screen_name": "ayoob_sabe85263"
+            },
+            "id": "VXNlcjoxNzQ5MTk5MTMzMDAzMzgyNzg0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1749199133003382784",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc0OTE5OTEzMzAwMzM4Mjc4NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
