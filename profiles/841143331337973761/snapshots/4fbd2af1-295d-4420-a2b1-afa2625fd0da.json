@@ -1,0 +1,160 @@
+{
+  "snapshotId": "4fbd2af1-295d-4420-a2b1-afa2625fd0da",
+  "twitterId": "841143331337973761",
+  "scannedAt": "2026-10-21T18:04:59.391Z",
+  "fields": {
+    "username": "ircthinking",
+    "displayName": "آموزش تفکر انتقادی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1642249347420110852/XdfRtap9_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Netherlands",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 27
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1642249347420110852/XdfRtap9_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/841143331337973761/1680377772"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Mar 13 04:26:12 +0000 2017",
+              "name": "آموزش تفکر انتقادی",
+              "screen_name": "ircthinking"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4NDExNDMzMzEzMzc5NzM3NjE=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1642254050656649217"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "آموزش تفکر انتقادی از پایه تا پیشرفته از معتبرترین منابع و مراجع\n#تفکر_انتقادی\n#تفکر_نقاد\n#تشخیص_مغالطه\n#سفسطه_شناسی\n#سواد_رسانه\n#فنون_استدلال\n#مکالمات_حیاتی",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1296,
+              "following": 325
+            },
+            "rest_id": "841143331337973761",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 5,
+              "tweets": 54
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODQxMTQzMzMxMzM3OTczNzYx",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Netherlands",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Web",
+              "username_changes": {
+                "count": "5",
+                "last_changed_at_msec": "1680378264032"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1642249347420110852/XdfRtap9_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Mar 13 04:26:12 +0000 2017",
+              "name": "آموزش تفکر انتقادی",
+              "screen_name": "ircthinking"
+            },
+            "id": "VXNlcjo4NDExNDMzMzEzMzc5NzM3NjE=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "841143331337973761",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODQxMTQzMzMxMzM3OTczNzYx",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
