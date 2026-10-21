@@ -1,0 +1,159 @@
+{
+  "snapshotId": "3608b8d0-3228-4ede-aad8-b3b4f3aef381",
+  "twitterId": "1705752773311012864",
+  "scannedAt": "2026-10-21T04:28:38.336Z",
+  "fields": {
+    "username": "Free_guy80",
+    "displayName": "free man",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2042323249863016449/QlKGZbLy_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Lala land",
+    "accountBasedIn": "Hong Kong",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2248
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2042323249863016449/QlKGZbLy_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1705752773311012864/1695519907"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Sep 24 01:15:36 +0000 2023",
+              "name": "free man",
+              "screen_name": "Free_guy80"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzA1NzUyNzczMzExMDEyODY0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Lala land"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2030044880920096931"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 380,
+              "following": 716
+            },
+            "rest_id": "1705752773311012864",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 33,
+              "tweets": 2092
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTcwNTc1Mjc3MzMxMTAxMjg2NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Hong Kong",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1695518430784"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2042323249863016449/QlKGZbLy_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Sep 24 01:15:36 +0000 2023",
+              "name": "free man",
+              "screen_name": "Free_guy80"
+            },
+            "id": "VXNlcjoxNzA1NzUyNzczMzExMDEyODY0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1705752773311012864",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcwNTc1Mjc3MzMxMTAxMjg2NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
