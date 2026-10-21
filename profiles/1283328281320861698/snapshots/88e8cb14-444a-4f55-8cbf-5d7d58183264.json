@@ -1,0 +1,156 @@
+{
+  "snapshotId": "88e8cb14-444a-4f55-8cbf-5d7d58183264",
+  "twitterId": "1283328281320861698",
+  "scannedAt": "2026-10-21T06:16:39.348Z",
+  "fields": {
+    "username": "Mahdiyehsepehri",
+    "displayName": "Mahdiyeh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1935111517059289088/E0YEdv44_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 184
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1935111517059289088/E0YEdv44_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1283328281320861698/1776802640"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jul 15 09:11:31 +0000 2020",
+              "name": "Mahdiyeh",
+              "screen_name": "Mahdiyehsepehri"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjgzMzI4MjgxMzIwODYxNjk4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "بسم الله قاصم الجبارین .\n.\nإِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ.\n.\nישראל תושמד בקרוב.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 46,
+              "following": 16
+            },
+            "rest_id": "1283328281320861698",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 31,
+              "tweets": 165
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI4MzMyODI4MTMyMDg2MTY5OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1609252458831"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1935111517059289088/E0YEdv44_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jul 15 09:11:31 +0000 2020",
+              "name": "Mahdiyeh",
+              "screen_name": "Mahdiyehsepehri"
+            },
+            "id": "VXNlcjoxMjgzMzI4MjgxMzIwODYxNjk4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1283328281320861698",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI4MzMyODI4MTMyMDg2MTY5OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
