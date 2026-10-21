@@ -1,0 +1,167 @@
+{
+  "snapshotId": "1e21509d-8c56-45e7-a686-be8880a2e2cc",
+  "twitterId": "1325801574246076418",
+  "scannedAt": "2026-10-21T14:31:06.288Z",
+  "fields": {
+    "username": "hajmohammad_110",
+    "displayName": "حاج محمد🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1799351324103819264/xwU0pjk4_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 22533
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1799351324103819264/xwU0pjk4_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1325801574246076418/1717857747"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Nov 09 14:05:38 +0000 2020",
+              "name": "حاج محمد🎒",
+              "screen_name": "hajmohammad_110"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzI1ODAxNTc0MjQ2MDc2NDE4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 1,
+                "month": 7,
+                "visibility": "Public",
+                "year_visibility": "Self"
+              }
+            },
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1799730975821160653"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "به رویاهات فکر کن ولی دل نبند | روزمره‌نویس با دغدغه‌ی اجتماعی و نیم‌نگاهی به سیاست\n\nBarça, més que un club... més que un amor! ❤️💙",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 6486,
+              "following": 5260
+            },
+            "rest_id": "1325801574246076418",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 541,
+              "tweets": 7916
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTMyNTgwMTU3NDI0NjA3NjQxOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1717833328914"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1799351324103819264/xwU0pjk4_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Nov 09 14:05:38 +0000 2020",
+              "name": "حاج محمد🎒",
+              "screen_name": "hajmohammad_110"
+            },
+            "id": "VXNlcjoxMzI1ODAxNTc0MjQ2MDc2NDE4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1325801574246076418",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMyNTgwMTU3NDI0NjA3NjQxOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
