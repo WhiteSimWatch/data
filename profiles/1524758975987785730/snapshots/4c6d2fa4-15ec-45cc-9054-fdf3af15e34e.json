@@ -1,0 +1,155 @@
+{
+  "snapshotId": "4c6d2fa4-15ec-45cc-9054-fdf3af15e34e",
+  "twitterId": "1524758975987785730",
+  "scannedAt": "2026-10-21T13:08:31.516Z",
+  "fields": {
+    "username": "abbas_kazemi_",
+    "displayName": "عباس کاظمی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1524760395424178176/Z_HsNs8M_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 52
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1524760395424178176/Z_HsNs8M_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1524758975987785730/1652367414"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu May 12 14:31:10 +0000 2022",
+              "name": "عباس کاظمی",
+              "screen_name": "abbas_kazemi_"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTI0NzU4OTc1OTg3Nzg1NzMw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 291,
+              "following": 142
+            },
+            "rest_id": "1524758975987785730",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 4,
+              "tweets": 32
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTUyNDc1ODk3NTk4Nzc4NTczMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1652365963248"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1524760395424178176/Z_HsNs8M_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu May 12 14:31:10 +0000 2022",
+              "name": "عباس کاظمی",
+              "screen_name": "abbas_kazemi_"
+            },
+            "id": "VXNlcjoxNTI0NzU4OTc1OTg3Nzg1NzMw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1524758975987785730",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUyNDc1ODk3NTk4Nzc4NTczMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
