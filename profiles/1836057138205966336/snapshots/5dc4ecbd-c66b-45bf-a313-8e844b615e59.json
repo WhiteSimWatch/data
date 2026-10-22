@@ -1,0 +1,172 @@
+{
+  "snapshotId": "5dc4ecbd-c66b-45bf-a313-8e844b615e59",
+  "twitterId": "1836057138205966336",
+  "scannedAt": "2026-10-22T18:38:24.407Z",
+  "fields": {
+    "username": "bahrfati05",
+    "displayName": "FAFA",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2107816526883569665/sFfvFipU_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "IRIran",
+    "accountBasedIn": "United States",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 9910
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2107816526883569665/sFfvFipU_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1836057138205966336/1791579909"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Sep 17 14:58:44 +0000 2024",
+              "name": "FAFA",
+              "screen_name": "bahrfati05"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODM2MDU3MTM4MjA1OTY2MzM2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "IRIran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2086526800155328992"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "https://t.co/lvi4puMvt8\n🕯🤍",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/XBCHATBot?star…",
+                      "expanded_url": "https://t.me/XBCHATBot?start=sec-ifiihadhge",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/lvi4puMvt8"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "qme",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 282,
+              "following": 246
+            },
+            "rest_id": "1836057138205966336",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 174,
+              "tweets": 3724
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgzNjA1NzEzODIwNTk2NjMzNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1730397029380"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2107816526883569665/sFfvFipU_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Sep 17 14:58:44 +0000 2024",
+              "name": "FAFA",
+              "screen_name": "bahrfati05"
+            },
+            "id": "VXNlcjoxODM2MDU3MTM4MjA1OTY2MzM2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1836057138205966336",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgzNjA1NzEzODIwNTk2NjMzNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
