@@ -1,0 +1,160 @@
+{
+  "snapshotId": "4856dd8c-f92a-4eab-b8fd-15c5ac690222",
+  "twitterId": "1419615609952907264",
+  "scannedAt": "2026-10-22T05:21:29.688Z",
+  "fields": {
+    "username": "Montazeeer",
+    "displayName": "دُخترِ حاجے",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1653331263363731459/Zm-oPGPq_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "اینجا",
+    "accountBasedIn": "Germany",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 37512
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1653331263363731459/Zm-oPGPq_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1419615609952907264/1692092005"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Jul 26 11:08:56 +0000 2021",
+              "name": "دُخترِ حاجے",
+              "screen_name": "Montazeeer"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDE5NjE1NjA5OTUyOTA3MjY0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "اینجا"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1528710952035749888"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "یا رَجاءَ المُذنِبین\n#۱:۲۰\nشاید دختر کم حجاب حاج قاسم!",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 15668,
+              "following": 12263
+            },
+            "rest_id": "1419615609952907264",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 373,
+              "tweets": 27705
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQxOTYxNTYwOTk1MjkwNzI2NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1641707301524"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1653331263363731459/Zm-oPGPq_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Jul 26 11:08:56 +0000 2021",
+              "name": "دُخترِ حاجے",
+              "screen_name": "Montazeeer"
+            },
+            "id": "VXNlcjoxNDE5NjE1NjA5OTUyOTA3MjY0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1419615609952907264",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQxOTYxNTYwOTk1MjkwNzI2NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
