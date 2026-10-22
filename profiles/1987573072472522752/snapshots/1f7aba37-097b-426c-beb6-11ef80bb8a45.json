@@ -1,0 +1,172 @@
+{
+  "snapshotId": "1f7aba37-097b-426c-beb6-11ef80bb8a45",
+  "twitterId": "1987573072472522752",
+  "scannedAt": "2026-10-22T10:23:55.270Z",
+  "fields": {
+    "username": "Hamed87124",
+    "displayName": "Hamedsadrzadeh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1987573210141900800/abiinsjq_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "ایران",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1537
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1987573210141900800/abiinsjq_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1987573072472522752/1762709545"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Nov 09 17:28:56 +0000 2025",
+              "name": "Hamedsadrzadeh",
+              "screen_name": "Hamed87124"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTg3NTczMDcyNDcyNTIyNzUy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1988614689383739851"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "گرافیست || تدوین گر || کشتی گیر 🤼‍♂️ || السابقون ایکس || کمکم کنید خودمو پیدا کنم...",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "Hamedsadrzadeh.ir",
+                      "expanded_url": "http://Hamedsadrzadeh.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/bgpR4yTYdl"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 991,
+              "following": 2046
+            },
+            "rest_id": "1987573072472522752",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 21,
+              "tweets": 185
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/bgpR4yTYdl"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk4NzU3MzA3MjQ3MjUyMjc1Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1987573210141900800/abiinsjq_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Nov 09 17:28:56 +0000 2025",
+              "name": "Hamedsadrzadeh",
+              "screen_name": "Hamed87124"
+            },
+            "id": "VXNlcjoxOTg3NTczMDcyNDcyNTIyNzUy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1987573072472522752",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk4NzU3MzA3MjQ3MjUyMjc1Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
