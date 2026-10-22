@@ -1,0 +1,168 @@
+{
+  "snapshotId": "50785c3c-0191-4301-883f-d86b633aaed5",
+  "twitterId": "1303599606551531520",
+  "scannedAt": "2026-10-22T17:17:58.197Z",
+  "fields": {
+    "username": "samereh_63",
+    "displayName": "سامره عاشوری چیرانی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2017719304418893826/msqKILK2_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "فومن",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 289763
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2017719304418893826/msqKILK2_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1303599606551531520/1640908200"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Sep 09 07:42:37 +0000 2020",
+              "name": "سامره عاشوری چیرانی",
+              "screen_name": "samereh_63"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzAzNTk5NjA2NTUxNTMxNTIw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 1,
+                "month": 8,
+                "visibility": "Public",
+                "year": 1984,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "فومن"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2036912369935507918"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "﷽\n\nکارشناس ارشد مدیریت بازرگانی_بیمه _ طلبه _ بسیجی_ مربی پرورشی یه دبستان پر از وروجک 🌻",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 12436,
+              "following": 8903
+            },
+            "rest_id": "1303599606551531520",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3962,
+              "tweets": 106338
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTMwMzU5OTYwNjU1MTUzMTUyMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1619274673475"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2017719304418893826/msqKILK2_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Sep 09 07:42:37 +0000 2020",
+              "name": "سامره عاشوری چیرانی",
+              "screen_name": "samereh_63"
+            },
+            "id": "VXNlcjoxMzAzNTk5NjA2NTUxNTMxNTIw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1303599606551531520",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMwMzU5OTYwNjU1MTUzMTUyMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
