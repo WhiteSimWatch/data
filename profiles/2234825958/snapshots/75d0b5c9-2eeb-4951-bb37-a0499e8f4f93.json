@@ -1,0 +1,172 @@
+{
+  "snapshotId": "75d0b5c9-2eeb-4951-bb37-a0499e8f4f93",
+  "twitterId": "2234825958",
+  "scannedAt": "2026-10-22T16:00:48.553Z",
+  "fields": {
+    "username": "k_maziar",
+    "displayName": "مازیار خسروی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1750276929175859200/Bd3lRXny_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Persian gulf",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 123050
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1750276929175859200/Bd3lRXny_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2234825958/1749787481"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Dec 07 17:30:54 +0000 2013",
+              "name": "مازیار خسروی",
+              "screen_name": "k_maziar"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMjM0ODI1OTU4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Persian gulf"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2027739746705805430"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "من گُنگ خواب دیده و عالم تمام کَر",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "farazdaily.com",
+                      "expanded_url": "https://www.farazdaily.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/A10c5N4VKm"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 33194,
+              "following": 3461
+            },
+            "rest_id": "2234825958",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 940,
+              "tweets": 19381
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/A10c5N4VKm"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjIzNDgyNTk1OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1750276929175859200/Bd3lRXny_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Dec 07 17:30:54 +0000 2013",
+              "name": "مازیار خسروی",
+              "screen_name": "k_maziar"
+            },
+            "id": "VXNlcjoyMjM0ODI1OTU4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2234825958",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjIzNDgyNTk1OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
