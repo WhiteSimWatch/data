@@ -1,0 +1,156 @@
+{
+  "snapshotId": "10c521df-c690-4ef6-bcde-d06891a394b5",
+  "twitterId": "1287328194371227650",
+  "scannedAt": "2026-10-22T18:31:56.569Z",
+  "fields": {
+    "username": "sinaahadit4",
+    "displayName": "سینا احدی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1960463188744396800/O3sb6qj8_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Turkey",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 23071
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1960463188744396800/O3sb6qj8_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1287328194371227650/1771884408"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jul 26 10:05:54 +0000 2020",
+              "name": "سینا احدی",
+              "screen_name": "sinaahadit4"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjg3MzI4MTk0MzcxMjI3NjUw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "منتظر رنجور/\n\nدل بریده از همگان/\n\nمتنفر از کاسه لیسان /\n\nمتخصص تیراندازی از روی پل/\n\nصاحب نظریه جذب حداقلی/\nرئیس هیئت مدیره گروه مواد غذایی پروتئینی جاویدنا",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 313,
+              "following": 365
+            },
+            "rest_id": "1287328194371227650",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 464,
+              "tweets": 4569
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI4NzMyODE5NDM3MTIyNzY1MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Turkey",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1596058094698"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1960463188744396800/O3sb6qj8_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jul 26 10:05:54 +0000 2020",
+              "name": "سینا احدی",
+              "screen_name": "sinaahadit4"
+            },
+            "id": "VXNlcjoxMjg3MzI4MTk0MzcxMjI3NjUw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1287328194371227650",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI4NzMyODE5NDM3MTIyNzY1MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
