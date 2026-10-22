@@ -1,0 +1,160 @@
+{
+  "snapshotId": "19ad3294-bd95-4981-98ff-9f59626ede77",
+  "twitterId": "1531188522295513088",
+  "scannedAt": "2026-10-22T11:17:18.244Z",
+  "fields": {
+    "username": "E_Ghasam",
+    "displayName": "عِماد قَسّآمْ",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1837454915699888128/uobeOu1t_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 7064
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1837454915699888128/uobeOu1t_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1531188522295513088/1727127304"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon May 30 08:19:45 +0000 2022",
+              "name": "عِماد قَسّآمْ",
+              "screen_name": "E_Ghasam"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTMxMTg4NTIyMjk1NTEzMDg4",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1690610019933315072"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "نحن ابناءالزهرا \n/محب اهل بیت❤️\n/فرزند ایران🇮🇷\n/متولدبهمن\n/وَلَقَدْكَتَبْنَا فِي الزَّبُورِمِن بَعْدِالذِّكْرِأَنَّ الْأَرْضَ يَرِثُهَاعِبَادِيَ الصالحون",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1094,
+              "following": 1107
+            },
+            "rest_id": "1531188522295513088",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 285,
+              "tweets": 5857
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTUzMTE4ODUyMjI5NTUxMzA4OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1727127390578"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1837454915699888128/uobeOu1t_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon May 30 08:19:45 +0000 2022",
+              "name": "عِماد قَسّآمْ",
+              "screen_name": "E_Ghasam"
+            },
+            "id": "VXNlcjoxNTMxMTg4NTIyMjk1NTEzMDg4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1531188522295513088",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUzMTE4ODUyMjI5NTUxMzA4OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
