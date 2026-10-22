@@ -1,0 +1,170 @@
+{
+  "snapshotId": "64941230-3349-4ac8-b28b-c3bcee966cb6",
+  "twitterId": "602040406",
+  "scannedAt": "2026-10-22T17:46:03.934Z",
+  "fields": {
+    "username": "parastoobr",
+    "displayName": "Parastoo BahramiRad",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1922719953804750848/cndJrm42_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 136760
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1922719953804750848/cndJrm42_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/602040406/1559659287"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Jun 07 17:10:46 +0000 2012",
+              "name": "Parastoo BahramiRad",
+              "screen_name": "parastoobr"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo2MDIwNDA0MDY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1130881102619578368"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1884529460189552979"
+            },
+            "profile_bio": {
+              "description": "لبِ خاموش نمودارِ دلِ پُرسخن است",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1862,
+              "following": 891
+            },
+            "rest_id": "602040406",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 502,
+              "tweets": 12991
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NjAyMDQwNDA2",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1922719953804750848/cndJrm42_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Jun 07 17:10:46 +0000 2012",
+              "name": "Parastoo BahramiRad",
+              "screen_name": "parastoobr"
+            },
+            "id": "VXNlcjo2MDIwNDA0MDY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "602040406",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NjAyMDQwNDA2",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
