@@ -1,0 +1,154 @@
+{
+  "snapshotId": "6c4bb5a8-d9b4-4778-98e6-7ee0585972f3",
+  "twitterId": "2060677424023572483",
+  "scannedAt": "2026-10-22T19:58:01.478Z",
+  "fields": {
+    "username": "muqplw",
+    "displayName": "حیدری",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2069090726735138816/Ba1T7TSs_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Europe",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 343
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2069090726735138816/Ba1T7TSs_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2060677424023572483/1782144708"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat May 30 10:59:58 +0000 2026",
+              "name": "حیدری",
+              "screen_name": "muqplw"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDYwNjc3NDI0MDIzNTcyNDgz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 92,
+              "following": 128
+            },
+            "rest_id": "2060677424023572483",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 43,
+              "tweets": 455
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA2MDY3NzQyNDAyMzU3MjQ4Mw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2069090726735138816/Ba1T7TSs_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat May 30 10:59:58 +0000 2026",
+              "name": "حیدری",
+              "screen_name": "muqplw"
+            },
+            "id": "VXNlcjoyMDYwNjc3NDI0MDIzNTcyNDgz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2060677424023572483",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA2MDY3NzQyNDAyMzU3MjQ4Mw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
