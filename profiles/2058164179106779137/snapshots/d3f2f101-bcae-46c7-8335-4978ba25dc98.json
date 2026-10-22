@@ -1,0 +1,156 @@
+{
+  "snapshotId": "d3f2f101-bcae-46c7-8335-4978ba25dc98",
+  "twitterId": "2058164179106779137",
+  "scannedAt": "2026-10-22T08:45:23.105Z",
+  "fields": {
+    "username": "foliya_zarini",
+    "displayName": "فولیآ زرینی | FOLIYAZARINI",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2079308340929159168/SfnGdvb8_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "lorestan",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 949
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2079308340929159168/SfnGdvb8_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2058164179106779137/1784580715"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat May 23 12:33:43 +0000 2026",
+              "name": "فولیآ زرینی | FOLIYAZARINI",
+              "screen_name": "foliya_zarini"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDU4MTY0MTc5MTA2Nzc5MTM3",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "lorestan"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "پناهِ افکارِ بلند | دلی به ماه دچار",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 240,
+              "following": 77
+            },
+            "rest_id": "2058164179106779137",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 15,
+              "tweets": 765
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjA1ODE2NDE3OTEwNjc3OTEzNw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1779743613267"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2079308340929159168/SfnGdvb8_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat May 23 12:33:43 +0000 2026",
+              "name": "فولیآ زرینی | FOLIYAZARINI",
+              "screen_name": "foliya_zarini"
+            },
+            "id": "VXNlcjoyMDU4MTY0MTc5MTA2Nzc5MTM3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2058164179106779137",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjA1ODE2NDE3OTEwNjc3OTEzNw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
