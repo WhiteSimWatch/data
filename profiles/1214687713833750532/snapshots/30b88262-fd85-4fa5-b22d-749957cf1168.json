@@ -1,0 +1,160 @@
+{
+  "snapshotId": "30b88262-fd85-4fa5-b22d-749957cf1168",
+  "twitterId": "1214687713833750532",
+  "scannedAt": "2026-10-22T18:11:30.626Z",
+  "fields": {
+    "username": "Monaaaa19921",
+    "displayName": "بانوجان",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044753418682826752/cTY_wPZW_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "tehran",
+    "accountBasedIn": "Netherlands",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 58537
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2044753418682826752/cTY_wPZW_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1214687713833750532/1728849958"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jan 07 23:18:26 +0000 2020",
+              "name": "بانوجان",
+              "screen_name": "Monaaaa19921"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjE0Njg3NzEzODMzNzUwNTMy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1225524633916583937"
+              ]
+            },
+            "possibly_sensitive": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "پیکر ها بر زمین می‌افتد اندیشه ها نــــه... \"💍\"",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 2397,
+              "following": 826
+            },
+            "rest_id": "1214687713833750532",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 866,
+              "tweets": 30388
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIxNDY4NzcxMzgzMzc1MDUzMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Netherlands",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "10",
+                "last_changed_at_msec": "1638908251276"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2044753418682826752/cTY_wPZW_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Jan 07 23:18:26 +0000 2020",
+              "name": "بانوجان",
+              "screen_name": "Monaaaa19921"
+            },
+            "id": "VXNlcjoxMjE0Njg3NzEzODMzNzUwNTMy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1214687713833750532",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIxNDY4NzcxMzgzMzc1MDUzMg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
