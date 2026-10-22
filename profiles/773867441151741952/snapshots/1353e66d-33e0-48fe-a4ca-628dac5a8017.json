@@ -1,0 +1,173 @@
+{
+  "snapshotId": "1353e66d-33e0-48fe-a4ca-628dac5a8017",
+  "twitterId": "773867441151741952",
+  "scannedAt": "2026-10-22T16:26:15.706Z",
+  "fields": {
+    "username": "newsic_iran",
+    "displayName": "🎶 نیوزیک 🎶",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2006069850171387904/NxP9kSla_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 52
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2006069850171387904/NxP9kSla_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/773867441151741952/1777415060"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Sep 08 12:55:50 +0000 2016",
+              "name": "🎶 نیوزیک 🎶",
+              "screen_name": "newsic_iran"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3NzM4Njc0NDExNTE3NDE5NTI=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1638942850120294400"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "صدایی که اینجا می‌شنوی از آینده میاد!",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/newsic_iran",
+                      "expanded_url": "http://t.me/newsic_iran",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/U3hPmOOBpo"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 29193,
+              "following": 0
+            },
+            "rest_id": "773867441151741952",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 32,
+              "tweets": 41
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/U3hPmOOBpo"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzczODY3NDQxMTUxNzQxOTUy",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "35",
+                "last_changed_at_msec": "1767386545905"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2006069850171387904/NxP9kSla_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Sep 08 12:55:50 +0000 2016",
+              "name": "🎶 نیوزیک 🎶",
+              "screen_name": "newsic_iran"
+            },
+            "id": "VXNlcjo3NzM4Njc0NDExNTE3NDE5NTI=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "773867441151741952",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzczODY3NDQxMTUxNzQxOTUy",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
