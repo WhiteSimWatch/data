@@ -1,0 +1,179 @@
+{
+  "snapshotId": "e8255cab-178c-45ff-bd4a-bacb7934b39e",
+  "twitterId": "1023664436173856770",
+  "scannedAt": "2026-10-22T16:32:31.979Z",
+  "fields": {
+    "username": "havas_paart",
+    "displayName": "مجید میرزایی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041095060658495488/ucggrgVE_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تهران",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "Europe App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 531787
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2041095060658495488/ucggrgVE_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1023664436173856770/1682363472"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jul 29 20:19:55 +0000 2018",
+              "name": "مجید میرزایی",
+              "screen_name": "havas_paart"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": true,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "22"
+            },
+            "id": "VXNlcjoxMDIzNjY0NDM2MTczODU2Nzcw",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1148169501512540162"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "پژوهشگر\n‌*\nتشنه‌ی دانستن \n‌*\nحواس پرت البته از نوع عاشقانه‌اش\n\n*\nعضو کوچکی از هلال احمر",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 34711,
+              "following": 1243
+            },
+            "rest_id": "1023664436173856770",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3482,
+              "tweets": 119371
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1765990659361"
+              }
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTAyMzY2NDQzNjE3Mzg1Njc3MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Europe App Store",
+              "username_changes": {
+                "count": "9",
+                "last_changed_at_msec": "1592802276463"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2041095060658495488/ucggrgVE_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jul 29 20:19:55 +0000 2018",
+              "name": "مجید میرزایی",
+              "screen_name": "havas_paart"
+            },
+            "id": "VXNlcjoxMDIzNjY0NDM2MTczODU2Nzcw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1023664436173856770",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTAyMzY2NDQzNjE3Mzg1Njc3MA==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1765990659361"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
