@@ -1,0 +1,165 @@
+{
+  "snapshotId": "b81c42ce-37d8-4cdf-ac86-eb58647541f5",
+  "twitterId": "1313963665553580033",
+  "scannedAt": "2026-10-22T07:28:18.615Z",
+  "fields": {
+    "username": "Zsatarmanesh",
+    "displayName": "بانو",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1917903796644069376/3rUC6GVW_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "khouzestan",
+    "accountBasedIn": "Europe",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 19185
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1917903796644069376/3rUC6GVW_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1313963665553580033/1746098872"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Oct 07 22:06:57 +0000 2020",
+              "name": "بانو",
+              "screen_name": "Zsatarmanesh"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzEzOTYzNjY1NTUzNTgwMDMz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "khouzestan"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2096334771584434334"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1611353337122676737"
+            },
+            "profile_bio": {
+              "description": "یه انقلابی دغدغه مند، عاشق کار جهادی و فرهنگی، ادبیات خونده ای که به کامپیوتر علاقه داره",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 4784,
+              "following": 4854
+            },
+            "rest_id": "1313963665553580033",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 523,
+              "tweets": 13240
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTMxMzk2MzY2NTU1MzU4MDAzMw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1602108548946"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1917903796644069376/3rUC6GVW_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Oct 07 22:06:57 +0000 2020",
+              "name": "بانو",
+              "screen_name": "Zsatarmanesh"
+            },
+            "id": "VXNlcjoxMzEzOTYzNjY1NTUzNTgwMDMz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1313963665553580033",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMxMzk2MzY2NTU1MzU4MDAzMw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
