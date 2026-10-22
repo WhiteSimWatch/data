@@ -1,0 +1,160 @@
+{
+  "snapshotId": "cbe8d938-6669-4fec-bd31-e91cb9e95300",
+  "twitterId": "1944258065408438279",
+  "scannedAt": "2026-10-22T20:25:35.875Z",
+  "fields": {
+    "username": "yasbim_313",
+    "displayName": "یآس",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2048335855916560384/EEEPVGbc_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "لبیک یاحسین",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 39352
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2048335855916560384/EEEPVGbc_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1944258065408438279/1784644891"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jul 13 04:54:18 +0000 2025",
+              "name": "یآس",
+              "screen_name": "yasbim_313"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTQ0MjU4MDY1NDA4NDM4Mjc5",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "لبیک یاحسین"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2059355101404246092"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ایران جان🌹\nاکانت دوم (@yasbim_313_)",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 8167,
+              "following": 5790
+            },
+            "rest_id": "1944258065408438279",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 342,
+              "tweets": 6677
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk0NDI1ODA2NTQwODQzODI3OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1779163527494"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2048335855916560384/EEEPVGbc_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jul 13 04:54:18 +0000 2025",
+              "name": "یآس",
+              "screen_name": "yasbim_313"
+            },
+            "id": "VXNlcjoxOTQ0MjU4MDY1NDA4NDM4Mjc5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1944258065408438279",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk0NDI1ODA2NTQwODQzODI3OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
