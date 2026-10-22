@@ -1,0 +1,160 @@
+{
+  "snapshotId": "10ae9147-98ad-4550-ab53-bd244b95ad92",
+  "twitterId": "1823704569244684288",
+  "scannedAt": "2026-10-22T11:58:45.473Z",
+  "fields": {
+    "username": "nabavi1367",
+    "displayName": "طوفان سفید",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2030557586395746305/rzVFCl-k_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "خراسان شمالی",
+    "accountBasedIn": "United Kingdom",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 8398
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030557586395746305/rzVFCl-k_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1823704569244684288/1738428467"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Aug 14 12:58:42 +0000 2024",
+              "name": "طوفان سفید",
+              "screen_name": "nabavi1367"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODIzNzA0NTY5MjQ0Njg0Mjg4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "خراسان شمالی"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1951856297629958542"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مادر،\nیه دهه شصتی،\nعاشق رانندگی!",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 705,
+              "following": 638
+            },
+            "rest_id": "1823704569244684288",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 135,
+              "tweets": 2269
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgyMzcwNDU2OTI0NDY4NDI4OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United Kingdom",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1723640468998"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030557586395746305/rzVFCl-k_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Aug 14 12:58:42 +0000 2024",
+              "name": "طوفان سفید",
+              "screen_name": "nabavi1367"
+            },
+            "id": "VXNlcjoxODIzNzA0NTY5MjQ0Njg0Mjg4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1823704569244684288",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgyMzcwNDU2OTI0NDY4NDI4OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
