@@ -1,0 +1,201 @@
+{
+  "snapshotId": "ae0256fe-b8e2-49f7-b2ef-a3365ff54c0d",
+  "twitterId": "86962865",
+  "scannedAt": "2026-10-23T13:32:55.477Z",
+  "fields": {
+    "username": "MehdiKharratya",
+    "displayName": "Mahdi Kharratiyan",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1699168339187175424/binQ1N12_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran, Iran",
+    "accountBasedIn": "United States",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 25216
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1699168339187175424/binQ1N12_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/86962865/1663756947"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Nov 02 15:24:53 +0000 2009",
+              "name": "Mahdi Kharratiyan",
+              "screen_name": "MehdiKharratya"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "147"
+            },
+            "id": "VXNlcjo4Njk2Mjg2NQ==",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran, Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2102444679216111907"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1067,
+                  "name": "Researcher"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1466331363733352454"
+            },
+            "profile_bio": {
+              "description": "اندیشکده احیای سیاست، دانش‌آموخته شریف،\nسیاست‌پژوه علاقه مند به جامعه شناسی و فلسفه سیاسی\nhttps://t.co/zRfBF4y8o9",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "youtube.com/@Kharratiyan",
+                      "expanded_url": "http://youtube.com/@Kharratiyan",
+                      "indices": [
+                        90,
+                        113
+                      ],
+                      "url": "https://t.co/zRfBF4y8o9"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 38713,
+              "following": 1870
+            },
+            "rest_id": "86962865",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3766,
+              "tweets": 12578
+            },
+            "user_seed_tweet_count": 1,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1774445591710"
+              }
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODY5NjI4NjU=",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1699168339187175424/binQ1N12_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Nov 02 15:24:53 +0000 2009",
+              "name": "Mahdi Kharratiyan",
+              "screen_name": "MehdiKharratya"
+            },
+            "id": "VXNlcjo4Njk2Mjg2NQ==",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "86962865",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODY5NjI4NjU=",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1774445591710"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
