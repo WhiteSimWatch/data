@@ -1,0 +1,181 @@
+{
+  "snapshotId": "cae38a90-57e2-4867-9a0d-d0dfde0de6ec",
+  "twitterId": "1222474752574607360",
+  "scannedAt": "2026-10-23T17:03:32.554Z",
+  "fields": {
+    "username": "nournews_ir",
+    "displayName": "نور نیوز",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1998288891426521089/Ibnd5tSi_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 3446
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1998288891426521089/Ibnd5tSi_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1222474752574607360/1765264345"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Jan 29 11:01:34 +0000 2020",
+              "name": "نور نیوز",
+              "screen_name": "nournews_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjIyNDc0NzUyNTc0NjA3MzYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "🇮🇷 گروه رسانه‌ای نورنیوز\n\nhttps://t.co/ZQv5SgQPx3",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/nournews_ir",
+                      "expanded_url": "http://t.me/nournews_ir",
+                      "indices": [
+                        26,
+                        49
+                      ],
+                      "url": "https://t.co/ZQv5SgQPx3"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "Nournews.ir",
+                      "expanded_url": "http://Nournews.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/90vgsMZfrX"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 27882,
+              "following": 10
+            },
+            "rest_id": "1222474752574607360",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 248,
+              "tweets": 3066
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/90vgsMZfrX"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIyMjQ3NDc1MjU3NDYwNzM2MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1580296134471"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1998288891426521089/Ibnd5tSi_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Jan 29 11:01:34 +0000 2020",
+              "name": "نور نیوز",
+              "screen_name": "nournews_ir"
+            },
+            "id": "VXNlcjoxMjIyNDc0NzUyNTc0NjA3MzYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1222474752574607360",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIyMjQ3NDc1MjU3NDYwNzM2MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
