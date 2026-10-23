@@ -1,0 +1,160 @@
+{
+  "snapshotId": "f132081e-d5d6-4383-a31d-a7ede94c61b8",
+  "twitterId": "1326083052993437701",
+  "scannedAt": "2026-10-23T11:45:51.989Z",
+  "fields": {
+    "username": "MeHrAbAn7899",
+    "displayName": "mehraban",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1907470392484057088/HSMGdi2F_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Iran",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 84791
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1907470392484057088/HSMGdi2F_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1326083052993437701/1770115425"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Nov 10 08:43:49 +0000 2020",
+              "name": "mehraban",
+              "screen_name": "MeHrAbAn7899"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzI2MDgzMDUyOTkzNDM3NzAx",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1519619460096798722"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "مایارندیده تب معشوق کشیدیم(عج).....🌠",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 8217,
+              "following": 8723
+            },
+            "rest_id": "1326083052993437701",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 520,
+              "tweets": 22753
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTMyNjA4MzA1Mjk5MzQzNzcwMQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "7",
+                "last_changed_at_msec": "1645432970519"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1907470392484057088/HSMGdi2F_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Nov 10 08:43:49 +0000 2020",
+              "name": "mehraban",
+              "screen_name": "MeHrAbAn7899"
+            },
+            "id": "VXNlcjoxMzI2MDgzMDUyOTkzNDM3NzAx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1326083052993437701",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMyNjA4MzA1Mjk5MzQzNzcwMQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
