@@ -1,0 +1,171 @@
+{
+  "snapshotId": "761a402b-5001-4def-8591-453fedae30a7",
+  "twitterId": "1635740336323526692",
+  "scannedAt": "2026-10-23T04:20:49.030Z",
+  "fields": {
+    "username": "NEGIN_EQENasa",
+    "displayName": "Negin",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2072724546055004160/-Hjo5Wh1_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Europe",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2787
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2072724546055004160/-Hjo5Wh1_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1635740336323526692/1786974945"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Mar 14 20:31:21 +0000 2023",
+              "name": "Negin",
+              "screen_name": "NEGIN_EQENasa"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "data": {
+                "destination_language": "en",
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "source_language": "ko",
+                "translation": "My Dream_🏇🏿"
+              },
+              "is_available": true
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjM1NzQwMzM2MzIzNTI2Njky",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2072706128924819659"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "나의 꿈_🏇🏿",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ko",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 7906,
+              "following": 565
+            },
+            "rest_id": "1635740336323526692",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 71,
+              "tweets": 59983
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTYzNTc0MDMzNjMyMzUyNjY5Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "18",
+                "last_changed_at_msec": "1754199269830"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2072724546055004160/-Hjo5Wh1_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Mar 14 20:31:21 +0000 2023",
+              "name": "Negin",
+              "screen_name": "NEGIN_EQENasa"
+            },
+            "id": "VXNlcjoxNjM1NzQwMzM2MzIzNTI2Njky",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1635740336323526692",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTYzNTc0MDMzNjMyMzUyNjY5Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
