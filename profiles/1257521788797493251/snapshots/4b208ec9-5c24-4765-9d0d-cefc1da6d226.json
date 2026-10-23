@@ -1,0 +1,171 @@
+{
+  "snapshotId": "4b208ec9-5c24-4765-9d0d-cefc1da6d226",
+  "twitterId": "1257521788797493251",
+  "scannedAt": "2026-10-23T08:12:35.184Z",
+  "fields": {
+    "username": "payandeh_mj",
+    "displayName": "محمد جواد پاينده",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1629127282609496065/U8tWxQjW_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 20160
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1629127282609496065/U8tWxQjW_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1257521788797493251/1674979667"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue May 05 04:05:52 +0000 2020",
+              "name": "محمد جواد پاينده",
+              "screen_name": "payandeh_mj"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjU3NTIxNzg4Nzk3NDkzMjUx",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1636828989913219092"
+              ]
+            },
+            "possibly_sensitive": true,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 580,
+                  "name": "Media & News Company"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1651652717805183000"
+            },
+            "profile_bio": {
+              "description": "روزنامه نگار ، فعال حوزه روابط عمومى و رسانه 🇮🇷",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 510,
+              "following": 345
+            },
+            "rest_id": "1257521788797493251",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 216,
+              "tweets": 1232
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI1NzUyMTc4ODc5NzQ5MzI1MQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1589649672644"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1629127282609496065/U8tWxQjW_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue May 05 04:05:52 +0000 2020",
+              "name": "محمد جواد پاينده",
+              "screen_name": "payandeh_mj"
+            },
+            "id": "VXNlcjoxMjU3NTIxNzg4Nzk3NDkzMjUx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1257521788797493251",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI1NzUyMTc4ODc5NzQ5MzI1MQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
