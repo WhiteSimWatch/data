@@ -1,0 +1,172 @@
+{
+  "snapshotId": "8cfb138f-47d6-4649-9000-b9124e73a95f",
+  "twitterId": "817151625341136897",
+  "scannedAt": "2026-10-23T05:39:10.054Z",
+  "fields": {
+    "username": "saze_falak",
+    "displayName": "ارغنون🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1966331705163223040/rVwX38ys_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تنهایی خویش!",
+    "accountBasedIn": "France",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 25831
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1966331705163223040/rVwX38ys_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/817151625341136897/1733392758"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Jan 05 23:31:44 +0000 2017",
+              "name": "ارغنون🎒",
+              "screen_name": "saze_falak"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MTcxNTE2MjUzNDExMzY4OTc=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تنهایی خویش!"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1188877611151306752"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دوست دارم زیر پستات شعر بنویسم😌🤌\n‌‌‌‌‌\n---ناشناس:https://t.co/v7vpCFGwPw",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/BiChatBot?star…",
+                      "expanded_url": "https://t.me/BiChatBot?start=sc-b0d65ae63f",
+                      "indices": [
+                        49,
+                        72
+                      ],
+                      "url": "https://t.co/v7vpCFGwPw"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 282,
+              "following": 313
+            },
+            "rest_id": "817151625341136897",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 66,
+              "tweets": 2500
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODE3MTUxNjI1MzQxMTM2ODk3",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "France",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1734061441214"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1966331705163223040/rVwX38ys_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Jan 05 23:31:44 +0000 2017",
+              "name": "ارغنون🎒",
+              "screen_name": "saze_falak"
+            },
+            "id": "VXNlcjo4MTcxNTE2MjUzNDExMzY4OTc=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "817151625341136897",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODE3MTUxNjI1MzQxMTM2ODk3",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
