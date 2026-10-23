@@ -1,0 +1,155 @@
+{
+  "snapshotId": "4b81bc10-ce27-472a-8731-e1fab5d58ec6",
+  "twitterId": "1760342521371086848",
+  "scannedAt": "2026-10-23T04:41:00.311Z",
+  "fields": {
+    "username": "MojtabaE87",
+    "displayName": "Mojtaba Eslami",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2097943844503355394/aiMhNwAw_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "North America",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 4325
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2097943844503355394/aiMhNwAw_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1760342521371086848/1776615199"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Feb 21 16:35:51 +0000 2024",
+              "name": "Mojtaba Eslami",
+              "screen_name": "MojtabaE87"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzYwMzQyNTIxMzcxMDg2ODQ4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "• Yazd | Meybod •\n2008 :|",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 372,
+              "following": 895
+            },
+            "rest_id": "1760342521371086848",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 96,
+              "tweets": 1514
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc2MDM0MjUyMTM3MTA4Njg0OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "North America",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1708533361672"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2097943844503355394/aiMhNwAw_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Feb 21 16:35:51 +0000 2024",
+              "name": "Mojtaba Eslami",
+              "screen_name": "MojtabaE87"
+            },
+            "id": "VXNlcjoxNzYwMzQyNTIxMzcxMDg2ODQ4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1760342521371086848",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc2MDM0MjUyMTM3MTA4Njg0OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
