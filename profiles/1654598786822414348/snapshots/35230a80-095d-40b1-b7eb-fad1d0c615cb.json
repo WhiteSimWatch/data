@@ -1,0 +1,156 @@
+{
+  "snapshotId": "35230a80-095d-40b1-b7eb-fad1d0c615cb",
+  "twitterId": "1654598786822414348",
+  "scannedAt": "2026-10-23T04:27:16.696Z",
+  "fields": {
+    "username": "aghaeynghaf",
+    "displayName": "آقای عَین قاف🎒",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2046887109374713856/EQ5sQFOs_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "United States",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1214
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2046887109374713856/EQ5sQFOs_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1654598786822414348/1685417097"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri May 05 21:27:58 +0000 2023",
+              "name": "آقای عَین قاف🎒",
+              "screen_name": "aghaeynghaf"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjU0NTk4Nzg2ODIyNDE0MzQ4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ای ایران ای پرچمت مرا کفن\n\n آبانی 🍁آذری💂‍♂️",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 77,
+              "following": 115
+            },
+            "rest_id": "1654598786822414348",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 69,
+              "tweets": 526
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTY1NDU5ODc4NjgyMjQxNDM0OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1683322148608"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2046887109374713856/EQ5sQFOs_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri May 05 21:27:58 +0000 2023",
+              "name": "آقای عَین قاف🎒",
+              "screen_name": "aghaeynghaf"
+            },
+            "id": "VXNlcjoxNjU0NTk4Nzg2ODIyNDE0MzQ4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1654598786822414348",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY1NDU5ODc4NjgyMjQxNDM0OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
