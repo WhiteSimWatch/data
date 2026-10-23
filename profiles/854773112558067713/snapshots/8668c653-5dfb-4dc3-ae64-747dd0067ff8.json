@@ -1,0 +1,164 @@
+{
+  "snapshotId": "8668c653-5dfb-4dc3-ae64-747dd0067ff8",
+  "twitterId": "854773112558067713",
+  "scannedAt": "2026-10-23T19:03:52.383Z",
+  "fields": {
+    "username": "Sheydaeslami",
+    "displayName": "شیدا اسلامی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1425173508590555146/UM0pTc1i_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "ایران.تهران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 9712
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1425173508590555146/UM0pTc1i_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/854773112558067713/1636670138"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Apr 19 19:06:05 +0000 2017",
+              "name": "شیدا اسلامی",
+              "screen_name": "Sheydaeslami"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4NTQ3NzMxMTI1NTgwNjc3MTM=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 19,
+                "month": 10,
+                "visibility": "Public",
+                "year": 1967,
+                "year_visibility": "Public"
+              }
+            },
+            "location": {
+              "location": "ایران.تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "هیچ| در سرازیری قبر، علی(ع) به فریادت برسه، بلند صلوات بفرست...",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1284,
+              "following": 1600
+            },
+            "rest_id": "854773112558067713",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 187,
+              "tweets": 1780
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODU0NzczMTEyNTU4MDY3NzEz",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1492630469750"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1425173508590555146/UM0pTc1i_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Apr 19 19:06:05 +0000 2017",
+              "name": "شیدا اسلامی",
+              "screen_name": "Sheydaeslami"
+            },
+            "id": "VXNlcjo4NTQ3NzMxMTI1NTgwNjc3MTM=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "854773112558067713",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODU0NzczMTEyNTU4MDY3NzEz",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
