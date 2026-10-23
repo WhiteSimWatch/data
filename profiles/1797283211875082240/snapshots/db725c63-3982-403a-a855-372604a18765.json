@@ -1,0 +1,159 @@
+{
+  "snapshotId": "db725c63-3982-403a-a855-372604a18765",
+  "twitterId": "1797283211875082240",
+  "scannedAt": "2026-10-23T06:32:14.959Z",
+  "fields": {
+    "username": "hadis441785",
+    "displayName": "soli",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1814022861914345472/DfaFwHlM_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جنوب کرمان",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 6275
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1814022861914345472/DfaFwHlM_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1797283211875082240/1718549661"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jun 02 15:05:21 +0000 2024",
+              "name": "soli",
+              "screen_name": "hadis441785"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzk3MjgzMjExODc1MDgyMjQw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جنوب کرمان"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1990864636975923686"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دشمن ظالم و یار مظلوم ...",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 725,
+              "following": 633
+            },
+            "rest_id": "1797283211875082240",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 324,
+              "tweets": 3629
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTc5NzI4MzIxMTg3NTA4MjI0MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1814022861914345472/DfaFwHlM_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jun 02 15:05:21 +0000 2024",
+              "name": "soli",
+              "screen_name": "hadis441785"
+            },
+            "id": "VXNlcjoxNzk3MjgzMjExODc1MDgyMjQw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1797283211875082240",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTc5NzI4MzIxMTg3NTA4MjI0MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
