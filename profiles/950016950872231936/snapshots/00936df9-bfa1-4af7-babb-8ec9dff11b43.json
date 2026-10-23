@@ -1,0 +1,166 @@
+{
+  "snapshotId": "00936df9-bfa1-4af7-babb-8ec9dff11b43",
+  "twitterId": "950016950872231936",
+  "scannedAt": "2026-10-23T20:46:16.141Z",
+  "fields": {
+    "username": "M_Homaeefar",
+    "displayName": "Mohammad Homaeifar",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1930911391478611968/VOO3JyRr_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 1126
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1930911391478611968/VOO3JyRr_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/950016950872231936/1594844422"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Jan 07 14:51:06 +0000 2018",
+              "name": "Mohammad Homaeifar",
+              "screen_name": "M_Homaeefar"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5NTAwMTY5NTA4NzIyMzE5MzY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Tehran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1727573562771312642"
+            },
+            "profile_bio": {
+              "description": "Iranian journalist, editor at @PressTV",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 112,
+              "following": 605
+            },
+            "rest_id": "950016950872231936",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 5,
+              "tweets": 508
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTUwMDE2OTUwODcyMjMxOTM2",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1700720917803"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1930911391478611968/VOO3JyRr_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Jan 07 14:51:06 +0000 2018",
+              "name": "Mohammad Homaeifar",
+              "screen_name": "M_Homaeefar"
+            },
+            "id": "VXNlcjo5NTAwMTY5NTA4NzIyMzE5MzY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "950016950872231936",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTUwMDE2OTUwODcyMjMxOTM2",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
