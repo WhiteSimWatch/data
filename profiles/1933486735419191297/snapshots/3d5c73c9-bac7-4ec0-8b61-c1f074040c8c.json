@@ -1,0 +1,156 @@
+{
+  "snapshotId": "3d5c73c9-bac7-4ec0-8b61-c1f074040c8c",
+  "twitterId": "1933486735419191297",
+  "scannedAt": "2026-10-23T15:33:33.397Z",
+  "fields": {
+    "username": "mohamad__m313",
+    "displayName": "محمد مهدی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1933487370386522112/FYWR6N9a_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 140
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1933487370386522112/FYWR6N9a_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1933486735419191297/1749814626"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jun 13 11:29:37 +0000 2025",
+              "name": "محمد مهدی",
+              "screen_name": "mohamad__m313"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTMzNDg2NzM1NDE5MTkxMjk3",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "در میان خاکستر هم اگر باشم، جرقه‌ای کافی‌ست تا دوباره شعله شوم.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 115,
+              "following": 102
+            },
+            "rest_id": "1933486735419191297",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 7,
+              "tweets": 151
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkzMzQ4NjczNTQxOTE5MTI5Nw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1749814686317"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1933487370386522112/FYWR6N9a_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jun 13 11:29:37 +0000 2025",
+              "name": "محمد مهدی",
+              "screen_name": "mohamad__m313"
+            },
+            "id": "VXNlcjoxOTMzNDg2NzM1NDE5MTkxMjk3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1933486735419191297",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkzMzQ4NjczNTQxOTE5MTI5Nw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
