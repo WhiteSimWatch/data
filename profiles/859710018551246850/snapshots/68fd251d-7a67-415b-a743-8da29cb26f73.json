@@ -1,0 +1,184 @@
+{
+  "snapshotId": "68fd251d-7a67-415b-a743-8da29cb26f73",
+  "twitterId": "859710018551246850",
+  "scannedAt": "2026-10-23T09:56:51.658Z",
+  "fields": {
+    "username": "mx300e",
+    "displayName": "محمد",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1782146059264770048/q6Ih4vU5_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوریِ عشق :)",
+    "accountBasedIn": "France",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 324413
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1782146059264770048/q6Ih4vU5_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/859710018551246850/1713732031"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed May 03 10:03:35 +0000 2017",
+              "name": "محمد",
+              "screen_name": "mx300e"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4NTk3MTAwMTg1NTEyNDY4NTA=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوریِ عشق :)"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1291811632088338439"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 97,
+                  "name": "Marine"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1463827473603334148"
+            },
+            "profile_bio": {
+              "description": "یک سامورایی که شمشیر رو رها کرد و قلم به دست گرفت .",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/BChatPlusBot?s…",
+                      "expanded_url": "http://t.me/BChatPlusBot?start=sc-OLoXiz3tICzL",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/qWkd5xgakH"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 20980,
+              "following": 12479
+            },
+            "rest_id": "859710018551246850",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3023,
+              "tweets": 84278
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/qWkd5xgakH"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODU5NzEwMDE4NTUxMjQ2ODUw",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "France",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "11",
+                "last_changed_at_msec": "1729160680787"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1782146059264770048/q6Ih4vU5_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed May 03 10:03:35 +0000 2017",
+              "name": "محمد",
+              "screen_name": "mx300e"
+            },
+            "id": "VXNlcjo4NTk3MTAwMTg1NTEyNDY4NTA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "859710018551246850",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODU5NzEwMDE4NTUxMjQ2ODUw",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
