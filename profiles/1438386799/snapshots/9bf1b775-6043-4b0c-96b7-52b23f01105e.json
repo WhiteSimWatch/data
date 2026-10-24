@@ -1,0 +1,202 @@
+{
+  "snapshotId": "9bf1b775-6043-4b0c-96b7-52b23f01105e",
+  "twitterId": "1438386799",
+  "scannedAt": "2026-10-24T07:00:07.189Z",
+  "fields": {
+    "username": "HS_Soleimani",
+    "displayName": "H.Soleimani",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1214969981886181379/Ppkzfty6_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 23673
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1214969981886181379/Ppkzfty6_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1438386799/1442916424"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat May 18 13:15:08 +0000 2013",
+              "name": "H.Soleimani",
+              "screen_name": "HS_Soleimani"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": true,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "2"
+            },
+            "id": "VXNlcjoxNDM4Mzg2Nzk5",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1942925087587364873"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1473633094448078848"
+            },
+            "profile_bio": {
+              "description": "Journalist - خبرنگار",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "MashreghNews.ir",
+                      "expanded_url": "http://MashreghNews.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/2SKTAteH3m"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "regular"
+            },
+            "relationship_counts": {
+              "followers": 15713,
+              "following": 2036
+            },
+            "rest_id": "1438386799",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 4041,
+              "tweets": 15303
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1763639118761"
+              }
+            },
+            "website": {
+              "url": "https://t.co/2SKTAteH3m"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQzODM4Njc5OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1502794930831"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1214969981886181379/Ppkzfty6_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat May 18 13:15:08 +0000 2013",
+              "name": "H.Soleimani",
+              "screen_name": "HS_Soleimani"
+            },
+            "id": "VXNlcjoxNDM4Mzg2Nzk5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1438386799",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQzODM4Njc5OQ==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1763639118761"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
