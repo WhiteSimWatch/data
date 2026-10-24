@@ -1,0 +1,160 @@
+{
+  "snapshotId": "6b6329e5-a1d6-48ce-ac32-4ad12ff65302",
+  "twitterId": "1437110339917828099",
+  "scannedAt": "2026-10-24T08:46:59.113Z",
+  "fields": {
+    "username": "NshrfPro",
+    "displayName": "سرباز بدون مرز ",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1964234768964284416/G_PZPdVV_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "از تهران تا سارایوو",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 43108
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1964234768964284416/G_PZPdVV_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1437110339917828099/1755495805"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Sep 12 17:46:29 +0000 2021",
+              "name": "سرباز بدون مرز ",
+              "screen_name": "NshrfPro"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDM3MTEwMzM5OTE3ODI4MDk5",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "از تهران تا سارایوو"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1995864121862955430"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "إِنَّا مِنَ الْمُجْرِمِینَ مُنتَقِمُونَ|| مرز ما عشق است هر جا اوست،آن‌ جا خاک ماست…",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 9546,
+              "following": 1635
+            },
+            "rest_id": "1437110339917828099",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 903,
+              "tweets": 15812
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQzNzExMDMzOTkxNzgyODA5OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "8",
+                "last_changed_at_msec": "1755351089030"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1964234768964284416/G_PZPdVV_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Sep 12 17:46:29 +0000 2021",
+              "name": "سرباز بدون مرز ",
+              "screen_name": "NshrfPro"
+            },
+            "id": "VXNlcjoxNDM3MTEwMzM5OTE3ODI4MDk5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1437110339917828099",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQzNzExMDMzOTkxNzgyODA5OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
