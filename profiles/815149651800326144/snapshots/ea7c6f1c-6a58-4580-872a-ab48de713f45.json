@@ -1,0 +1,160 @@
+{
+  "snapshotId": "ea7c6f1c-6a58-4580-872a-ab48de713f45",
+  "twitterId": "815149651800326144",
+  "scannedAt": "2026-10-24T03:44:39.510Z",
+  "fields": {
+    "username": "shamse_man",
+    "displayName": "hanaasemani",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2046106336002473984/F4mwbPsz_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Turkey",
+    "connectedVia": "Turkey Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 69221
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2046106336002473984/F4mwbPsz_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/815149651800326144/1777575399"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Dec 31 10:56:36 +0000 2016",
+              "name": "hanaasemani",
+              "screen_name": "shamse_man"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo4MTUxNDk2NTE4MDAzMjYxNDQ=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2075813915548635516"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "und",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1178,
+              "following": 819
+            },
+            "rest_id": "815149651800326144",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 502,
+              "tweets": 17507
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6ODE1MTQ5NjUxODAwMzI2MTQ0",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Turkey",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Turkey Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1483181836596"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2046106336002473984/F4mwbPsz_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Dec 31 10:56:36 +0000 2016",
+              "name": "hanaasemani",
+              "screen_name": "shamse_man"
+            },
+            "id": "VXNlcjo4MTUxNDk2NTE4MDAzMjYxNDQ=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "815149651800326144",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86ODE1MTQ5NjUxODAwMzI2MTQ0",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
