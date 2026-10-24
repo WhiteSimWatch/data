@@ -1,0 +1,192 @@
+{
+  "snapshotId": "8da869ad-7043-463c-b20a-61ed228db5ef",
+  "twitterId": "1889793519503679489",
+  "scannedAt": "2026-10-24T07:12:46.857Z",
+  "fields": {
+    "username": "M__niknejad",
+    "displayName": "majid niknejad",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2030759714087165952/v6Cnnr4o_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Turkey App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 17866
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030759714087165952/v6Cnnr4o_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1889793519503679489/1739398505"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Feb 12 21:48:34 +0000 2025",
+              "name": "majid niknejad",
+              "screen_name": "M__niknejad"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "108"
+            },
+            "id": "VXNlcjoxODg5NzkzNTE5NTAzNjc5NDg5",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2081987059955417291"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "قدِ نَهالِ خَم، از بار مِنّتِ ثَمَرست\nثَمَر قبول مَکُن سروِْ این گلستان باش",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/m_niknejad1",
+                      "expanded_url": "https://www.instagram.com/m_niknejad1",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/uJNv1QU4mn"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3391,
+              "following": 1120
+            },
+            "rest_id": "1889793519503679489",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1469,
+              "tweets": 21917
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1791375159010"
+              }
+            },
+            "website": {
+              "url": "https://t.co/uJNv1QU4mn"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg4OTc5MzUxOTUwMzY3OTQ4OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Turkey App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1739397313738"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2030759714087165952/v6Cnnr4o_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Feb 12 21:48:34 +0000 2025",
+              "name": "majid niknejad",
+              "screen_name": "M__niknejad"
+            },
+            "id": "VXNlcjoxODg5NzkzNTE5NTAzNjc5NDg5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1889793519503679489",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4OTc5MzUxOTUwMzY3OTQ4OQ==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1791375159010"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
