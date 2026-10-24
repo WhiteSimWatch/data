@@ -1,0 +1,160 @@
+{
+  "snapshotId": "e3b64117-a876-4bc0-b58f-badfeb3acc31",
+  "twitterId": "2009994643782701056",
+  "scannedAt": "2026-10-24T17:02:02.660Z",
+  "fields": {
+    "username": "phoneix1352",
+    "displayName": "گارد جاویدان",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2031846636331175936/aJVRoSHk_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia App Store",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 5975
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2031846636331175936/aJVRoSHk_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2009994643782701056/1770369127"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jan 10 14:24:39 +0000 2026",
+              "name": "گارد جاویدان",
+              "screen_name": "phoneix1352"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDA5OTk0NjQzNzgyNzAxMDU2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2034202195646726448"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "چو ایران نباشد تنِ من مباد بدین بوم و بر زنده یک تن مباد همه سر به سر تن به کشتن دهیم از آن به که کشور به دشمن دهیم",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 342,
+              "following": 412
+            },
+            "rest_id": "2009994643782701056",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 7323,
+              "tweets": 10784
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAwOTk5NDY0Mzc4MjcwMTA1Ng==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "West Asia App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1768055180705"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2031846636331175936/aJVRoSHk_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jan 10 14:24:39 +0000 2026",
+              "name": "گارد جاویدان",
+              "screen_name": "phoneix1352"
+            },
+            "id": "VXNlcjoyMDA5OTk0NjQzNzgyNzAxMDU2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2009994643782701056",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAwOTk5NDY0Mzc4MjcwMTA1Ng==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
