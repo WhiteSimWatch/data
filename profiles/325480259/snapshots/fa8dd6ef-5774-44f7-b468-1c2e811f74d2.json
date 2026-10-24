@@ -1,0 +1,202 @@
+{
+  "snapshotId": "fa8dd6ef-5774-44f7-b468-1c2e811f74d2",
+  "twitterId": "325480259",
+  "scannedAt": "2026-10-24T20:37:20.472Z",
+  "fields": {
+    "username": "palinfoen",
+    "displayName": "Palestine Info Center",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1009646640519512064/X6w2Ox_-_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Palestine",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 35220
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1009646640519512064/X6w2Ox_-_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/325480259/1730781051"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jun 28 11:05:57 +0000 2011",
+              "name": "Palestine Info Center",
+              "screen_name": "palinfoen"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "201"
+            },
+            "id": "VXNlcjozMjU0ODAyNTk=",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Palestine"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2098337401458319713"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Palestinian Information Center: Voice Of #Palestine. Reports & news 247 FB: https://t.co/vhXowq1wkc #Jerusalem #Gaza",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "facebook.com/PalinfoEN/",
+                      "expanded_url": "http://facebook.com/PalinfoEN/",
+                      "indices": [
+                        76,
+                        99
+                      ],
+                      "url": "https://t.co/vhXowq1wkc"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "english.palinfo.com",
+                      "expanded_url": "https://english.palinfo.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/XZrWuoijx7"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 93749,
+              "following": 625
+            },
+            "rest_id": "325480259",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 35108,
+              "tweets": 122541
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1683004617936"
+              }
+            },
+            "website": {
+              "url": "https://t.co/XZrWuoijx7"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MzI1NDgwMjU5",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1009646640519512064/X6w2Ox_-_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Jun 28 11:05:57 +0000 2011",
+              "name": "Palestine Info Center",
+              "screen_name": "palinfoen"
+            },
+            "id": "VXNlcjozMjU0ODAyNTk=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "325480259",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MzI1NDgwMjU5",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1683004617936"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
