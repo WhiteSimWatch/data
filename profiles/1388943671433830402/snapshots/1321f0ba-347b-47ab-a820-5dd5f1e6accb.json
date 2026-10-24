@@ -1,0 +1,155 @@
+{
+  "snapshotId": "1321f0ba-347b-47ab-a820-5dd5f1e6accb",
+  "twitterId": "1388943671433830402",
+  "scannedAt": "2026-10-24T08:59:33.462Z",
+  "fields": {
+    "username": "imohrw",
+    "displayName": "مُحَدِثْه",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2113000914193666048/kFKCZ0JG_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جبهه حق ☫",
+    "accountBasedIn": "Europe",
+    "connectedVia": "North America App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 13655
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2113000914193666048/kFKCZ0JG_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1388943671433830402/1784383548"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun May 02 19:49:23 +0000 2021",
+              "name": "مُحَدِثْه",
+              "screen_name": "imohrw"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzg4OTQzNjcxNDMzODMwNDAy",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جبهه حق ☫"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "(الله)",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1733,
+              "following": 1716
+            },
+            "rest_id": "1388943671433830402",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 15,
+              "tweets": 2079
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM4ODk0MzY3MTQzMzgzMDQwMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "North America App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2113000914193666048/kFKCZ0JG_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun May 02 19:49:23 +0000 2021",
+              "name": "مُحَدِثْه",
+              "screen_name": "imohrw"
+            },
+            "id": "VXNlcjoxMzg4OTQzNjcxNDMzODMwNDAy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1388943671433830402",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM4ODk0MzY3MTQzMzgzMDQwMg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
