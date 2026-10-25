@@ -1,0 +1,160 @@
+{
+  "snapshotId": "6a971f9a-8e17-4e02-aa94-17a7685fff9e",
+  "twitterId": "1213212123142115328",
+  "scannedAt": "2026-10-25T05:01:49.153Z",
+  "fields": {
+    "username": "erfan_121n",
+    "displayName": "عرفان",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1885036594526048256/qbe3rGCc_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 713458
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1885036594526048256/qbe3rGCc_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1213212123142115328/1792097471"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jan 03 21:34:57 +0000 2020",
+              "name": "عرفان",
+              "screen_name": "erfan_121n"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjEzMjEyMTIzMTQyMTE1MzI4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1554064350482235392"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دوست باش! فالورِ خالی به درد نمیخوره.",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 3155,
+              "following": 427
+            },
+            "rest_id": "1213212123142115328",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 5168,
+              "tweets": 145515
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTIxMzIxMjEyMzE0MjExNTMyOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1578348078439"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1885036594526048256/qbe3rGCc_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jan 03 21:34:57 +0000 2020",
+              "name": "عرفان",
+              "screen_name": "erfan_121n"
+            },
+            "id": "VXNlcjoxMjEzMjEyMTIzMTQyMTE1MzI4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1213212123142115328",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTIxMzIxMjEyMzE0MjExNTMyOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
