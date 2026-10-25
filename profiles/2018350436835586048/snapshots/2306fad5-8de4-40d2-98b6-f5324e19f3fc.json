@@ -1,0 +1,167 @@
+{
+  "snapshotId": "2306fad5-8de4-40d2-98b6-f5324e19f3fc",
+  "twitterId": "2018350436835586048",
+  "scannedAt": "2026-10-25T03:51:03.997Z",
+  "fields": {
+    "username": "sareh4309",
+    "displayName": "naghizadeh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2032924974915391488/MLq3SWyX_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "مازندران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 248
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2032924974915391488/MLq3SWyX_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2018350436835586048/1771783688"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Feb 02 15:50:26 +0000 2026",
+              "name": "naghizadeh",
+              "screen_name": "sareh4309"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDE4MzUwNDM2ODM1NTg2MDQ4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 11,
+                "month": 11,
+                "visibility": "Public",
+                "year_visibility": "Self"
+              }
+            },
+            "location": {
+              "location": "مازندران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2027911827108016196"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دانشجوی روانشناسی | اهل شمال",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 30,
+              "following": 31
+            },
+            "rest_id": "2018350436835586048",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 116,
+              "tweets": 595
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAxODM1MDQzNjgzNTU4NjA0OA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1770047471969"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2032924974915391488/MLq3SWyX_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Feb 02 15:50:26 +0000 2026",
+              "name": "naghizadeh",
+              "screen_name": "sareh4309"
+            },
+            "id": "VXNlcjoyMDE4MzUwNDM2ODM1NTg2MDQ4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2018350436835586048",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAxODM1MDQzNjgzNTU4NjA0OA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
