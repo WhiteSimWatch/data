@@ -1,0 +1,166 @@
+{
+  "snapshotId": "f330e5ed-7919-45f6-a2e5-7ea163249213",
+  "twitterId": "2023969919399063554",
+  "scannedAt": "2026-10-25T09:46:11.956Z",
+  "fields": {
+    "username": "MMm1838993",
+    "displayName": "Sam",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2027067055640367104/uVwdhijn_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "بام ایران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 836
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2027067055640367104/uVwdhijn_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2023969919399063554/1779948922"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Feb 18 03:57:05 +0000 2026",
+              "name": "Sam",
+              "screen_name": "MMm1838993"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMDIzOTY5OTE5Mzk5MDYzNTU0",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "بام ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "2059880440639492515"
+            },
+            "profile_bio": {
+              "description": "سَرَم نَذرِ سَرِ سَردارِ بی سَر🌹\n°•پایبند به وطن•علاقمندبه عکاسی•طبیعت دوست•°",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 82,
+              "following": 114
+            },
+            "rest_id": "2023969919399063554",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 105,
+              "tweets": 701
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjAyMzk2OTkxOTM5OTA2MzU1NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2027067055640367104/uVwdhijn_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Feb 18 03:57:05 +0000 2026",
+              "name": "Sam",
+              "screen_name": "MMm1838993"
+            },
+            "id": "VXNlcjoyMDIzOTY5OTE5Mzk5MDYzNTU0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2023969919399063554",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjAyMzk2OTkxOTM5OTA2MzU1NA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
