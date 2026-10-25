@@ -1,0 +1,159 @@
+{
+  "snapshotId": "e23ce201-af76-4312-9c0b-7fa857548ffd",
+  "twitterId": "1940110446356570113",
+  "scannedAt": "2026-10-25T03:57:20.709Z",
+  "fields": {
+    "username": "fatemehase85489",
+    "displayName": "فاطــمه هاشمــی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1955749133890813954/YG8rrBO6_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Europe",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 3148
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1955749133890813954/YG8rrBO6_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1940110446356570113/1755121903"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jul 01 18:09:37 +0000 2025",
+              "name": "فاطــمه هاشمــی",
+              "screen_name": "fatemehase85489"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTQwMTEwNDQ2MzU2NTcwMTEz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2025126219163840813"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دهه شصتی اما نسخه بروز🪽🤍 / از ابرها الهام میگیرم از دخترام زندگی",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 754,
+              "following": 349
+            },
+            "rest_id": "1940110446356570113",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 299,
+              "tweets": 1162
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk0MDExMDQ0NjM1NjU3MDExMw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1955749133890813954/YG8rrBO6_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Jul 01 18:09:37 +0000 2025",
+              "name": "فاطــمه هاشمــی",
+              "screen_name": "fatemehase85489"
+            },
+            "id": "VXNlcjoxOTQwMTEwNDQ2MzU2NTcwMTEz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1940110446356570113",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk0MDExMDQ0NjM1NjU3MDExMw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
