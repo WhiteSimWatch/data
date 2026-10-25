@@ -1,0 +1,156 @@
+{
+  "snapshotId": "1d7c88d5-1494-4abb-a6c1-fb6283ba623c",
+  "twitterId": "1880655307681988609",
+  "scannedAt": "2026-10-25T16:11:20.971Z",
+  "fields": {
+    "username": "Amirreza_amirii",
+    "displayName": "Amirreza",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2022265991569489920/jpPV4DBT_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Web",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 253
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2022265991569489920/jpPV4DBT_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1880655307681988609/1770980862"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Jan 18 16:35:56 +0000 2025",
+              "name": "Amirreza",
+              "screen_name": "Amirreza_amirii"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODgwNjU1MzA3NjgxOTg4NjA5",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "خدایاقلبم‌رابہ‌تسبیحِ‌ یادت‌گره‌بزن..️",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "ur",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 282,
+              "following": 505
+            },
+            "rest_id": "1880655307681988609",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 28,
+              "tweets": 312
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg4MDY1NTMwNzY4MTk4ODYwOQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Web",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1770980570669"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2022265991569489920/jpPV4DBT_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jan 18 16:35:56 +0000 2025",
+              "name": "Amirreza",
+              "screen_name": "Amirreza_amirii"
+            },
+            "id": "VXNlcjoxODgwNjU1MzA3NjgxOTg4NjA5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1880655307681988609",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg4MDY1NTMwNzY4MTk4ODYwOQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
