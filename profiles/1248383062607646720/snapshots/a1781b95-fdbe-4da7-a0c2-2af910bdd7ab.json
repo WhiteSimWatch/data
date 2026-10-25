@@ -1,0 +1,172 @@
+{
+  "snapshotId": "a1781b95-fdbe-4da7-a0c2-2af910bdd7ab",
+  "twitterId": "1248383062607646720",
+  "scannedAt": "2026-10-25T17:12:33.940Z",
+  "fields": {
+    "username": "MohajerVenus",
+    "displayName": "Venus.mohajer",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1305045993533079554/R_eTnrci_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 32914
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1305045993533079554/R_eTnrci_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1248383062607646720/1598950214"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Apr 09 22:51:49 +0000 2020",
+              "name": "Venus.mohajer",
+              "screen_name": "MohajerVenus"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjQ4MzgzMDYyNjA3NjQ2NzIw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1296145867746029568"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "بگذارید از بیان این حقیقت نگران نباشیم که جهان در جنگ است زیرا صـــلح را گم کرده است.\n0107d0b60d",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/venus97442",
+                      "expanded_url": "http://instagram.com/venus97442",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/2YrxzygoGZ"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1802,
+              "following": 2581
+            },
+            "rest_id": "1248383062607646720",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 584,
+              "tweets": 4570
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/2YrxzygoGZ"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI0ODM4MzA2MjYwNzY0NjcyMA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1305045993533079554/R_eTnrci_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Apr 09 22:51:49 +0000 2020",
+              "name": "Venus.mohajer",
+              "screen_name": "MohajerVenus"
+            },
+            "id": "VXNlcjoxMjQ4MzgzMDYyNjA3NjQ2NzIw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1248383062607646720",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI0ODM4MzA2MjYwNzY0NjcyMA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
