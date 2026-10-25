@@ -1,0 +1,156 @@
+{
+  "snapshotId": "e43c2455-eddc-4203-ad6a-c6ff07258e3c",
+  "twitterId": "1909606218445864960",
+  "scannedAt": "2026-10-25T15:52:19.784Z",
+  "fields": {
+    "username": "Fatmeh1400",
+    "displayName": "فاطمه‌ احمدی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2079477260566872064/1hhKLgNQ_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Europe",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 4845
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2079477260566872064/1hhKLgNQ_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1909606218445864960/1744601759"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Apr 08 13:56:52 +0000 2025",
+              "name": "فاطمه‌ احمدی",
+              "screen_name": "Fatmeh1400"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTA5NjA2MjE4NDQ1ODY0OTYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "و أنَا أبحَثُ عنِّي\nوَجَدْتُكَ یٰا حُسین..\n\nو هنگامی که در پی خودم بودم\nتو را یافتم یا حسین…",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1645,
+              "following": 1442
+            },
+            "rest_id": "1909606218445864960",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 146,
+              "tweets": 2997
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkwOTYwNjIxODQ0NTg2NDk2MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Europe",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1744602842905"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2079477260566872064/1hhKLgNQ_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Apr 08 13:56:52 +0000 2025",
+              "name": "فاطمه‌ احمدی",
+              "screen_name": "Fatmeh1400"
+            },
+            "id": "VXNlcjoxOTA5NjA2MjE4NDQ1ODY0OTYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1909606218445864960",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkwOTYwNjIxODQ0NTg2NDk2MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
