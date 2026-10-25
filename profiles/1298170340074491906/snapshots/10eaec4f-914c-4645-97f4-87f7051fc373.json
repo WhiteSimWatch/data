@@ -1,0 +1,160 @@
+{
+  "snapshotId": "10eaec4f-914c-4645-97f4-87f7051fc373",
+  "twitterId": "1298170340074491906",
+  "scannedAt": "2026-10-25T15:25:33.103Z",
+  "fields": {
+    "username": "_zahra_313_",
+    "displayName": "زهرا🚩",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2081313797583577088/P1evLTch_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "۱:۲۰",
+    "accountBasedIn": "Netherlands",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 222915
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2081313797583577088/P1evLTch_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1298170340074491906/1769614527"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Aug 25 08:08:40 +0000 2020",
+              "name": "زهرا🚩",
+              "screen_name": "_zahra_313_"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMjk4MTcwMzQwMDc0NDkxOTA2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "۱:۲۰"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1548727241869328386"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "من از سکوت آمده ام تا صدای تو...",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 7153,
+              "following": 5927
+            },
+            "rest_id": "1298170340074491906",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1851,
+              "tweets": 71863
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTI5ODE3MDM0MDA3NDQ5MTkwNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Netherlands",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "7",
+                "last_changed_at_msec": "1654507181190"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2081313797583577088/P1evLTch_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Aug 25 08:08:40 +0000 2020",
+              "name": "زهرا🚩",
+              "screen_name": "_zahra_313_"
+            },
+            "id": "VXNlcjoxMjk4MTcwMzQwMDc0NDkxOTA2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1298170340074491906",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTI5ODE3MDM0MDA3NDQ5MTkwNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
