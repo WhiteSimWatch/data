@@ -1,0 +1,159 @@
+{
+  "snapshotId": "357d136b-a4e6-4a0d-b577-ba7ce21c3dda",
+  "twitterId": "1848436886848868355",
+  "scannedAt": "2026-10-25T17:44:14.341Z",
+  "fields": {
+    "username": "PooladH21383",
+    "displayName": "poolad_h",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1848436949914148864/MPVIlc-q_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "North America",
+    "connectedVia": "West Asia Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 3558
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1848436949914148864/MPVIlc-q_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1848436886848868355/1729537211"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Mon Oct 21 18:51:17 +0000 2024",
+              "name": "poolad_h",
+              "screen_name": "PooladH21383"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODQ4NDM2ODg2ODQ4ODY4MzU1",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2036914989119004889"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "ورود لاشی و هول 🚫⚠️",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 235,
+              "following": 251
+            },
+            "rest_id": "1848436886848868355",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 140,
+              "tweets": 1278
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTg0ODQzNjg4Njg0ODg2ODM1NQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "North America",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "West Asia Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1848436949914148864/MPVIlc-q_normal.jpg"
+            },
+            "core": {
+              "created_at": "Mon Oct 21 18:51:17 +0000 2024",
+              "name": "poolad_h",
+              "screen_name": "PooladH21383"
+            },
+            "id": "VXNlcjoxODQ4NDM2ODg2ODQ4ODY4MzU1",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1848436886848868355",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTg0ODQzNjg4Njg0ODg2ODM1NQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
