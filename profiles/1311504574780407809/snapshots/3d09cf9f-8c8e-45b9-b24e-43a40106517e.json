@@ -1,0 +1,156 @@
+{
+  "snapshotId": "3d09cf9f-8c8e-45b9-b24e-43a40106517e",
+  "twitterId": "1311504574780407809",
+  "scannedAt": "2026-10-25T12:39:29.534Z",
+  "fields": {
+    "username": "Ghorban0pour",
+    "displayName": "🎒قربان‌پور",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2090796640030339072/tqpPgEXK_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تهران",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 8454
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2090796640030339072/tqpPgEXK_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1311504574780407809/1747645354"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Oct 01 03:18:16 +0000 2020",
+              "name": "🎒قربان‌پور",
+              "screen_name": "Ghorban0pour"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzExNTA0NTc0NzgwNDA3ODA5",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "...ولاتجعل فی قلوبنا غلاً للذین آمنوا...\nمنتظر ابن الحسین(علیه السلام)\nدهه هفتادی، طلبه \nو دیگر هیچ!",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 934,
+              "following": 815
+            },
+            "rest_id": "1311504574780407809",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 300,
+              "tweets": 3963
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTMxMTUwNDU3NDc4MDQwNzgwOQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1747641804249"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2090796640030339072/tqpPgEXK_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Oct 01 03:18:16 +0000 2020",
+              "name": "🎒قربان‌پور",
+              "screen_name": "Ghorban0pour"
+            },
+            "id": "VXNlcjoxMzExNTA0NTc0NzgwNDA3ODA5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1311504574780407809",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTMxMTUwNDU3NDc4MDQwNzgwOQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
