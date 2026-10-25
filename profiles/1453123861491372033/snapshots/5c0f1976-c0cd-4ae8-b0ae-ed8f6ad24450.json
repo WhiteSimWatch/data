@@ -1,0 +1,156 @@
+{
+  "snapshotId": "5c0f1976-c0cd-4ae8-b0ae-ed8f6ad24450",
+  "twitterId": "1453123861491372033",
+  "scannedAt": "2026-10-25T12:05:44.321Z",
+  "fields": {
+    "username": "majidemami233",
+    "displayName": "مجید امامی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044813833269649408/N9LzjPBN_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "United States",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 365
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2044813833269649408/N9LzjPBN_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1453123861491372033/1776289651"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Oct 26 22:18:42 +0000 2021",
+              "name": "مجید امامی",
+              "screen_name": "majidemami233"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDUzMTIzODYxNDkxMzcyMDMz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دل به امام زمان(عج) سپرده‌ام ❤️",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 168,
+              "following": 197
+            },
+            "rest_id": "1453123861491372033",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 102,
+              "tweets": 795
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ1MzEyMzg2MTQ5MTM3MjAzMw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "United States",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1635286766977"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2044813833269649408/N9LzjPBN_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Oct 26 22:18:42 +0000 2021",
+              "name": "مجید امامی",
+              "screen_name": "majidemami233"
+            },
+            "id": "VXNlcjoxNDUzMTIzODYxNDkxMzcyMDMz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1453123861491372033",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ1MzEyMzg2MTQ5MTM3MjAzMw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
