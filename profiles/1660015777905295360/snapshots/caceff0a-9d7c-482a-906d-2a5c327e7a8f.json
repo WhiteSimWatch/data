@@ -1,0 +1,156 @@
+{
+  "snapshotId": "caceff0a-9d7c-482a-906d-2a5c327e7a8f",
+  "twitterId": "1660015777905295360",
+  "scannedAt": "2026-10-25T12:19:27.264Z",
+  "fields": {
+    "username": "f_bidar",
+    "displayName": "𝗙𝗮𝘁𝗲𝗺𝗲",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1792536891469774848/DQp5FxVT_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "خونه ی دختر شجاع",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 3359
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1792536891469774848/DQp5FxVT_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1660015777905295360/1716209297"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat May 20 20:13:22 +0000 2023",
+              "name": "𝗙𝗮𝘁𝗲𝗺𝗲",
+              "screen_name": "f_bidar"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjYwMDE1Nzc3OTA1Mjk1MzYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "خونه ی دختر شجاع"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "از خاکیم و به خاک برمی گردیم...\n\nمحقق/دانش آموز/بیزار از حماقت موجودات زمینی",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 66,
+              "following": 33
+            },
+            "rest_id": "1660015777905295360",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 78,
+              "tweets": 1654
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTY2MDAxNTc3NzkwNTI5NTM2MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1684613767679"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1792536891469774848/DQp5FxVT_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat May 20 20:13:22 +0000 2023",
+              "name": "𝗙𝗮𝘁𝗲𝗺𝗲",
+              "screen_name": "f_bidar"
+            },
+            "id": "VXNlcjoxNjYwMDE1Nzc3OTA1Mjk1MzYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1660015777905295360",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY2MDAxNTc3NzkwNTI5NTM2MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
