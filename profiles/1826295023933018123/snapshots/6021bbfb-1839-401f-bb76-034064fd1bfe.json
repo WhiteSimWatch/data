@@ -1,0 +1,169 @@
+{
+  "snapshotId": "6021bbfb-1839-401f-bb76-034064fd1bfe",
+  "twitterId": "1826295023933018123",
+  "scannedAt": "2026-10-26T14:06:29.229Z",
+  "fields": {
+    "username": "salehiamiri_ir",
+    "displayName": "سیدرضا صالحی امیری",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1826295267760492550/QCRpeGiE_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Germany",
+    "connectedVia": "United Arab Emirates App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 42
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1826295267760492550/QCRpeGiE_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1826295023933018123/1724259486"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Aug 21 16:27:38 +0000 2024",
+              "name": "سیدرضا صالحی امیری",
+              "screen_name": "salehiamiri_ir"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxODI2Mjk1MDIzOTMzMDE4MTIz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "وزیر میراث فرهنگی، گردشگری و صنایع دستی",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/reza_salehiami…",
+                      "expanded_url": "https://www.instagram.com/reza_salehiamiri?igsh=YTJxcWgwZzZqNnpi",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/hPbyouOGxZ"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1145,
+              "following": 18
+            },
+            "rest_id": "1826295023933018123",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 4,
+              "tweets": 14
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/hPbyouOGxZ"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTgyNjI5NTAyMzkzMzAxODEyMw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United Arab Emirates App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1724329114153"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1826295267760492550/QCRpeGiE_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Aug 21 16:27:38 +0000 2024",
+              "name": "سیدرضا صالحی امیری",
+              "screen_name": "salehiamiri_ir"
+            },
+            "id": "VXNlcjoxODI2Mjk1MDIzOTMzMDE4MTIz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1826295023933018123",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTgyNjI5NTAyMzkzMzAxODEyMw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
