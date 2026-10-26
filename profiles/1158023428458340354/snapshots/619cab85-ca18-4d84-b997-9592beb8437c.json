@@ -1,0 +1,192 @@
+{
+  "snapshotId": "619cab85-ca18-4d84-b997-9592beb8437c",
+  "twitterId": "1158023428458340354",
+  "scannedAt": "2026-10-26T15:51:32.088Z",
+  "fields": {
+    "username": "zeinab98ak",
+    "displayName": "ماسو",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2051766723058008069/WNSqJViv_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "krj ",
+    "accountBasedIn": "West Asia",
+    "connectedVia": "West Asia App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 630235
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2051766723058008069/WNSqJViv_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1158023428458340354/1784020338"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sun Aug 04 14:34:35 +0000 2019",
+              "name": "ماسو",
+              "screen_name": "zeinab98ak"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "2"
+            },
+            "id": "VXNlcjoxMTU4MDIzNDI4NDU4MzQwMzU0",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "krj "
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "2027933110013235542"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "می توان زن بود ،عفیف بود،محجبه و شریف بودودر عین حال در متن و مرکزبود❤️",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "twitter.com/search?q=from%…",
+                      "expanded_url": "https://twitter.com/search?q=from%3A%40zeinab98ak%2Fexclude%3Areplies&src=typed_query&f=top",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/y7QYpusdnd"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 49853,
+              "following": 3569
+            },
+            "rest_id": "1158023428458340354",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 6829,
+              "tweets": 472775
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1780814174766"
+              }
+            },
+            "website": {
+              "url": "https://t.co/y7QYpusdnd"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE1ODAyMzQyODQ1ODM0MDM1NA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "West Asia",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "West Asia App Store",
+              "username_changes": {
+                "count": "23",
+                "last_changed_at_msec": "1760904781850"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2051766723058008069/WNSqJViv_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sun Aug 04 14:34:35 +0000 2019",
+              "name": "ماسو",
+              "screen_name": "zeinab98ak"
+            },
+            "id": "VXNlcjoxMTU4MDIzNDI4NDU4MzQwMzU0",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1158023428458340354",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE1ODAyMzQyODQ1ODM0MDM1NA==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1780814174766"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
