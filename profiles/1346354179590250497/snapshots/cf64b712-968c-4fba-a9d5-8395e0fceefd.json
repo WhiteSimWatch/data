@@ -1,0 +1,180 @@
+{
+  "snapshotId": "cf64b712-968c-4fba-a9d5-8395e0fceefd",
+  "twitterId": "1346354179590250497",
+  "scannedAt": "2026-10-26T17:41:24.663Z",
+  "fields": {
+    "username": "13javad81",
+    "displayName": "جوادشونم :)",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1836288181458657280/WXuvnrTB_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "YAZD",
+    "accountBasedIn": "Netherlands",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 59091
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1836288181458657280/WXuvnrTB_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1346354179590250497/1726640475"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jan 05 07:14:00 +0000 2021",
+              "name": "جوادشونم :)",
+              "screen_name": "13javad81"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMzQ2MzU0MTc5NTkwMjUwNDk3",
+            "is_blue_verified": false,
+            "is_profile_translatable": true,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "YAZD"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 934,
+                  "name": "Social Media Influencer"
+                }
+              ],
+              "professional_type": "Creator",
+              "rest_id": "1618585000667906052"
+            },
+            "profile_bio": {
+              "description": "وَ يَرْزُقْهُ مِنْ حَيْثُ لا يَحْتَسِبُ :)",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/HarfinoBot?sta…",
+                      "expanded_url": "https://t.me/HarfinoBot?start=b30b439aff3c493",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/DoLWplFHaW"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "ar",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 7240,
+              "following": 7433
+            },
+            "rest_id": "1346354179590250497",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 1202,
+              "tweets": 34051
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/DoLWplFHaW"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTM0NjM1NDE3OTU5MDI1MDQ5Nw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Netherlands",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1709461512707"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1836288181458657280/WXuvnrTB_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Jan 05 07:14:00 +0000 2021",
+              "name": "جوادشونم :)",
+              "screen_name": "13javad81"
+            },
+            "id": "VXNlcjoxMzQ2MzU0MTc5NTkwMjUwNDk3",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1346354179590250497",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTM0NjM1NDE3OTU5MDI1MDQ5Nw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
