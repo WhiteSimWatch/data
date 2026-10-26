@@ -1,0 +1,156 @@
+{
+  "snapshotId": "982352c9-30ef-4a1b-9913-87569ab945e2",
+  "twitterId": "1717556262278234112",
+  "scannedAt": "2026-10-26T03:06:46.973Z",
+  "fields": {
+    "username": "Ngynkhatwn",
+    "displayName": "نگین محمودی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1719845017080963072/4hq6NWX5_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "جمهوری اسلامی ایران",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 4748
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1719845017080963072/4hq6NWX5_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1717556262278234112/1698336726"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Oct 26 14:58:53 +0000 2023",
+              "name": "نگین محمودی",
+              "screen_name": "Ngynkhatwn"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNzE3NTU2MjYyMjc4MjM0MTEy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "جمهوری اسلامی ایران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "آن عشق که در پرده بماند به چه ارزد ؟\nعشق از تو همین لذت اظهار و دیگر هیچ .",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 895,
+              "following": 1465
+            },
+            "rest_id": "1717556262278234112",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 263,
+              "tweets": 2272
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTcxNzU1NjI2MjI3ODIzNDExMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1700173002769"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1719845017080963072/4hq6NWX5_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Oct 26 14:58:53 +0000 2023",
+              "name": "نگین محمودی",
+              "screen_name": "Ngynkhatwn"
+            },
+            "id": "VXNlcjoxNzE3NTU2MjYyMjc4MjM0MTEy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1717556262278234112",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTcxNzU1NjI2MjI3ODIzNDExMg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
