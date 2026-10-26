@@ -1,0 +1,173 @@
+{
+  "snapshotId": "6c4e524c-7439-421e-a755-16df0d8efbef",
+  "twitterId": "1531470595367612416",
+  "scannedAt": "2026-10-26T18:00:45.988Z",
+  "fields": {
+    "username": "Iranmilitarymag",
+    "displayName": "مجله نظامی ایران",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1591907365347115009/b9PC5ROJ_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "سکو تلگرام(پوشش فوری)👇",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 16440
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1591907365347115009/b9PC5ROJ_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1531470595367612416/1655986646"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue May 31 03:00:39 +0000 2022",
+              "name": "مجله نظامی ایران",
+              "screen_name": "Iranmilitarymag"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNTMxNDcwNTk1MzY3NjEyNDE2",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "سکو تلگرام(پوشش فوری)👇"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1550422001826897922"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "پوشش فوری و تخصصی اخبار نظامی ایران، منطقه غرب آسیا و جهان",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "t.me/iranmilitarymag",
+                      "expanded_url": "https://t.me/iranmilitarymag",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/oTSLlaKL6a"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 12716,
+              "following": 14
+            },
+            "rest_id": "1531470595367612416",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3590,
+              "tweets": 6445
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/oTSLlaKL6a"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTUzMTQ3MDU5NTM2NzYxMjQxNg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1655218565003"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1591907365347115009/b9PC5ROJ_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue May 31 03:00:39 +0000 2022",
+              "name": "مجله نظامی ایران",
+              "screen_name": "Iranmilitarymag"
+            },
+            "id": "VXNlcjoxNTMxNDcwNTk1MzY3NjEyNDE2",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1531470595367612416",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTUzMTQ3MDU5NTM2NzYxMjQxNg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
