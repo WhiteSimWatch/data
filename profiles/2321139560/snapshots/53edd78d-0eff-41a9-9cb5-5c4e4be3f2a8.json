@@ -1,0 +1,179 @@
+{
+  "snapshotId": "53edd78d-0eff-41a9-9cb5-5c4e4be3f2a8",
+  "twitterId": "2321139560",
+  "scannedAt": "2026-10-26T17:22:17.337Z",
+  "fields": {
+    "username": "ensafnews",
+    "displayName": "انصاف نیوز",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1743977697590845440/Ez3wrJiB_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تهران",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 232
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1743977697590845440/Ez3wrJiB_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/2321139560/1765560226"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Jan 31 17:41:14 +0000 2014",
+              "name": "انصاف نیوز",
+              "screen_name": "ensafnews"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoyMzIxMTM5NTYw",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "پایگاه خبری و تحلیلی\nEnsaf News, an Iranian news station\n\nhttps://t.co/3s5QcXpjTd",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/ensafnews",
+                      "expanded_url": "http://instagram.com/ensafnews",
+                      "indices": [
+                        58,
+                        81
+                      ],
+                      "url": "https://t.co/3s5QcXpjTd"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "ensafnews.com",
+                      "expanded_url": "http://ensafnews.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/0l7XuvWwJq"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 24240,
+              "following": 81
+            },
+            "rest_id": "2321139560",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3923,
+              "tweets": 25744
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/0l7XuvWwJq"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MjMyMTEzOTU2MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1743977697590845440/Ez3wrJiB_normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Jan 31 17:41:14 +0000 2014",
+              "name": "انصاف نیوز",
+              "screen_name": "ensafnews"
+            },
+            "id": "VXNlcjoyMzIxMTM5NTYw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "2321139560",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MjMyMTEzOTU2MA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
