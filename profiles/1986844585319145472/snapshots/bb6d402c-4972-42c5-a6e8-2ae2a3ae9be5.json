@@ -1,0 +1,155 @@
+{
+  "snapshotId": "bb6d402c-4972-42c5-a6e8-2ae2a3ae9be5",
+  "twitterId": "1986844585319145472",
+  "scannedAt": "2026-10-26T15:57:52.701Z",
+  "fields": {
+    "username": "Amin_sheykh71",
+    "displayName": "راه موفقیت",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1986844688188604416/4K_m-DuY_normal.png",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 33
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1986844688188604416/4K_m-DuY_normal.png"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1986844585319145472/1763180887"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Nov 07 17:14:21 +0000 2025",
+              "name": "راه موفقیت",
+              "screen_name": "Amin_sheykh71"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTg2ODQ0NTg1MzE5MTQ1NDcy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 890,
+              "following": 17
+            },
+            "rest_id": "1986844585319145472",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 2,
+              "tweets": 39
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTk4Njg0NDU4NTMxOTE0NTQ3Mg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1762535688996"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1986844688188604416/4K_m-DuY_normal.png"
+            },
+            "core": {
+              "created_at": "Fri Nov 07 17:14:21 +0000 2025",
+              "name": "راه موفقیت",
+              "screen_name": "Amin_sheykh71"
+            },
+            "id": "VXNlcjoxOTg2ODQ0NTg1MzE5MTQ1NDcy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1986844585319145472",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTk4Njg0NDU4NTMxOTE0NTQ3Mg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
