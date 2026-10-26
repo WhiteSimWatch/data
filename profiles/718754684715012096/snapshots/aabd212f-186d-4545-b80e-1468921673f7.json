@@ -1,0 +1,174 @@
+{
+  "snapshotId": "aabd212f-186d-4545-b80e-1468921673f7",
+  "twitterId": "718754684715012096",
+  "scannedAt": "2026-10-26T18:39:02.372Z",
+  "fields": {
+    "username": "PanahianEN",
+    "displayName": "Ali Reza Panahian",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1916102841376108544/f2XWKvzF_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 392
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1916102841376108544/f2XWKvzF_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/718754684715012096/1758369607"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Apr 09 10:57:25 +0000 2016",
+              "name": "Ali Reza Panahian",
+              "screen_name": "PanahianEN"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo3MTg3NTQ2ODQ3MTUwMTIwOTY=",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [],
+              "professional_type": "Creator",
+              "rest_id": "1614076057296027649"
+            },
+            "profile_bio": {
+              "description": "Official Account /\nPopular speaker & teacher. Expert in education & ethics. Strategist & theorist. Head of a seminary. Author of: How to Pray a Good Prayer",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "panahian.net",
+                      "expanded_url": "http://panahian.net",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/8UI9Z6G2AH"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 96038,
+              "following": 2
+            },
+            "rest_id": "718754684715012096",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 648,
+              "tweets": 1624
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/8UI9Z6G2AH"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6NzE4NzU0Njg0NzE1MDEyMDk2",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "3",
+                "last_changed_at_msec": "1463457465903"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1916102841376108544/f2XWKvzF_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Apr 09 10:57:25 +0000 2016",
+              "name": "Ali Reza Panahian",
+              "screen_name": "PanahianEN"
+            },
+            "id": "VXNlcjo3MTg3NTQ2ODQ3MTUwMTIwOTY=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "718754684715012096",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86NzE4NzU0Njg0NzE1MDEyMDk2",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
