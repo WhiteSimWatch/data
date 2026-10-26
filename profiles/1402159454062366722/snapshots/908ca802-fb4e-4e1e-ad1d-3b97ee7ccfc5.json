@@ -1,0 +1,158 @@
+{
+  "snapshotId": "908ca802-fb4e-4e1e-ad1d-3b97ee7ccfc5",
+  "twitterId": "1402159454062366722",
+  "scannedAt": "2026-10-26T09:17:01.305Z",
+  "fields": {
+    "username": "MahdiehShakoori",
+    "displayName": "༺ مهـבیه ༻",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1957568721209192450/85gY2Eo6_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Netherlands",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 5602
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1957568721209192450/85gY2Eo6_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1402159454062366722/1680347998"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Jun 08 07:04:16 +0000 2021",
+              "name": "༺ مهـבیه ༻",
+              "screen_name": "MahdiehShakoori"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDAyMTU5NDU0MDYyMzY2NzIy",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1488217326797398017"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Artist🎨",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1231,
+              "following": 1181
+            },
+            "rest_id": "1402159454062366722",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 52,
+              "tweets": 1063
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQwMjE1OTQ1NDA2MjM2NjcyMg==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Netherlands",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1957568721209192450/85gY2Eo6_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Jun 08 07:04:16 +0000 2021",
+              "name": "༺ مهـבیه ༻",
+              "screen_name": "MahdiehShakoori"
+            },
+            "id": "VXNlcjoxNDAyMTU5NDU0MDYyMzY2NzIy",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1402159454062366722",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQwMjE1OTQ1NDA2MjM2NjcyMg==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
