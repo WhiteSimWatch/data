@@ -1,0 +1,167 @@
+{
+  "snapshotId": "313270bb-8121-49ee-a20c-54d9d72a4fd5",
+  "twitterId": "1470704124090011649",
+  "scannedAt": "2026-11-11T04:28:31.815Z",
+  "fields": {
+    "username": "samanavanaki",
+    "displayName": "seyed.saman.mousavi",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1688108190032875520/7HQRenEc_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Islamic Republic of Iran",
+    "accountBasedIn": "Germany",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 59883
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1688108190032875520/7HQRenEc_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1470704124090011649/1691311344"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Dec 14 10:36:16 +0000 2021",
+              "name": "seyed.saman.mousavi",
+              "screen_name": "samanavanaki"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNDcwNzA0MTI0MDkwMDExNjQ5",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "Islamic Republic of Iran"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 165,
+                  "name": "Trade School"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1940668702967713941"
+            },
+            "profile_bio": {
+              "description": "بازار سرمایه",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 482,
+              "following": 600
+            },
+            "rest_id": "1470704124090011649",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 45,
+              "tweets": 7358
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTQ3MDcwNDEyNDA5MDAxMTY0OQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1648853445506"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1688108190032875520/7HQRenEc_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Dec 14 10:36:16 +0000 2021",
+              "name": "seyed.saman.mousavi",
+              "screen_name": "samanavanaki"
+            },
+            "id": "VXNlcjoxNDcwNzA0MTI0MDkwMDExNjQ5",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1470704124090011649",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTQ3MDcwNDEyNDA5MDAxMTY0OQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
