@@ -1,0 +1,155 @@
+{
+  "snapshotId": "ac206eed-b05c-4305-b5e4-a6ebe241e011",
+  "twitterId": "1917621286865625091",
+  "scannedAt": "2026-11-11T07:17:47.682Z",
+  "fields": {
+    "username": "SoltaniAma30398",
+    "displayName": "پسر کُرد",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1925918244679897088/KBsNbgPj_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "University Center, VA",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 7939
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1925918244679897088/KBsNbgPj_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1917621286865625091/1748009606"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Wed Apr 30 16:47:42 +0000 2025",
+              "name": "پسر کُرد",
+              "screen_name": "SoltaniAma30398"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTE3NjIxMjg2ODY1NjI1MDkx",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "University Center, VA"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "کرمانشاه سرزمین عجایب هزارگانه",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 285,
+              "following": 401
+            },
+            "rest_id": "1917621286865625091",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 141,
+              "tweets": 2033
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkxNzYyMTI4Njg2NTYyNTA5MQ==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "0"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1925918244679897088/KBsNbgPj_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Apr 30 16:47:42 +0000 2025",
+              "name": "پسر کُرد",
+              "screen_name": "SoltaniAma30398"
+            },
+            "id": "VXNlcjoxOTE3NjIxMjg2ODY1NjI1MDkx",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1917621286865625091",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkxNzYyMTI4Njg2NTYyNTA5MQ==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
