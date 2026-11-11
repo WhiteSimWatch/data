@@ -1,0 +1,179 @@
+{
+  "snapshotId": "151babfd-90b2-4e5a-b806-e8690ab4a2c5",
+  "twitterId": "1187261920014983173",
+  "scannedAt": "2026-11-11T04:35:01.855Z",
+  "fields": {
+    "username": "Eftetahii",
+    "displayName": "نیلوفر افتتاحی",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2054239638986915840/vxTrBDf6_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": true,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 5149
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2054239638986915840/vxTrBDf6_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1187261920014983173/1745186250"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Thu Oct 24 06:59:18 +0000 2019",
+              "name": "نیلوفر افتتاحی",
+              "screen_name": "Eftetahii"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxMTg3MjYxOTIwMDE0OTgzMTcz",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 955,
+                  "name": "Journalist"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "1490584592235040769"
+            },
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "Seo.ir",
+                      "expanded_url": "http://Seo.ir",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/P60znmZkIL"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 992,
+              "following": 454
+            },
+            "rest_id": "1187261920014983173",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 48,
+              "tweets": 220
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": "https://t.co/P60znmZkIL"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTE4NzI2MTkyMDAxNDk4MzE3Mw==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": true,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1644217434384"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2054239638986915840/vxTrBDf6_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Oct 24 06:59:18 +0000 2019",
+              "name": "نیلوفر افتتاحی",
+              "screen_name": "Eftetahii"
+            },
+            "id": "VXNlcjoxMTg3MjYxOTIwMDE0OTgzMTcz",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1187261920014983173",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTE4NzI2MTkyMDAxNDk4MzE3Mw==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
