@@ -1,0 +1,195 @@
+{
+  "snapshotId": "598561a2-f332-47d7-870b-a95e857217b1",
+  "twitterId": "1923634590",
+  "scannedAt": "2026-11-11T06:57:31.563Z",
+  "fields": {
+    "username": "jamejamCPI",
+    "displayName": "روزنامه جام‌جم",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2083822200419753985/xhHPZQEn_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "Tehran, I.R.IRAN",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 734
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2083822200419753985/xhHPZQEn_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1923634590/1785656914"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Tue Oct 01 14:44:43 +0000 2013",
+              "name": "روزنامه جام‌جم",
+              "screen_name": "jamejamCPI"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxOTIzNjM0NTkw",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {
+              "birthdate": {
+                "day": 15,
+                "month": 2,
+                "visibility": "Public",
+                "year_visibility": "Self"
+              }
+            },
+            "location": {
+              "location": "Tehran, I.R.IRAN"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "حساب رسمی روزنامه جام‌جم | jamejam",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "jamejamonline.ir",
+                      "expanded_url": "https://jamejamonline.ir/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/qKimhaz7RY"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "regular"
+            },
+            "relationship_counts": {
+              "followers": 63090,
+              "following": 559
+            },
+            "rest_id": "1923634590",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 37971,
+              "tweets": 76810
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1785330710822"
+              }
+            },
+            "website": {
+              "url": "https://t.co/qKimhaz7RY"
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTkyMzYzNDU5MA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1450769559996"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2083822200419753985/xhHPZQEn_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Oct 01 14:44:43 +0000 2013",
+              "name": "روزنامه جام‌جم",
+              "screen_name": "jamejamCPI"
+            },
+            "id": "VXNlcjoxOTIzNjM0NTkw",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1923634590",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTkyMzYzNDU5MA==",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1785330710822"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
