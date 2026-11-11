@@ -1,0 +1,175 @@
+{
+  "snapshotId": "8d25196b-2276-4206-a126-52116be20141",
+  "twitterId": "911477646634229760",
+  "scannedAt": "2026-11-11T05:40:02.960Z",
+  "fields": {
+    "username": "DrRahimZare",
+    "displayName": "رحیم زارع",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2094848854713589760/L7P1ynZn_normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "",
+    "accountBasedIn": "Iran",
+    "connectedVia": "United States App Store",
+    "locatedCountryAccurate": true,
+    "verified": true
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 21
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2094848854713589760/L7P1ynZn_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/911477646634229760/1721657867"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Sat Sep 23 06:29:40 +0000 2017",
+              "name": "رحیم زارع",
+              "screen_name": "DrRahimZare"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": true,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjo5MTE0Nzc2NDY2MzQyMjk3NjA=",
+            "is_blue_verified": true,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {},
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "نماینده دوره های نهم، دهم، یازدهم و‌ دوازدهم مردم فرهیخته آباده، بوانات، خرم‌بید، سرچهان و مشهد مرغاب،کمیسیون برنامه و بودجه و دانشیار دانشگاه علامه طباطبایی",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": false,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 620,
+              "following": 39
+            },
+            "rest_id": "911477646634229760",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 84,
+              "tweets": 435
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false,
+              "reason": {
+                "description": {
+                  "entities": [
+                    {
+                      "from_index": 26,
+                      "ref": {
+                        "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+                        "url_type": "ExternalUrl"
+                      },
+                      "to_index": 36
+                    }
+                  ],
+                  "text": "This account is verified. Learn more"
+                },
+                "verified_since_msec": "1788814011915"
+              }
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6OTExNDc3NjQ2NjM0MjI5NzYw",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Iran",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "location_accurate": true,
+              "source": "United States App Store",
+              "username_changes": {
+                "count": "1",
+                "last_changed_at_msec": "1506148623042"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2094848854713589760/L7P1ynZn_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Sep 23 06:29:40 +0000 2017",
+              "name": "رحیم زارع",
+              "screen_name": "DrRahimZare"
+            },
+            "id": "VXNlcjo5MTE0Nzc2NDY2MzQyMjk3NjA=",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": true,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "911477646634229760",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86OTExNDc3NjQ2NjM0MjI5NzYw",
+              "is_identity_verified": false,
+              "reason": {
+                "verified_since_msec": "1788814011915"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
