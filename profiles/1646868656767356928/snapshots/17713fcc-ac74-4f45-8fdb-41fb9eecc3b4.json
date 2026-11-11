@@ -1,0 +1,160 @@
+{
+  "snapshotId": "17713fcc-ac74-4f45-8fdb-41fb9eecc3b4",
+  "twitterId": "1646868656767356928",
+  "scannedAt": "2026-11-11T08:41:29.330Z",
+  "fields": {
+    "username": "SINA8222",
+    "displayName": "سینا",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1669568097559142400/5IKvFbv__normal.jpg",
+    "profileBannerUrl": null,
+    "bio": null,
+    "selfLocation": "تهران",
+    "accountBasedIn": "Germany",
+    "connectedVia": "Iran Android App",
+    "locatedCountryAccurate": false,
+    "verified": false
+  },
+  "rawPayload": {
+    "user_by_screen_name_raw": {
+      "data": {
+        "user": {
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 6239
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1669568097559142400/5IKvFbv__normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/1646868656767356928/1686939568"
+            },
+            "business_account": {},
+            "core": {
+              "created_at": "Fri Apr 14 13:31:13 +0000 2023",
+              "name": "سینا",
+              "screen_name": "SINA8222"
+            },
+            "creator_subscriptions_count": 0,
+            "follow_request_sent": false,
+            "grok_translated_bio_with_availability": {
+              "is_available": false
+            },
+            "has_graduated_access": true,
+            "has_hidden_subscriptions_on_profile": false,
+            "highlights_info": {
+              "can_highlight_tweets": false,
+              "highlighted_tweets": "0"
+            },
+            "id": "VXNlcjoxNjQ2ODY4NjU2NzY3MzU2OTI4",
+            "is_blue_verified": false,
+            "is_profile_translatable": false,
+            "legacy_extended_profile": {},
+            "location": {
+              "location": "تهران"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {
+              "notifications_enabled": false
+            },
+            "parody_commentary_fan_label": "None",
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1786686288235573605"
+              ]
+            },
+            "possibly_sensitive": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "دنیا خیلی ارزش نداره رفیق سخت نگیر",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_description_language": "fa",
+            "profile_image_shape": "Circle",
+            "profile_metadata": {
+              "profile_interstitial_type": ""
+            },
+            "profile_sort_enabled": true,
+            "profile_translation": {
+              "translator_type": "none"
+            },
+            "relationship_counts": {
+              "followers": 1043,
+              "following": 982
+            },
+            "rest_id": "1646868656767356928",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 44,
+              "tweets": 5987
+            },
+            "user_seed_tweet_count": 0,
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "is_identity_verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      }
+    },
+    "about_account_query_raw": {
+      "data": {
+        "user_result_by_screen_name": {
+          "id": "VXNlclJlc3VsdHM6MTY0Njg2ODY1Njc2NzM1NjkyOA==",
+          "result": {
+            "__typename": "User",
+            "about_profile": {
+              "account_based_in": "Germany",
+              "created_country_accurate": true,
+              "learn_more_url": "https://help.twitter.com/rules-and-policies/profile-labels",
+              "location_accurate": false,
+              "source": "Iran Android App",
+              "username_changes": {
+                "count": "2",
+                "last_changed_at_msec": "1683877278160"
+              }
+            },
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1669568097559142400/5IKvFbv__normal.jpg"
+            },
+            "core": {
+              "created_at": "Fri Apr 14 13:31:13 +0000 2023",
+              "name": "سینا",
+              "screen_name": "SINA8222"
+            },
+            "id": "VXNlcjoxNjQ2ODY4NjU2NzY3MzU2OTI4",
+            "identity_profile_labels_highlighted_label": {},
+            "is_blue_verified": false,
+            "privacy": {
+              "protected": false
+            },
+            "profile_image_shape": "Circle",
+            "rest_id": "1646868656767356928",
+            "verification": {
+              "verified": false
+            },
+            "verification_info": {
+              "id": "VXNlclZlcmlmaWNhdGlvbkluZm86MTY0Njg2ODY1Njc2NzM1NjkyOA==",
+              "is_identity_verified": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
